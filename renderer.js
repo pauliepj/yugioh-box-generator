@@ -8,7 +8,7 @@ let selectedSet = null;
 // Load sets from JSON
 let sets = [];
 try {
-  const setsPath = path.join(process.cwd(), "allSets.json");
+  const setsPath = path.join(__dirname, "allSets.json");
   sets = JSON.parse(fs.readFileSync(setsPath, "utf8"));
 } catch (err) {
   console.error("Failed to load allSets.json:", err);
