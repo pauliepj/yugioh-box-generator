@@ -1,0 +1,823 @@
+{
+  "setName": "Wild Survivors",
+  "rarities": {
+    "secret": [],
+    "ultra": [
+      {
+        "id": 67523044,
+        "name": "Ground Xeno",
+        "card_images": [
+          {
+            "id": 67523044,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67523044.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67523044.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67523044.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15388353,
+        "name": "Nouvelles Restaurant \"At Table\"",
+        "card_images": [
+          {
+            "id": 15388353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15388353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15388353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15388353.jpg"
+          },
+          {
+            "id": 15388353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15388353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15388353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15388353.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28168628,
+        "name": "Rock of the Vanquisher",
+        "card_images": [
+          {
+            "id": 28168628,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28168628.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168628.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168628.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54562327,
+        "name": "Stake your Soul!",
+        "card_images": [
+          {
+            "id": 54562327,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54562327.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54562327.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54562327.jpg"
+          },
+          {
+            "id": 54562327,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54562327.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54562327.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54562327.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91073013,
+        "name": "Vanquish Soul Caesar Valius",
+        "card_images": [
+          {
+            "id": 91073013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+          },
+          {
+            "id": 91073013,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29280200,
+        "name": "Vanquish Soul Dr. Mad Love",
+        "card_images": [
+          {
+            "id": 29280200,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+          },
+          {
+            "id": 29280200,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92895501,
+        "name": "Vanquish Soul Heavy Borger",
+        "card_images": [
+          {
+            "id": 92895501,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92895501.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92895501.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92895501.jpg"
+          },
+          {
+            "id": 92895501,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92895501.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92895501.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92895501.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66401502,
+        "name": "Vanquish Soul Pantera",
+        "card_images": [
+          {
+            "id": 66401502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66401502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66401502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66401502.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29302858,
+        "name": "Vanquish Soul Razen",
+        "card_images": [
+          {
+            "id": 29302858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29302858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29302858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29302858.jpg"
+          },
+          {
+            "id": 29302858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29302858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29302858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29302858.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41773061,
+        "name": "Voici la Carte (Today's Menu)",
+        "card_images": [
+          {
+            "id": 41773061,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41773061.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41773061.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41773061.jpg"
+          }
+        ]
+      }
+    ],
+    "super": [
+      {
+        "id": 88890658,
+        "name": "Baelgrill de Nouvelles",
+        "card_images": [
+          {
+            "id": 88890658,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88890658.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88890658.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88890658.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52495649,
+        "name": "Balameuniere de Nouvelles",
+        "card_images": [
+          {
+            "id": 52495649,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52495649.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52495649.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52495649.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53618197,
+        "name": "Confiras de Nouvelles",
+        "card_images": [
+          {
+            "id": 53618197,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53618197.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53618197.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53618197.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15001940,
+        "name": "Foie Glasya de Nouvelles",
+        "card_images": [
+          {
+            "id": 15001940,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15001940.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15001940.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15001940.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30243636,
+        "name": "Hungry Burger",
+        "card_images": [
+          {
+            "id": 30243636,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30243636.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30243636.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30243636.jpg"
+          },
+          {
+            "id": 30243636,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30243636.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30243636.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30243636.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89016236,
+        "name": "Poeltis de Nouvelles",
+        "card_images": [
+          {
+            "id": 89016236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89016236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89016236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89016236.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87778106,
+        "name": "Recette de Poisson (Fish Recipe)",
+        "card_images": [
+          {
+            "id": 87778106,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87778106.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87778106.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87778106.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14166715,
+        "name": "Recette de Viande (Meat Recipe)",
+        "card_images": [
+          {
+            "id": 14166715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14166715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14166715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14166715.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67745632,
+        "name": "Transcendosaurus Gigantozowler",
+        "card_images": [
+          {
+            "id": 67745632,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67745632.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67745632.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67745632.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31241087,
+        "name": "Transcendosaurus Meteorus",
+        "card_images": [
+          {
+            "id": 31241087,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31241087.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31241087.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31241087.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27345070,
+        "name": "Vanquish Soul - Continue?",
+        "card_images": [
+          {
+            "id": 27345070,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27345070.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27345070.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27345070.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91951471,
+        "name": "Vanquish Soul Dust Devil",
+        "card_images": [
+          {
+            "id": 91951471,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91951471.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91951471.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91951471.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55688914,
+        "name": "Vanquish Soul Pluton HG",
+        "card_images": [
+          {
+            "id": 55688914,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55688914.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55688914.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55688914.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53330789,
+        "name": "Vanquish Soul Trinity Burst",
+        "card_images": [
+          {
+            "id": 53330789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53330789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53330789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53330789.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5852388,
+        "name": "Xeno Meteorus",
+        "card_images": [
+          {
+            "id": 5852388,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5852388.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5852388.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5852388.jpg"
+          },
+          {
+            "id": 5852388,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5852388.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5852388.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5852388.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 1475311,
+        "name": "Allure of Darkness",
+        "card_images": [
+          {
+            "id": 1475311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1475311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1475311.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98022050,
+        "name": "Animadorned Archosaur",
+        "card_images": [
+          {
+            "id": 98022050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+          },
+          {
+            "id": 98022050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36042004,
+        "name": "Babycerasaurus",
+        "card_images": [
+          {
+            "id": 36042004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36042004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36042004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36042004.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26223582,
+        "name": "Buerillabaisse de Nouvelles",
+        "card_images": [
+          {
+            "id": 26223582,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26223582.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26223582.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26223582.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87955518,
+        "name": "Chef's Special Recipe",
+        "card_images": [
+          {
+            "id": 87955518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87955518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87955518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87955518.jpg"
+          },
+          {
+            "id": 87955518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87955518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87955518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87955518.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35027493,
+        "name": "Deck Devastation Virus",
+        "card_images": [
+          {
+            "id": 35027493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35027493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35027493.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38179121,
+        "name": "Double Evolution Pill",
+        "card_images": [
+          {
+            "id": 38179121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38179121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38179121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38179121.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "card_images": [
+          {
+            "id": 98045062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98045062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98045062.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54974237,
+        "name": "Eradicator Epidemic Virus",
+        "card_images": [
+          {
+            "id": 54974237,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54974237.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54974237.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18511599,
+        "name": "Evolzar Solda",
+        "card_images": [
+          {
+            "id": 18511599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18511599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18511599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18511599.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57103969,
+        "name": "Fire Formation - Tenki",
+        "card_images": [
+          {
+            "id": 57103969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+          },
+          {
+            "id": 57103969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47325505,
+        "name": "Fossil Dig",
+        "card_images": [
+          {
+            "id": 47325505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47325505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47325505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47325505.jpg"
+          },
+          {
+            "id": 47325505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47325505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47325505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47325505.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6631034,
+        "name": "Frostosaurus",
+        "card_images": [
+          {
+            "id": 6631034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6631034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6631034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6631034.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80280944,
+        "name": "Giant Rex",
+        "card_images": [
+          {
+            "id": 80280944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80280944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80280944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80280944.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80811661,
+        "name": "Hamburger Recipe",
+        "card_images": [
+          {
+            "id": 80811661,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80811661.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80811661.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80811661.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18474999,
+        "name": "Impcantation Bookstone",
+        "card_images": [
+          {
+            "id": 18474999,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18474999.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18474999.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18474999.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53303460,
+        "name": "Impcantation Candoll",
+        "card_images": [
+          {
+            "id": 53303460,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53303460.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53303460.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53303460.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65877963,
+        "name": "Impcantation Chalislime",
+        "card_images": [
+          {
+            "id": 65877963,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65877963.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65877963.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65877963.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82085295,
+        "name": "Impcantation Penciplume",
+        "card_images": [
+          {
+            "id": 82085295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82085295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82085295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82085295.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80701178,
+        "name": "Impcantation Talismandra",
+        "card_images": [
+          {
+            "id": 80701178,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80701178.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80701178.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80701178.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17228908,
+        "name": "Lost World",
+        "card_images": [
+          {
+            "id": 17228908,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17228908.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17228908.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17228908.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95492061,
+        "name": "Manju of the Ten Thousand Hands",
+        "card_images": [
+          {
+            "id": 95492061,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95492061.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95492061.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95492061.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38572779,
+        "name": "Miscellaneousaurus",
+        "card_images": [
+          {
+            "id": 38572779,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38572779.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38572779.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38572779.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82946847,
+        "name": "Petiteranodon",
+        "card_images": [
+          {
+            "id": 82946847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82946847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82946847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82946847.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13048472,
+        "name": "Pre-Preparation of Rites",
+        "card_images": [
+          {
+            "id": 13048472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13048472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13048472.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96729612,
+        "name": "Preparation of Rites",
+        "card_images": [
+          {
+            "id": 96729612,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96729612.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96729612.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96729612.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40551410,
+        "name": "Recette de Personnel (Staff Recipe)",
+        "card_images": [
+          {
+            "id": 40551410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40551410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40551410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40551410.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44335251,
+        "name": "Souleating Oviraptor",
+        "card_images": [
+          {
+            "id": 44335251,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44335251.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44335251.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44335251.jpg"
+          },
+          {
+            "id": 44335251,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44335251.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44335251.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44335251.jpg"
+          }
+        ]
+      },
+      {
+        "id": 93918159,
+        "name": "Supersoaring",
+        "card_images": [
+          {
+            "id": 93918159,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93918159.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93918159.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93918159.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24207889,
+        "name": "There Can Be Only One",
+        "card_images": [
+          {
+            "id": 24207889,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24207889.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24207889.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24207889.jpg"
+          },
+          {
+            "id": 24207889,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24207889.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24207889.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24207889.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30128445,
+        "name": "Transcendosaurus Drillygnathus",
+        "card_images": [
+          {
+            "id": 30128445,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30128445.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30128445.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30128445.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94130731,
+        "name": "Transcendosaurus Glaciasaurus",
+        "card_images": [
+          {
+            "id": 94130731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94130731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94130731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94130731.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30539496,
+        "name": "True King Lithosagym, the Disaster",
+        "card_images": [
+          {
+            "id": 30539496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30539496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30539496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30539496.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18940556,
+        "name": "Ultimate Conductor Tyranno",
+        "card_images": [
+          {
+            "id": 18940556,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18940556.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18940556.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18940556.jpg"
+          },
+          {
+            "id": 18940556,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18940556.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18940556.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18940556.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80738884,
+        "name": "Vanquish Soul Calamity Caesar",
+        "card_images": [
+          {
+            "id": 80738884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80738884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80738884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80738884.jpg"
+          }
+        ]
+      }
+    ],
+    "common": []
+  }
+}

@@ -1,0 +1,798 @@
+[
+  {
+    "id": 38033121,
+    "name": "Dark Magician Girl",
+    "typeline": [
+      "Spellcaster",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+    "race": "Spellcaster",
+    "atk": 2000,
+    "def": 1700,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Dark Magician",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-magician-girl-3219",
+    "card_sets": [
+      {
+        "set_name": "2-Player Starter Set",
+        "set_code": "STAX-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "2022 Tin of the Pharaoh's Gods",
+        "set_code": "MP22-EN268",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN009",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN053",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Collectible Tins 2005",
+        "set_code": "CT2-EN004",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "42.27"
+      },
+      {
+        "set_name": "Duel Terminal 6b",
+        "set_code": "DT06-EN064",
+        "set_rarity": "Duel Terminal Super Parallel Rare",
+        "set_rarity_code": "(DSPR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 18 participation cards",
+        "set_code": "DL18-EN003",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "197.47"
+      },
+      {
+        "set_name": "Duelist Pack: Battle City",
+        "set_code": "DPBC-EN009",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist Pack: Yugi",
+        "set_code": "DPYG-EN008",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "13.47"
+      },
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-EN001",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "31.34"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN177",
+        "set_rarity": "Ghost Rare",
+        "set_rarity_code": "(GR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GTP2-EN177",
+        "set_rarity": "Ghost Rare",
+        "set_rarity_code": "(GR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN022",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Decks II",
+        "set_code": "LDK2-ENY11",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.6"
+      },
+      {
+        "set_name": "Legendary Dragon Decks",
+        "set_code": "LEDD-ENA02",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.94"
+      },
+      {
+        "set_name": "Legendary Duelists: Magical Hero",
+        "set_code": "LED6-EN000",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Duelists: Season 3",
+        "set_code": "LDS3-EN082",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magician's Force",
+        "set_code": "MFC-000",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "530.15"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN107",
+        "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD-EN033",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "37.83"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN123",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN123",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN107",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN107",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Rise of Destiny: Special Edition",
+        "set_code": "RDS-ENSE2",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "29.9"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Destiny Masters",
+        "set_code": "SS01-ENA04",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.46"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 1",
+        "set_code": "STP1-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENA05",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENA05",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Yugi Reloaded",
+        "set_code": "YSYR-EN011",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.81"
+      },
+      {
+        "set_name": "Structure Deck: Yugi Muto",
+        "set_code": "SDMY-EN011",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Lost Art Promotion 2020 G",
+        "set_code": "LART-EN019",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Lost Art Promotion 2021 E",
+        "set_code": "LART-EN035",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+        "set_code": "MVP1-EN056",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "9.38"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+        "set_code": "MVP1-ENS56",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "19.89"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+        "set_code": "MVP1-ENG56",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "10.96"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENA04",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.48"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENB03",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENC10",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.82"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 38033121,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033121.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033121.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033121.jpg"
+      },
+      {
+        "id": 38033122,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033122.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033122.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033122.jpg"
+      },
+      {
+        "id": 38033123,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033123.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033123.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033123.jpg"
+      },
+      {
+        "id": 38033124,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033124.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033124.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033124.jpg"
+      },
+      {
+        "id": 38033125,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033125.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033125.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033125.jpg"
+      },
+      {
+        "id": 38033126,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38033126.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033126.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033126.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.14",
+        "ebay_price": "27.99",
+        "amazon_price": "2.14",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 300302021,
+    "name": "Power Up!",
+    "type": "Skill Card",
+    "humanReadableCardType": "Skill - Yami Yugi",
+    "frameType": "skill",
+    "desc": "Activate this Skill during your Main Phase.\r\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
+    "race": "Yami Yugi",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/power-up-12413",
+    "card_sets": [
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-ENS01",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "3.85"
+      },
+      {
+        "set_name": "Speed Duel Demo Deck",
+        "set_code": "DEM5-ENS01",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "5.55"
+      },
+      {
+        "set_name": "Speed Duel Demo Deck 2020",
+        "set_code": "DEM6-ENS01",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "25.8"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 300302021,
+        "image_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.28",
+        "tcgplayer_price": "0.67",
+        "ebay_price": "99.99",
+        "amazon_price": "1.04",
+        "coolstuffinc_price": "0.00"
+      }
+    ]
+  },
+  {
+    "id": 91939608,
+    "name": "Rogue Doll",
+    "typeline": [
+      "Spellcaster",
+      "Normal"
+    ],
+    "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+    "race": "Spellcaster",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rogue-doll-7666",
+    "card_sets": [
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-EN002",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.72"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Destiny Masters",
+        "set_code": "SS01-ENA03",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.1"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Destiny Masters",
+        "set_code": "SS01-ENC01",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.1"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba",
+        "set_code": "SDK-008",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.35"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba",
+        "set_code": "SDK-E007",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.94"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba Evolution",
+        "set_code": "SKE-004",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.13"
+      },
+      {
+        "set_name": "Starter Deck: Pegasus",
+        "set_code": "SDP-005",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.09"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 91939608,
+        "image_url": "https://images.ygoprodeck.com/images/cards/91939608.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91939608.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91939608.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.12",
+        "ebay_price": "1.95",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 33904024,
+    "name": "Shard of Greed",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
+    "race": "Continuous",
+    "archetype": "Greed",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shard-of-greed-2878",
+    "card_sets": [
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN165",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN165",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-EN003",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.91"
+      },
+      {
+        "set_name": "Photon Shockwave",
+        "set_code": "PHSW-EN057",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Destiny Masters",
+        "set_code": "SS01-ENV01",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.95"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 3",
+        "set_code": "STP3-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba Reloaded",
+        "set_code": "YSKR-EN041",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.14"
+      },
+      {
+        "set_name": "Starter Deck: Yugi Reloaded",
+        "set_code": "YSYR-EN037",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.22"
+      },
+      {
+        "set_name": "The Pot Collection",
+        "set_code": "TBC1-EN014",
+        "set_rarity": "Ultra Parallel Rare",
+        "set_rarity_code": "(UPR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 33904024,
+        "image_url": "https://images.ygoprodeck.com/images/cards/33904024.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33904024.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33904024.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.26",
+        "ebay_price": "2.99",
+        "amazon_price": "3.60",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 126218,
+    "name": "Skull Dice",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skull-dice-12",
+    "card_sets": [
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-EN004",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "9.52"
+      },
+      {
+        "set_name": "Gold Series 4: Pyramids Edition",
+        "set_code": "GLD4-EN046",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN074",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+        "set_code": "SS02-ENB17",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.61"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENB18",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! The Eternal Duelist Soul promotional cards",
+        "set_code": "EDS-003",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "8.67"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! The Sacred Cards promotional cards",
+        "set_code": "TSC-E003",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "27.57"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 126218,
+        "image_url": "https://images.ygoprodeck.com/images/cards/126218.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/126218.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/126218.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.29",
+        "ebay_price": "2.99",
+        "amazon_price": "4.20",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 59744639,
+    "name": "Windstorm of Etaqua",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Change the battle positions of all face-up monsters your opponent controls.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/windstorm-of-etaqua-5074",
+    "card_sets": [
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN177",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN177",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN196",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN196",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN089",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN089",
+        "set_rarity": "Starfoil Rare",
+        "set_rarity_code": "(SFR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dragunity Legion Structure Deck",
+        "set_code": "SDDL-EN031",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Event Pack Speed Duel",
+        "set_code": "EVSD-EN005",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.94"
+      },
+      {
+        "set_name": "Shadow of Infinity: Special Edition",
+        "set_code": "SOI-ENSE3",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "2.38"
+      },
+      {
+        "set_name": "Shadow of Infinity: Special Edition",
+        "set_code": "SOI-ENSE3",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "5.02"
+      },
+      {
+        "set_name": "Speed Duel Demo Deck",
+        "set_code": "DEM5-EN010",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.76"
+      },
+      {
+        "set_name": "Speed Duel Demo Deck 2020",
+        "set_code": "DEM6-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENA20",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+        "set_code": "SS02-ENC16",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.01"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 3",
+        "set_code": "STP3-EN011",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards",
+        "set_code": "PCY-001",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "4.74"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards",
+        "set_code": "PCY-E001",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "10.87"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 59744639,
+        "image_url": "https://images.ygoprodeck.com/images/cards/59744639.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59744639.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59744639.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "1.70",
+        "amazon_price": "1.18",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  }
+]

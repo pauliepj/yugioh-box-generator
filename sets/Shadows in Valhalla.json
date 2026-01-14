@@ -1,0 +1,756 @@
+{
+  "setName": "Shadows in Valhalla",
+  "rarities": {
+    "secret": [
+      {
+        "id": 86120752,
+        "name": "Aleister the Invoker",
+        "card_images": [
+          {
+            "id": 86120752,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86120752.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86120752.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86120752.jpg"
+          },
+          {
+            "id": 86120751,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86120751.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86120751.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86120751.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97973962,
+        "name": "Aleister the Invoker of Madness",
+        "card_images": [
+          {
+            "id": 97973962,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97973962.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97973962.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97973962.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21249921,
+        "name": "Dragunity Knight - Vajrayana",
+        "card_images": [
+          {
+            "id": 21249921,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21249921.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21249921.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21249921.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94977269,
+        "name": "El Shaddoll Winda",
+        "card_images": [
+          {
+            "id": 94977269,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94977269.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94977269.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94977269.jpg"
+          },
+          {
+            "id": 94977270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94977270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94977270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94977270.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49033797,
+        "name": "Forbidden Trapezohedron",
+        "card_images": [
+          {
+            "id": 49033797,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49033797.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49033797.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49033797.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40089744,
+        "name": "Gateway to Chaos",
+        "card_images": [
+          {
+            "id": 40089744,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40089744.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40089744.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40089744.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3113836,
+        "name": "Gem-Knight Seraphinite",
+        "card_images": [
+          {
+            "id": 3113836,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3113836.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3113836.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3113836.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26232916,
+        "name": "Hidden Village of Ninjitsu Arts",
+        "card_images": [
+          {
+            "id": 26232916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26232916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26232916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26232916.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92182447,
+        "name": "Mischief of the Time Goddess",
+        "card_images": [
+          {
+            "id": 92182447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92182447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92182447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92182447.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37354507,
+        "name": "Ninja Grandmaster Saizo",
+        "card_images": [
+          {
+            "id": 37354507,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37354507.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37354507.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37354507.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63626024,
+        "name": "Ninjitsu Art of Mirage-Transformation",
+        "card_images": [
+          {
+            "id": 63626024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63626024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63626024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63626024.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12948099,
+        "name": "Old Entity Cthugua",
+        "card_images": [
+          {
+            "id": 12948099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12948099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12948099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12948099.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34945480,
+        "name": "Outer Entity Azathot",
+        "card_images": [
+          {
+            "id": 34945480,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34945480.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34945480.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34945480.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8809344,
+        "name": "Outer Entity Nyarla",
+        "card_images": [
+          {
+            "id": 8809344,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8809344.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8809344.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8809344.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65687442,
+        "name": "Ride of the Valkyries",
+        "card_images": [
+          {
+            "id": 65687442,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65687442.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65687442.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65687442.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44394295,
+        "name": "Shaddoll Fusion",
+        "card_images": [
+          {
+            "id": 44394295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44394295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44394295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44394295.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43898403,
+        "name": "Twin Twisters",
+        "card_images": [
+          {
+            "id": 43898403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43898403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43898403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43898403.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2204038,
+        "name": "Valkyrie Brunhilde",
+        "card_images": [
+          {
+            "id": 2204038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2204038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2204038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2204038.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43722862,
+        "name": "Windwitch - Ice Bell",
+        "card_images": [
+          {
+            "id": 43722862,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43722862.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43722862.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43722862.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90247311,
+        "name": "Yellow Dragon Ninja",
+        "card_images": [
+          {
+            "id": 90247311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90247311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90247311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90247311.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra": [],
+    "super": [
+      {
+        "id": 12644061,
+        "name": "Advanced Dark",
+        "card_images": [
+          {
+            "id": 12644061,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12644061.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12644061.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12644061.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28776350,
+        "name": "Akashic Magician",
+        "card_images": [
+          {
+            "id": 28776350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28776350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28776350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28776350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16272453,
+        "name": "Armor Ninjitsu Art of Alchemy",
+        "card_images": [
+          {
+            "id": 16272453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16272453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16272453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16272453.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2148918,
+        "name": "Armor Ninjitsu Art of Rust Mist",
+        "card_images": [
+          {
+            "id": 2148918,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2148918.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2148918.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2148918.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14558127,
+        "name": "Ash Blossom & Joyous Spring",
+        "card_images": [
+          {
+            "id": 14558127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14558127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14558127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14558127.jpg"
+          },
+          {
+            "id": 14558128,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14558128.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14558128.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14558128.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80033124,
+        "name": "Cyberdark Impact!",
+        "card_images": [
+          {
+            "id": 80033124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80033124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80033124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80033124.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17032740,
+        "name": "Elemental HERO Chaos Neos",
+        "card_images": [
+          {
+            "id": 17032740,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17032740.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17032740.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17032740.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78512663,
+        "name": "Elemental HERO Magma Neos",
+        "card_images": [
+          {
+            "id": 78512663,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78512663.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78512663.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78512663.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89943724,
+        "name": "Elemental HERO Neos",
+        "card_images": [
+          {
+            "id": 89943724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89943724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89943724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89943724.jpg"
+          },
+          {
+            "id": 89943723,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89943723.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89943723.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89943723.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39299733,
+        "name": "Fortune Chariot",
+        "card_images": [
+          {
+            "id": 39299733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39299733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39299733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39299733.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38576155,
+        "name": "Goddess Skuld's Oracle",
+        "card_images": [
+          {
+            "id": 38576155,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38576155.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38576155.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38576155.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91969909,
+        "name": "Goddess Urd's Verdict",
+        "card_images": [
+          {
+            "id": 91969909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91969909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91969909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91969909.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64961254,
+        "name": "Goddess Verdande's Guidance",
+        "card_images": [
+          {
+            "id": 64961254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64961254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64961254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64961254.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74029853,
+        "name": "Golden Bamboo Sword",
+        "card_images": [
+          {
+            "id": 74029853,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74029853.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74029853.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74029853.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42110604,
+        "name": "Hi-Speedroid Chanbara",
+        "card_images": [
+          {
+            "id": 42110604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42110604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42110604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42110604.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74063034,
+        "name": "Invocation",
+        "card_images": [
+          {
+            "id": 74063034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74063034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74063034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74063034.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75286621,
+        "name": "Invoked Mechaba",
+        "card_images": [
+          {
+            "id": 75286621,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75286621.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75286621.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75286621.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1073952,
+        "name": "Magic Planter",
+        "card_images": [
+          {
+            "id": 1073952,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1073952.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1073952.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1073952.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47679935,
+        "name": "Magical Meltdown",
+        "card_images": [
+          {
+            "id": 47679935,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47679935.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47679935.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47679935.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37781520,
+        "name": "Mermail Abyssleed",
+        "card_images": [
+          {
+            "id": 37781520,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37781520.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37781520.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37781520.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21954587,
+        "name": "Mermail Abyssmegalo",
+        "card_images": [
+          {
+            "id": 21954587,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21954587.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21954587.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21954587.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22446869,
+        "name": "Mermail Abyssteus",
+        "card_images": [
+          {
+            "id": 22446869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22446869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22446869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22446869.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29587993,
+        "name": "Mist Valley Apex Avian",
+        "card_images": [
+          {
+            "id": 29587993,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29587993.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29587993.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29587993.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89621922,
+        "name": "Neo-Spacian Flare Scarab",
+        "card_images": [
+          {
+            "id": 89621922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89621922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89621922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89621922.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17732278,
+        "name": "Neo-Spacian Glow Moss",
+        "card_images": [
+          {
+            "id": 17732278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17732278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17732278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17732278.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95027497,
+        "name": "Ninja Grandmaster Hanzo",
+        "card_images": [
+          {
+            "id": 95027497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95027497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95027497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95027497.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90200789,
+        "name": "Ninjitsu Art of Super-Transformation",
+        "card_images": [
+          {
+            "id": 90200789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90200789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90200789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90200789.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70861343,
+        "name": "Ninjitsu Art of Transformation",
+        "card_images": [
+          {
+            "id": 70861343,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70861343.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70861343.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70861343.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47457347,
+        "name": "Omega Summon",
+        "card_images": [
+          {
+            "id": 47457347,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47457347.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47457347.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47457347.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58165765,
+        "name": "Red Dragon Ninja",
+        "card_images": [
+          {
+            "id": 58165765,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58165765.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58165765.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58165765.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41006930,
+        "name": "Strike Ninja",
+        "card_images": [
+          {
+            "id": 41006930,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41006930.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41006930.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41006930.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79441381,
+        "name": "Twilight Ninja Jogen",
+        "card_images": [
+          {
+            "id": 79441381,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79441381.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79441381.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79441381.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58911105,
+        "name": "Upstart Golden Ninja",
+        "card_images": [
+          {
+            "id": 58911105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58911105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58911105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58911105.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38844957,
+        "name": "Urgent Ritual Art",
+        "card_images": [
+          {
+            "id": 38844957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38844957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38844957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38844957.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3026686,
+        "name": "Valkyrie Dritte",
+        "card_images": [
+          {
+            "id": 3026686,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3026686.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3026686.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3026686.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66809920,
+        "name": "Valkyrie Erste",
+        "card_images": [
+          {
+            "id": 66809920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66809920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66809920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66809920.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30411385,
+        "name": "Valkyrie Zweite",
+        "card_images": [
+          {
+            "id": 30411385,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30411385.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30411385.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30411385.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46759931,
+        "name": "Vision HERO Trinity",
+        "card_images": [
+          {
+            "id": 46759931,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46759931.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46759931.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46759931.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99212922,
+        "name": "White Dragon Ninja",
+        "card_images": [
+          {
+            "id": 99212922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99212922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99212922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99212922.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64749612,
+        "name": "Yellow Ninja",
+        "card_images": [
+          {
+            "id": 64749612,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64749612.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64749612.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64749612.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [],
+    "common": []
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "setName": "Ancient Guardians",
+  "rarities": {
+    "secret": [],
+    "ultra": [
+      {
+        "id": 61160289,
+        "name": "Amunessia, the Ogdoadic Queen",
+        "card_images": [
+          {
+            "id": 61160289,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61160289.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61160289.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61160289.jpg"
+          },
+          {
+            "id": 61160289,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61160289.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61160289.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61160289.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34172284,
+        "name": "Aron, the Ogdoadic King",
+        "card_images": [
+          {
+            "id": 34172284,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34172284.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34172284.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34172284.jpg"
+          },
+          {
+            "id": 34172284,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34172284.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34172284.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34172284.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80776622,
+        "name": "DoSolfachord Coolia",
+        "card_images": [
+          {
+            "id": 80776622,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80776622.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80776622.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80776622.jpg"
+          },
+          {
+            "id": 80776622,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80776622.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80776622.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80776622.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54100561,
+        "name": "FaSolfachord Fancia",
+        "card_images": [
+          {
+            "id": 54100561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54100561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54100561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54100561.jpg"
+          },
+          {
+            "id": 54100561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54100561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54100561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54100561.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97565997,
+        "name": "Ogdoabyss, the Ogdoadic Overlord",
+        "card_images": [
+          {
+            "id": 97565997,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97565997.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97565997.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97565997.jpg"
+          },
+          {
+            "id": 97565997,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97565997.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97565997.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97565997.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54387923,
+        "name": "TiSolfachord Beautia",
+        "card_images": [
+          {
+            "id": 54387923,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54387923.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54387923.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54387923.jpg"
+          },
+          {
+            "id": 54387923,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54387923.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54387923.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54387923.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89264428,
+        "name": "Ursarctic Big Dipper",
+        "card_images": [
+          {
+            "id": 89264428,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89264428.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89264428.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89264428.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80086070,
+        "name": "Ursarctic Grand Chariot",
+        "card_images": [
+          {
+            "id": 80086070,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80086070.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80086070.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80086070.jpg"
+          },
+          {
+            "id": 80086070,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80086070.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80086070.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80086070.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27693363,
+        "name": "Ursarctic Polari",
+        "card_images": [
+          {
+            "id": 27693363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27693363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27693363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27693363.jpg"
+          },
+          {
+            "id": 27693363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27693363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27693363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27693363.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53087962,
+        "name": "Ursarctic Septentrion",
+        "card_images": [
+          {
+            "id": 53087962,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53087962.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53087962.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53087962.jpg"
+          },
+          {
+            "id": 53087962,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53087962.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53087962.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53087962.jpg"
+          }
+        ]
+      }
+    ],
+    "super": [
+      {
+        "id": 98787535,
+        "name": "Aleirtt, the Ogdoadic Dark",
+        "card_images": [
+          {
+            "id": 98787535,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98787535.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98787535.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98787535.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55226153,
+        "name": "DoSolfachord Cutia",
+        "card_images": [
+          {
+            "id": 55226153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55226153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55226153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55226153.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62383431,
+        "name": "Keurse, the Ogdoadic Light",
+        "card_images": [
+          {
+            "id": 62383431,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62383431.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62383431.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62383431.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27993919,
+        "name": "LaSolfachord Angelia",
+        "card_images": [
+          {
+            "id": 27993919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27993919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27993919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27993919.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62405028,
+        "name": "Nauya, the Ogdoadic Remnant",
+        "card_images": [
+          {
+            "id": 62405028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62405028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62405028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62405028.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36010310,
+        "name": "Nunu, the Ogdoadic Remnant",
+        "card_images": [
+          {
+            "id": 36010310,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36010310.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36010310.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36010310.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24050692,
+        "name": "Ogdoadic Water Lily",
+        "card_images": [
+          {
+            "id": 24050692,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24050692.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24050692.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24050692.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27870337,
+        "name": "Solfachord Elegance",
+        "card_images": [
+          {
+            "id": 27870337,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27870337.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27870337.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27870337.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29650040,
+        "name": "Solfachord Harmonia",
+        "card_images": [
+          {
+            "id": 29650040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29650040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29650040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29650040.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91598270,
+        "name": "SolSolfachord Gracia",
+        "card_images": [
+          {
+            "id": 91598270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91598270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91598270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91598270.jpg"
+          },
+          {
+            "id": 91598270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91598270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91598270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91598270.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16471775,
+        "name": "Ursarctic Departure",
+        "card_images": [
+          {
+            "id": 16471775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16471775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16471775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16471775.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81321206,
+        "name": "Ursarctic Mikbilis",
+        "card_images": [
+          {
+            "id": 81321206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81321206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81321206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81321206.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29537493,
+        "name": "Ursarctic Mikpolar",
+        "card_images": [
+          {
+            "id": 29537493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29537493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29537493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29537493.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55936191,
+        "name": "Ursarctic Miktanus",
+        "card_images": [
+          {
+            "id": 55936191,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55936191.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55936191.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55936191.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53865474,
+        "name": "Ursarctic Slider",
+        "card_images": [
+          {
+            "id": 53865474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53865474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53865474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53865474.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 42502956,
+        "name": "Ayers Rock Sunrise",
+        "card_images": [
+          {
+            "id": 42502956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42502956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42502956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42502956.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44584775,
+        "name": "Damage = Reptile",
+        "card_images": [
+          {
+            "id": 44584775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44584775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44584775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44584775.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22638495,
+        "name": "Dinoster Power, the Mighty Dracoslayer",
+        "card_images": [
+          {
+            "id": 22638495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22638495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22638495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22638495.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82385847,
+        "name": "Dinowrestler Pankratops",
+        "card_images": [
+          {
+            "id": 82385847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82385847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82385847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82385847.jpg"
+          },
+          {
+            "id": 82385847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82385847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82385847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82385847.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8400623,
+        "name": "Evil Dragon Ananta",
+        "card_images": [
+          {
+            "id": 8400623,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8400623.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8400623.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8400623.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9400127,
+        "name": "Flogos, the Ogdoadic Boundless",
+        "card_images": [
+          {
+            "id": 9400127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9400127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9400127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9400127.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76751255,
+        "name": "Igknight Reload",
+        "card_images": [
+          {
+            "id": 76751255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76751255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76751255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76751255.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18239909,
+        "name": "Ignister Prominence, the Blasting Dracoslayer",
+        "card_images": [
+          {
+            "id": 18239909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18239909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18239909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18239909.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11398059,
+        "name": "King of the Feral Imps",
+        "card_images": [
+          {
+            "id": 11398059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11398059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11398059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11398059.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55501446,
+        "name": "Lightserpent",
+        "card_images": [
+          {
+            "id": 55501446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55501446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55501446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55501446.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92746535,
+        "name": "Luster Pendulum, the Dracoslayer",
+        "card_images": [
+          {
+            "id": 92746535,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92746535.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92746535.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92746535.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88722973,
+        "name": "Majester Paladin, the Ascending Dracoslayer",
+        "card_images": [
+          {
+            "id": 88722973,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88722973.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88722973.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88722973.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28115467,
+        "name": "MiSolfachord Eliteia",
+        "card_images": [
+          {
+            "id": 28115467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28115467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28115467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28115467.jpg"
+          }
+        ]
+      },
+      {
+        "id": 93217231,
+        "name": "Offering to the Snake Deity",
+        "card_images": [
+          {
+            "id": 93217231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93217231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93217231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93217231.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23837054,
+        "name": "Ogdoadic Calling",
+        "card_images": [
+          {
+            "id": 23837054,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23837054.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23837054.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23837054.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96433300,
+        "name": "Ogdoadic Hollow",
+        "card_images": [
+          {
+            "id": 96433300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96433300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96433300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96433300.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60448701,
+        "name": "Ogdoadic Origin",
+        "card_images": [
+          {
+            "id": 60448701,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60448701.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60448701.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60448701.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96598015,
+        "name": "Pot of Riches",
+        "card_images": [
+          {
+            "id": 96598015,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96598015.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96598015.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96598015.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92610868,
+        "name": "ReSolfachord Dreamia",
+        "card_images": [
+          {
+            "id": 92610868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92610868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92610868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92610868.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16067089,
+        "name": "Rise of the Snake Deity",
+        "card_images": [
+          {
+            "id": 16067089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16067089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16067089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16067089.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67750322,
+        "name": "Skull Meister",
+        "card_images": [
+          {
+            "id": 67750322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67750322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67750322.jpg"
+          },
+          {
+            "id": 67750322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67750322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67750322.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17189677,
+        "name": "Snake Rain",
+        "card_images": [
+          {
+            "id": 17189677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17189677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17189677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17189677.jpg"
+          },
+          {
+            "id": 17189677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17189677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17189677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17189677.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92043888,
+        "name": "Solfachord Formal",
+        "card_images": [
+          {
+            "id": 92043888,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92043888.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92043888.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92043888.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56058749,
+        "name": "Solfachord Musica",
+        "card_images": [
+          {
+            "id": 56058749,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56058749.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56058749.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56058749.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53265336,
+        "name": "Solfachord Scale",
+        "card_images": [
+          {
+            "id": 53265336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53265336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53265336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53265336.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38120068,
+        "name": "Trade-In",
+        "card_images": [
+          {
+            "id": 38120068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38120068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38120068.jpg"
+          },
+          {
+            "id": 38120068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38120068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38120068.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81108658,
+        "name": "Ursarctic Megabilis",
+        "card_images": [
+          {
+            "id": 81108658,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81108658.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81108658.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81108658.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28715905,
+        "name": "Ursarctic Megapolar",
+        "card_images": [
+          {
+            "id": 28715905,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28715905.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28715905.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28715905.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54700519,
+        "name": "Ursarctic Megatanus",
+        "card_images": [
+          {
+            "id": 54700519,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54700519.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54700519.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54700519.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15758127,
+        "name": "Ursarctic Quint Charge",
+        "card_images": [
+          {
+            "id": 15758127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15758127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15758127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15758127.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8062132,
+        "name": "Vennominaga the Deity of Poisonous Snakes",
+        "card_images": [
+          {
+            "id": 8062132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8062132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8062132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8062132.jpg"
+          },
+          {
+            "id": 8062132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8062132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8062132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8062132.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72677437,
+        "name": "Vennominon the King of Poisonous Snakes",
+        "card_images": [
+          {
+            "id": 72677437,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72677437.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72677437.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72677437.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64973456,
+        "name": "Viper's Rebirth",
+        "card_images": [
+          {
+            "id": 64973456,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64973456.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64973456.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64973456.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31222701,
+        "name": "Wavering Eyes",
+        "card_images": [
+          {
+            "id": 31222701,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31222701.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31222701.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31222701.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35998832,
+        "name": "Zohah, the Ogdoadic Boundless",
+        "card_images": [
+          {
+            "id": 35998832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35998832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35998832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35998832.jpg"
+          }
+        ]
+      }
+    ],
+    "common": []
+  }
+}

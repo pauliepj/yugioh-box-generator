@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Yu-Gi-Oh! Box Generator</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+
+      .set-button {
+        width: 100%;
+        padding: 8px 12px;
+        font-size: 14px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+      }
+
+      #sets-container {
+        max-height: 400px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 20px;
+      }
+
+      #generate {
+        padding: 12px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        margin-top: 10px;
+      }
+      #full-set-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        overflow: hidden;
+      }
+
+      .card-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6px 12px;
+        font-size: 13px;
+        background-color: #ffffff;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .card-item:nth-child(even) {
+        background-color: #f6f6f6;
+      }
+
+      .card-item:last-child {
+        border-bottom: none;
+      }
+
+      .card-name {
+        font-weight: 500;
+      }
+
+      .card-rarity {
+        font-size: 12px;
+        color: #666;
+        text-transform: capitalize;
+      }
+
+      .card-item img {
+        width: 100px;
+        height: 140px;
+        object-fit: cover;
+      }
+
+      #hide-cardlist {
+        display: none;
+        margin: 10px 0;
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+
+      #selected-set {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+
+      #selected-set img {
+        margin-top: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Yu-Gi-Oh Box Generator</h1>
+
+    <div style="margin-bottom: 10px">
+      <button id="toggle-sort">Sort: Oldest → Newest</button>
+    </div>
+
+    <div id="sets-container"></div>
+
+    <div id="selected-set">
+      <span>No set selected</span>
+      <button id="change-set" style="display: none">Change Set</button>
+    </div>
+
+    <button id="generate" disabled>Generate Box</button>
+    <p id="status"></p>
+
+    <div id="full-set-wrapper">
+      <button id="hide-cardlist">Hide Cardlist</button>
+      <div id="full-set-container"></div>
+    </div>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

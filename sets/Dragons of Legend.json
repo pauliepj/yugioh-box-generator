@@ -1,0 +1,630 @@
+{
+  "setName": "Dragons of Legend",
+  "rarities": {
+    "secret": [
+      {
+        "id": 75380687,
+        "name": "Amulet Dragon",
+        "card_images": [
+          {
+            "id": 75380687,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75380687.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75380687.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75380687.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15381252,
+        "name": "Berserker Soul",
+        "card_images": [
+          {
+            "id": 15381252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15381252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15381252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15381252.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72930878,
+        "name": "Black Sonic",
+        "card_images": [
+          {
+            "id": 72930878,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72930878.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72930878.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72930878.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43892409,
+        "name": "Dark Magician Girl the Dragon Knight",
+        "card_images": [
+          {
+            "id": 43892409,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43892409.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43892409.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43892409.jpg"
+          },
+          {
+            "id": 43892408,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43892408.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43892408.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43892408.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79997591,
+        "name": "Doble Passe",
+        "card_images": [
+          {
+            "id": 79997591,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79997591.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79997591.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79997591.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7080743,
+        "name": "Express Train Trolley Olley",
+        "card_images": [
+          {
+            "id": 7080743,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7080743.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7080743.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7080743.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68535320,
+        "name": "Fire Hand",
+        "card_images": [
+          {
+            "id": 68535320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68535320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68535320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68535320.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8102334,
+        "name": "Gate Blocker",
+        "card_images": [
+          {
+            "id": 8102334,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8102334.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8102334.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8102334.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17052477,
+        "name": "Guarded Treasure",
+        "card_images": [
+          {
+            "id": 17052477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17052477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17052477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17052477.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18175965,
+        "name": "Guardian Dreadscythe",
+        "card_images": [
+          {
+            "id": 18175965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18175965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18175965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18175965.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95929069,
+        "name": "Ice Hand",
+        "card_images": [
+          {
+            "id": 95929069,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95929069.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95929069.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95929069.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16404809,
+        "name": "Kuribandit",
+        "card_images": [
+          {
+            "id": 16404809,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16404809.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16404809.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89397517,
+        "name": "Legend of Heart",
+        "card_images": [
+          {
+            "id": 89397517,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89397517.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89397517.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89397517.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80019195,
+        "name": "Legendary Knight Timaeus",
+        "card_images": [
+          {
+            "id": 80019195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80019195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80019195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80019195.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41386308,
+        "name": "Mathematician",
+        "card_images": [
+          {
+            "id": 41386308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41386308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41386308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41386308.jpg"
+          }
+        ]
+      },
+      {
+        "id": 269012,
+        "name": "Mound of the Bound Creator",
+        "card_images": [
+          {
+            "id": 269012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/269012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/269012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/269012.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74875003,
+        "name": "Ra's Disciple",
+        "card_images": [
+          {
+            "id": 74875003,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74875003.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74875003.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74875003.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96142517,
+        "name": "Rank-Up-Magic Admiration of the Thousands",
+        "card_images": [
+          {
+            "id": 96142517,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96142517.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96142517.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96142517.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33252803,
+        "name": "Rank-Up-Magic Quick Chaos",
+        "card_images": [
+          {
+            "id": 33252803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33252803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33252803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33252803.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47264717,
+        "name": "Shooting Star",
+        "card_images": [
+          {
+            "id": 47264717,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47264717.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47264717.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47264717.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1784686,
+        "name": "The Eye of Timaeus",
+        "card_images": [
+          {
+            "id": 1784686,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1784686.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1784686.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1784686.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra": [],
+    "super": [
+      {
+        "id": 72714226,
+        "name": "Assault Dog",
+        "card_images": [
+          {
+            "id": 72714226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72714226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72714226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72714226.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42502956,
+        "name": "Ayers Rock Sunrise",
+        "card_images": [
+          {
+            "id": 42502956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42502956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42502956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42502956.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43225434,
+        "name": "Battle Fusion",
+        "card_images": [
+          {
+            "id": 43225434,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43225434.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43225434.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43225434.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9925982,
+        "name": "Black Wing Revenge",
+        "card_images": [
+          {
+            "id": 9925982,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9925982.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9925982.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9925982.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36442179,
+        "name": "Blackwing - Hurricane the Tornado",
+        "card_images": [
+          {
+            "id": 36442179,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36442179.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36442179.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36442179.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73652465,
+        "name": "Blackwing - Oroshi the Squall",
+        "card_images": [
+          {
+            "id": 73652465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73652465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73652465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73652465.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9047460,
+        "name": "Blackwing - Steam the Cloak",
+        "card_images": [
+          {
+            "id": 9047460,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9047460.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9047460.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9047460.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15981690,
+        "name": "Carboneddon",
+        "card_images": [
+          {
+            "id": 15981690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15981690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15981690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15981690.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55569674,
+        "name": "Celestial Sword - Eatos",
+        "card_images": [
+          {
+            "id": 55569674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55569674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55569674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55569674.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34475451,
+        "name": "Construction Train Signal Red",
+        "card_images": [
+          {
+            "id": 34475451,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34475451.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34475451.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34475451.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89719143,
+        "name": "Final Fusion",
+        "card_images": [
+          {
+            "id": 89719143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89719143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89719143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89719143.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17236839,
+        "name": "Flash Fusion",
+        "card_images": [
+          {
+            "id": 17236839,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17236839.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17236839.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17236839.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34022290,
+        "name": "Guardian Eatos",
+        "card_images": [
+          {
+            "id": 34022290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34022290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34022290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34022290.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68812773,
+        "name": "Lillybot",
+        "card_images": [
+          {
+            "id": 68812773,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68812773.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68812773.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68812773.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61692648,
+        "name": "Lionhearted Locomotive",
+        "card_images": [
+          {
+            "id": 61692648,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61692648.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61692648.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61692648.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22530212,
+        "name": "Magic Hand",
+        "card_images": [
+          {
+            "id": 22530212,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22530212.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22530212.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22530212.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36076683,
+        "name": "Number 73: Abyss Splash",
+        "card_images": [
+          {
+            "id": 36076683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36076683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36076683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36076683.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55888045,
+        "name": "Number C106: Giant Red Hand",
+        "card_images": [
+          {
+            "id": 55888045,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55888045.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55888045.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55888045.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69757518,
+        "name": "Number C5: Chaos Chimera Dragon",
+        "card_images": [
+          {
+            "id": 69757518,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69757518.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69757518.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69757518.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96864105,
+        "name": "Number C73: Abyss Supra Splash",
+        "card_images": [
+          {
+            "id": 96864105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96864105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96864105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96864105.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16114248,
+        "name": "Pair Cycroid",
+        "card_images": [
+          {
+            "id": 16114248,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16114248.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16114248.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16114248.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21414674,
+        "name": "Prominence Hand",
+        "card_images": [
+          {
+            "id": 21414674,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21414674.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21414674.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21414674.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81954378,
+        "name": "Reaper Scythe - Dreadscythe",
+        "card_images": [
+          {
+            "id": 81954378,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81954378.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81954378.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81954378.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42776960,
+        "name": "Relay Soul",
+        "card_images": [
+          {
+            "id": 42776960,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42776960.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42776960.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42776960.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94807487,
+        "name": "Rising Sun Slash",
+        "card_images": [
+          {
+            "id": 94807487,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94807487.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94807487.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94807487.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80831721,
+        "name": "Sabatiel - The Philosopher's Stone",
+        "card_images": [
+          {
+            "id": 80831721,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80831721.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80831721.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80831721.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35329581,
+        "name": "Shadow Impulse",
+        "card_images": [
+          {
+            "id": 35329581,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35329581.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35329581.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35329581.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54447022,
+        "name": "Soul Charge",
+        "card_images": [
+          {
+            "id": 54447022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54447022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54447022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54447022.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60879050,
+        "name": "Train Connection",
+        "card_images": [
+          {
+            "id": 60879050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60879050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60879050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60879050.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34507039,
+        "name": "Wiretap",
+        "card_images": [
+          {
+            "id": 34507039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34507039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34507039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34507039.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [],
+    "common": []
+  }
+}

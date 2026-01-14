@@ -1,0 +1,4840 @@
+[
+  {
+    "id": 1475311,
+    "name": "Allure of Darkness",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/allure-of-darkness-127",
+    "card_sets": [
+      {
+        "set_name": "Brothers of Legend",
+        "set_code": "BROL-EN088",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.53"
+      },
+      {
+        "set_name": "Crossover Breakers",
+        "set_code": "CRBR-EN028",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN054",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "4.05"
+      },
+      {
+        "set_name": "Destiny Soldiers",
+        "set_code": "DESO-EN044",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gates of the Underworld Structure Deck",
+        "set_code": "SDGU-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.63"
+      },
+      {
+        "set_name": "OTS Tournament Pack 1",
+        "set_code": "OP01-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Pendulum Domination Structure Deck",
+        "set_code": "SDPD-EN029",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN084",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN084",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Raging Battle: Special Edition",
+        "set_code": "RGBT-ENSE2",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "7.08"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENI30",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENI30",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+        "set_code": "SS05-ENA26",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "11.76"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 3",
+        "set_code": "STP3-EN005",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENF12",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Marik (TCG)",
+        "set_code": "SDMA-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.9"
+      },
+      {
+        "set_name": "Structure Deck: Shaddoll Showdown",
+        "set_code": "SDSH-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.4"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN054",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 1475311,
+        "image_url": "https://images.ygoprodeck.com/images/cards/1475311.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1475311.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.14",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "2.49",
+        "amazon_price": "2.98",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 28985331,
+    "name": "Armageddon Knight",
+    "typeline": [
+      "Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+    "race": "Warrior",
+    "atk": 1400,
+    "def": 1200,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armageddon-knight-2458",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN040",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.48"
+      },
+      {
+        "set_name": "Legendary Hero Decks",
+        "set_code": "LEHD-ENC06",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.41"
+      },
+      {
+        "set_name": "Pendulum Domination Structure Deck",
+        "set_code": "SDPD-EN018",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN021",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN002",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Shaddoll Showdown",
+        "set_code": "SDSH-EN017",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.13"
+      },
+      {
+        "set_name": "The Secret Forces",
+        "set_code": "THSF-EN035",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.38"
+      },
+      {
+        "set_name": "Turbo Pack: Booster One",
+        "set_code": "TU01-EN011",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 28985331,
+        "image_url": "https://images.ygoprodeck.com/images/cards/28985331.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28985331.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28985331.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.18",
+        "ebay_price": "1.82",
+        "amazon_price": "1.00",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 93850652,
+    "name": "Beat, Bladesman Fur Hire",
+    "typeline": [
+      "Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Beat, Bladesman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can add 1 monster \"Fur Hire\" from your Deck to your hand, except \"Beat, Bladesman Fur Hire\". You can only use each effect of \"Beat, Bladesman Fur Hire\" once per turn.",
+    "race": "Warrior",
+    "atk": 1200,
+    "def": 500,
+    "level": 3,
+    "attribute": "EARTH",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beat-bladesman-fur-hire-9280",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN247",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN017",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 93850652,
+        "image_url": "https://images.ygoprodeck.com/images/cards/93850652.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93850652.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93850652.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.29",
+        "tcgplayer_price": "3.10",
+        "ebay_price": "2.95",
+        "amazon_price": "1.69",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 66740005,
+    "name": "Bravo, Fighter Fur Hire",
+    "typeline": [
+      "Reptile",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Bravo, Fighter Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can have all monsters \"Fur Hire\" currently on the field gain 500 ATK/DEF until the end of this turn. You can only use each effect of \"Bravo, Fighter Fur Hire\" once per turn.",
+    "race": "Reptile",
+    "atk": 1900,
+    "def": 200,
+    "level": 4,
+    "attribute": "FIRE",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bravo-fighter-fur-hire-9274",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN249",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN019",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 66740005,
+        "image_url": "https://images.ygoprodeck.com/images/cards/66740005.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66740005.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66740005.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.16",
+        "tcgplayer_price": "0.20",
+        "ebay_price": "2.07",
+        "amazon_price": "0.50",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 38250531,
+    "name": "Crimson Knight Vampire Bram",
+    "typeline": [
+      "Zombie",
+      "Xyz",
+      "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 5 Zombie monsters\r\nYou can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon that target to your field, but only that monster can attack for the rest of this turn. You can only use this effect of \"Crimson Knight Vampire Bram\" once per turn. Once per turn, during the Standby Phase of the next turn after this card you controlled was destroyed by your opponent's card and sent to your GY: Special Summon this card in Defense Position.",
+    "race": "Zombie",
+    "atk": 2500,
+    "def": 0,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-knight-vampire-bram-3241",
+    "card_sets": [
+      {
+        "set_name": "2014 Mega-Tin Mega Pack",
+        "set_code": "MP14-EN164",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN013",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.12"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN138",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "1.24"
+      },
+      {
+        "set_name": "Shadow Specters",
+        "set_code": "SHSP-EN054",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 38250531,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38250531.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38250531.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38250531.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.15",
+        "ebay_price": "0.99",
+        "amazon_price": "3.06",
+        "coolstuffinc_price": "1.49"
+      }
+    ]
+  },
+  {
+    "id": 14536035,
+    "name": "Dark Grepher",
+    "typeline": [
+      "Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK monster. Once per turn: You can discard 1 DARK monster; send 1 DARK monster from your Deck to the GY.",
+    "race": "Warrior",
+    "atk": 1700,
+    "def": 1600,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Grepher",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-grepher-1244",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN042",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.32"
+      },
+      {
+        "set_name": "Duel Terminal 6b",
+        "set_code": "DT06-EN058",
+        "set_rarity": "Duel Terminal Normal Parallel Rare",
+        "set_rarity_code": "(DNPR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN208",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.96"
+      },
+      {
+        "set_name": "Pendulum Domination Structure Deck",
+        "set_code": "SDPD-EN017",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN000",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness Sneak Peek Participation Card",
+        "set_code": "PTDN-ENSP1",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "9.57"
+      },
+      {
+        "set_name": "Turbo Pack: Booster Three",
+        "set_code": "TU03-EN001",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 14536035,
+        "image_url": "https://images.ygoprodeck.com/images/cards/14536035.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14536035.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14536035.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.68",
+        "tcgplayer_price": "3.40",
+        "ebay_price": "2.00",
+        "amazon_price": "68.49",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 32302078,
+    "name": "Dhampir Vampire Sheridan",
+    "typeline": [
+      "Zombie",
+      "Xyz",
+      "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2+ Level 6 monsters\r\nIf you use a monster(s), with a Level, that is owned by your opponent for the Xyz Summon of this card, treat it as Level 6. Once per turn: You can detach 1 material from this card, then target 1 card your opponent controls; send it to the GY. Once per turn, if a Monster Card(s) is sent from the field to your opponent's GY by a card effect, or a monster is destroyed by battle and sent to your opponent's GY: You can detach 1 material from this card; Special Summon 1 of those monsters to your field in Defense Position.",
+    "race": "Zombie",
+    "atk": 2600,
+    "def": 1000,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dhampir-vampire-sheridan-9296",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN239",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN007",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 32302078,
+        "image_url": "https://images.ygoprodeck.com/images/cards/32302078.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32302078.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32302078.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.24",
+        "tcgplayer_price": "0.52",
+        "ebay_price": "3.66",
+        "amazon_price": "4.98",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 94073244,
+    "name": "Donpa, Marksman Fur Hire",
+    "typeline": [
+      "Beast",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Donpa, Marksman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use each effect of \"Donpa, Marksman Fur Hire\" once per turn.",
+    "race": "Beast",
+    "atk": 500,
+    "def": 1000,
+    "level": 2,
+    "attribute": "WIND",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/donpa-marksman-fur-hire-9282",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN244",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN014",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 94073244,
+        "image_url": "https://images.ygoprodeck.com/images/cards/94073244.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94073244.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94073244.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.27",
+        "tcgplayer_price": "0.43",
+        "ebay_price": "1.00",
+        "amazon_price": "0.59",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 47475363,
+    "name": "Drowning Mirror Force",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "When an opponent's monster declares a direct attack: Shuffle all your opponent's Attack Position monsters into the Deck.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/drowning-mirror-force-4053",
+    "card_sets": [
+      {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17-EN041",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN045",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.01"
+      },
+      {
+        "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+        "set_code": "EGO1-EN035",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.23"
+      },
+      {
+        "set_name": "Legendary Dragon Decks",
+        "set_code": "LEDD-ENB24",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.63"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN097",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Shining Victories",
+        "set_code": "SHVI-EN075",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 47475363,
+        "image_url": "https://images.ygoprodeck.com/images/cards/47475363.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47475363.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47475363.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.21",
+        "tcgplayer_price": "0.17",
+        "ebay_price": "8.95",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 25123713,
+    "name": "Dyna, Hero Fur Hire",
+    "typeline": [
+      "Beast-Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters \"Fur Hire\" you control with different names. You can only use this effect of \"Dyna, Hero Fur Hire\" once per turn. Monsters your opponent controls cannot target monsters \"Fur Hire\" you control for attacks, except this one.",
+    "race": "Beast-Warrior",
+    "atk": 2500,
+    "def": 1400,
+    "level": 6,
+    "attribute": "EARTH",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dyna-hero-fur-hire-9311",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN251",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN021",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 25123713,
+        "image_url": "https://images.ygoprodeck.com/images/cards/25123713.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25123713.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25123713.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.27",
+        "ebay_price": "2.50",
+        "amazon_price": "0.69",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 64400161,
+    "name": "Fandora, the Flying Furtress",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster \"Fur Hire\" from your Deck to your hand. If you control 5 or more monsters \"Fur Hire\" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.",
+    "race": "Field",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fandora-the-flying-furtress-9275",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN254",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN024",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 64400161,
+        "image_url": "https://images.ygoprodeck.com/images/cards/64400161.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64400161.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64400161.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.11",
+        "tcgplayer_price": "0.15",
+        "ebay_price": "0.99",
+        "amazon_price": "0.45",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 35726888,
+    "name": "Foolish Burial Goods",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Send 1 Spell/Trap from your Deck to the GY. You can only activate 1 \"Foolish Burial Goods\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/foolish-burial-goods-3025",
+    "card_sets": [
+      {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17-EN218",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Relentless Revenge",
+        "set_code": "BLRR-EN095",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN058",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "3.71"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN054",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Raging Tempest",
+        "set_code": "RATE-EN065",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN026",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Legend of the Crystal Beasts",
+        "set_code": "SDCB-EN030",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_ocg": "Semi-Limited"
+    },
+    "card_images": [
+      {
+        "id": 35726888,
+        "image_url": "https://images.ygoprodeck.com/images/cards/35726888.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35726888.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35726888.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.18",
+        "tcgplayer_price": "0.28",
+        "ebay_price": "0.99",
+        "amazon_price": "4.44",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 67466547,
+    "name": "Helmer, Helmsman Fur Hire",
+    "typeline": [
+      "Aqua",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Helmer, Helmsman Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can discard 1 card \"Fur Hire\"; draw 1 card. You can only use each effect of \"Helmer, Helmsman Fur Hire\" once per turn.",
+    "race": "Aqua",
+    "atk": 0,
+    "def": 2000,
+    "level": 3,
+    "attribute": "WATER",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/helmer-helmsman-fur-hire-9309",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN246",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN016",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 67466547,
+        "image_url": "https://images.ygoprodeck.com/images/cards/67466547.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67466547.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67466547.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "1.25",
+        "amazon_price": "0.49",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 21350571,
+    "name": "Horn of the Phantom Beast",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/horn-of-the-phantom-beast-1837",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN060",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.75"
+      },
+      {
+        "set_name": "Duelist League 15 participation cards",
+        "set_code": "DL15-EN020",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "6.76"
+      },
+      {
+        "set_name": "Duelist Revolution",
+        "set_code": "DREV-EN075",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Onslaught of the Fire Kings Structure Deck",
+        "set_code": "SDOK-EN034",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.25"
+      },
+      {
+        "set_name": "OTS Tournament Pack 4",
+        "set_code": "OP04-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN241",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN241",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN061",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1"
+      },
+      {
+        "set_name": "Turbo Pack: Booster Seven",
+        "set_code": "TU07-EN005",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 21350571,
+        "image_url": "https://images.ygoprodeck.com/images/cards/21350571.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21350571.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21350571.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.99",
+        "amazon_price": "2.37",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 16404809,
+    "name": "Kuribandit",
+    "typeline": [
+      "Fiend",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+    "race": "Fiend",
+    "atk": 1000,
+    "def": 700,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Kuriboh",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuribandit-1413",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN051",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.69"
+      },
+      {
+        "set_name": "Dragons of Legend",
+        "set_code": "DRLG-EN002",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "3.22"
+      },
+      {
+        "set_name": "Dragons of Legend: The Complete Series",
+        "set_code": "DLCS-EN004",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dragons of Legend: Unleashed",
+        "set_code": "DRL3-EN042",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Pendulum Domination Structure Deck",
+        "set_code": "SDPD-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN221",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN221",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Link Strike",
+        "set_code": "YS17-EN014",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN018",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Shaddoll Showdown",
+        "set_code": "SDSH-EN021",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.09"
+      },
+      {
+        "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+        "set_code": "AC19-EN019",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "1.63"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 16404809,
+        "image_url": "https://images.ygoprodeck.com/images/cards/16404809.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16404809.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16404809.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.03",
+        "tcgplayer_price": "0.14",
+        "ebay_price": "0.99",
+        "amazon_price": "2.83",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 39910367,
+    "name": "Magical Citadel of Endymion",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from a card you control, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+    "race": "Field",
+    "archetype": "Endymion",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-citadel-of-endymion-3385",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN055",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "1.81"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7",
+        "set_code": "OP07-EN008",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7 (POR)",
+        "set_code": "OP07-PT008",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Spellcaster's Command Structure Deck",
+        "set_code": "SDSC-EN019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.36"
+      },
+      {
+        "set_name": "Structure Deck: Order of the Spellcasters",
+        "set_code": "SR08-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 39910367,
+        "image_url": "https://images.ygoprodeck.com/images/cards/39910367.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39910367.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39910367.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.27",
+        "ebay_price": "0.99",
+        "amazon_price": "0.99",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 91405870,
+    "name": "Mayhem Fur Hire",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Target 1 monster \"Fur Hire\" in your GY; Special Summon it in Defense Position. You can only activate 1 \"Mayhem Fur Hire\" per turn.",
+    "race": "Quick-Play",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mayhem-fur-hire-9328",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN255",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN025",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 91405870,
+        "image_url": "https://images.ygoprodeck.com/images/cards/91405870.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91405870.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91405870.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.85",
+        "tcgplayer_price": "0.76",
+        "ebay_price": "5.44",
+        "amazon_price": "0.69",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 44095762,
+    "name": "Mirror Force",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mirror-force-3764",
+    "card_sets": [
+      {
+        "set_name": "2-Player Starter Deck: Yuya & Declan",
+        "set_code": "YS15-END16",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "5.66"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN048",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN048",
+        "set_rarity": "Starfoil Rare",
+        "set_rarity_code": "(SFR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Beginning 2",
+        "set_code": "DB2-EN081",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Legion Starter Deck",
+        "set_code": "YS15-ENL22",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "2.04"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN059",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.92"
+      },
+      {
+        "set_name": "Demo Deck 2016",
+        "set_code": "DEM3-EN017",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Dragunity Legion Structure Deck",
+        "set_code": "SDDL-EN035",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 15 participation cards",
+        "set_code": "DL15-EN018",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "13.9"
+      },
+      {
+        "set_name": "Duelist Pack: Yugi",
+        "set_code": "DPYG-EN027",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "12.09"
+      },
+      {
+        "set_name": "Duelist Saga",
+        "set_code": "DUSA-EN048",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.94"
+      },
+      {
+        "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+        "set_code": "EGS1-EN034",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.89"
+      },
+      {
+        "set_name": "Gold Series",
+        "set_code": "GLD1-EN039",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN091",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN130",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC-EN053",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Decks II",
+        "set_code": "LDK2-ENY35",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.82"
+      },
+      {
+        "set_name": "Legendary Dragon Decks",
+        "set_code": "LEDD-ENA32",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.8"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN115",
+        "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Metal Raiders",
+        "set_code": "MRD-138",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "15.47"
+      },
+      {
+        "set_name": "Metal Raiders",
+        "set_code": "MRD-E138",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "19.79"
+      },
+      {
+        "set_name": "Metal Raiders",
+        "set_code": "MRD-EN138",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "32.13"
+      },
+      {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD-EN059",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "3.61"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN093",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN093",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Saber Force Starter Deck",
+        "set_code": "YS15-ENF21",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "2.17"
+      },
+      {
+        "set_name": "Space-Time Showdown Power-Up Pack",
+        "set_code": "YS14-ENA12",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Codebreaker",
+        "set_code": "YS18-EN036",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Dawn of the Xyz",
+        "set_code": "YS11-EN036",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Link Strike",
+        "set_code": "YS17-EN034",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Yugi Reloaded",
+        "set_code": "YSYR-EN040",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.97"
+      },
+      {
+        "set_name": "Structure Deck: Marik (TCG)",
+        "set_code": "SDMA-EN030",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.87"
+      },
+      {
+        "set_name": "Structure Deck: Rokket Revolt",
+        "set_code": "SDRR-EN038",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Yugi Muto",
+        "set_code": "SDMY-EN037",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Super Starter Power-Up Pack",
+        "set_code": "YS13-ENV14",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENA37",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.51"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENB33",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD-ENC36",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.61"
+      }
+    ],
+    "banlist_info": {
+      "ban_goat": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 44095762,
+        "image_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44095762.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.48",
+        "ebay_price": "4.99",
+        "amazon_price": "3.07",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 83011278,
+    "name": "Mystic Tomato",
+    "typeline": [
+      "Plant",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+    "race": "Plant",
+    "atk": 1400,
+    "def": 1100,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-tomato-6969",
+    "card_sets": [
+      {
+        "set_name": "Dark Beginning 1",
+        "set_code": "DB1-EN057",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Legends",
+        "set_code": "DLG1-EN077",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.78"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN046",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.15"
+      },
+      {
+        "set_name": "Dragons Collide Structure Deck",
+        "set_code": "SDDC-EN016",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duel Terminal 6a",
+        "set_code": "DT06-EN005",
+        "set_rarity": "Duel Terminal Normal Parallel Rare",
+        "set_rarity_code": "(DNPR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 2010 participation cards",
+        "set_code": "DL09-EN006",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "7.95"
+      },
+      {
+        "set_name": "Hobby League 3 participation card E",
+        "set_code": "HL03-EN005",
+        "set_rarity": "Ultra Parallel Rare",
+        "set_rarity_code": "(UPR)",
+        "set_price": "15.79"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN239",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-094",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "2.94"
+      },
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-E094",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "9.64"
+      },
+      {
+        "set_name": "Retro Pack",
+        "set_code": "RP01-EN076",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.33"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-094",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "2.42"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-EN094",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "3.93"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba Evolution",
+        "set_code": "SKE-021",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.94"
+      },
+      {
+        "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+        "set_code": "5DS1-EN017",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Marik (TCG)",
+        "set_code": "SDMA-EN002",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.8"
+      },
+      {
+        "set_name": "Tournament Pack 4",
+        "set_code": "TP4-015",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.02"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 83011278,
+        "image_url": "https://images.ygoprodeck.com/images/cards/83011278.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83011278.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83011278.jpg"
+      },
+      {
+        "id": 83011277,
+        "image_url": "https://images.ygoprodeck.com/images/cards/83011277.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83011277.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83011277.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "8.99",
+        "amazon_price": "4.99",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 33420078,
+    "name": "Plaguespreader Zombie",
+    "typeline": [
+      "Zombie",
+      "Tuner",
+      "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
+    "race": "Zombie",
+    "atk": 400,
+    "def": 200,
+    "level": 2,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/plaguespreader-zombie-2838",
+    "card_sets": [
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN071",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN071",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Crossroads of Chaos",
+        "set_code": "CSOC-EN031",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Crossroads of Chaos",
+        "set_code": "CSOC-EN031",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN041",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "3"
+      },
+      {
+        "set_name": "Duelist Saga",
+        "set_code": "DUSA-EN076",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "6.13"
+      },
+      {
+        "set_name": "Gold Series 3",
+        "set_code": "GLD3-EN019",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD-EN074",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "4.46"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN207",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN207",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Synchron Extreme Structure Deck",
+        "set_code": "SDSE-EN021",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.82"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 33420078,
+        "image_url": "https://images.ygoprodeck.com/images/cards/33420078.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33420078.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33420078.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.36",
+        "tcgplayer_price": "1.44",
+        "ebay_price": "2.38",
+        "amazon_price": "5.98",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 45869829,
+    "name": "Quick Booster",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/quick-booster-3904",
+    "card_sets": [
+      {
+        "set_name": "Cosmo Blazer",
+        "set_code": "CBLZ-EN065",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Cosmo Blazer",
+        "set_code": "CBLZ-EN065",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN057",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.62"
+      },
+      {
+        "set_name": "Tactical Masters",
+        "set_code": "TAMA-EN052",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 45869829,
+        "image_url": "https://images.ygoprodeck.com/images/cards/45869829.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45869829.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45869829.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.05",
+        "ebay_price": "1.93",
+        "amazon_price": "0.49",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 38916526,
+    "name": "Rafale, Champion Fur Hire",
+    "typeline": [
+      "Dragon",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can excavate the top cards of your Deck equal to the number of monsters \"Fur Hire\" you control with different names, except \"Rafale, Champion Fur Hire\", and if you do, add 1 of them to your hand, also shuffle the rest back into your Deck. When your opponent activates a monster effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Rafale, Champion Fur Hire\" once per turn.",
+    "race": "Dragon",
+    "atk": 2800,
+    "def": 2200,
+    "level": 8,
+    "attribute": "LIGHT",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rafale-champion-fur-hire-9277",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN253",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN023",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 38916526,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38916526.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38916526.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38916526.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.32",
+        "tcgplayer_price": "0.95",
+        "ebay_price": "8.00",
+        "amazon_price": "1.49",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 31467949,
+    "name": "Recon, Scout Fur Hire",
+    "typeline": [
+      "Beast",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Recon, Scout Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 Set card on the field; destroy it. You can only use each effect of \"Recon, Scout Fur Hire\" once per turn.",
+    "race": "Beast",
+    "atk": 1000,
+    "def": 500,
+    "level": 2,
+    "attribute": "WIND",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/recon-scout-fur-hire-9281",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN245",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN015",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 31467949,
+        "image_url": "https://images.ygoprodeck.com/images/cards/31467949.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31467949.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31467949.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.17",
+        "tcgplayer_price": "0.24",
+        "ebay_price": "0.99",
+        "amazon_price": "0.49",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 32807846,
+    "name": "Reinforcement of the Army",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/reinforcement-of-the-army-2794",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN051",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN051",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Amazing Defenders",
+        "set_code": "AMDE-EN039",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Beginning 2",
+        "set_code": "DB2-EN147",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "2.02"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN053",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.9"
+      },
+      {
+        "set_name": "Gold Series",
+        "set_code": "GLD1-EN032",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "HERO Strike Structure Deck",
+        "set_code": "SDHS-EN032",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Hobby League 6 participation card D",
+        "set_code": "HL06-EN004",
+        "set_rarity": "Ultra Parallel Rare",
+        "set_rarity_code": "(UPR)",
+        "set_price": "30.3"
+      },
+      {
+        "set_name": "King's Court",
+        "set_code": "KICO-EN051",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "King's Court",
+        "set_code": "KICO-EN051",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legacy of Darkness",
+        "set_code": "LOD-028",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "10.26"
+      },
+      {
+        "set_name": "Legacy of Darkness",
+        "set_code": "LOD-EN028",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN173",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN286",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Dragon Decks",
+        "set_code": "LEDD-ENA27",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.5"
+      },
+      {
+        "set_name": "Legendary Hero Decks",
+        "set_code": "LEHD-ENC18",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.19"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN108",
+        "set_rarity": "Ultra Rare (Pharaoh's Rare)",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN046",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Noble Knights of the Round Table Box Set",
+        "set_code": "NKRT-EN026",
+        "set_rarity": "Platinum Rare",
+        "set_rarity_code": "(PIR)",
+        "set_price": "5.85"
+      },
+      {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD-EN058",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "2.06"
+      },
+      {
+        "set_name": "Rise of the True Dragons Structure Deck",
+        "set_code": "SR02-EN031",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Samurai Warlords Structure Deck",
+        "set_code": "SDWA-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.5"
+      },
+      {
+        "set_name": "Space-Time Showdown Power-Up Pack",
+        "set_code": "YS14-ENA09",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duel Academy Box",
+        "set_code": "SGX1-ENA14",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duel Academy Box",
+        "set_code": "SGX1-ENB11",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-END11",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN160",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.22"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN160",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "12.13"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENB14",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Duelist Toolbox",
+        "set_code": "5DS3-EN022",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.41"
+      },
+      {
+        "set_name": "Starter Deck: Xyz Symphony",
+        "set_code": "YS12-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.23"
+      },
+      {
+        "set_name": "Structure Deck: Warrior's Triumph",
+        "set_code": "SD5-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.39"
+      },
+      {
+        "set_name": "Super Starter: V for Victory",
+        "set_code": "YS13-EN029",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Synchron Extreme Structure Deck",
+        "set_code": "SDSE-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.22"
+      },
+      {
+        "set_name": "The Dark Emperor Structure Deck",
+        "set_code": "SDDE-EN022",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.26"
+      },
+      {
+        "set_name": "Warriors' Strike Structure Deck",
+        "set_code": "SDWS-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wing Raiders",
+        "set_code": "WIRA-EN052",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited",
+      "ban_ocg": "Limited",
+      "ban_goat": "Semi-Limited"
+    },
+    "card_images": [
+      {
+        "id": 32807846,
+        "image_url": "https://images.ygoprodeck.com/images/cards/32807846.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32807846.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32807846.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.05",
+        "tcgplayer_price": "0.14",
+        "ebay_price": "2.99",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 93738004,
+    "name": "Sagitta, Maverick Fur Hire",
+    "typeline": [
+      "Winged Beast",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can inflict 500 damage to your opponent for each monster \"Fur Hire\" you control with a different name, except \"Sagitta, Maverick Fur Hire\". You can only use this effect of \"Sagitta, Maverick Fur Hire\" once per turn. Your opponent cannot target monsters \"Fur Hire\" you control with card effects, except this one.",
+    "race": "Winged Beast",
+    "atk": 1200,
+    "def": 2400,
+    "level": 5,
+    "attribute": "WIND",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sagitta-maverick-fur-hire-9279",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN250",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN020",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 93738004,
+        "image_url": "https://images.ygoprodeck.com/images/cards/93738004.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93738004.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93738004.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.31",
+        "ebay_price": "1.00",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 73915051,
+    "name": "Scapegoat",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/scapegoat-6212",
+    "card_sets": [
+      {
+        "set_name": "2-Player Starter Set",
+        "set_code": "STAS-EN013",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN008",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN136",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN136",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN139",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN139",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN042",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN042",
+        "set_rarity": "Starfoil Rare",
+        "set_rarity_code": "(SFR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Legends",
+        "set_code": "DLG1-EN091",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "19.28"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN052",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.06"
+      },
+      {
+        "set_name": "Duelist League 2010 participation cards",
+        "set_code": "DL09-EN015",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "9.99"
+      },
+      {
+        "set_name": "Hobby League 5 participation card F",
+        "set_code": "HL05-EN006",
+        "set_rarity": "Ultra Parallel Rare",
+        "set_rarity_code": "(UPR)",
+        "set_price": "19.27"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN066",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Decks II",
+        "set_code": "LDK2-ENJ28",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.99"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN077",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Master of Pendulum Structure Deck",
+        "set_code": "SDMP-EN032",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.66"
+      },
+      {
+        "set_name": "Millennium Pack",
+        "set_code": "MIL1-EN019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.42"
+      },
+      {
+        "set_name": "OTS Tournament Pack 5",
+        "set_code": "OP05-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 8",
+        "set_code": "OP08-EN003",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 8 (POR)",
+        "set_code": "OP08-PT003",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Retro Pack",
+        "set_code": "RP01-EN090",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "3999.99"
+      },
+      {
+        "set_name": "Starter Deck: Codebreaker",
+        "set_code": "YS18-EN023",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Starter Deck: Joey",
+        "set_code": "SDJ-041",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "4.01"
+      },
+      {
+        "set_name": "Structure Deck: Powercode Link",
+        "set_code": "SDPL-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Tactical Masters",
+        "set_code": "TAMA-EN043",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Tactical Masters",
+        "set_code": "TAMA-EN043",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Tournament Pack 7",
+        "set_code": "TP7-EN009",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 73915051,
+        "image_url": "https://images.ygoprodeck.com/images/cards/73915051.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73915051.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73915051.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.04",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "14.99",
+        "amazon_price": "1.95",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 20345391,
+    "name": "Seal, Strategist Fur Hire",
+    "typeline": [
+      "Beast-Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your Main Phase: You can Special Summon 1 monster \"Fur Hire\" from your hand, except \"Seal, Strategist Fur Hire\". If a monster \"Fur Hire\" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 monster \"Fur Hire\" in your GY; add it to your hand. You can only use each effect of \"Seal, Strategist Fur Hire\" once per turn.",
+    "race": "Beast-Warrior",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/seal-strategist-fur-hire-9310",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN248",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN018",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 20345391,
+        "image_url": "https://images.ygoprodeck.com/images/cards/20345391.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20345391.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20345391.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.14",
+        "ebay_price": "1.99",
+        "amazon_price": "1.08",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 14212201,
+    "name": "Shadow Vampire",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a DARK monster. When this card is Normal Summoned: You can Special Summon 1 DARK \"Vampire\" monster from your hand or Deck, except \"Shadow Vampire\", but monsters you control cannot attack for the rest of this turn, except that Special Summoned monster.",
+    "race": "Zombie",
+    "atk": 2000,
+    "def": 0,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-vampire-1216",
+    "card_sets": [
+      {
+        "set_name": "2014 Mega-Tin Mega Pack",
+        "set_code": "MP14-EN152",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN012",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.09"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN071",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0.86"
+      },
+      {
+        "set_name": "OTS Tournament Pack 15",
+        "set_code": "OP15-EN019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.42"
+      },
+      {
+        "set_name": "OTS Tournament Pack 15 (POR)",
+        "set_code": "OP15-PT019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Shadow Specters",
+        "set_code": "SHSP-EN030",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 14212201,
+        "image_url": "https://images.ygoprodeck.com/images/cards/14212201.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14212201.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14212201.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.11",
+        "tcgplayer_price": "0.12",
+        "ebay_price": "1.50",
+        "amazon_price": "9.49",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 63288574,
+    "name": "Sky Striker Ace - Kagari",
+    "typeline": [
+      "Machine",
+      "Link",
+      "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1 non-FIRE \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": null,
+    "level": null,
+    "attribute": "FIRE",
+    "archetype": "Sky Striker",
+    "linkval": 1,
+    "linkmarkers": [
+      "Top-Left"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-kagari-9324",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN257",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "5.27"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN027",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.88"
+      },
+      {
+        "set_name": "Duel Overload",
+        "set_code": "DUOV-EN060",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "4.45"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN038",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "2.12"
+      },
+      {
+        "set_name": "OTS Tournament Pack 8",
+        "set_code": "OP08-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "225.66"
+      },
+      {
+        "set_name": "OTS Tournament Pack 8 (POR)",
+        "set_code": "OP08-PT002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0.00"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 63288574,
+        "image_url": "https://images.ygoprodeck.com/images/cards/63288574.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63288574.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63288574.jpg"
+      },
+      {
+        "id": 63288573,
+        "image_url": "https://images.ygoprodeck.com/images/cards/63288573.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63288573.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63288573.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.74",
+        "tcgplayer_price": "0.59",
+        "ebay_price": "2.49",
+        "amazon_price": "3.45",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 26077387,
+    "name": "Sky Striker Ace - Raye",
+    "typeline": [
+      "Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "(Quick Effect): You can Tribute this card; Special Summon 1 \"Sky Striker Ace\" monster from your Extra Deck to the Extra Monster Zone. While this card is in your GY, if a face-up \"Sky Striker Ace\" Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon this card. You can only use each effect of \"Sky Striker Ace - Raye\" once per turn.",
+    "race": "Warrior",
+    "atk": 1500,
+    "def": 1500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-raye-9322",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN259",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Hero's Revenge",
+        "set_code": "BLHR-EN089",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Terminal Revenge",
+        "set_code": "BLTR-EN116",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN029",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN004",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN017",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 20",
+        "set_code": "OP20-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN026",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 26077387,
+        "image_url": "https://images.ygoprodeck.com/images/cards/26077387.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26077387.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26077387.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.25",
+        "tcgplayer_price": "0.26",
+        "ebay_price": "3.29",
+        "amazon_price": "2.99",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 90673288,
+    "name": "Sky Striker Ace - Shizuku",
+    "typeline": [
+      "Machine",
+      "Link",
+      "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1 non-WATER \"Sky Striker Ace\" monster\r\nMonsters your opponent controls lose 100 ATK/DEF for each Spell in your GY. Once per turn, during the End Phase, if this card was Special Summoned this turn: You can add 1 \"Sky Striker\" Spell from your Deck to your hand, with a name different from the cards in your GY. You can only Special Summon \"Sky Striker Ace - Shizuku(s)\" once per turn.",
+    "race": "Machine",
+    "atk": 1500,
+    "def": null,
+    "level": 0,
+    "attribute": "WATER",
+    "archetype": "Sky Striker",
+    "linkval": 1,
+    "linkmarkers": [
+      "Top-Right"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-ace-shizuku-9323",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN258",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN028",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN006",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 9",
+        "set_code": "OP09-EN003",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 9 (POR)",
+        "set_code": "OP09-PT003",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN043",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 90673288,
+        "image_url": "https://images.ygoprodeck.com/images/cards/90673288.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90673288.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90673288.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.11",
+        "tcgplayer_price": "0.15",
+        "ebay_price": "1.99",
+        "amazon_price": "12.19",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 50005218,
+    "name": "Sky Striker Airspace - Area Zero",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "You can target 1 other card you control; excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Sky Striker\" card to your hand, also shuffle the rest into the Deck, then, if you excavated a \"Sky Striker\" card, send the targeted card to the GY. If this card in the Field Zone is sent to the GY by a card effect: You can Special Summon 1 \"Sky Striker Ace\" monster from your Deck. You can only use each effect of \"Sky Striker Airspace - Area Zero\" once per turn.",
+    "race": "Field",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-airspace-area-zero-9312",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN269",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN039",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 50005218,
+        "image_url": "https://images.ygoprodeck.com/images/cards/50005218.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50005218.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50005218.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.33",
+        "tcgplayer_price": "1.15",
+        "ebay_price": "5.95",
+        "amazon_price": "0.90",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 99550630,
+    "name": "Sky Striker Maneuver - Afterburners!",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 face-up monster on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 Spell/Trap on the field.",
+    "race": "Normal",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-maneuver-afterburners-9321",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN261",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Chapter 1",
+        "set_code": "BLC1-EN024",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Hero's Revenge",
+        "set_code": "BLHR-EN091",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN031",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 99550630,
+        "image_url": "https://images.ygoprodeck.com/images/cards/99550630.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99550630.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99550630.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.59",
+        "tcgplayer_price": "0.49",
+        "ebay_price": "4.95",
+        "amazon_price": "2.12",
+        "coolstuffinc_price": "4.99"
+      }
+    ]
+  },
+  {
+    "id": 25955749,
+    "name": "Sky Striker Maneuver - Jamming Waves!",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 Set Spell/Trap on the field; destroy it, then, if you have 3 or more Spells in your GY, you can destroy 1 monster on the field.",
+    "race": "Normal",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-maneuver-jamming-waves-9319",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN262",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN032",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 25955749,
+        "image_url": "https://images.ygoprodeck.com/images/cards/25955749.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25955749.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25955749.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.84",
+        "tcgplayer_price": "0.97",
+        "ebay_price": "3.19",
+        "amazon_price": "0.78",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 25733157,
+    "name": "Sky Striker Mecha - Eagle Booster",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 face-up monster on the field; that target is unaffected by card effects this turn, except its own, and if you have 3 or more Spells in your GY, it cannot be destroyed by battle this turn.",
+    "race": "Quick-Play",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecha-eagle-booster-9315",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN265",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN035",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 25733157,
+        "image_url": "https://images.ygoprodeck.com/images/cards/25733157.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25733157.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25733157.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.54",
+        "tcgplayer_price": "0.63",
+        "ebay_price": "1.99",
+        "amazon_price": "0.50",
+        "coolstuffinc_price": "1.49"
+      }
+    ]
+  },
+  {
+    "id": 52340444,
+    "name": "Sky Striker Mecha - Hornet Drones",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Special Summon 1 \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) in Defense Position, which cannot be Tributed, and if you have 3 or more Spells in your GY when this effect resolves, the Token's ATK/DEF become 1500 instead.",
+    "race": "Quick-Play",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecha-hornet-drones-9318",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN263",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN033",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Justice Hunters",
+        "set_code": "JUSH-EN053",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Justice Hunters",
+        "set_code": "JUSH-EN053",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited",
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 52340444,
+        "image_url": "https://images.ygoprodeck.com/images/cards/52340444.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52340444.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52340444.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "2.89",
+        "amazon_price": "0.74",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 51227866,
+    "name": "Sky Striker Mecha - Shark Cannon",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 monster in your opponent's GY; banish that monster, or, if you have 3 or more Spells in your GY, you can Special Summon that monster to your field instead, but it cannot attack.",
+    "race": "Quick-Play",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecha-shark-cannon-9314",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN266",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN036",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN011",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 51227866,
+        "image_url": "https://images.ygoprodeck.com/images/cards/51227866.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51227866.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51227866.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.14",
+        "tcgplayer_price": "0.37",
+        "ebay_price": "0.99",
+        "amazon_price": "2.48",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 98338152,
+    "name": "Sky Striker Mecha - Widow Anchor",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Target 1 face-up Effect Monster on the field; negate that face-up monster's effects until the end of this turn, then, if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.",
+    "race": "Quick-Play",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecha-widow-anchor-9317",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN264",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Hero's Revenge",
+        "set_code": "BLHR-EN092",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN034",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN010",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 98338152,
+        "image_url": "https://images.ygoprodeck.com/images/cards/98338152.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98338152.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98338152.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.89",
+        "tcgplayer_price": "3.34",
+        "ebay_price": "1.50",
+        "amazon_price": "24.22",
+        "coolstuffinc_price": "1.49"
+      }
+    ]
+  },
+  {
+    "id": 24010609,
+    "name": "Sky Striker Mecha Modules - Multirole",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "Once per turn: You can target 1 other card you control; send that card to the GY, also your opponent cannot activate cards or effects in response to your Spell Card activations for the rest of this turn (even if this card leaves the field). (You can only gain the previous effect once per turn.) Once per turn, during the End Phase: You can Set \"Sky Striker\" Spells with different names from your GY, up to the number of \"Sky Striker\" Spell Cards you activated this turn while this card was face-up on your field, but banish them when they leave the field.",
+    "race": "Continuous",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecha-modules-multirole-9313",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN268",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN038",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN012",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 24010609,
+        "image_url": "https://images.ygoprodeck.com/images/cards/24010609.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24010609.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24010609.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.36",
+        "ebay_price": "2.59",
+        "amazon_price": "0.50",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 97616504,
+    "name": "Sky Striker Mecharmory - Hercules Base",
+    "type": "Spell Card",
+    "humanReadableCardType": "Equip Spell",
+    "frameType": "spell",
+    "desc": "Activate this card only if you control no monsters in your Main Monster Zone. The equipped monster cannot attack directly. It can make a second attack on monsters during each Battle Phase. If the equipped monster destroys a monster by its attack while you have 3 or more Spells in your GY: Draw 1 card. If this card is sent from the field to the GY by a card effect: You can target up to 3 \"Sky Striker\" cards in your GY, except \"Sky Striker Mecharmory - Hercules Base\"; shuffle them into the Deck.",
+    "race": "Equip",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mecharmory-hercules-base-9335",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN267",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN037",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 97616504,
+        "image_url": "https://images.ygoprodeck.com/images/cards/97616504.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97616504.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97616504.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "0.99",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 63166095,
+    "name": "Sky Striker Mobilize - Engage!",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "If you control no monsters in your Main Monster Zone: Add 1 \"Sky Striker\" card from your Deck to your hand, except \"Sky Striker Mobilize - Engage!\", then, if you have 3 or more Spells in your GY, you can draw 1 card.",
+    "race": "Normal",
+    "archetype": "Sky Striker",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sky-striker-mobilize-engage-9320",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN260",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Hero's Revenge",
+        "set_code": "BLHR-EN090",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Monstrous Revenge",
+        "set_code": "BLMR-EN091",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Monstrous Revenge",
+        "set_code": "BLMR-EN091",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN030",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Magnificent Mavens",
+        "set_code": "MAMA-EN009",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN269",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN269",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 63166095,
+        "image_url": "https://images.ygoprodeck.com/images/cards/63166095.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63166095.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63166095.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "3.79",
+        "tcgplayer_price": "2.81",
+        "ebay_price": "0.99",
+        "amazon_price": "5.40",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 75014062,
+    "name": "Spell Power Grasp",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 \"Spell Power Grasp\" from your Deck to your hand. You can only activate 1 \"Spell Power Grasp\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spell-power-grasp-6310",
+    "card_sets": [
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN056",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.39"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7",
+        "set_code": "OP07-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7 (POR)",
+        "set_code": "OP07-PT020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Speed Duel: Scars of Battle",
+        "set_code": "SBSC-EN004",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.2"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENA15",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Spellcaster's Command Structure Deck",
+        "set_code": "SDSC-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.48"
+      },
+      {
+        "set_name": "Structure Deck: Order of the Spellcasters",
+        "set_code": "SR08-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.06"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 75014062,
+        "image_url": "https://images.ygoprodeck.com/images/cards/75014062.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75014062.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75014062.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.05",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "0.99",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 79844764,
+    "name": "The Monarchs Stormforth",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Once during this turn, if you would Tribute a monster for a Tribute Summon, you can Tribute 1 monster your opponent controls even though you do not control it. You can only activate 1 \"The Monarchs Stormforth\" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.",
+    "race": "Quick-Play",
+    "archetype": "Monarch",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-monarchs-stormforth-6694",
+    "card_sets": [
+      {
+        "set_name": "2015 Mega-Tin Mega Pack",
+        "set_code": "MP15-EN109",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "2025 Mega-Pack Tin",
+        "set_code": "MP25-EN024",
+        "set_rarity": "Starlight Rare",
+        "set_rarity_code": "(StR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Astral Pack Six",
+        "set_code": "AP06-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN044",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.57"
+      },
+      {
+        "set_name": "Duelist Alliance",
+        "set_code": "DUEA-EN066",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Egyptian God Deck: Obelisk the Tormentor",
+        "set_code": "EGO1-EN032",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.36"
+      },
+      {
+        "set_name": "Emperor of Darkness Structure Deck",
+        "set_code": "SR01-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC-EN093",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Premium Gold: Infinite Gold",
+        "set_code": "PGL3-EN085",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 79844764,
+        "image_url": "https://images.ygoprodeck.com/images/cards/79844764.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79844764.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79844764.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.09",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "1.99",
+        "amazon_price": "0.59",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 89997728,
+    "name": "Toon Table of Contents",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 \"Toon\" card from your Deck to your hand.",
+    "race": "Normal",
+    "archetype": "Toon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/toon-table-of-contents-7519",
+    "card_sets": [
+      {
+        "set_name": "Dark Beginning 2",
+        "set_code": "DB2-EN121",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN043",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.69"
+      },
+      {
+        "set_name": "Duelist Pack: Battle City",
+        "set_code": "DPBC-EN047",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gold Series 4: Pyramids Edition",
+        "set_code": "GLD4-EN039",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN116",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Duelists: Season 1",
+        "set_code": "LDS1-EN069",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Destiny Masters",
+        "set_code": "SS01-ENC10",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.84"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+        "set_code": "SS04-ENB20",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.6"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 1",
+        "set_code": "STP1-EN012",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Tournament Pack 6",
+        "set_code": "TP6-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "246.98"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 89997728,
+        "image_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.40",
+        "tcgplayer_price": "2.03",
+        "ebay_price": "2.75",
+        "amazon_price": "5.99",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 37890974,
+    "name": "Training Fur Hire, Fur All Your Training Needs",
+    "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "If a face-up monster(s) \"Fur Hire\" you control is destroyed by battle or an opponent's card effect: You can target 1 of those monsters; Special Summon 1 monster \"Fur Hire\" from your Deck, whose Level is lower than that target's original Level. You can only use this effect of \"Training Fur Hire, Fur All Your Training Needs\" once per turn.",
+    "race": "Continuous",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/training-fur-hire-fur-all-your-training-needs-9276",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN256",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN026",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 37890974,
+        "image_url": "https://images.ygoprodeck.com/images/cards/37890974.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37890974.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37890974.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.29",
+        "ebay_price": "1.89",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 31189536,
+    "name": "Vampire Awakening",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Special Summon 1 \"Vampire\" monster from your Deck, but destroy it during the End Phase of this turn. You can only activate 1 \"Vampire Awakening\" per turn.",
+    "race": "Normal",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-awakening-9347",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN242",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN010",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENC20",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 31189536,
+        "image_url": "https://images.ygoprodeck.com/images/cards/31189536.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31189536.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31189536.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "0.99",
+        "amazon_price": "0.49",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 68688135,
+    "name": "Vampire Domination",
+    "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Vampire\" monster: Negate the activation, and if you do, destroy that card, then, if it was a Monster Card, gain LP equal to its original ATK. You can only activate 1 \"Vampire Domination\" per turn.",
+    "race": "Counter",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-domination-9348",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN243",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN011",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN011",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.99"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN172",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0.94"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 68688135,
+        "image_url": "https://images.ygoprodeck.com/images/cards/68688135.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68688135.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68688135.jpg"
+      },
+      {
+        "id": 68688135,
+        "image_url": "https://images.ygoprodeck.com/images/cards/68688135.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68688135.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68688135.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.16",
+        "ebay_price": "0.99",
+        "amazon_price": "1.98",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 34250214,
+    "name": "Vampire Familiar",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can pay 500 LP; add 1 \"Vampire\" monster from your Deck to your hand, except \"Vampire Familiar\". If this card is in your GY: You can send 1 \"Vampire\" card from your hand or face-up field to the GY; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Vampire Familiar\" once per turn.",
+    "race": "Zombie",
+    "atk": 500,
+    "def": 0,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-familiar-9339",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN233",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN001",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN018",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.56"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT018",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENC03",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 34250214,
+        "image_url": "https://images.ygoprodeck.com/images/cards/34250214.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34250214.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34250214.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.20",
+        "ebay_price": "0.99",
+        "amazon_price": "1.68",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 6039967,
+    "name": "Vampire Fraulein",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When a monster declares an attack: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Vampire Fraulein\" once per turn. Once per battle, if your Zombie monster battles an opponent's monster, during that damage calculation (Quick Effect): You can pay LP in multiples of 100 (max. 3000); your battling monster gains that much ATK/DEF during that damage calculation only. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+    "race": "Zombie",
+    "atk": 600,
+    "def": 2000,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-fraulein-9341",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN235",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN003",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 6039967,
+        "image_url": "https://images.ygoprodeck.com/images/cards/6039967.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6039967.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6039967.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "1.08",
+        "tcgplayer_price": "1.58",
+        "ebay_price": "3.94",
+        "amazon_price": "1.98",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 33438666,
+    "name": "Vampire Grimson",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If a monster(s) you control would be destroyed by battle or an opponent's card effect, you can pay 1000 LP for each monster that would be destroyed, instead (you must protect all your monsters that would be destroyed, if you use this effect). At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+    "race": "Zombie",
+    "atk": 2000,
+    "def": 1400,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-grimson-9342",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN236",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN004",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 33438666,
+        "image_url": "https://images.ygoprodeck.com/images/cards/33438666.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33438666.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33438666.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "2.02",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 6917479,
+    "name": "Vampire Red Baron",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Once per turn: You can pay 1000 LP, then target 1 monster your opponent controls and 1 other \"Vampire\" monster you control; switch control of those monsters. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+    "race": "Zombie",
+    "atk": 2400,
+    "def": 1000,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-red-baron-9344",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN238",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN006",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 6917479,
+        "image_url": "https://images.ygoprodeck.com/images/cards/6917479.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6917479.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6917479.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.11",
+        "tcgplayer_price": "0.24",
+        "ebay_price": "0.99",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 70645913,
+    "name": "Vampire Retainer",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can pay 500 LP; add 1 \"Vampire\" Spell/Trap from your Deck to your hand. If this card is in your GY: You can send 1 \"Vampire\" card from your hand or face-up field to the GY; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Vampire Retainer\" once per turn.",
+    "race": "Zombie",
+    "atk": 1200,
+    "def": 0,
+    "level": 2,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-retainer-9340",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN234",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.31"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENC06",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 70645913,
+        "image_url": "https://images.ygoprodeck.com/images/cards/70645913.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70645913.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70645913.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.21",
+        "ebay_price": "0.99",
+        "amazon_price": "1.49",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 79523365,
+    "name": "Vampire Scarlet Scourge",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can pay 1000 LP, then target 1 \"Vampire\" monster in your GY, except \"Vampire Scarlet Scourge\"; Special Summon it, but it cannot attack this turn. You can only use this effect of \"Vampire Scarlet Scourge\" once per turn. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
+    "race": "Zombie",
+    "atk": 2200,
+    "def": 2200,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-scarlet-scourge-9343",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN237",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN005",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 79523365,
+        "image_url": "https://images.ygoprodeck.com/images/cards/79523365.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79523365.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79523365.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.32",
+        "tcgplayer_price": "0.39",
+        "ebay_price": "2.80",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 88728507,
+    "name": "Vampire Sorcerer",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card in your possession is sent to your GY by your opponent's card: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+    "race": "Zombie",
+    "atk": 1500,
+    "def": 1500,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-sorcerer-7417",
+    "card_sets": [
+      {
+        "set_name": "2014 Mega-Tin Mega Pack",
+        "set_code": "MP14-EN151",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN049",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.78"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN070",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "1.24"
+      },
+      {
+        "set_name": "Shadow Specters",
+        "set_code": "SHSP-EN029",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENC07",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 88728507,
+        "image_url": "https://images.ygoprodeck.com/images/cards/88728507.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88728507.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88728507.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "1.50",
+        "amazon_price": "3.99",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 82962242,
+    "name": "Vampire Vamp",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Once per turn, when this card or a \"Vampire\" monster is Normal Summoned to your field: You can target 1 face-up monster your opponent controls, whose ATK is higher than this card's; equip it to this card. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect. If this card is sent to the GY, while equipped with a card(s) by this effect: Special Summon this card.",
+    "race": "Zombie",
+    "atk": 2000,
+    "def": 2000,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-vamp-6964",
+    "card_sets": [
+      {
+        "set_name": "2015 Mega-Tin Mega Pack",
+        "set_code": "MP15-EN050",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN050",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.73"
+      },
+      {
+        "set_name": "Primal Origin",
+        "set_code": "PRIO-EN085",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Lost Art Promotion (series)",
+        "set_code": "LART-EN033",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Lost Art Promotion 2021 C",
+        "set_code": "LART-EN033",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 82962242,
+        "image_url": "https://images.ygoprodeck.com/images/cards/82962242.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82962242.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82962242.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.23",
+        "tcgplayer_price": "0.37",
+        "ebay_price": "0.99",
+        "amazon_price": "2.45",
+        "coolstuffinc_price": "1.99"
+      }
+    ]
+  },
+  {
+    "id": 69700783,
+    "name": "Vampire's Desire",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Activate 1 of these effects.\n● Target 1 face-up monster you control; send 1 \"Vampire\" monster from your Deck to the GY with a different Level from that monster, and if you do, the targeted monster becomes the Level of that sent monster in the GY, until the end of this turn.\n● Target 1 \"Vampire\" monster in your GY; send 1 monster you control to the GY, and if you do, Special Summon the targeted monster.\nYou can only activate 1 \"Vampire's Desire\" per turn.",
+    "race": "Normal",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-s-desire-9345",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN240",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN008",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENC18",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 69700783,
+        "image_url": "https://images.ygoprodeck.com/images/cards/69700783.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69700783.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69700783.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.11",
+        "tcgplayer_price": "0.18",
+        "ebay_price": "0.99",
+        "amazon_price": "0.25",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 5795882,
+    "name": "Vampire's Domain",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "Once per turn: You can pay 500 LP; during your Main Phase this turn, you can Normal Summon 1 \"Vampire\" monster in addition to your Normal Summon/Set. (Even if this card leaves the field. You can only gain this effect once per turn.) Each time your \"Vampire\" monster inflicts battle damage to your opponent: Gain the same amount of LP.",
+    "race": "Continuous",
+    "archetype": "Vampire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampire-s-domain-9346",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN241",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN009",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 15",
+        "set_code": "OP15-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.76"
+      },
+      {
+        "set_name": "OTS Tournament Pack 15 (POR)",
+        "set_code": "OP15-PT024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 5795882,
+        "image_url": "https://images.ygoprodeck.com/images/cards/5795882.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5795882.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5795882.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.17",
+        "tcgplayer_price": "0.50",
+        "ebay_price": "2.89",
+        "amazon_price": "2.59",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 1371589,
+    "name": "Vampiric Koala",
+    "typeline": [
+      "Beast",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
+    "race": "Beast",
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Koala",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampiric-koala-118",
+    "card_sets": [
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN094",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN094",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN048",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.82"
+      },
+      {
+        "set_name": "Order of Chaos",
+        "set_code": "ORCS-EN093",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENI29",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 1371589,
+        "image_url": "https://images.ygoprodeck.com/images/cards/1371589.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1371589.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1371589.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.10",
+        "ebay_price": "0.99",
+        "amazon_price": "1.27",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 46571052,
+    "name": "Vampiric Orchis",
+    "typeline": [
+      "Plant",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Des Dendle\" from your hand.",
+    "race": "Plant",
+    "atk": 1700,
+    "def": 1000,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vampiric-orchis-3971",
+    "card_sets": [
+      {
+        "set_name": "Dark Revelation Volume 1",
+        "set_code": "DR1-EN069",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN047",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.88"
+      },
+      {
+        "set_name": "Magician's Force",
+        "set_code": "MFC-014",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.21"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 46571052,
+        "image_url": "https://images.ygoprodeck.com/images/cards/46571052.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46571052.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46571052.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.99",
+        "amazon_price": "4.10",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 1527418,
+    "name": "Wiz, Sage Fur Hire",
+    "typeline": [
+      "Spellcaster",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Special Summoned: You can gain 500 LP for each monster \"Fur Hire\" you control with a different name, except \"Wiz, Sage Fur Hire\". When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can discard 1 card \"Fur Hire\"; negate the activation. You can only use each effect of \"Wiz, Sage Fur Hire\" once per turn.",
+    "race": "Spellcaster",
+    "atk": 1600,
+    "def": 2800,
+    "level": 7,
+    "attribute": "WATER",
+    "archetype": "Fur Hire",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wiz-sage-fur-hire-9278",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN252",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN022",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 1527418,
+        "image_url": "https://images.ygoprodeck.com/images/cards/1527418.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1527418.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1527418.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.25",
+        "ebay_price": "0.99",
+        "amazon_price": "0.59",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  }
+]

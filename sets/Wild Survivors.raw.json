@@ -1,0 +1,4475 @@
+[
+  {
+    "id": 1475311,
+    "name": "Allure of Darkness",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/allure-of-darkness-127",
+    "card_sets": [
+      {
+        "set_name": "Brothers of Legend",
+        "set_code": "BROL-EN088",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.53"
+      },
+      {
+        "set_name": "Crossover Breakers",
+        "set_code": "CRBR-EN028",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA-EN054",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "4.05"
+      },
+      {
+        "set_name": "Destiny Soldiers",
+        "set_code": "DESO-EN044",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gates of the Underworld Structure Deck",
+        "set_code": "SDGU-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.63"
+      },
+      {
+        "set_name": "OTS Tournament Pack 1",
+        "set_code": "OP01-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Pendulum Domination Structure Deck",
+        "set_code": "SDPD-EN029",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN084",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN-EN084",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN055",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Raging Battle: Special Edition",
+        "set_code": "RGBT-ENSE2",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "7.08"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENI30",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel GX: Duelists of Shadows",
+        "set_code": "SGX3-ENI30",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+        "set_code": "SS05-ENA26",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "11.76"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 3",
+        "set_code": "STP3-EN005",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Streets of Battle City",
+        "set_code": "SBC1-ENF12",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Marik (TCG)",
+        "set_code": "SDMA-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.9"
+      },
+      {
+        "set_name": "Structure Deck: Shaddoll Showdown",
+        "set_code": "SDSH-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.4"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN054",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 1475311,
+        "image_url": "https://images.ygoprodeck.com/images/cards/1475311.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1475311.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1475311.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.14",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "2.49",
+        "amazon_price": "2.98",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 98022050,
+    "name": "Animadorned Archosaur",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can destroy 1 Dinosaur monster in your hand or face-up field, except \"Animadorned Archosaur\", then add 1 Reptile, Sea Serpent, or Winged Beast monster with the same original Level as that destroyed monster, OR 1 \"Evolution Pill\" Spell, from your Deck to your hand. You can only use this effect of \"Animadorned Archosaur\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 0,
+    "def": 0,
+    "level": 1,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/animadorned-archosaur-10812",
+    "card_sets": [
+      {
+        "set_name": "2021 Tin of Ancient Battles",
+        "set_code": "MP21-EN062",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Eternity Code",
+        "set_code": "ETCO-EN037",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN050",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN050",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 98022050,
+        "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+      },
+      {
+        "id": 98022050,
+        "image_url": "https://images.ygoprodeck.com/images/cards/98022050.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98022050.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98022050.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.22",
+        "tcgplayer_price": "0.21",
+        "ebay_price": "3.24",
+        "amazon_price": "0.20",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 36042004,
+    "name": "Babycerasaurus",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower Dinosaur-Type monster from your Deck.",
+    "race": "Dinosaur",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/babycerasaurus-3048",
+    "card_sets": [
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN013",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 13 participation cards",
+        "set_code": "DL13-EN012",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "42.36"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN157",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN056",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "1.13"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN005",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT005",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Power of the Duelist",
+        "set_code": "POTD-EN022",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN131",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN131",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Dinosaur's Rage",
+        "set_code": "SD09-EN016",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.68"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN013",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 36042004,
+        "image_url": "https://images.ygoprodeck.com/images/cards/36042004.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36042004.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36042004.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "5.25",
+        "amazon_price": "0.36",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 88890658,
+    "name": "Baelgrill de Nouvelles",
+    "typeline": [
+      "Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can negate the effects of all face-up cards your opponent currently controls (until the end of this turn), then, if this card was Special Summoned by the effect of a \"Nouvelles\" monster, you can Tribute as many monsters your opponent controls as possible. (Quick Effect): You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 \"Hungry Burger\" from your hand or Deck. You can only use each effect of \"Baelgrill de Nouvelles\" once per turn.",
+    "race": "Warrior",
+    "atk": 2400,
+    "def": 1850,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/baelgrill-de-nouvelles-13741",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN034",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 88890658,
+        "image_url": "https://images.ygoprodeck.com/images/cards/88890658.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88890658.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88890658.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.16",
+        "tcgplayer_price": "0.24",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 52495649,
+    "name": "Balameuniere de Nouvelles",
+    "typeline": [
+      "Beast-Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can add 1 \"Nouvelles\" or \"Recipe\" card from your Deck to your hand. You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 Level 6 \"Nouvelles\" Ritual Monster from your hand or Deck. This is a Quick Effect if this card was Special Summoned by the effect of a \"Nouvelles\" monster. You can only use each effect of \"Balameuniere de Nouvelles\" once per turn.",
+    "race": "Beast-Warrior",
+    "atk": 2000,
+    "def": 1850,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/balameuniere-de-nouvelles-13742",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN033",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 52495649,
+        "image_url": "https://images.ygoprodeck.com/images/cards/52495649.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52495649.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52495649.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.24",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 26223582,
+    "name": "Buerillabaisse de Nouvelles",
+    "typeline": [
+      "Beast-Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated \"Nouvelles\" card to your hand, also shuffle the rest into the Deck. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Tribute this card and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 2 or 3 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Buerillabaisse de Nouvelles\" once per turn.",
+    "race": "Beast-Warrior",
+    "atk": 400,
+    "def": 1850,
+    "level": 1,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/buerillabaisse-de-nouvelles-13743",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN029",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 26223582,
+        "image_url": "https://images.ygoprodeck.com/images/cards/26223582.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26223582.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26223582.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.12",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 87955518,
+    "name": "Chef's Special Recipe",
+    "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
+    "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Nouvelles\" Ritual Monster: Negate the activation, then you can destroy that card if you control a monster that was Special Summoned by the effect of a \"Nouvelles\" monster. If you Special Summon \"Hungry Burger\": You can banish this card from your GY; Tribute as many monsters your opponent controls as possible. You can only use each effect of \"Chef's Special Recipe\" once per turn.",
+    "race": "Counter",
+    "archetype": "Recipe",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/chef-s-special-recipe-13750",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN040",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN040",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 87955518,
+        "image_url": "https://images.ygoprodeck.com/images/cards/87955518.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87955518.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87955518.jpg"
+      },
+      {
+        "id": 87955518,
+        "image_url": "https://images.ygoprodeck.com/images/cards/87955518.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87955518.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87955518.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.08",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 53618197,
+    "name": "Confiras de Nouvelles",
+    "typeline": [
+      "Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy it. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Tribute this card and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 3 or 4 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Confiras de Nouvelles\" once per turn.",
+    "race": "Warrior",
+    "atk": 800,
+    "def": 1850,
+    "level": 2,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/confiras-de-nouvelles-13744",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN030",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 53618197,
+        "image_url": "https://images.ygoprodeck.com/images/cards/53618197.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53618197.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53618197.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.20",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 35027493,
+    "name": "Deck Devastation Virus",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deck-devastation-virus-2970",
+    "card_sets": [
+      {
+        "set_name": "Champion Pack: Game Five",
+        "set_code": "CP05-EN009",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Revelation Volume 3",
+        "set_code": "DR3-EN178",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Flaming Eternity",
+        "set_code": "FET-EN058",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Flaming Eternity",
+        "set_code": "FET-EN058",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gates of the Underworld Structure Deck",
+        "set_code": "SDGU-EN033",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.85"
+      },
+      {
+        "set_name": "Gold Series 4: Pyramids Edition",
+        "set_code": "GLD4-EN049",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC-EN047",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 26",
+        "set_code": "OP26-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN150",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN150",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Dark World",
+        "set_code": "SR13-EN038",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN032",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN058",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_goat": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 35027493,
+        "image_url": "https://images.ygoprodeck.com/images/cards/35027493.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35027493.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.05",
+        "tcgplayer_price": "0.16",
+        "ebay_price": "0.00",
+        "amazon_price": "3.94",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 38179121,
+    "name": "Double Evolution Pill",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Banish 1 Dinosaur monster and 1 non-Dinosaur monster from your hand and/or GY; Special Summon 1 Level 7 or higher Dinosaur monster from your hand or Deck, ignoring its Summoning conditions. You can only activate 1 \"Double Evolution Pill\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/double-evolution-pill-8713",
+    "card_sets": [
+      {
+        "set_name": "Battles of Legend: Light's Revenge",
+        "set_code": "BLLR-EN028",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "5.23"
+      },
+      {
+        "set_name": "Duel Overload",
+        "set_code": "DUOV-EN089",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.93"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN053",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 38179121,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38179121.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38179121.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38179121.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.16",
+        "ebay_price": "2.94",
+        "amazon_price": "2.47",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 98045062,
+    "name": "Enemy Controller",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+    "race": "Quick-Play",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enemy-controller-8146",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN051",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Ultimate Kaiba Set",
+        "set_code": "KC01-EN049",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Ancient Sanctuary",
+        "set_code": "AST-037",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "35.19"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN144",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN144",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN149",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03-EN149",
+        "set_rarity": "Shatterfoil Rare",
+        "set_rarity_code": "(SHR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN078",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01-EN078",
+        "set_rarity": "Starfoil Rare",
+        "set_rarity_code": "(SFR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Champion Pack: Game One",
+        "set_code": "CP01-EN010",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Revelation Volume 2",
+        "set_code": "DR2-EN149",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duel Terminal 2",
+        "set_code": "DT02-EN040",
+        "set_rarity": "Duel Terminal Rare Parallel Rare",
+        "set_rarity_code": "(DRPR)",
+        "set_price": "9.29"
+      },
+      {
+        "set_name": "Duelist League Demo 2010",
+        "set_code": "DLDI-EN004",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "5"
+      },
+      {
+        "set_name": "Duelist Pack: Battle City",
+        "set_code": "DPBC-EN019",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Egyptian God Deck: Slifer the Sky Dragon",
+        "set_code": "EGS1-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.39"
+      },
+      {
+        "set_name": "Emperor of Darkness Structure Deck",
+        "set_code": "SR01-EN031",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gold Series 3",
+        "set_code": "GLD3-EN043",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Hidden Arsenal: Chapter 1",
+        "set_code": "HAC1-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Hidden Arsenal: Chapter 1",
+        "set_code": "HAC1-EN025",
+        "set_rarity": "Duel Terminal Normal Parallel Rare",
+        "set_rarity_code": "(DNPR)",
+        "set_price": "2.2"
+      },
+      {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC-EN032",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Decks II",
+        "set_code": "LDK2-ENK23",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 23",
+        "set_code": "OP23-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Premium Gold: Return of the Bling",
+        "set_code": "PGL2-EN076",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Saga of Blue-Eyes White Dragon Structure Deck",
+        "set_code": "SDBE-EN032",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.59"
+      },
+      {
+        "set_name": "Spellcaster's Command Structure Deck",
+        "set_code": "SDSC-EN029",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.49"
+      },
+      {
+        "set_name": "Starter Deck: Duelist Toolbox",
+        "set_code": "5DS3-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.22"
+      },
+      {
+        "set_name": "Starter Deck: Kaiba Reloaded",
+        "set_code": "YSKR-EN035",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.53"
+      },
+      {
+        "set_name": "Starter Deck: Syrus Truesdale",
+        "set_code": "YSDS-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.71"
+      },
+      {
+        "set_name": "Structure Deck: Machine Re-Volt",
+        "set_code": "SD10-EN027",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.6"
+      },
+      {
+        "set_name": "Structure Deck: Seto Kaiba",
+        "set_code": "SDKS-EN026",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.39"
+      },
+      {
+        "set_name": "The Dark Emperor Structure Deck",
+        "set_code": "SDDE-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.51"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN052",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 98045062,
+        "image_url": "https://images.ygoprodeck.com/images/cards/98045062.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98045062.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.05",
+        "ebay_price": "9.99",
+        "amazon_price": "2.48",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 54974237,
+    "name": "Eradicator Epidemic Virus",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eradicator-epidemic-virus-4680",
+    "card_sets": [
+      {
+        "set_name": "Force of the Breaker",
+        "set_code": "FOTB-EN068",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Gates of the Underworld Structure Deck",
+        "set_code": "SDGU-EN034",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.05"
+      },
+      {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC-EN048",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Master of Pendulum Structure Deck",
+        "set_code": "SDMP-EN040",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.8"
+      },
+      {
+        "set_name": "OTS Tournament Pack 26",
+        "set_code": "OP26-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN183",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Bonanza",
+        "set_code": "RA03-EN183",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Lair of Darkness",
+        "set_code": "SR06-EN033",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Duelist Genesis: Special Edition",
+        "set_code": "TDGS-ENSE1",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "3.79"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN059",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 54974237,
+        "image_url": "https://images.ygoprodeck.com/images/cards/54974237.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54974237.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54974237.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "5.50",
+        "amazon_price": "3.01",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 18511599,
+    "name": "Evolzar Solda",
+    "typeline": [
+      "Dragon",
+      "Xyz",
+      "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 6 Dinosaur-Type monsters\nThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).",
+    "race": "Dragon",
+    "atk": 2600,
+    "def": 1000,
+    "level": 6,
+    "attribute": "FIRE",
+    "archetype": "Evolzar",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/evolzar-solda-1605",
+    "card_sets": [
+      {
+        "set_name": "Order of Chaos",
+        "set_code": "ORCS-EN045",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Order of Chaos",
+        "set_code": "ORCS-EN045",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN015",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 18511599,
+        "image_url": "https://images.ygoprodeck.com/images/cards/18511599.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18511599.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18511599.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.17",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "4.70",
+        "amazon_price": "14.40",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 57103969,
+    "name": "Fire Formation - Tenki",
+    "type": "Spell Card",
+    "humanReadableCardType": "Continuous Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+    "race": "Continuous",
+    "archetype": "Fire Formation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-formation-tenki-4866",
+    "card_sets": [
+      {
+        "set_name": "Astral Pack Three",
+        "set_code": "AP03-EN003",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Cosmo Blazer",
+        "set_code": "CBLZ-EN059",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 18 participation cards",
+        "set_code": "DL18-EN014",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "9.82"
+      },
+      {
+        "set_name": "Fire Fists: Special Edition",
+        "set_code": "FFSE-EN001",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "5.41"
+      },
+      {
+        "set_name": "Fists of the Gadgets",
+        "set_code": "FIGA-EN028",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN042",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 12",
+        "set_code": "OP12-EN025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 12 (POR)",
+        "set_code": "OP12-PT025",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD-EN050",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "3.1"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN201",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN201",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN057",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.01"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN057",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "5.53"
+      },
+      {
+        "set_name": "Structure Deck: Fire Kings",
+        "set_code": "SR14-EN029",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Secret Forces",
+        "set_code": "THSF-EN057",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.32"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN028",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN028",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 57103969,
+        "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+      },
+      {
+        "id": 57103969,
+        "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.10",
+        "ebay_price": "1.48",
+        "amazon_price": "1.97",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 15001940,
+    "name": "Foie Glasya de Nouvelles",
+    "typeline": [
+      "Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can target up to 3 cards in any GY(s); shuffle them into the Deck. When a card or effect is activated that targets a monster on the field, or when a monster is targeted for an attack (Quick Effect): You can Tribute 1 \"Nouvelles\" monster you control and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 5 or 6 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Foie Glasya de Nouvelles\" once per turn.",
+    "race": "Warrior",
+    "atk": 1600,
+    "def": 1850,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/foie-glasya-de-nouvelles-13745",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN032",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 15001940,
+        "image_url": "https://images.ygoprodeck.com/images/cards/15001940.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15001940.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15001940.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.22",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 47325505,
+    "name": "Fossil Dig",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 Level 6 or lower Dinosaur monster from your Deck to your hand.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fossil-dig-4036",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN053",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN053",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Ancient Prophecy",
+        "set_code": "ANPR-EN062",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Brothers of Legend",
+        "set_code": "BROL-EN089",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "1.38"
+      },
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN022",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duelist League 13 participation cards",
+        "set_code": "DL13-EN018",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "13.89"
+      },
+      {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW-EN164",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN057",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "1.14"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7",
+        "set_code": "OP07-EN009",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 7 (POR)",
+        "set_code": "OP07-PT009",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0.00"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN055",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN055",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 47325505,
+        "image_url": "https://images.ygoprodeck.com/images/cards/47325505.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47325505.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47325505.jpg"
+      },
+      {
+        "id": 47325505,
+        "image_url": "https://images.ygoprodeck.com/images/cards/47325505.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47325505.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47325505.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.99",
+        "amazon_price": "0.33",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 6631034,
+    "name": "Frostosaurus",
+    "typeline": [
+      "Dinosaur",
+      "Normal"
+    ],
+    "type": "Normal Monster",
+    "humanReadableCardType": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+    "race": "Dinosaur",
+    "atk": 2600,
+    "def": 1700,
+    "level": 6,
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/frostosaurus-581",
+    "card_sets": [
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN003",
+        "set_rarity": "Mosaic Rare",
+        "set_rarity_code": "(MSR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02-EN003",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Legendary Duelists: Duels From the Deep",
+        "set_code": "LED9-EN046",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.9"
+      },
+      {
+        "set_name": "Starter Deck: Xyz Symphony",
+        "set_code": "YS12-EN003",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.39"
+      },
+      {
+        "set_name": "Strike of Neos",
+        "set_code": "STON-EN002",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Strike of Neos",
+        "set_code": "STON-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN008",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 6631034,
+        "image_url": "https://images.ygoprodeck.com/images/cards/6631034.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6631034.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6631034.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.07",
+        "ebay_price": "59.99",
+        "amazon_price": "0.98",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 80280944,
+    "name": "Giant Rex",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot attack directly. If this card is banished: You can Special Summon this card, and if you do, this card gains 200 ATK for each of your banished Dinosaur monsters. You can only use this effect of \"Giant Rex\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 2000,
+    "def": 1200,
+    "level": 4,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/giant-rex-8520",
+    "card_sets": [
+      {
+        "set_name": "Battles of Legend: Light's Revenge",
+        "set_code": "BLLR-EN027",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "5.25"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN055",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "1.14"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN010",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 80280944,
+        "image_url": "https://images.ygoprodeck.com/images/cards/80280944.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80280944.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80280944.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.14",
+        "tcgplayer_price": "0.10",
+        "ebay_price": "0.99",
+        "amazon_price": "5.99",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 67523044,
+    "name": "Ground Xeno",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 Dinosaur Tuner or Dinosaur Normal Monster from your Deck to your hand, then destroy 1 card in your hand. You can banish this card from your GY; Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of \"Ground Xeno\" once per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ground-xeno-13735",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN138",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN006",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 67523044,
+        "image_url": "https://images.ygoprodeck.com/images/cards/67523044.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67523044.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67523044.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "7.85",
+        "tcgplayer_price": "11.17",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "25.99"
+      }
+    ]
+  },
+  {
+    "id": 80811661,
+    "name": "Hamburger Recipe",
+    "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
+    "desc": "This card is used to Ritual Summon \"Hungry Burger\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+    "race": "Ritual",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hamburger-recipe-6779",
+    "card_sets": [
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-063",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.49"
+      },
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-E063",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "16.6"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-063",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.69"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-EN063",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.52"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN042",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 80811661,
+        "image_url": "https://images.ygoprodeck.com/images/cards/80811661.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80811661.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80811661.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.07",
+        "ebay_price": "3.95",
+        "amazon_price": "1.46",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 30243636,
+    "name": "Hungry Burger",
+    "typeline": [
+      "Warrior",
+      "Ritual"
+    ],
+    "type": "Ritual Monster",
+    "humanReadableCardType": "Ritual Monster",
+    "frameType": "ritual",
+    "desc": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Hamburger Recipe\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+    "race": "Warrior",
+    "atk": 2000,
+    "def": 1850,
+    "level": 6,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hungry-burger-2563",
+    "card_sets": [
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-068",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.24"
+      },
+      {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL-E068",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "23.97"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-068",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.74"
+      },
+      {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL-EN068",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "2.25"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN041",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN041",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 30243636,
+        "image_url": "https://images.ygoprodeck.com/images/cards/30243636.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30243636.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30243636.jpg"
+      },
+      {
+        "id": 30243636,
+        "image_url": "https://images.ygoprodeck.com/images/cards/30243636.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30243636.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30243636.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.16",
+        "ebay_price": "3.95",
+        "amazon_price": "0.59",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 18474999,
+    "name": "Impcantation Bookstone",
+    "typeline": [
+      "Spellcaster",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal 1 Ritual Spell in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Bookstone\". If this card is Special Summoned from the Deck: You can target 1 Ritual Spell in your GY; add it to your hand. You can only use 1 \"Impcantation Bookstone\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+    "race": "Spellcaster",
+    "atk": 0,
+    "def": 0,
+    "level": 5,
+    "attribute": "DARK",
+    "archetype": "Impcantation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/impcantation-bookstone-9672",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN172",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Soul Fusion",
+        "set_code": "SOFU-EN024",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN049",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 18474999,
+        "image_url": "https://images.ygoprodeck.com/images/cards/18474999.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18474999.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18474999.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "1.13",
+        "amazon_price": "0.73",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 53303460,
+    "name": "Impcantation Candoll",
+    "typeline": [
+      "Pyro",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal 1 Ritual Spell in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Candoll\". If this card is Special Summoned from the Deck: You can add 1 Ritual Spell from your Deck to your hand. You can only use 1 \"Impcantation Candoll\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+    "race": "Pyro",
+    "atk": 0,
+    "def": 0,
+    "level": 4,
+    "attribute": "LIGHT",
+    "archetype": "Impcantation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/impcantation-candoll-9373",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN083",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Cybernetic Horizon",
+        "set_code": "CYHO-EN012",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN043",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 53303460,
+        "image_url": "https://images.ygoprodeck.com/images/cards/53303460.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53303460.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53303460.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.16",
+        "ebay_price": "0.99",
+        "amazon_price": "1.80",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 65877963,
+    "name": "Impcantation Chalislime",
+    "typeline": [
+      "Aqua",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with \"Impcantation Inception\". You can reveal this card in your hand; discard 1 card, and if you do, Special Summon 1 \"Impcantation\" monster from your Deck, also, during the End Phase, lose 2500 LP if you did not Special Summon a Ritual Monster this turn after you resolved this effect. You can send 1 \"Impcantation\" card from your hand or face-up field to the GY, then target 1 monster your opponent controls; destroy it. You can only use 1 \"Impcantation Chalislime\" effect per turn, and only once that turn.",
+    "race": "Aqua",
+    "atk": 2500,
+    "def": 1800,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Impcantation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/impcantation-chalislime-9863",
+    "card_sets": [
+      {
+        "set_name": "Genesis Impact",
+        "set_code": "GEIM-EN047",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "1.44"
+      },
+      {
+        "set_name": "Savage Strike",
+        "set_code": "SAST-EN032",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN051",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 65877963,
+        "image_url": "https://images.ygoprodeck.com/images/cards/65877963.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65877963.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65877963.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.08",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "0.99",
+        "amazon_price": "0.59",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 82085295,
+    "name": "Impcantation Penciplume",
+    "typeline": [
+      "Psychic",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal 1 Ritual Monster in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Penciplume\". If this card is Special Summoned from the Deck: You can target 1 Ritual Monster in your GY; add it to your hand. You can only use 1 \"Impcantation Penciplume\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+    "race": "Psychic",
+    "atk": 0,
+    "def": 0,
+    "level": 3,
+    "attribute": "LIGHT",
+    "archetype": "Impcantation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/impcantation-penciplume-9671",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN171",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN021",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.15"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT021",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Soul Fusion",
+        "set_code": "SOFU-EN023",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN048",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 82085295,
+        "image_url": "https://images.ygoprodeck.com/images/cards/82085295.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82085295.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82085295.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.10",
+        "ebay_price": "0.99",
+        "amazon_price": "0.60",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 80701178,
+    "name": "Impcantation Talismandra",
+    "typeline": [
+      "Plant",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can reveal 1 Ritual Monster in your hand; Special Summon both this card from your hand and 1 \"Impcantation\" monster from your Deck, except \"Impcantation Talismandra\". If this card is Special Summoned from the Deck: You can add 1 Ritual Monster from your Deck to your hand. You can only use 1 \"Impcantation Talismandra\" effect per turn, and only once that turn. You cannot Special Summon monsters from the Extra Deck.",
+    "race": "Plant",
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "attribute": "DARK",
+    "archetype": "Impcantation",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/impcantation-talismandra-9372",
+    "card_sets": [
+      {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19-EN084",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Cybernetic Horizon",
+        "set_code": "CYHO-EN013",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.3"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT020",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN044",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 80701178,
+        "image_url": "https://images.ygoprodeck.com/images/cards/80701178.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80701178.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80701178.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "1.99",
+        "amazon_price": "1.80",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 17228908,
+    "name": "Lost World",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "All monsters on the field lose 500 ATK and DEF, except Dinosaur-Type monsters. Once per turn, if a Dinosaur-Type monster is Normal or Special Summoned (except during the Damage Step): You can Special Summon 1 \"Jurraegg Token\" (Dinosaur-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's field in Defense Position. While your opponent controls a Token, they cannot target monsters on the field with card effects, except Tokens. Once per turn, if a Normal Monster(s) on the field would be destroyed by battle or card effect, you can destroy that many Dinosaur-Type monsters in your hand and/or Deck instead.",
+    "race": "Field",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lost-world-8567",
+    "card_sets": [
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN021",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN154",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN058",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0.91"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN057",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 17228908,
+        "image_url": "https://images.ygoprodeck.com/images/cards/17228908.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17228908.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17228908.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.14",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "1.50",
+        "amazon_price": "3.51",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 95492061,
+    "name": "Manju of the Ten Thousand Hands",
+    "typeline": [
+      "Fairy",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand.",
+    "race": "Fairy",
+    "atk": 1400,
+    "def": 1000,
+    "level": 4,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/manju-of-the-ten-thousand-hands-7954",
+    "card_sets": [
+      {
+        "set_name": "Champion Pack: Game Four",
+        "set_code": "CP04-EN017",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dark Revelation Volume 2",
+        "set_code": "DR2-EN089",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Duel Terminal 6a",
+        "set_code": "DT06-EN008",
+        "set_rarity": "Duel Terminal Normal Parallel Rare",
+        "set_rarity_code": "(DNPR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Ghosts From the Past: The 2nd Haunting",
+        "set_code": "GFP2-EN099",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.07"
+      },
+      {
+        "set_name": "Hidden Summoners",
+        "set_code": "HISU-EN047",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "3.61"
+      },
+      {
+        "set_name": "Invasion of Chaos",
+        "set_code": "IOC-088",
+        "set_rarity": "Short Print",
+        "set_rarity_code": "(SP)",
+        "set_price": "4.01"
+      },
+      {
+        "set_name": "Invasion of Chaos",
+        "set_code": "IOC-EN088",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Invasion of Chaos",
+        "set_code": "IOC-EN088",
+        "set_rarity": "Short Print",
+        "set_rarity_code": "(SP)",
+        "set_price": "17.47"
+      },
+      {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW-EN250",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "4.52"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18",
+        "set_code": "OP18-EN013",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "1.75"
+      },
+      {
+        "set_name": "OTS Tournament Pack 18 (POR)",
+        "set_code": "OP18-PT013",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Secret Forces",
+        "set_code": "THSF-EN033",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "4.8"
+      },
+      {
+        "set_name": "Turbo Pack: Booster Five",
+        "set_code": "TU05-EN012",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN046",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 95492061,
+        "image_url": "https://images.ygoprodeck.com/images/cards/95492061.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95492061.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95492061.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.02",
+        "tcgplayer_price": "0.21",
+        "ebay_price": "0.99",
+        "amazon_price": "1.69",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 38572779,
+    "name": "Miscellaneousaurus",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During either player's Main Phase: You can send this card from your hand to the Graveyard; during this Main Phase, Dinosaur-Type monsters you control are unaffected by your opponent's activated effects. You can banish any number of Dinosaur-Type monsters from your Graveyard, including this card; Special Summon 1 Dinosaur-Type monster from your Deck with a Level equal to the total number of monsters banished to activate this effect, but destroy it during the End Phase. You can only use this effect of \"Miscellaneousaurus\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/miscellaneousaurus-3272",
+    "card_sets": [
+      {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17-EN193",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN014",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN015",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN022",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Raging Tempest",
+        "set_code": "RATE-EN028",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN011",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 38572779,
+        "image_url": "https://images.ygoprodeck.com/images/cards/38572779.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38572779.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38572779.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.99",
+        "amazon_price": "0.49",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 15388353,
+    "name": "Nouvelles Restaurant \"At Table\"",
+    "type": "Spell Card",
+    "humanReadableCardType": "Field Spell",
+    "frameType": "spell",
+    "desc": "When this card is activated: You can add 1 \"Recipe\" card from your Deck or GY to your hand. Once per turn: You can place 1 Ritual Monster from your hand on the bottom of the Deck; draw 1 card. Once per turn, during your End Phase: You can target 2 cards in your GY, including a \"Recipe\" card; place them on the bottom of your Deck in any order, then draw 1 card. You can only activate 1 \"Nouvelles Restaurant \"At Table\"\" per turn.",
+    "race": "Field",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nouvelles-restaurant-at-table-13746",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN035",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN035",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 15388353,
+        "image_url": "https://images.ygoprodeck.com/images/cards/15388353.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15388353.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15388353.jpg"
+      },
+      {
+        "id": 15388353,
+        "image_url": "https://images.ygoprodeck.com/images/cards/15388353.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15388353.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15388353.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "6.70",
+        "tcgplayer_price": "7.80",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.00"
+      }
+    ]
+  },
+  {
+    "id": 82946847,
+    "name": "Petiteranodon",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or higher Dinosaur-Type monster from your Deck, but it cannot attack this turn.",
+    "race": "Dinosaur",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/petiteranodon-8510",
+    "card_sets": [
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN000",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN014",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 82946847,
+        "image_url": "https://images.ygoprodeck.com/images/cards/82946847.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82946847.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82946847.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.16",
+        "tcgplayer_price": "0.20",
+        "ebay_price": "3.95",
+        "amazon_price": "1.51",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 89016236,
+    "name": "Poeltis de Nouvelles",
+    "typeline": [
+      "Beast-Warrior",
+      "Ritual",
+      "Effect"
+    ],
+    "type": "Ritual Effect Monster",
+    "humanReadableCardType": "Ritual Effect Monster",
+    "frameType": "ritual",
+    "desc": "You can Ritual Summon this card with a \"Recipe\" card. If this card is Special Summoned: You can draw 1 card. When a card or effect is activated that targets a monster on the field, or when a monster is targeted for an attack (Quick Effect): You can Tribute 1 \"Nouvelles\" monster you control and 1 Attack Position monster on either field, and if you do, Special Summon 1 Level 4 or 5 \"Nouvelles\" Ritual Monster from your hand or Deck. You can only use each effect of \"Poeltis de Nouvelles\" once per turn.",
+    "race": "Beast-Warrior",
+    "atk": 1200,
+    "def": 1850,
+    "level": 3,
+    "attribute": "DARK",
+    "archetype": "Nouvelles",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poeltis-de-nouvelles-13747",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN031",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 89016236,
+        "image_url": "https://images.ygoprodeck.com/images/cards/89016236.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89016236.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89016236.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.19",
+        "tcgplayer_price": "0.27",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 13048472,
+    "name": "Pre-Preparation of Rites",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
+    "card_sets": [
+      {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17-EN034",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN055",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection",
+        "set_code": "RA01-EN055",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Relentless Revenge",
+        "set_code": "BLRR-EN090",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Shining Victories",
+        "set_code": "SHVI-EN065",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel Tournament Pack 4",
+        "set_code": "STP4-EN012",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Speed Duel: Battle City Box",
+        "set_code": "SBCB-EN121",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "3.56"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN056",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 13048472,
+        "image_url": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13048472.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13048472.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.20",
+        "tcgplayer_price": "0.31",
+        "ebay_price": "3.25",
+        "amazon_price": "4.69",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 96729612,
+    "name": "Preparation of Rites",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/preparation-of-rites-8048",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "25th Anniversary Rarity Collection II",
+        "set_code": "RA02-EN056",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Amazing Defenders",
+        "set_code": "AMDE-EN055",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Chapter 1",
+        "set_code": "BLC1-EN121",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Battles of Legend: Relentless Revenge",
+        "set_code": "BLRR-EN088",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Hidden Summoners",
+        "set_code": "HISU-EN042",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.94"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN144",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Premium Gold: Return of the Bling",
+        "set_code": "PGL2-EN054",
+        "set_rarity": "Gold Rare",
+        "set_rarity_code": "(GUR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Stardust Overdrive",
+        "set_code": "SOVR-EN057",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "The Secret Forces",
+        "set_code": "THSF-EN053",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "2.86"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN045",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 96729612,
+        "image_url": "https://images.ygoprodeck.com/images/cards/96729612.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96729612.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96729612.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.08",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "5.74",
+        "amazon_price": "2.49",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 40551410,
+    "name": "Recette de Personnel (Staff Recipe)",
+    "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "You can target 1 Ritual Monster you control; Special Summon 1 \"Nouvelles Token\" (Fiend/DARK/Level 1/ATK 50/DEF 50). This Token's Level becomes the same as that monster's. You can send this face-up card from your Spell & Trap Zone to the GY; Ritual Summon 1 \"Nouvelles\" Ritual Monster from your hand by Tributing monsters from your hand or field whose total Levels exactly equal the Level of that Ritual Monster. You can only use each effect of \"Recette de Personnel (Staff Recipe)\" once per turn.",
+    "race": "Continuous",
+    "archetype": "Recipe",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/recette-de-personnel-staff-recipe-13748",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN039",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 40551410,
+        "image_url": "https://images.ygoprodeck.com/images/cards/40551410.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40551410.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40551410.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 87778106,
+    "name": "Recette de Poisson (Fish Recipe)",
+    "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
+    "desc": "This card can be used to Ritual Summon any \"Nouvelles\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Ritual Summoned \"Buerillabaisse de Nouvelles\", you can apply the following effect.\r\n● Add 1 \"Recipe\" Ritual Spell from your Deck or GY to your hand, except \"Recette de Poisson (Fish Recipe)\".",
+    "race": "Ritual",
+    "archetype": "Recipe",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/recette-de-poisson-fish-recipe-13749",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN037",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 87778106,
+        "image_url": "https://images.ygoprodeck.com/images/cards/87778106.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87778106.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87778106.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.15",
+        "tcgplayer_price": "0.30",
+        "ebay_price": "1.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 14166715,
+    "name": "Recette de Viande (Meat Recipe)",
+    "type": "Spell Card",
+    "humanReadableCardType": "Ritual Spell",
+    "frameType": "spell",
+    "desc": "This card can be used to Ritual Summon any \"Nouvelles\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Ritual Summoned \"Confiras de Nouvelles\", you can apply the following effect.\r\n● Change all Defense Position monsters your opponent currently controls to Attack Position.",
+    "race": "Ritual",
+    "archetype": "Recipe",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/recette-de-viande-meat-recipe-13751",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN038",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 14166715,
+        "image_url": "https://images.ygoprodeck.com/images/cards/14166715.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14166715.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14166715.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.16",
+        "tcgplayer_price": "0.19",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 28168628,
+    "name": "Rock of the Vanquisher",
+    "typeline": [
+      "Rock",
+      "Link",
+      "Effect"
+    ],
+    "type": "Link Monster",
+    "humanReadableCardType": "Link Effect Monster",
+    "frameType": "link",
+    "desc": "1 \"Vanquish Soul\" monster\r\nCannot be used as Link Material. While you control a \"Vanquish Soul\" monster, your opponent's monsters can only target monsters you control with the highest ATK (their choice, if tied) for attacks. During the Main Phase (Quick Effect): You can activate 1 of these effects;\r\n● Special Summon 1 \"Vanquish Soul\" monster from your hand.\r\n● Add 1 \"Vanquish Soul\" monster from your GY to your hand.\r\nYou can only use this effect of \"Rock of the Vanquisher\" once per turn.",
+    "race": "Rock",
+    "atk": 0,
+    "def": null,
+    "level": null,
+    "attribute": "DARK",
+    "archetype": "Vanquish Soul",
+    "linkval": 1,
+    "linkmarkers": [
+      "Bottom"
+    ],
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rock-of-the-vanquisher-13785",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN141",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "OTS Tournament Pack 24",
+        "set_code": "OP24-EN002",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN022",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 28168628,
+        "image_url": "https://images.ygoprodeck.com/images/cards/28168628.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28168628.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28168628.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.69",
+        "tcgplayer_price": "2.82",
+        "ebay_price": "19.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "25.99"
+      }
+    ]
+  },
+  {
+    "id": 44335251,
+    "name": "Souleating Oviraptor",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can take 1 Dinosaur-Type monster from your Deck, and either add it to your hand or send it to the Graveyard. You can target 1 other Level 4 or lower Dinosaur-Type monster on the field; destroy it, then Special Summon 1 Dinosaur-Type monster from your Graveyard in Defense Position. You can only use each effect of \"Souleating Oviraptor\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 1800,
+    "def": 500,
+    "level": 4,
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/souleating-oviraptor-8511",
+    "card_sets": [
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN015",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN288",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN288",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN012",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN012",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 44335251,
+        "image_url": "https://images.ygoprodeck.com/images/cards/44335251.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44335251.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44335251.jpg"
+      },
+      {
+        "id": 44335251,
+        "image_url": "https://images.ygoprodeck.com/images/cards/44335251.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44335251.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44335251.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.23",
+        "ebay_price": "2.49",
+        "amazon_price": "2.46",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 54562327,
+    "name": "Stake your Soul!",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Reveal 1 monster in your hand; Special Summon 1 \"Vanquish Soul\" monster with the same Attribute, but a different name, from your Deck, but return it to the hand during the End Phase. You can only activate 1 \"Stake your Soul!\" per turn.",
+    "race": "Normal",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/stake-your-soul-13805",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN142",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN023",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN023",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 54562327,
+        "image_url": "https://images.ygoprodeck.com/images/cards/54562327.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54562327.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54562327.jpg"
+      },
+      {
+        "id": 54562327,
+        "image_url": "https://images.ygoprodeck.com/images/cards/54562327.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54562327.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54562327.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.91",
+        "tcgplayer_price": "3.29",
+        "ebay_price": "32.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "25.99"
+      }
+    ]
+  },
+  {
+    "id": 93918159,
+    "name": "Supersoaring",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Target 1 Dinosaur monster that is banished or in either GY; Special Summon it to your field. You can only activate 1 \"Supersoaring\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supersoaring-13768",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN007",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 93918159,
+        "image_url": "https://images.ygoprodeck.com/images/cards/93918159.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93918159.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93918159.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.09",
+        "tcgplayer_price": "0.13",
+        "ebay_price": "0.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 24207889,
+    "name": "There Can Be Only One",
+    "type": "Trap Card",
+    "humanReadableCardType": "Continuous Trap",
+    "frameType": "trap",
+    "desc": "Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type.",
+    "race": "Continuous",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/there-can-be-only-one-9026",
+    "card_sets": [
+      {
+        "set_name": "Duel Devastator",
+        "set_code": "DUDE-EN053",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "2.01"
+      },
+      {
+        "set_name": "Extreme Force",
+        "set_code": "EXFO-EN076",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO-EN162",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Structure Deck: Albaz Strike",
+        "set_code": "SDAZ-EN038",
+        "set_rarity": "Common",
+        "set_rarity_code": "(C)",
+        "set_price": "0.93"
+      },
+      {
+        "set_name": "Valiant Smashers",
+        "set_code": "VASM-EN015",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN060",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN060",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited",
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 24207889,
+        "image_url": "https://images.ygoprodeck.com/images/cards/24207889.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24207889.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24207889.jpg"
+      },
+      {
+        "id": 24207889,
+        "image_url": "https://images.ygoprodeck.com/images/cards/24207889.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24207889.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24207889.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "1.99",
+        "amazon_price": "1.36",
+        "coolstuffinc_price": "0.39"
+      }
+    ]
+  },
+  {
+    "id": 30128445,
+    "name": "Transcendosaurus Drillygnathus",
+    "typeline": [
+      "Dinosaur",
+      "Xyz",
+      "Effect"
+    ],
+    "type": "XYZ Monster",
+    "humanReadableCardType": "Xyz Effect Monster",
+    "frameType": "xyz",
+    "desc": "2 Level 6 monsters\r\nWhile this card has no materials, if it battles a monster, any battle damage it inflicts to your opponent is doubled. You can only use each of the following effects of \"Transcendosaurus Drillygnathus\" once per turn. You can detach 1 material from this card, then target 1 of your banished Dinosaur monsters; Special Summon it. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card.",
+    "race": "Dinosaur",
+    "atk": 3000,
+    "def": 2300,
+    "level": 6,
+    "attribute": "WIND",
+    "archetype": "Transcendosaurus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-drillygnathus-13736",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN005",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 30128445,
+        "image_url": "https://images.ygoprodeck.com/images/cards/30128445.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30128445.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30128445.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.13",
+        "tcgplayer_price": "0.15",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 67745632,
+    "name": "Transcendosaurus Gigantozowler",
+    "typeline": [
+      "Dinosaur",
+      "Fusion",
+      "Effect"
+    ],
+    "type": "Fusion Monster",
+    "humanReadableCardType": "Fusion Effect Monster",
+    "frameType": "fusion",
+    "desc": "1 Dinosaur monster + 1 Normal Monster\r\nIf this card is Special Summoned: You can target 1 Dinosaur monster in your GY; add it to your hand, then, if this card was Special Summoned from the GY, you can destroy 2 cards (1 from your hand or field, and 1 your opponent controls). If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of \"Transcendosaurus Gigantozowler\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 3800,
+    "def": 2000,
+    "level": 12,
+    "attribute": "EARTH",
+    "archetype": "Transcendosaurus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-gigantozowler-13737",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN003",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 67745632,
+        "image_url": "https://images.ygoprodeck.com/images/cards/67745632.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67745632.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67745632.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.26",
+        "tcgplayer_price": "0.38",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.99"
+      }
+    ]
+  },
+  {
+    "id": 94130731,
+    "name": "Transcendosaurus Glaciasaurus",
+    "typeline": [
+      "Dinosaur",
+      "Synchro",
+      "Effect"
+    ],
+    "type": "Synchro Monster",
+    "humanReadableCardType": "Synchro Effect Monster",
+    "frameType": "synchro",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle. Dinosaur monsters you control that were Special Summoned from the GY cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use this effect of \"Transcendosaurus Glaciasaurus\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 3600,
+    "def": 2700,
+    "level": 12,
+    "attribute": "WATER",
+    "archetype": "Transcendosaurus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-glaciasaurus-13738",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN297",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN004",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 94130731,
+        "image_url": "https://images.ygoprodeck.com/images/cards/94130731.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94130731.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94130731.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.09",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 31241087,
+    "name": "Transcendosaurus Meteorus",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. During your opponent's turn (Quick Effect): You can destroy 2 other Dinosaur monsters in your hand and/or field, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can send 1 Dinosaur monster from your Deck to the GY. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of \"Transcendosaurus Meteorus\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 3500,
+    "def": 700,
+    "level": 12,
+    "attribute": "FIRE",
+    "archetype": "Transcendosaurus",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/transcendosaurus-meteorus-13739",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN296",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN002",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 31241087,
+        "image_url": "https://images.ygoprodeck.com/images/cards/31241087.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31241087.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31241087.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.16",
+        "tcgplayer_price": "0.14",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "1.49"
+      }
+    ]
+  },
+  {
+    "id": 30539496,
+    "name": "True King Lithosagym, the Disaster",
+    "typeline": [
+      "Wyrm",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up field, including an EARTH monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were EARTH, you can also look at your opponent's Extra Deck and banish up to 3 monsters from it with different names. If this card is destroyed by card effect: You can Special Summon 1 non-EARTH Wyrm monster from your GY. You can only use each effect of \"True King Lithosagym, the Disaster\" once per turn.",
+    "race": "Wyrm",
+    "atk": 2500,
+    "def": 2300,
+    "level": 9,
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/true-king-lithosagym-the-disaster-2593",
+    "card_sets": [
+      {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17-EN186",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN275",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN275",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Raging Tempest",
+        "set_code": "RATE-EN019",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Toon Chaos",
+        "set_code": "TOCH-EN038",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN047",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 30539496,
+        "image_url": "https://images.ygoprodeck.com/images/cards/30539496.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30539496.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30539496.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.08",
+        "tcgplayer_price": "0.12",
+        "ebay_price": "0.99",
+        "amazon_price": "1.31",
+        "coolstuffinc_price": "0.25"
+      }
+    ]
+  },
+  {
+    "id": 18940556,
+    "name": "Ultimate Conductor Tyranno",
+    "typeline": [
+      "Dinosaur",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Dinosaur-Type monsters from your Graveyard. Once per turn, during either player's Main Phase: You can destroy 1 monster in your hand or field, and if you do, change all face-up monsters your opponent controls to face-down Defense Position. This card can attack all monsters your opponent controls, once each. At the start of the Damage Step, if this card attacks a Defense Position monster: You can inflict 1000 damage to your opponent, and if you do, send that Defense Position monster to the Graveyard.",
+    "race": "Dinosaur",
+    "atk": 3500,
+    "def": 3200,
+    "level": 10,
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-conductor-tyranno-8513",
+    "card_sets": [
+      {
+        "set_name": "Dinosmasher's Fury Structure Deck",
+        "set_code": "SR04-EN001",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Maximum Gold: El Dorado",
+        "set_code": "MGED-EN014",
+        "set_rarity": "Premium Gold Rare",
+        "set_rarity_code": "(PG)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN287",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN287",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN009",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN009",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 18940556,
+        "image_url": "https://images.ygoprodeck.com/images/cards/18940556.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18940556.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18940556.jpg"
+      },
+      {
+        "id": 18940556,
+        "image_url": "https://images.ygoprodeck.com/images/cards/18940556.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18940556.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18940556.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.10",
+        "tcgplayer_price": "0.17",
+        "ebay_price": "2.95",
+        "amazon_price": "2.99",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 27345070,
+    "name": "Vanquish Soul - Continue?",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Pay 500 LP, then target 1 \"Vanquish Soul\" monster in your GY; either add it to your hand or Special Summon it in Defense Position. You can only activate 1 \"Vanquish Soul - Continue?\" per turn.",
+    "race": "Quick-Play",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-continue-13783",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN025",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 27345070,
+        "image_url": "https://images.ygoprodeck.com/images/cards/27345070.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27345070.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27345070.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.24",
+        "tcgplayer_price": "0.32",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 91073013,
+    "name": "Vanquish Soul Caesar Valius",
+    "typeline": [
+      "Dragon",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During the Main Phase (Quick Effect): You can target 1 non-Dragon \"Vanquish Soul\" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● EARTH: This face-up card is unaffected by your opponent's activated effects this turn.\r\n● EARTH, FIRE, & DARK: Destroy 1 other card on the field.\r\nYou can only use each effect of \"Vanquish Soul Caesar Valius\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Dragon",
+    "atk": 3000,
+    "def": 1500,
+    "level": 8,
+    "attribute": "EARTH",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-caesar-valius-13775",
+    "card_sets": [
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN046",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN021",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN021",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 91073013,
+        "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+      },
+      {
+        "id": 91073013,
+        "image_url": "https://images.ygoprodeck.com/images/cards/91073013.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91073013.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91073013.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.09",
+        "tcgplayer_price": "0.12",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "19.99"
+      }
+    ]
+  },
+  {
+    "id": 80738884,
+    "name": "Vanquish Soul Calamity Caesar",
+    "type": "Trap Card",
+    "humanReadableCardType": "Counter Trap",
+    "frameType": "trap",
+    "desc": "When an opponent's Spell/Trap Card, or monster effect, is activated that targets a card(s) you control, while you control a \"Vanquish Soul\" monster: Negate the activation, and if you do, destroy that card, then you can inflict damage to your opponent equal to the ATK of 1 \"Vanquish Soul\" monster you control. You can only activate 1 \"Vanquish Soul Calamity Caesar\" per turn.",
+    "race": "Counter",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-calamity-caesar-13781",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN027",
+        "set_rarity": "Rare",
+        "set_rarity_code": "(R)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 80738884,
+        "image_url": "https://images.ygoprodeck.com/images/cards/80738884.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80738884.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80738884.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.26",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.49"
+      }
+    ]
+  },
+  {
+    "id": 29280200,
+    "name": "Vanquish Soul Dr. Mad Love",
+    "typeline": [
+      "Fiend",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Vanquish Soul\" Spell/Trap from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● DARK: 1 face-up monster your opponent controls loses 500 ATK/DEF.\r\n● DARK & EARTH: Return the 1 monster with the lowest DEF on the field to the hand (your choice, if tied).\r\nYou can only use each effect of \"Vanquish Soul Dr. Mad Love\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Fiend",
+    "atk": 1200,
+    "def": 2000,
+    "level": 4,
+    "attribute": "DARK",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-dr-mad-love-13809",
+    "card_sets": [
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN045",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN019",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN019",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 29280200,
+        "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+      },
+      {
+        "id": 29280200,
+        "image_url": "https://images.ygoprodeck.com/images/cards/29280200.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29280200.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29280200.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.12",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "19.99"
+      }
+    ]
+  },
+  {
+    "id": 91951471,
+    "name": "Vanquish Soul Dust Devil",
+    "type": "Spell Card",
+    "humanReadableCardType": "Quick-Play Spell",
+    "frameType": "spell",
+    "desc": "Target 1 \"Vanquish Soul\" monster you control; change its battle position, then you can change face-up monsters your opponent controls to face-down Defense Position, up to the number of \"Vanquish Soul\" monsters you control with different names. You can only activate 1 \"Vanquish Soul Dust Devil\" per turn.",
+    "race": "Quick-Play",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-dust-devil-13784",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN024",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 91951471,
+        "image_url": "https://images.ygoprodeck.com/images/cards/91951471.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91951471.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91951471.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.18",
+        "tcgplayer_price": "0.31",
+        "ebay_price": "2.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 92895501,
+    "name": "Vanquish Soul Heavy Borger",
+    "typeline": [
+      "Machine",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During the Main Phase (Quick Effect): You can target 1 non-Machine \"Vanquish Soul\" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● DARK: Draw 1 card.\r\n● EARTH & FIRE: Inflict 1500 damage to your opponent.\r\nYou can only use each effect of \"Vanquish Soul Heavy Borger\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Machine",
+    "atk": 2500,
+    "def": 1500,
+    "level": 7,
+    "attribute": "DARK",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-heavy-borger-13810",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN140",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN018",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN018",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 92895501,
+        "image_url": "https://images.ygoprodeck.com/images/cards/92895501.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92895501.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92895501.jpg"
+      },
+      {
+        "id": 92895501,
+        "image_url": "https://images.ygoprodeck.com/images/cards/92895501.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92895501.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92895501.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.36",
+        "tcgplayer_price": "4.79",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "19.99"
+      }
+    ]
+  },
+  {
+    "id": 66401502,
+    "name": "Vanquish Soul Pantera",
+    "typeline": [
+      "Beast-Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If you control no monsters in your Main Monster Zone: You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● EARTH: This card cannot be destroyed by battle this turn.\r\n● EARTH & FIRE: Destroy all Spells/Traps in this card's column.\r\nYou can only use each effect of \"Vanquish Soul Pantera\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Beast-Warrior",
+    "atk": 1700,
+    "def": 1900,
+    "level": 4,
+    "attribute": "EARTH",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-pantera-13811",
+    "card_sets": [
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Platinum Secret Rare",
+        "set_rarity_code": "(PS)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Quarter Century Secret Rare",
+        "set_rarity_code": "",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Secret Rare",
+        "set_rarity_code": "(ScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Ultimate Rare",
+        "set_rarity_code": "(UtR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Quarter Century Stampede",
+        "set_code": "RA04-EN044",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN017",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 66401502,
+        "image_url": "https://images.ygoprodeck.com/images/cards/66401502.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66401502.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66401502.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.06",
+        "tcgplayer_price": "0.11",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "19.99"
+      }
+    ]
+  },
+  {
+    "id": 55688914,
+    "name": "Vanquish Soul Pluton HG",
+    "typeline": [
+      "Zombie",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "During your opponent's turn, if you control no monsters, or only \"Vanquish Soul\" monsters, in your Main Monster Zone (Quick Effect): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● FIRE: This card gains 3000 DEF until the end of this turn.\r\n● DARK & EARTH: This card gains 3000 ATK until the end of this turn.\r\nYou can only use each effect of \"Vanquish Soul Pluton HG\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Zombie",
+    "atk": 0,
+    "def": 0,
+    "level": 6,
+    "attribute": "FIRE",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-pluton-hg-13812",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN020",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 55688914,
+        "image_url": "https://images.ygoprodeck.com/images/cards/55688914.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55688914.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55688914.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.19",
+        "tcgplayer_price": "0.23",
+        "ebay_price": "1.00",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 29302858,
+    "name": "Vanquish Soul Razen",
+    "typeline": [
+      "Warrior",
+      "Effect"
+    ],
+    "type": "Effect Monster",
+    "humanReadableCardType": "Effect Monster",
+    "frameType": "effect",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 non-Warrior \"Vanquish Soul\" monster from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);\r\n● FIRE: This card cannot be destroyed by card effects this turn.\r\n● FIRE & DARK: Destroy all other monsters in this card's column.\r\nYou can only use each effect of \"Vanquish Soul Razen\" once per turn, and cannot activate more than 1 in the same Chain.",
+    "race": "Warrior",
+    "atk": 1800,
+    "def": 1500,
+    "level": 4,
+    "attribute": "FIRE",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-razen-13813",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN139",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN016",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN016",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "banlist_info": {
+      "ban_tcg": "Limited",
+      "ban_ocg": "Limited"
+    },
+    "card_images": [
+      {
+        "id": 29302858,
+        "image_url": "https://images.ygoprodeck.com/images/cards/29302858.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29302858.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29302858.jpg"
+      },
+      {
+        "id": 29302858,
+        "image_url": "https://images.ygoprodeck.com/images/cards/29302858.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29302858.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29302858.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "2.53",
+        "tcgplayer_price": "3.66",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "29.99"
+      }
+    ]
+  },
+  {
+    "id": 53330789,
+    "name": "Vanquish Soul Trinity Burst",
+    "type": "Trap Card",
+    "humanReadableCardType": "Normal Trap",
+    "frameType": "trap",
+    "desc": "Target 1 \"Vanquish Soul\" monster you control; Special Summon up to 2 \"Vanquish Soul\" monsters from your hand, with different names from each other, neither of which has the same original Attribute as the targeted monster (but negate their effects and return them to the hand during the End Phase), then you can return to the hand all cards your opponent controls that are in the same columns as the targeted monster you control and the monster(s) Special Summoned by this effect. You can only activate 1 \"Vanquish Soul Trinity Burst\" per turn.",
+    "race": "Normal",
+    "archetype": "Vanquish Soul",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vanquish-soul-trinity-burst-13782",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN026",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 53330789,
+        "image_url": "https://images.ygoprodeck.com/images/cards/53330789.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53330789.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53330789.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.17",
+        "tcgplayer_price": "0.23",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "0.79"
+      }
+    ]
+  },
+  {
+    "id": 41773061,
+    "name": "Voici la Carte (Today's Menu)",
+    "type": "Spell Card",
+    "humanReadableCardType": "Normal Spell",
+    "frameType": "spell",
+    "desc": "Reveal 2 \"Nouvelles\" monsters with different names from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the other into your Deck, then you can add 1 of these cards from your Deck or GY to your hand based on the Monster Type added to your hand by this effect.\r\n● Beast-Warrior: \"Recette de Poisson (Fish Recipe)\"\r\n● Warrior: \"Recette de Viande (Meat Recipe)\"\r\nYou can only activate 1 \"Voici la Carte (Today's Menu)\" per turn.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/voici-la-carte-today-s-menu-13774",
+    "card_sets": [
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN036",
+        "set_rarity": "Ultra Rare",
+        "set_rarity_code": "(UR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 41773061,
+        "image_url": "https://images.ygoprodeck.com/images/cards/41773061.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41773061.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41773061.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "7.81",
+        "tcgplayer_price": "6.76",
+        "ebay_price": "24.88",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "24.99"
+      }
+    ]
+  },
+  {
+    "id": 5852388,
+    "name": "Xeno Meteorus",
+    "typeline": [
+      "Dinosaur",
+      "Tuner",
+      "Effect"
+    ],
+    "type": "Tuner Monster",
+    "humanReadableCardType": "Tuner Effect Monster",
+    "frameType": "effect",
+    "desc": "If a card(s) is destroyed by battle or card effect: You can Special Summon this card from your hand. During your Main Phase: You can destroy 1 Dinosaur monster in your hand or field, then Special Summon 1 Dinosaur Normal Monster from your hand or Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Dragon, Dinosaur, Sea Serpent, or Wyrm monsters. You can only use each effect of \"Xeno Meteorus\" once per turn.",
+    "race": "Dinosaur",
+    "atk": 2000,
+    "def": 200,
+    "level": 6,
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/xeno-meteorus-13740",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Mirrors",
+        "set_code": "MP24-EN137",
+        "set_rarity": "Prismatic Secret Rare",
+        "set_rarity_code": "(PScR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN001",
+        "set_rarity": "Collector's Rare",
+        "set_rarity_code": "(CR)",
+        "set_price": "0"
+      },
+      {
+        "set_name": "Wild Survivors",
+        "set_code": "WISU-EN001",
+        "set_rarity": "Super Rare",
+        "set_rarity_code": "(SR)",
+        "set_price": "0"
+      }
+    ],
+    "card_images": [
+      {
+        "id": 5852388,
+        "image_url": "https://images.ygoprodeck.com/images/cards/5852388.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5852388.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5852388.jpg"
+      },
+      {
+        "id": 5852388,
+        "image_url": "https://images.ygoprodeck.com/images/cards/5852388.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5852388.jpg",
+        "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5852388.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.54",
+        "tcgplayer_price": "0.55",
+        "ebay_price": "0.99",
+        "amazon_price": "0.00",
+        "coolstuffinc_price": "2.99"
+      }
+    ]
+  }
+]

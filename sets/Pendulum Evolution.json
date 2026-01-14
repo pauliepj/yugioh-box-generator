@@ -1,0 +1,744 @@
+{
+  "setName": "Pendulum Evolution",
+  "rarities": {
+    "secret": [],
+    "ultra": [
+      {
+        "id": 76794549,
+        "name": "Astrograph Sorcerer",
+        "card_images": [
+          {
+            "id": 76794549,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76794549.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76794549.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76794549.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75672051,
+        "name": "Black Fang Magician",
+        "card_images": [
+          {
+            "id": 75672051,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75672051.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75672051.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75672051.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12289247,
+        "name": "Chronograph Sorcerer",
+        "card_images": [
+          {
+            "id": 12289247,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12289247.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12289247.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12289247.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49684352,
+        "name": "Double Iris Magician",
+        "card_images": [
+          {
+            "id": 49684352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49684352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49684352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49684352.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73941492,
+        "name": "Harmonizing Magician",
+        "card_images": [
+          {
+            "id": 73941492,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73941492.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73941492.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73941492.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48461764,
+        "name": "Purple Poison Magician",
+        "card_images": [
+          {
+            "id": 48461764,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48461764.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48461764.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48461764.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74850403,
+        "name": "Star Pendulumgraph",
+        "card_images": [
+          {
+            "id": 74850403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74850403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74850403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74850403.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1344018,
+        "name": "Time Pendulumgraph",
+        "card_images": [
+          {
+            "id": 1344018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1344018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1344018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1344018.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47349116,
+        "name": "Timestar Magician",
+        "card_images": [
+          {
+            "id": 47349116,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47349116.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47349116.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47349116.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11067666,
+        "name": "White Wing Magician",
+        "card_images": [
+          {
+            "id": 11067666,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11067666.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11067666.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11067666.jpg"
+          }
+        ]
+      }
+    ],
+    "super": [
+      {
+        "id": 37803970,
+        "name": "Amazing Pendulum",
+        "card_images": [
+          {
+            "id": 37803970,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37803970.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37803970.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37803970.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57624336,
+        "name": "Archfiend Eccentrick",
+        "card_images": [
+          {
+            "id": 57624336,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57624336.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57624336.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57624336.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88757791,
+        "name": "Dharma-Eye Magician",
+        "card_images": [
+          {
+            "id": 88757791,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88757791.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88757791.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88757791.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58369990,
+        "name": "Doomstar Magician",
+        "card_images": [
+          {
+            "id": 58369990,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58369990.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58369990.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58369990.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71490127,
+        "name": "Dragon's Mirror",
+        "card_images": [
+          {
+            "id": 71490127,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71490127.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71490127.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71490127.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51531505,
+        "name": "Dragonpit Magician",
+        "card_images": [
+          {
+            "id": 51531505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51531505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51531505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51531505.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15146890,
+        "name": "Dragonpulse Magician",
+        "card_images": [
+          {
+            "id": 15146890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15146890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15146890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15146890.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15582767,
+        "name": "Echo Oscillation",
+        "card_images": [
+          {
+            "id": 15582767,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15582767.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15582767.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15582767.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59123194,
+        "name": "Enlightenment Paladin",
+        "card_images": [
+          {
+            "id": 59123194,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59123194.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59123194.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59123194.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43785278,
+        "name": "Foucault's Cannon",
+        "card_images": [
+          {
+            "id": 43785278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43785278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43785278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43785278.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98301564,
+        "name": "Guiding Ariadne",
+        "card_images": [
+          {
+            "id": 98301564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98301564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98301564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98301564.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22200403,
+        "name": "Hypnosister",
+        "card_images": [
+          {
+            "id": 22200403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22200403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22200403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22200403.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7127502,
+        "name": "Lector Pendulum, the Dracoverlord",
+        "card_images": [
+          {
+            "id": 7127502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7127502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7127502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7127502.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10239627,
+        "name": "Magical Abductor",
+        "card_images": [
+          {
+            "id": 10239627,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10239627.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10239627.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10239627.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75195825,
+        "name": "Master Pendulum, the Dracoslayer",
+        "card_images": [
+          {
+            "id": 75195825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75195825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75195825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75195825.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81612598,
+        "name": "Metalfoes Adamante",
+        "card_images": [
+          {
+            "id": 81612598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81612598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81612598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81612598.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33327029,
+        "name": "Metalfoes Counter",
+        "card_images": [
+          {
+            "id": 33327029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33327029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33327029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33327029.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54401832,
+        "name": "Metalfoes Crimsonite",
+        "card_images": [
+          {
+            "id": 54401832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54401832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54401832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54401832.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28016193,
+        "name": "Metalfoes Orichalc",
+        "card_images": [
+          {
+            "id": 28016193,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28016193.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28016193.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28016193.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88935103,
+        "name": "Nobledragon Magician",
+        "card_images": [
+          {
+            "id": 88935103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88935103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88935103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88935103.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14920218,
+        "name": "Oafdragon Magician",
+        "card_images": [
+          {
+            "id": 14920218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14920218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14920218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14920218.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16691074,
+        "name": "Odd-Eyes Absolute Dragon",
+        "card_images": [
+          {
+            "id": 16691074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16691074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16691074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16691074.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48144509,
+        "name": "Odd-Eyes Fusion",
+        "card_images": [
+          {
+            "id": 48144509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48144509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48144509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48144509.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80696379,
+        "name": "Odd-Eyes Meteorburst Dragon",
+        "card_images": [
+          {
+            "id": 80696379,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80696379.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80696379.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80696379.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16178683,
+        "name": "Odd-Eyes Pendulum Dragon",
+        "card_images": [
+          {
+            "id": 16178683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178683.jpg"
+          },
+          {
+            "id": 16178681,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178681.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178681.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178681.jpg"
+          },
+          {
+            "id": 16178682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178682.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53262004,
+        "name": "Odd-Eyes Vortex Dragon",
+        "card_images": [
+          {
+            "id": 53262004,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53262004.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53262004.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53262004.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32354768,
+        "name": "Oracle of Zefra",
+        "card_images": [
+          {
+            "id": 32354768,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32354768.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32354768.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32354768.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53208660,
+        "name": "Pendulum Call",
+        "card_images": [
+          {
+            "id": 53208660,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53208660.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53208660.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53208660.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77826734,
+        "name": "Pendulum Reborn",
+        "card_images": [
+          {
+            "id": 77826734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77826734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77826734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77826734.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69982329,
+        "name": "Pendulum Shift",
+        "card_images": [
+          {
+            "id": 69982329,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69982329.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69982329.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69982329.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83461421,
+        "name": "Pendulum Storm",
+        "card_images": [
+          {
+            "id": 83461421,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83461421.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83461421.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83461421.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40318957,
+        "name": "Performapal Skullcrobat Joker",
+        "card_images": [
+          {
+            "id": 40318957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40318957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40318957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40318957.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51194046,
+        "name": "Qliphort Monolith",
+        "card_images": [
+          {
+            "id": 51194046,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51194046.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51194046.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51194046.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65518099,
+        "name": "Qliphort Scout",
+        "card_images": [
+          {
+            "id": 65518099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65518099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65518099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65518099.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18716735,
+        "name": "Raremetalfoes Bismugear",
+        "card_images": [
+          {
+            "id": 18716735,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18716735.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18716735.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18716735.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50485594,
+        "name": "Rescue Hamster",
+        "card_images": [
+          {
+            "id": 50485594,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50485594.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50485594.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50485594.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57777714,
+        "name": "Ritual Beast Tamer Zeframpilica",
+        "card_images": [
+          {
+            "id": 57777714,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57777714.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57777714.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57777714.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23166823,
+        "name": "Ritual Beast Tamer Zefrawendi",
+        "card_images": [
+          {
+            "id": 23166823,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23166823.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23166823.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23166823.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96223501,
+        "name": "Satellarknight Zefrathuban",
+        "card_images": [
+          {
+            "id": 96223501,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96223501.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96223501.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96223501.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94415058,
+        "name": "Stargazer Magician",
+        "card_images": [
+          {
+            "id": 94415058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94415058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94415058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94415058.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22617205,
+        "name": "Stellarknight Zefraxciton",
+        "card_images": [
+          {
+            "id": 22617205,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22617205.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22617205.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22617205.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79816536,
+        "name": "Summoner's Art",
+        "card_images": [
+          {
+            "id": 79816536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79816536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79816536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79816536.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80335817,
+        "name": "Timebreaker Magician",
+        "card_images": [
+          {
+            "id": 80335817,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80335817.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80335817.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80335817.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20409757,
+        "name": "Timegazer Magician",
+        "card_images": [
+          {
+            "id": 20409757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20409757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20409757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20409757.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54941203,
+        "name": "Tuning Magician",
+        "card_images": [
+          {
+            "id": 54941203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54941203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54941203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54941203.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72648810,
+        "name": "Unwavering Bond",
+        "card_images": [
+          {
+            "id": 72648810,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72648810.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72648810.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72648810.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72714461,
+        "name": "Wisdom-Eye Magician",
+        "card_images": [
+          {
+            "id": 72714461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72714461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72714461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72714461.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35561352,
+        "name": "Zefra Divine Strike",
+        "card_images": [
+          {
+            "id": 35561352,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35561352.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35561352.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35561352.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58990362,
+        "name": "Zefraniu, Secret of the Yang Zing",
+        "card_images": [
+          {
+            "id": 58990362,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58990362.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58990362.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58990362.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21495657,
+        "name": "Zefraxi, Treasure of the Yang Zing",
+        "card_images": [
+          {
+            "id": 21495657,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21495657.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21495657.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21495657.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [],
+    "common": []
+  }
+}
