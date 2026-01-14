@@ -5,7 +5,7 @@ const path = require("path");
 let isCardListVisible = false;
 let selectedSet = null;
 
-// Load sets from JSON
+// Load sets from JSON (works both in dev and packaged app)
 let sets = [];
 try {
   const setsPath = path.join(__dirname, "allSets.json");
@@ -22,7 +22,6 @@ const status = document.getElementById("status");
 const selectedDisplay = document.getElementById("selected-set");
 const toggleBtn = document.getElementById("toggle-sort");
 const fullSetContainer = document.getElementById("full-set-container");
-const hideCardlistBtn = document.getElementById("hide-cardlist");
 
 // Sort
 let sortOrder = "asc"; // asc = oldest → newest
@@ -165,7 +164,7 @@ showFullSetBtn.onclick = async () => {
   }
 
   // TOGGLE ON
-  const setPath = path.join(process.cwd(), "sets", `${selectedSet}.json`);
+  const setPath = path.join(__dirname, "sets", `${selectedSet}.json`); // <-- use __dirname
   let setData;
 
   try {
