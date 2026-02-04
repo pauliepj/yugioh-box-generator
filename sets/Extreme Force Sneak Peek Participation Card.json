@@ -1,11 +1,19 @@
 {
   "setName": "Extreme Force Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 35546670,
         "name": "World Legacy Scars",
+        "desc": "All \"Mekk-Knight\" monsters on the field gain 300 ATK/DEF. Once per turn: You can discard 1 \"Mekk-Knight\" monster or 1 \"World Legacy\" card; draw 1 card. You can banish 8 \"Mekk-Knight\" monsters with different names from your GY and/or face-up from your field; send your opponent's entire hand and Extra Deck to the GY.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35546670,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 10, Issue 3 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 63612442,
         "name": "X-Saber Souza",
+        "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 63612442,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

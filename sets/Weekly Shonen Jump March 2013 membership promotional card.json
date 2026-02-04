@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump March 2013 membership promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 48995978,
         "name": "Number 88: Gimmick Puppet of Leo",
+        "desc": "3 Level 8 monsters\nOnce per turn, if you have no cards in your Spell & Trap Card Zone: You can detach 1 Xyz Material from this card, and if you do, place 1 Destiny Counter on this card. You cannot conduct your Battle Phase the turn you activate this effect. When 3 Destiny Counters are on this card, you win the Duel.",
+        "race": "Machine",
+        "atk": 3200,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 48995978,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

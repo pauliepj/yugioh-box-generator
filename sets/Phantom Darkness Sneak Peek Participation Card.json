@@ -1,12 +1,19 @@
 {
   "setName": "Phantom Darkness Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 14536035,
         "name": "Dark Grepher",
+        "desc": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK monster. Once per turn: You can discard 1 DARK monster; send 1 DARK monster from your Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 14536035,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

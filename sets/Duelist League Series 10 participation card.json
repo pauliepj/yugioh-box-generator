@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 10 participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 20101223,
         "name": "Breath of Light",
+        "desc": "Destroy all face-up Rock-Type monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 20101223,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

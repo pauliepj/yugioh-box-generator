@@ -1,14 +1,19 @@
 {
   "setName": "The Lost Art Promotion (series)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 92881099,
         "name": "Alluring Mirror Split",
+        "desc": "When a \"Harpie Lady\" or \"Harpie Lady Sisters\" you control is destroyed by battle: You can Special Summon 1 \"Harpie\" monster from your Deck with a different original name than the destroyed monster. If this card you control is destroyed by a \"Harpie\" card's effect or your opponent's card effect: Target 1 \"Harpie\" monster in your GY; Special Summon it. You can only use each effect of \"Alluring Mirror Split\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92881099,
@@ -21,6 +26,15 @@
       {
         "id": 29508346,
         "name": "Arrivalrivals",
+        "desc": "During the Battle Phase: Immediately after this effect resolves, Normal Summon 1 monster. You can only activate 1 \"Arrivalrivals\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29508346,
@@ -33,6 +47,15 @@
       {
         "id": 40619825,
         "name": "Axe of Despair",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40619825,
@@ -45,6 +68,15 @@
       {
         "id": 81480460,
         "name": "Barrel Dragon",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81480460,
@@ -57,6 +89,15 @@
       {
         "id": 92518817,
         "name": "Blazing Hiita",
+        "desc": "Once per turn, you can Tribute 1 FIRE monster (except this card) to Special Summon 1 FIRE monster from your hand. The monster Special Summoned by this effect is destroyed if \"Blazing Hiita\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92518817,
@@ -69,6 +110,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -81,6 +131,15 @@
       {
         "id": 94381039,
         "name": "Celestia, Lightsworn Angel",
+        "desc": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 200,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94381039,
@@ -93,6 +152,15 @@
       {
         "id": 7198399,
         "name": "Chocolate Magician Girl",
+        "desc": "Once per turn: You can discard 1 Spellcaster-Type monster; draw 1 card. Once per turn, if this card is targeted for an attack: You can target 1 Spellcaster-Type monster in your Graveyard, except \"Chocolate Magician Girl\"; Special Summon it, then change the attack target to it, and if you do, the attacking monster's ATK becomes half its current ATK.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7198399,
@@ -105,6 +173,15 @@
       {
         "id": 77235086,
         "name": "Cyber Angel Benten",
+        "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1500,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77235086,
@@ -117,6 +194,15 @@
       {
         "id": 3629090,
         "name": "Cyber Angel Idaten",
+        "desc": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell from your Deck or GY to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK/DEF.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 2000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3629090,
@@ -129,6 +215,15 @@
       {
         "id": 53982768,
         "name": "Dark Ruler Ha Des",
+        "desc": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
+        "race": "Fiend",
+        "atk": 2450,
+        "def": 1600,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53982768,
@@ -141,6 +236,15 @@
       {
         "id": 54693926,
         "name": "Dark Ruler No More",
+        "desc": "Negate the effects of all face-up monsters your opponent currently controls, until the end of this turn, also, for the rest of this turn after this card resolves, your opponent takes no damage. Neither player can activate monster effects in response to this card's activation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54693926,
@@ -153,6 +257,15 @@
       {
         "id": 76922029,
         "name": "Don Zaloog",
+        "desc": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\r\n● Discard 1 random card from their hand.\r\n● Send the top 2 cards of their Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 76922029,
@@ -165,6 +278,15 @@
       {
         "id": 30068120,
         "name": "Edge Imp Sabres",
+        "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30068120,
@@ -177,6 +299,15 @@
       {
         "id": 58932615,
         "name": "Elemental HERO Burstinatrix",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58932615,
@@ -189,6 +320,15 @@
       {
         "id": 30531525,
         "name": "Enchanting Fitting Room",
+        "desc": "Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, after that, shuffle the rest back into your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30531525,
@@ -201,6 +341,15 @@
       {
         "id": 33396948,
         "name": "Exodia the Forbidden One",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33396948,
@@ -213,6 +362,15 @@
       {
         "id": 78387742,
         "name": "Fake Hero",
+        "desc": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78387742,
@@ -225,6 +383,15 @@
       {
         "id": 81439173,
         "name": "Foolish Burial",
+        "desc": "Send 1 monster from your Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81439173,
@@ -237,6 +404,15 @@
       {
         "id": 88369727,
         "name": "Foolish Return",
+        "desc": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88369727,
@@ -249,6 +425,15 @@
       {
         "id": 10383554,
         "name": "Frightfur Leo",
+        "desc": "\"Edge Imp Saw\" + 1 \"Fluffal\" monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can target 1 face-up monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. You can only use this effect of \"Frightfur Leo\" once per turn. This card cannot attack your opponent directly during the turn you activate this effect.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10383554,
@@ -261,6 +446,15 @@
       {
         "id": 69140098,
         "name": "Gemini Elf",
+        "desc": "Elf twins that alternate their attacks.",
+        "race": "Spellcaster",
+        "atk": 1900,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69140098,
@@ -273,6 +467,15 @@
       {
         "id": 60643553,
         "name": "Ghost Sister & Spooky Dogwood",
+        "desc": "During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of \"Ghost Sister & Spooky Dogwood\" once per turn.\r\n● Each time your opponent Special Summons an Effect Monster(s) during the Main Phase or Battle Phase, you gain LP equal to that monster's ATK. If you did not gain LP by this effect, your LP are halved during the End Phase.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60643553,
@@ -285,6 +488,15 @@
       {
         "id": 38430673,
         "name": "Grand Convergence",
+        "desc": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent and destroy all monsters on the field.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38430673,
@@ -297,6 +509,15 @@
       {
         "id": 90238142,
         "name": "Harpie Channeler",
+        "desc": "You can discard 1 \"Harpie\" card; Special Summon 1 \"Harpie\" monster from your Deck in face-up Defense Position, except \"Harpie Channeler\". You can only use this effect of \"Harpie Channeler\" once per turn. While you control a Dragon-Type monster, this card's Level becomes 7. This card's name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90238142,
@@ -309,6 +530,15 @@
       {
         "id": 85696777,
         "name": "Harpie Conductor",
+        "desc": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.",
+        "race": "Winged Beast",
+        "atk": 1900,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85696777,
@@ -321,6 +551,15 @@
       {
         "id": 68815132,
         "name": "Harpie Dancer",
+        "desc": "You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of \"Harpie Dancer\" once per turn. This card's name becomes \"Harpie Lady\" while on the field or in the GY.",
+        "race": "Winged Beast",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68815132,
@@ -333,6 +572,15 @@
       {
         "id": 75064463,
         "name": "Harpie Queen",
+        "desc": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand.",
+        "race": "Winged Beast",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75064463,
@@ -345,6 +593,15 @@
       {
         "id": 39275698,
         "name": "Harpie's Feather Rest",
+        "desc": "Target 3 \"Harpie Lady\" and/or \"Harpie Lady Sisters\" in your GY; shuffle them into the Deck, then draw 1 card. If you controlled a Level 5 or higher \"Harpie\" monster when you activated this effect, draw 2 cards instead. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. You can only activate 1 \"Harpie's Feather Rest\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39275698,
@@ -357,6 +614,15 @@
       {
         "id": 7902349,
         "name": "Left Arm of the Forbidden One",
+        "desc": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7902349,
@@ -369,6 +635,15 @@
       {
         "id": 44519536,
         "name": "Left Leg of the Forbidden One",
+        "desc": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44519536,
@@ -381,6 +656,15 @@
       {
         "id": 16475472,
         "name": "Lesser Fiend",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nBanish any monster destroyed by battle with this card.",
+        "race": "Fiend",
+        "atk": 2100,
+        "def": 1000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16475472,
@@ -393,6 +677,15 @@
       {
         "id": 95503687,
         "name": "Lumina, Lightsworn Summoner",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 4 or lower \"Lightsworn\" monster in your GY; Special Summon that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95503687,
@@ -405,6 +698,15 @@
       {
         "id": 56166150,
         "name": "Lumina, Twilightsworn Shaman",
+        "desc": "Once per turn: You can banish 1 \"Lightsworn\" monster from your hand or GY, then target 1 of your banished \"Lightsworn\" monsters, except \"Lumina, Twilightsworn Shaman\"; Special Summon it. Once per turn, if your other \"Lightsworn\" monster's effect is activated: Send the top 3 cards of your Deck to the GY.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56166150,
@@ -417,6 +719,15 @@
       {
         "id": 30241314,
         "name": "Macro Cosmos",
+        "desc": "When this card resolves: You can Special Summon 1 \"Helios - The Primordial Sun\" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30241314,
@@ -429,6 +740,15 @@
       {
         "id": 95477924,
         "name": "Magician's Salvation",
+        "desc": "When this card is activated: You can Set 1 \"Eternal Soul\" directly from your Deck. If you Normal or Special Summon \"Dark Magician\" or \"Dark Magician Girl\" (except during the Damage Step): You can target 1 of those monsters; Special Summon 1 \"Dark Magician\" or \"Dark Magician Girl\" from your GY, with a different name than that monster. You can only use this effect of \"Magician's Salvation\" once per turn. You can only activate 1 \"Magician's Salvation\" per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95477924,
@@ -441,6 +761,15 @@
       {
         "id": 22512406,
         "name": "Masked Ninja Ebisu",
+        "desc": "Once per turn, if you control a face-up \"Ninja\" monster other than \"Masked Ninja Ebisu\", you can activate this effect: Return a number of your opponent's Spell/Trap Cards to the hand, equal to the number of \"Ninja\" monsters you control, also every face-up \"Goe Goe the Gallant Ninja\" you control can attack your opponent directly this turn.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22512406,
@@ -453,6 +782,15 @@
       {
         "id": 67282505,
         "name": "Mitsu the Insect Ninja",
+        "desc": "If you control a \"Ninja\" card or a face-down Defense Position monster: You can Special Summon this card from your hand. When your opponent activates a monster effect (Quick Effect): You can target 1 face-down Defense Position monster you control; change it to face-up Defense Position, and if you do, change this card to face-down Defense Position, then, if the targeted monster was a \"Ninja\" monster, except \"Mitsu the Insect Ninja\", negate that opponent's activated effect. You can only use each effect of \"Mitsu the Insect Ninja\" once per turn.",
+        "race": "Insect",
+        "atk": 200,
+        "def": 2100,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67282505,
@@ -465,6 +803,15 @@
       {
         "id": 83764719,
         "name": "Monster Reborn",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83764719,
@@ -477,6 +824,15 @@
       {
         "id": 40398073,
         "name": "Nurse Dragonmaid",
+        "desc": "If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"Dragonmaid\" monster in your GY, except \"Nurse Dragonmaid\"; Special Summon it. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Nurse Dragonmaid\" once per turn.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 1600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40398073,
@@ -489,6 +845,15 @@
       {
         "id": 19230408,
         "name": "Offerings to the Doomed",
+        "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19230408,
@@ -501,6 +866,15 @@
       {
         "id": 27911549,
         "name": "Parasite Paracide",
+        "desc": "FLIP: Put this card face-up in your opponent's Deck and shuffle it. When your opponent draws this card, it is Special Summoned to their side of the field in face-up Defense Position, and inflicts 1000 damage to them. Then, while this card is face-up on the field, all monsters your opponent controls become Insect-Type monsters.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 300,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27911549,
@@ -513,6 +887,15 @@
       {
         "id": 56524813,
         "name": "Raging Eria",
+        "desc": "Once per turn, you can Tribute 1 WATER monster (except this card) to Special Summon 1 WATER monster from your hand. The monster Special Summoned by this effect is destroyed if \"Raging Eria\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56524813,
@@ -525,6 +908,15 @@
       {
         "id": 70903634,
         "name": "Right Arm of the Forbidden One",
+        "desc": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70903634,
@@ -537,6 +929,15 @@
       {
         "id": 8124921,
         "name": "Right Leg of the Forbidden One",
+        "desc": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8124921,
@@ -549,6 +950,15 @@
       {
         "id": 83555666,
         "name": "Ring of Destruction",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83555666,
@@ -561,6 +971,15 @@
       {
         "id": 23401840,
         "name": "Senju of the Thousand Hands",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23401840,
@@ -573,6 +992,15 @@
       {
         "id": 82732705,
         "name": "Skill Drain",
+        "desc": "Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82732705,
@@ -585,6 +1013,15 @@
       {
         "id": 41420027,
         "name": "Solemn Judgment",
+        "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41420027,
@@ -597,6 +1034,15 @@
       {
         "id": 73599290,
         "name": "Soul Drain",
+        "desc": "Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73599290,
@@ -609,6 +1055,15 @@
       {
         "id": 29013526,
         "name": "Storming Wynn",
+        "desc": "Once per turn, you can Tribute 1 WIND monster (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if \"Storming Wynn\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29013526,
@@ -621,6 +1076,15 @@
       {
         "id": 81489939,
         "name": "Stygian Dirge",
+        "desc": "Reduce the Levels of all monsters your opponent controls by 1.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81489939,
@@ -633,6 +1097,15 @@
       {
         "id": 27770341,
         "name": "Super Rejuvenation",
+        "desc": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27770341,
@@ -645,6 +1118,15 @@
       {
         "id": 56910167,
         "name": "Superdreadnought Rail Cannon Gustav Max",
+        "desc": "2 Level 10 monsters\r\nOnce per turn: You can detach 1 material from this card; inflict 2000 damage to your opponent.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56910167,
@@ -657,6 +1139,15 @@
       {
         "id": 3643300,
         "name": "The Legendary Fisherman",
+        "desc": "While \"Umi\" is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.",
+        "race": "Warrior",
+        "atk": 1850,
+        "def": 1600,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3643300,
@@ -669,6 +1160,15 @@
       {
         "id": 35686188,
         "name": "Tragedy",
+        "desc": "When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35686188,
@@ -681,6 +1181,15 @@
       {
         "id": 59071624,
         "name": "Traptrix Allomerus",
+        "desc": "2+ Level 4 monsters / This card is unaffected by Trap effects while it has Xyz Material. You can only use each of the following effects of \"Traptrix Allomerus\" once per turn.\r\n● You can detach 2 materials from this card; Special Summon 1 Level 4 Insect or Plant monster from your GY.\r\n● If an opponent's monster(s) leaves the field because of your card effect, and is now in the GY or banished (except during the Damage Step): You can detach 1 material from this card, then target 1 of them; Special Summon it to your field.",
+        "race": "Insect",
+        "atk": 2200,
+        "def": 600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59071624,
@@ -693,6 +1202,15 @@
       {
         "id": 88078306,
         "name": "Traptrix Genlisea",
+        "desc": "Unaffected by the effects of \"Hole\" Normal Traps. You can Tribute this card; Set 2 \"Hole\" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of \"Traptrix Genlisea\" once per turn.",
+        "race": "Plant",
+        "atk": 1200,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88078306,
@@ -705,6 +1223,15 @@
       {
         "id": 80230510,
         "name": "Tribute Burial",
+        "desc": "You cannot Special Summon for the rest of this turn. Once during this turn, you can conduct a Tribute Summon that requires 2 Tributes by banishing 1 monster from each Graveyard instead of Tributing (it is still treated as a Tribute Summon).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80230510,
@@ -717,6 +1244,15 @@
       {
         "id": 82962242,
         "name": "Vampire Vamp",
+        "desc": "Once per turn, when this card or a \"Vampire\" monster is Normal Summoned to your field: You can target 1 face-up monster your opponent controls, whose ATK is higher than this card's; equip it to this card. This card gains ATK equal to the combined original ATK of the monsters equipped to it by this effect. If this card is sent to the GY, while equipped with a card(s) by this effect: Special Summon this card.",
+        "race": "Zombie",
+        "atk": 2000,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82962242,
@@ -729,6 +1265,15 @@
       {
         "id": 84243274,
         "name": "VWXYZ-Dragon Catapult Cannon",
+        "desc": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip Effects are not activated.)",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84243274,
@@ -741,6 +1286,15 @@
       {
         "id": 88472456,
         "name": "Zombyra the Dark",
+        "desc": "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88472456,

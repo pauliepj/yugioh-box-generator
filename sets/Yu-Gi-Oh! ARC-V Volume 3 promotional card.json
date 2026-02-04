@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! ARC-V Volume 3 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 21686473,
         "name": "D/D/D Destiny King Zero Laplace",
+        "desc": "[ Pendulum Effect ] \nDuring your Main Phase: You can add 1 face-up \"D/D/D\" Pendulum Monster from your Extra Deck to your hand, except \"D/D/D Destiny King Zero Laplace\". You can only use this effect of \"D/D/D Destiny King Zero Laplace\" once per turn.\n\n[ Monster Effect ] \nYou can Special Summon this card (from your hand) by Tributing 1 \"D/D/D\" monster. Before damage calculation, if this card battles an opponent's monster: You can activate this effect; this card's ATK becomes double that opponent's monster's original ATK until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. The first time this card would be destroyed by battle each turn, it is not destroyed, and you take no battle damage from that battle.",
+        "race": "Fiend",
+        "atk": -1,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 21686473,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

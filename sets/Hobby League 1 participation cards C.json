@@ -1,33 +1,48 @@
 {
   "setName": "Hobby League 1 participation cards C",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 79109599,
-        "name": "King of the Swamp",
-        "card_images": [
-          {
-            "id": 79109599,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79109599.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79109599.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79109599.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 33550694,
         "name": "Fusion Gate",
+        "desc": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33550694,
             "image_url": "https://images.ygoprodeck.com/images/cards/33550694.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33550694.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33550694.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 79109599,
+        "name": "King of the Swamp",
+        "desc": "This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+        "race": "Aqua",
+        "atk": 500,
+        "def": 1100,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 79109599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79109599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79109599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79109599.jpg"
           }
         ]
       }

@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League Series 3 participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 47355498,
         "name": "Necrovalley",
+        "desc": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 47355498,
@@ -17,7 +23,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

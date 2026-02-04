@@ -1,10 +1,70 @@
 {
   "setName": "Yu-Gi-Oh! The Eternal Duelist Soul promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "prismatic secret rare": [
+      {
+        "id": 5556668,
+        "name": "Exchange",
+        "desc": "Both players reveal their hands and add 1 card from each other's hand to their hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 5556668,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5556668.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5556668.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5556668.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74137509,
+        "name": "Graceful Dice",
+        "desc": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 74137509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74137509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74137509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74137509.jpg"
+          }
+        ]
+      },
+      {
+        "id": 126218,
+        "name": "Skull Dice",
+        "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 126218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/126218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/126218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/126218.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

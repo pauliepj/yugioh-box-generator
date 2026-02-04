@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Volume 6 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 22061412,
         "name": "Elemental HERO The Shining",
+        "desc": "1 \"Elemental HERO\" monster + 1 LIGHT monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each of your banished \"Elemental HERO\" monsters. When this card is sent from the field to the Graveyard: You can target up to 2 of your banished \"Elemental HERO\" monsters; add those targets to your hand.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 22061412,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

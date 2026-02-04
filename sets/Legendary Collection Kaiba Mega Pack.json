@@ -1,10 +1,19 @@
 {
   "setName": "Legendary Collection Kaiba Mega Pack",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 30012506,
         "name": "A-Assault Core",
+        "desc": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's monster effects (except its own), also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can add 1 other Union monster from your GY to your hand.",
+        "race": "Machine",
+        "atk": 1900,
+        "def": 200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 30012506,
@@ -17,6 +26,15 @@
       {
         "id": 1561110,
         "name": "ABC-Dragon Buster",
+        "desc": "\"A-Assault Core\" + \"B-Buster Drake\" + \"C-Crush Wyvern\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY. (You do not use \"Polymerization\".) Once per turn (Quick Effect): You can discard 1 card, then target 1 card on the field; banish it. During your opponent's turn (Quick Effect): You can Tribute this card, then target 3 of your banished LIGHT Machine Union monsters with different names; Special Summon them.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 1561110,
@@ -29,6 +47,15 @@
       {
         "id": 10667321,
         "name": "Ancient Rules",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 10667321,
@@ -41,6 +68,15 @@
       {
         "id": 42364257,
         "name": "Anti Raigeki",
+        "desc": "When your opponent activates \"Raigeki\": Negate its effect, and if you do, destroy all monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 42364257,
@@ -53,6 +89,15 @@
       {
         "id": 40908371,
         "name": "Azure-Eyes Silver Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner Normal Monsters\r\nIf this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 3000,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 40908371,
@@ -65,6 +110,15 @@
       {
         "id": 77411244,
         "name": "B-Buster Drake",
+        "desc": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Spell effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can add 1 Union monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 77411244,
@@ -77,6 +131,15 @@
       {
         "id": 50371210,
         "name": "Beacon of White",
+        "desc": "If you do not control another \"Beacon of White\", and you have 3 or more \"Blue-Eyes\" monsters in your GY: Target 1 of them; Special Summon it, but it has its effects negated, also equip it with this card. When this card leaves the field, banish the equipped monster. Other monsters you control cannot attack, also if you have any number of \"Blue-Eyes\" monster(s) in your GY, the equipped monster can attack up to that number of times during each Battle Phase.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 50371210,
@@ -89,6 +152,15 @@
       {
         "id": 34408491,
         "name": "Beelze of the Diabolic Dragons",
+        "desc": "1 DARK Tuner + 1+ non-Tuner monsters\r\nCannot be destroyed by battle or card effects. If you take damage from an attack involving this card, or from an opponent's card effect: This card gains ATK equal to the damage you took.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 34408491,
@@ -101,6 +173,15 @@
       {
         "id": 53347303,
         "name": "Blue-Eyes Shining Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Blue-Eyes Ultimate Dragon\". Gains 300 ATK for each Dragon monster in your GY. When a card or effect is activated that targets this card (Quick Effect): You can negate that effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 53347303,
@@ -113,6 +194,15 @@
       {
         "id": 23995346,
         "name": "Blue-Eyes Ultimate Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "race": "Dragon",
+        "atk": 4500,
+        "def": 3800,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 23995346,
@@ -137,6 +227,15 @@
       {
         "id": 17655904,
         "name": "Burst Stream of Destruction",
+        "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 17655904,
@@ -149,6 +248,15 @@
       {
         "id": 3405259,
         "name": "C-Crush Wyvern",
+        "desc": "Once per turn, you can either: Target 1 LIGHT Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's Trap effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the GY: You can Special Summon 1 Union monster from your hand.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 3405259,
@@ -161,6 +269,15 @@
       {
         "id": 16970158,
         "name": "Call of the Grave",
+        "desc": "When your opponent activates \"Monster Reborn\": Negate the effect of that \"Monster Reborn\".",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 16970158,
@@ -173,6 +290,15 @@
       {
         "id": 59750328,
         "name": "Card of Demise",
+        "desc": "Draw until you have 3 cards in your hand, also for the rest of this turn after this card resolves, your opponent takes no damage. During the End Phase of this turn, send your entire hand to the GY. You can only activate 1 \"Card of Demise\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 59750328,
@@ -185,6 +311,15 @@
       {
         "id": 39701395,
         "name": "Cards of Consonance",
+        "desc": "Discard 1 Dragon Tuner with 1000 or less ATK; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 39701395,
@@ -197,6 +332,15 @@
       {
         "id": 57139487,
         "name": "Chain Disappearance",
+        "desc": "When a monster(s) with 1000 or less ATK is Summoned: Banish that monster(s) with 1000 or less ATK, then your opponent banishes all cards with the same name as that card(s) from their hand and Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 57139487,
@@ -209,6 +353,15 @@
       {
         "id": 23265313,
         "name": "Cost Down",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 23265313,
@@ -221,6 +374,15 @@
       {
         "id": 65192027,
         "name": "Dark Armed Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 65192027,
@@ -233,6 +395,15 @@
       {
         "id": 95286165,
         "name": "De-Fusion",
+        "desc": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 95286165,
@@ -245,6 +416,15 @@
       {
         "id": 44763025,
         "name": "Delinquent Duo",
+        "desc": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44763025,
@@ -257,6 +437,15 @@
       {
         "id": 44373896,
         "name": "Destruction Dragon",
+        "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Ring of Destruction\". Once per turn: You can target 1 card your opponent controls; destroy it. Then, if it was a Monster Card, inflict damage to your opponent equal to its original ATK.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44373896,
@@ -269,6 +458,15 @@
       {
         "id": 62873545,
         "name": "Dragon Master Knight",
+        "desc": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\r\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+        "race": "Dragon",
+        "atk": 5000,
+        "def": 5000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 62873545,
@@ -281,6 +479,15 @@
       {
         "id": 62265044,
         "name": "Dragon Ravine",
+        "desc": "Once per turn: You can discard 1 card, then activate 1 of these effects;\r\n● Add 1 Level 4 or lower \"Dragunity\" monster from your Deck to your hand.\r\n● Send 1 Dragon monster from your Deck to the GY.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 62265044,
@@ -293,6 +500,15 @@
       {
         "id": 71867500,
         "name": "Dragon Revival Rhapsody",
+        "desc": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 71867500,
@@ -305,6 +521,15 @@
       {
         "id": 41620959,
         "name": "Dragon Shrine",
+        "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 41620959,
@@ -317,6 +542,15 @@
       {
         "id": 45467446,
         "name": "Dragon Spirit of White",
+        "desc": "(This card is always treated as a \"Blue-Eyes\" card.)\r\nThis card is treated as a Normal Monster while in the hand or GY. When this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; banish it. If your opponent controls a monster (Quick Effect): You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 45467446,
@@ -329,6 +563,15 @@
       {
         "id": 72549351,
         "name": "Dragonic Tactics",
+        "desc": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 72549351,
@@ -341,6 +584,15 @@
       {
         "id": 98045062,
         "name": "Enemy Controller",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 98045062,
@@ -353,6 +605,15 @@
       {
         "id": 24874630,
         "name": "Fiend's Sanctuary",
+        "desc": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. Once per turn, during your Standby Phase, pay 1000 LP or destroy this Token.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 24874630,
@@ -365,6 +626,15 @@
       {
         "id": 72589042,
         "name": "Goddess of Sweet Revenge",
+        "desc": "While you control no cards and this is the only card in your hand, when an opponent's monster declares an attack: You can discard this card; destroy as many cards as possible your opponent controls, then you can Special Summon 1 monster from your Deck.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 72589042,
@@ -377,6 +647,15 @@
       {
         "id": 36261276,
         "name": "Interdimensional Matter Transporter",
+        "desc": "Target 1 face-up monster you control; banish that target until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 36261276,
@@ -389,6 +668,15 @@
       {
         "id": 7852509,
         "name": "Loop of Destruction",
+        "desc": "This card's name becomes \"Ring of Destruction\" while on the field. Once per turn, if a monster(s) on the field is destroyed by a card effect (except during the Damage Step): You can target 1 monster on the field; destroy it, and if you do, each player takes 500 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 7852509,
@@ -407,6 +695,15 @@
       {
         "id": 39238953,
         "name": "Lullaby of Obedience",
+        "desc": "Pay 2000 LP and declare 1 Monster Card name; your opponent looks at their Deck, reveals 1 of the declared monsters if there is any, and chooses 1 of these effects to be applied.\r\n● The declared monster is added to the hand of the player who activated this card.\r\n● The player who activated this card Special Summons the declared monster to their field in Attack Position, ignoring its Summoning conditions.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 39238953,
@@ -419,6 +716,15 @@
       {
         "id": 88241506,
         "name": "Maiden with Eyes of Blue",
+        "desc": "When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. You can only use 1 \"Maiden with Eyes of Blue\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 88241506,
@@ -431,6 +737,15 @@
       {
         "id": 2783661,
         "name": "Majesty with Eyes of Blue",
+        "desc": "Send 1 \"Blue-Eyes\" monster from your hand or Deck to the GY, then target 1 face-up monster on the field; it cannot attack while it is face-up on the field. You can only activate 1 \"Majesty with Eyes of Blue\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 2783661,
@@ -443,6 +758,15 @@
       {
         "id": 43845801,
         "name": "Neutron Blast",
+        "desc": "Target 1 Fusion Summoned \"Blue-Eyes Ultimate Dragon\" you control; this turn, it can make a second and third attack during each Battle Phase, also when it attacks, your opponent's cards and effects cannot be activated until the end of the Damage Step.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 43845801,
@@ -455,6 +779,15 @@
       {
         "id": 56832966,
         "name": "Number S39: Utopia the Lightning",
+        "desc": "3 Level 5 LIGHT monsters\r\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 56832966,
@@ -467,6 +800,15 @@
       {
         "id": 24094653,
         "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 24094653,
@@ -485,6 +827,15 @@
       {
         "id": 36734924,
         "name": "Priestess with Eyes of Blue",
+        "desc": "When a card or effect is activated that targets this card (Quick Effect): You can send 1 Effect Monster you control to the GY, and if you do, add up to 2 \"Blue-Eyes\" monsters with different names from your Deck to your hand. If this card is in your GY: You can target 1 \"Blue-Eyes\" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 \"Priestess with Eyes of Blue\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 36734924,
@@ -497,6 +848,15 @@
       {
         "id": 6853254,
         "name": "Return of the Dragon Lords",
+        "desc": "Target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it. If a Dragon monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 6853254,
@@ -509,6 +869,15 @@
       {
         "id": 8240199,
         "name": "Sage with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can add 1 Level 1 LIGHT Tuner from your Deck to your hand, except \"Sage with Eyes of Blue\". You can discard this card, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can only use this effect of \"Sage with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 1500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 8240199,
@@ -521,6 +890,15 @@
       {
         "id": 87025064,
         "name": "Silver's Cry",
+        "desc": "Target 1 Dragon Normal Monster in your GY; Special Summon that target. You can only activate 1 \"Silver's Cry\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 87025064,
@@ -533,6 +911,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 73628505,
@@ -545,6 +932,15 @@
       {
         "id": 43973174,
         "name": "The Flute of Summoning Dragon",
+        "desc": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 43973174,
@@ -557,6 +953,15 @@
       {
         "id": 8978197,
         "name": "The King of D.",
+        "desc": "This card's name becomes \"Lord of D.\" while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", or \"Dragon Revival Rhapsody\" from your Deck to your hand.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 8978197,
@@ -569,6 +974,15 @@
       {
         "id": 48800175,
         "name": "The Melody of Awakening Dragon",
+        "desc": "Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 48800175,
@@ -581,6 +995,15 @@
       {
         "id": 71039903,
         "name": "The White Stone of Ancients",
+        "desc": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can banish this card from your GY, then target 1 \"Blue-Eyes\" monster in your GY; add it to your hand. You can only use this effect of \"The White Stone of Ancients\" once per turn.",
+        "race": "Dragon",
+        "atk": 600,
+        "def": 500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 71039903,
@@ -593,6 +1016,15 @@
       {
         "id": 79814787,
         "name": "The White Stone of Legend",
+        "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 300,
+        "def": 250,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 79814787,
@@ -605,6 +1037,15 @@
       {
         "id": 38120068,
         "name": "Trade-In",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 38120068,
@@ -617,6 +1058,15 @@
       {
         "id": 43487744,
         "name": "White Hole",
+        "desc": "When your opponent activates \"Dark Hole\": Monsters you control cannot be destroyed by that \"Dark Hole's\" effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 43487744,
@@ -627,10 +1077,19 @@
         ]
       }
     ],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 25862681,
         "name": "Ancient Fairy Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. During your Main Phase: You can destroy as many cards in the Field Zones as possible (min. 1), and if you do, gain 1000 LP, then you can add 1 Field Spell with a different name than the destroyed card(s), from your Deck to your hand. You can only use each effect of \"Ancient Fairy Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 3000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 25862681,
@@ -643,6 +1102,15 @@
       {
         "id": 14558127,
         "name": "Ash Blossom & Joyous Spring",
+        "desc": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\r\n● Add a card from the Deck to the hand.\r\n● Special Summon from the Deck.\r\n● Send a card from the Deck to the GY.\r\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14558127,
@@ -661,6 +1129,15 @@
       {
         "id": 2129638,
         "name": "Blue-Eyes Twin Burst Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\r\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use \"Polymerization\"). Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 2129638,
@@ -673,6 +1150,15 @@
       {
         "id": 89631139,
         "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89631139,
@@ -727,6 +1213,15 @@
       {
         "id": 13513663,
         "name": "Castle of Dragon Souls",
+        "desc": "Once per turn: You can banish 1 Dragon monster from your GY, then target 1 monster you control; it gains 700 ATK until the end of this turn (even if this card leaves the field). When this face-up card on the field is sent to the GY: You can target 1 of your banished Dragon monsters; Special Summon that target. You can only control 1 \"Castle of Dragon Souls\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 13513663,
@@ -739,6 +1234,15 @@
       {
         "id": 86871614,
         "name": "Cloning",
+        "desc": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 86871614,
@@ -751,6 +1255,15 @@
       {
         "id": 57728570,
         "name": "Crush Card Virus",
+        "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 57728570,
@@ -769,6 +1282,15 @@
       {
         "id": 24508238,
         "name": "D.D. Crow",
+        "desc": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24508238,
@@ -781,6 +1303,15 @@
       {
         "id": 35027493,
         "name": "Deck Devastation Virus",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35027493,
@@ -793,6 +1324,15 @@
       {
         "id": 22804644,
         "name": "Doom Virus Dragon",
+        "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\". If this card is Special Summoned: Look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 22804644,
@@ -805,6 +1345,15 @@
       {
         "id": 43422537,
         "name": "Double Summon",
+        "desc": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 43422537,
@@ -817,6 +1366,15 @@
       {
         "id": 28183605,
         "name": "Dragunity Dux",
+        "desc": "Gains 200 ATK for each \"Dragunity\" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card.",
+        "race": "Winged Beast",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 28183605,
@@ -829,6 +1387,15 @@
       {
         "id": 54578613,
         "name": "Dragunity Legionnaire",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. You can send 1 \"Dragunity\" card from your Spell & Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.",
+        "race": "Winged Beast",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 54578613,
@@ -841,6 +1408,15 @@
       {
         "id": 59755122,
         "name": "Dragunity Phalanx",
+        "desc": "Once per turn, while this card is equipped to a monster: You can Special Summon this equipped card.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 1100,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 59755122,
@@ -853,6 +1429,15 @@
       {
         "id": 94145021,
         "name": "Droll & Lock Bird",
+        "desc": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 94145021,
@@ -871,6 +1456,15 @@
       {
         "id": 54974237,
         "name": "Eradicator Epidemic Virus",
+        "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 54974237,
@@ -883,6 +1477,15 @@
       {
         "id": 26725158,
         "name": "Exile of the Wicked",
+        "desc": "Destroy all Fiend monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 26725158,
@@ -895,6 +1498,15 @@
       {
         "id": 50078509,
         "name": "Fiendish Chain",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 50078509,
@@ -907,6 +1519,15 @@
       {
         "id": 4931121,
         "name": "Full Force Virus",
+        "desc": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less DEF.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 4931121,
@@ -919,6 +1540,15 @@
       {
         "id": 26902560,
         "name": "Fusion Sage",
+        "desc": "Add 1 \"Polymerization\" from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 26902560,
@@ -931,6 +1561,15 @@
       {
         "id": 59438930,
         "name": "Ghost Ogre & Snow Rabbit",
+        "desc": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre & Snow Rabbit\" once per turn.",
+        "race": "Psychic",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 59438930,
@@ -949,6 +1588,15 @@
       {
         "id": 62015408,
         "name": "Ghost Reaper & Winter Cherries",
+        "desc": "If your opponent controls more monsters than you do (Quick Effect): You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper & Winter Cherries\" once per turn.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62015408,
@@ -967,6 +1615,15 @@
       {
         "id": 58831685,
         "name": "Giant Red Seasnake",
+        "desc": "A sea-dwelling snake that attacks passing enemies with its sharp teeth.",
+        "race": "Aqua",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 58831685,
@@ -979,6 +1636,15 @@
       {
         "id": 39890958,
         "name": "Heavy Mech Support Armor",
+        "desc": "If this card is Normal Summoned: You can target 1 Union monster in your GY; Special Summon it. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. Your opponent cannot target a monster equipped with this card with card effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39890958,
@@ -991,6 +1657,15 @@
       {
         "id": 23265594,
         "name": "Heavy Mech Support Platform",
+        "desc": "Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23265594,
@@ -1003,6 +1678,15 @@
       {
         "id": 30113682,
         "name": "Judge Man",
+        "desc": "This club-wielding warrior battles to the end and will never surrender.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1500,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 30113682,
@@ -1015,6 +1699,15 @@
       {
         "id": 24068492,
         "name": "Just Desserts",
+        "desc": "Inflict 500 damage to your opponent for each monster they control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24068492,
@@ -1027,6 +1720,15 @@
       {
         "id": 34627841,
         "name": "Kaibaman",
+        "desc": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "race": "Warrior",
+        "atk": 200,
+        "def": 700,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 34627841,
@@ -1039,6 +1741,15 @@
       {
         "id": 97590747,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 97590747,
@@ -1057,6 +1768,15 @@
       {
         "id": 45644898,
         "name": "Master with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT Tuner in your GY; add it to your hand. You can shuffle this card from your GY into the Deck, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your GY, other than the sent monster. You can only use this effect of \"Master with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 1200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 45644898,
@@ -1069,6 +1789,15 @@
       {
         "id": 24382602,
         "name": "Mausoleum of White",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 1 LIGHT Tuner in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 face-up monster you control; send 1 Normal Monster from your hand or Deck to the GY, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100, until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Burst Stream of Destruction\" from your Deck to your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24382602,
@@ -1081,6 +1810,15 @@
       {
         "id": 38277918,
         "name": "Mikazukinoyaiba",
+        "desc": "A dragon warrior of the moon armed with a crescent sword.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 2350,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 38277918,
@@ -1093,6 +1831,15 @@
       {
         "id": 44095762,
         "name": "Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 44095762,
@@ -1105,6 +1852,15 @@
       {
         "id": 84687358,
         "name": "Mirror Force Dragon",
+        "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1200,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 84687358,
@@ -1117,6 +1873,15 @@
       {
         "id": 62762898,
         "name": "Parrot Dragon",
+        "desc": "A dragon from the cartoons that's more dangerous than it appears to be.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1300,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62762898,
@@ -1129,6 +1894,15 @@
       {
         "id": 72855441,
         "name": "Protector with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 1 LIGHT Tuner from your hand. You can target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your hand. You can only use this effect of \"Protector with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 72855441,
@@ -1141,6 +1915,15 @@
       {
         "id": 12580477,
         "name": "Raigeki",
+        "desc": "Destroy all monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 12580477,
@@ -1153,6 +1936,15 @@
       {
         "id": 14235211,
         "name": "Rider of the Storm Winds",
+        "desc": "You can target 1 Dragon Normal Monster you control; equip this monster from your hand or field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14235211,
@@ -1165,6 +1957,15 @@
       {
         "id": 58641905,
         "name": "Ring of Defense",
+        "desc": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 58641905,
@@ -1177,6 +1978,15 @@
       {
         "id": 83555666,
         "name": "Ring of Destruction",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 83555666,
@@ -1195,6 +2005,15 @@
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 55713623,
@@ -1207,6 +2026,15 @@
       {
         "id": 68005187,
         "name": "Soul Exchange",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 68005187,
@@ -1219,6 +2047,15 @@
       {
         "id": 29228529,
         "name": "Spell Reproduction",
+        "desc": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 29228529,
@@ -1231,6 +2068,15 @@
       {
         "id": 11082056,
         "name": "The Fang of Critias",
+        "desc": "(This card is also always treated as \"Legendary Dragon Critias\".)\r\nSend 1 Trap from your hand or field to the GY, that is listed on a Fusion Monster that can only be Special Summoned with \"The Fang of Critias\" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 \"The Fang of Critias\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 11082056,
@@ -1243,6 +2089,15 @@
       {
         "id": 79844764,
         "name": "The Monarchs Stormforth",
+        "desc": "Once during this turn, if you would Tribute a monster for a Tribute Summon, you can Tribute 1 monster your opponent controls even though you do not control it. You can only activate 1 \"The Monarchs Stormforth\" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 79844764,
@@ -1255,6 +2110,15 @@
       {
         "id": 31786629,
         "name": "Thunder Dragon",
+        "desc": "You can discard this card; add up to 2 \"Thunder Dragon\" from your Deck to your hand.",
+        "race": "Thunder",
+        "atk": 1600,
+        "def": 1500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 31786629,
@@ -1267,6 +2131,15 @@
       {
         "id": 10097168,
         "name": "Tiger Dragon",
+        "desc": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 10097168,
@@ -1279,6 +2152,15 @@
       {
         "id": 58293343,
         "name": "Tyrant Burst Dragon",
+        "desc": "Must be Special Summoned with \"The Fang of Critias\", using \"Tyrant Wing\". This card can attack all your opponent's monsters, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK/DEF, also it can make 3 attacks during each Battle Phase.",
+        "race": "Dragon",
+        "atk": 2900,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 58293343,
@@ -1291,6 +2173,15 @@
       {
         "id": 57470761,
         "name": "Tyrant Wing",
+        "desc": "Target 1 Dragon monster on the field; equip this card to it. It gains 400 ATK/DEF, also it can make up to 2 attacks on monsters during each Battle Phase. Once per turn, during the End Phase, if the monster equipped with this card by this effect attacked an opponent's monster this turn: Destroy this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 57470761,
@@ -1303,6 +2194,15 @@
       {
         "id": 51638941,
         "name": "V-Tiger Jet",
+        "desc": "This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51638941,
@@ -1315,6 +2215,15 @@
       {
         "id": 53839837,
         "name": "Vampire Lord",
+        "desc": "If this card inflicts battle damage to your opponent: Declare 1 type of card (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY. Once per turn, during your next Standby Phase after this card in your possession was destroyed and sent to your GY by an opponent's card effect: Special Summon this card from the GY.",
+        "race": "Zombie",
+        "atk": 2000,
+        "def": 1500,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 53839837,
@@ -1327,6 +2236,15 @@
       {
         "id": 54591086,
         "name": "Virus Cannon",
+        "desc": "Tribute any number of monsters, except Tokens; your opponent sends an equal number of Spells from their Deck to the GY (or all their Spells, if lower than the number of Tributes).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 54591086,
@@ -1339,6 +2257,15 @@
       {
         "id": 14898066,
         "name": "Vorse Raider",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14898066,
@@ -1357,6 +2284,15 @@
       {
         "id": 58859575,
         "name": "VW-Tiger Catapult",
+        "desc": "\"V-Tiger Jet\" + \"W-Wing Catapult\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)",
+        "race": "Machine",
+        "atk": 2000,
+        "def": 2100,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 58859575,
@@ -1369,6 +2305,15 @@
       {
         "id": 96300057,
         "name": "W-Wing Catapult",
+        "desc": "Once per turn, you can either: Target 1 \"V-Tiger Jet\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1300,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 96300057,
@@ -1381,6 +2326,15 @@
       {
         "id": 90873992,
         "name": "Warrior Elimination",
+        "desc": "Destroy all Warrior monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 90873992,
@@ -1393,6 +2347,15 @@
       {
         "id": 62651957,
         "name": "X-Head Cannon",
+        "desc": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62651957,
@@ -1405,6 +2368,15 @@
       {
         "id": 91998119,
         "name": "XYZ-Dragon Cannon",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 91998119,
@@ -1429,6 +2401,15 @@
       {
         "id": 65622692,
         "name": "Y-Dragon Head",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 65622692,
@@ -1441,6 +2422,15 @@
       {
         "id": 64500000,
         "name": "Z-Metal Tank",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 64500000,
@@ -1450,9 +2440,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League 16 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 35149085,
         "name": "Beast Soul Swap",
+        "desc": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 35149085,
@@ -20,6 +26,15 @@
       {
         "id": 30127518,
         "name": "Darkfall",
+        "desc": "When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 30127518,
@@ -32,6 +47,15 @@
       {
         "id": 6021033,
         "name": "Doomkaiser Dragon",
+        "desc": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters\nWhen this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 1500,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6021033,
@@ -44,6 +68,15 @@
       {
         "id": 40732515,
         "name": "Endymion, the Master Magician",
+        "desc": "You can Special Summon this card (from your hand or GY) by removing 6 Spell Counters from a \"Magical Citadel of Endymion\" you control. If Summoned this way: Target 1 Spell in your GY; add that target to your hand. Once per turn: You can discard 1 Spell, then target 1 card on the field; destroy that target.",
+        "race": "Spellcaster",
+        "atk": 2700,
+        "def": 1700,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 40732515,
@@ -56,6 +89,15 @@
       {
         "id": 71786742,
         "name": "Geargiano",
+        "desc": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 71786742,
@@ -68,6 +110,15 @@
       {
         "id": 34460239,
         "name": "Generation Shift",
+        "desc": "Target 1 face-up monster you control; destroy that target, then add 1 card with the same name as the destroyed card from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 34460239,
@@ -80,6 +131,15 @@
       {
         "id": 80723580,
         "name": "Giant Trap Hole",
+        "desc": "When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 80723580,
@@ -92,6 +152,15 @@
       {
         "id": 52512994,
         "name": "Kasha",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+        "race": "Zombie",
+        "atk": -1,
+        "def": 1000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 52512994,
@@ -104,6 +173,15 @@
       {
         "id": 57666212,
         "name": "Kuraz the Light Monarch",
+        "desc": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 57666212,
@@ -116,6 +194,15 @@
       {
         "id": 23171610,
         "name": "Limiter Removal",
+        "desc": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23171610,
@@ -128,6 +215,15 @@
       {
         "id": 25518020,
         "name": "Machine Assembly Line",
+        "desc": "All Machine-Type monsters on the field gain 200 ATK. Each time a face-up Machine-Type monster(s) on the field is destroyed by battle or card effect, place 2 Junk Counters on this card. You can send this card to the Graveyard, then target 1 Machine-Type monster in your Graveyard whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 25518020,
@@ -140,6 +236,15 @@
       {
         "id": 1557341,
         "name": "Rose, Warrior of Revenge",
+        "desc": "When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 1557341,
@@ -152,6 +257,15 @@
       {
         "id": 37265642,
         "name": "Sabersaurus",
+        "desc": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+        "race": "Dinosaur",
+        "atk": 1900,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 37265642,
@@ -164,6 +278,15 @@
       {
         "id": 81489939,
         "name": "Stygian Dirge",
+        "desc": "Reduce the Levels of all monsters your opponent controls by 1.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 81489939,
@@ -176,6 +299,15 @@
       {
         "id": 97705809,
         "name": "Supercharge",
+        "desc": "When your opponent declares an attack while the only monsters you control are Machine-Type \"roid\" monster(s): Draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97705809,
@@ -188,6 +320,15 @@
       {
         "id": 51402908,
         "name": "The Supremacy Sun",
+        "desc": "Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.",
+        "race": "Fiend",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 51402908,
@@ -200,6 +341,15 @@
       {
         "id": 698785,
         "name": "Thunder End Dragon",
+        "desc": "2 Level 8 Normal Monsters\nOnce per turn: You can detach 1 Xyz Material from this card; destroy all other monsters on the field.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 698785,
@@ -212,6 +362,15 @@
       {
         "id": 56387350,
         "name": "Vampire Baby",
+        "desc": "At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.",
+        "race": "Zombie",
+        "atk": 700,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 56387350,
@@ -224,6 +383,15 @@
       {
         "id": 34294855,
         "name": "Vampire's Curse",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.",
+        "race": "Zombie",
+        "atk": 2000,
+        "def": 800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 34294855,
@@ -236,6 +404,15 @@
       {
         "id": 75162696,
         "name": "Victoria",
+        "desc": "Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 75162696,
@@ -245,7 +422,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

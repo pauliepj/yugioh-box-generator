@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump December 2018 membership promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 78144171,
         "name": "Dark Armed, the Dragon of Annihilation",
+        "desc": "2+ Level 7 monsters\r\nOnce per turn, if you have exactly 5 DARK monsters in your GY, you can also Xyz Summon \"Dark Armed, the Dragon of Annihilation\" by using 1 Level 5 or higher DARK Dragon monster you control as material. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then banish 1 card from your GY, also, this card cannot attack for the rest of this turn.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 78144171,
@@ -18,6 +26,15 @@
       {
         "id": 79266769,
         "name": "Darkness Metal, the Dragon of Dark Steel",
+        "desc": "2+ Effect Monsters with the same Type and Attribute\r\nYou can target 1 of your monsters that is banished or in your GY; Special Summon it to your zone this card points to, in Defense Position, but its effects are negated, also you cannot Special Summon Link Monsters for the rest of this turn, and the Summoned monster is placed on the bottom of the Deck when it leaves the field. You can only use this effect of \"Darkness Metal, the Dragon of Dark Steel\" once per turn.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": null,
+        "level": 0,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 79266769,
@@ -30,6 +47,15 @@
       {
         "id": 41659072,
         "name": "Judgment, the Dragon of Heaven",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also, you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 41659072,
@@ -42,6 +68,15 @@
       {
         "id": 15661378,
         "name": "Trishula, the Dragon of Icy Imprisonment",
+        "desc": "3 monsters with different names\r\nMust first be either Fusion Summoned using only monsters in your hand and/or field, or Special Summoned (from your Extra Deck) by banishing the above cards you control (in which case you do not use \"Polymerization\"). If this card was Special Summoned using only monsters that were originally Dragons: You can reveal and banish 3 cards (1 from your Deck, 1 from the top of your opponent's Deck, and 1 from their Extra Deck). You can only use this effect of \"Trishula, the Dragon of Icy Imprisonment\" once per turn.",
+        "race": "Dragon",
+        "atk": 2700,
+        "def": 2000,
+        "level": 9,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 15661378,
@@ -51,9 +86,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

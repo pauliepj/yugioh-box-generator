@@ -1,10 +1,51 @@
 {
   "setName": "Duel Terminal 6",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "duel terminal normal parallel rare": [
+      {
+        "id": 69884162,
+        "name": "Elemental HERO Neos Alius",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Gemini Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 69884162,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69884162.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69884162.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69884162.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal rare parallel rare": [
+      {
+        "id": 9837195,
+        "name": "Musto, Oracle of Gusto",
+        "desc": "Once per turn: You can target 1 \"Gusto\" monster in your Graveyard and 1 face-up monster on the field; shuffle the first target into the Deck, and if you do, negate the second target's effects until the End Phase.",
+        "race": "Psychic",
+        "atk": 1800,
+        "def": 900,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 9837195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9837195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9837195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9837195.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

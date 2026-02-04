@@ -1,11 +1,19 @@
 {
   "setName": "Photon Shockwave Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 43096270,
         "name": "Alexandrite Dragon",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 43096270,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 7, Issue 6 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 78651105,
         "name": "Beast King Barbaros",
+        "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+        "race": "Beast-Warrior",
+        "atk": 3000,
+        "def": 1200,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 78651105,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

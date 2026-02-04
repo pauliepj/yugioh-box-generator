@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 6, Issue 5 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 39439590,
         "name": "Cyber Dinosaur",
+        "desc": "When your opponent Special Summons a monster from their hand (except during the Damage Step): You can Special Summon this card from your hand.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 1900,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39439590,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

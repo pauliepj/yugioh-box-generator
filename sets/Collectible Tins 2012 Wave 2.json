@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2012 Wave 2",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 64332231,
         "name": "Hieratic Sun Dragon Overlord of Heliopolis",
+        "desc": "2 Level 8 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 64332231,
@@ -17,6 +26,15 @@
       {
         "id": 95027497,
         "name": "Ninja Grandmaster Hanzo",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 95027497,
@@ -27,11 +45,19 @@
         ]
       }
     ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 95992081,
         "name": "Leviair the Sea Dragon",
+        "desc": "2 Level 3 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 banished Level 4 or lower monster; Special Summon that target to your field.",
+        "race": "Aqua",
+        "atk": 1800,
+        "def": 1600,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95992081,
@@ -44,6 +70,15 @@
       {
         "id": 37115575,
         "name": "Malefic Truth Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a \"Malefic\" monster you control, except \"Malefic Truth Dragon\", is destroyed by battle or by card effect: You can pay half your Life Points; Special Summon this card from your hand or Graveyard. There can only be 1 \"Malefic\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle: Destroy all face-up monsters your opponent controls.",
+        "race": "Dragon",
+        "atk": 5000,
+        "def": 5000,
+        "level": 12,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37115575,
@@ -56,6 +91,15 @@
       {
         "id": 23434538,
         "name": "Maxx \"C\"",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 200,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 23434538,
@@ -68,6 +112,15 @@
       {
         "id": 54719828,
         "name": "Number 16: Shock Master",
+        "desc": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to declare 1 card type (Monster, Spell, or Trap); that type of card (if Spell or Trap) cannot be activated, or (if Monster) cannot activate its effects, until the end of your opponent's next turn.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 54719828,
@@ -80,6 +133,15 @@
       {
         "id": 85138716,
         "name": "Rescue Rabbit",
+        "desc": "Cannot be Special Summoned from the Deck. You can banish this face-up card you control; Special Summon 2 Level 4 or lower Normal Monsters with the same name from your Deck, but destroy them during the End Phase. You can only use this effect of \"Rescue Rabbit\" once per turn.",
+        "race": "Beast",
+        "atk": 300,
+        "def": 100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 85138716,
@@ -92,6 +154,15 @@
       {
         "id": 10802915,
         "name": "Tour Guide From the Underworld",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 10802915,
@@ -110,6 +181,15 @@
       {
         "id": 63612442,
         "name": "X-Saber Souza",
+        "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63612442,
@@ -119,8 +199,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

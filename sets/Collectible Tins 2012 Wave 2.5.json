@@ -1,25 +1,19 @@
 {
   "setName": "Collectible Tins 2012 Wave 2.5",
   "rarities": {
-    "secret": [
-      {
-        "id": 56174248,
-        "name": "Prophecy Destroyer",
-        "card_images": [
-          {
-            "id": 56174248,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56174248.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56174248.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56174248.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 7845138,
         "name": "Endless Decay",
+        "desc": "If you have 2000 LP or less, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: This card's ATK becomes half the opponent's LP.",
+        "race": "Zombie",
+        "atk": -1,
+        "def": 0,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 7845138,
@@ -32,6 +26,15 @@
       {
         "id": 9059700,
         "name": "Infernity Barrier",
+        "desc": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a face-up Attack Position \"Infernity\" monster and have no cards in your hand: Negate the activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9059700,
@@ -44,6 +47,15 @@
       {
         "id": 92661479,
         "name": "Photon Strike Bounzer",
+        "desc": "2 Level 6 monsters\nOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.",
+        "race": "Warrior",
+        "atk": 2700,
+        "def": 2000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 92661479,
@@ -56,6 +68,15 @@
       {
         "id": 37926346,
         "name": "Steelswarm Roach",
+        "desc": "2 Level 4 monsters\nDuring either player's turn, when a Level 5 or higher monster would be Special Summoned: You can detach 1 Xyz Material from this card; negate the Special Summon, and if you do, destroy it.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37926346,
@@ -66,7 +87,28 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "secret rare": [
+      {
+        "id": 56174248,
+        "name": "Prophecy Destroyer",
+        "desc": "If this card is in your Graveyard: You can banish 3 \"Spellbook\" Spell Cards from your Graveyard; Special Summon this card from your Graveyard.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 56174248,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56174248.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56174248.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56174248.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

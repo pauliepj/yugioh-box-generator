@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League 15 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 91351370,
         "name": "Black Whirlwind",
+        "desc": "When a \"Blackwing\" monster is Normal Summoned to your field: You can add 1 \"Blackwing\" monster from your Deck to your hand with less ATK than that monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 91351370,
@@ -20,6 +26,15 @@
       {
         "id": 9748752,
         "name": "Caius the Shadow Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 9748752,
@@ -32,6 +47,15 @@
       {
         "id": 77561728,
         "name": "Disturbance Strategy",
+        "desc": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 77561728,
@@ -44,6 +68,15 @@
       {
         "id": 76909279,
         "name": "Enraged Battle Ox",
+        "desc": "If a Beast, Beast-Warrior, or Winged Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 76909279,
@@ -56,6 +89,15 @@
       {
         "id": 46173679,
         "name": "Fires of Doomsday",
+        "desc": "Special Summon 2 \"Doomsday Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 46173679,
@@ -68,6 +110,15 @@
       {
         "id": 55589254,
         "name": "Frost and Flame Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 monster on the field; destroy that target.",
+        "race": "Dragon",
+        "atk": 2300,
+        "def": 2000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 55589254,
@@ -80,6 +131,15 @@
       {
         "id": 26082117,
         "name": "Gagaga Magician",
+        "desc": "Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 \"Gagaga Magician\". This card cannot be used as a Synchro Material Monster.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 26082117,
@@ -92,6 +152,15 @@
       {
         "id": 51355346,
         "name": "Gaia Soul the Combustible Collective",
+        "desc": "Once per turn: You can Tribute up to 2 Pyro-Type monsters; this card gains 1000 ATK for each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During the End Phase: Destroy this card.",
+        "race": "Pyro",
+        "atk": 2000,
+        "def": 0,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 51355346,
@@ -104,6 +173,15 @@
       {
         "id": 62476815,
         "name": "Gogogo Golem",
+        "desc": "Once per turn, this Defense Position card cannot be destroyed by battle.",
+        "race": "Rock",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 62476815,
@@ -116,6 +194,15 @@
       {
         "id": 21350571,
         "name": "Horn of the Phantom Beast",
+        "desc": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 21350571,
@@ -128,6 +215,15 @@
       {
         "id": 40817915,
         "name": "Kurivolt",
+        "desc": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+        "race": "Thunder",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 40817915,
@@ -140,6 +236,15 @@
       {
         "id": 44095762,
         "name": "Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 44095762,
@@ -152,6 +257,15 @@
       {
         "id": 69610924,
         "name": "Number 17: Leviathan Dragon",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 69610924,
@@ -164,6 +278,15 @@
       {
         "id": 32268901,
         "name": "Salamandra",
+        "desc": "Equip only to a FIRE monster. It gains 700 ATK.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 32268901,
@@ -176,6 +299,15 @@
       {
         "id": 73752131,
         "name": "Skilled Dark Magician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
+        "race": "Spellcaster",
+        "atk": 1900,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 73752131,
@@ -188,6 +320,15 @@
       {
         "id": 86780027,
         "name": "Solidarity",
+        "desc": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 86780027,
@@ -200,6 +341,15 @@
       {
         "id": 5220687,
         "name": "Super-Nimble Mega Hamster",
+        "desc": "FLIP: You can Special Summon 1 Level 3 or lower Beast-Type monster from your Deck in face-down Defense Position.",
+        "race": "Beast",
+        "atk": 1100,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 5220687,
@@ -212,6 +362,15 @@
       {
         "id": 67934141,
         "name": "Ultimate Baseball Kid",
+        "desc": "This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.",
+        "race": "Warrior",
+        "atk": 500,
+        "def": 1000,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 67934141,
@@ -224,6 +383,15 @@
       {
         "id": 67775894,
         "name": "Wonder Wand",
+        "desc": "Equip only to a Spellcaster monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the GY; draw 2 cards.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 67775894,
@@ -236,6 +404,15 @@
       {
         "id": 97896503,
         "name": "Zubaba Knight",
+        "desc": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97896503,
@@ -245,7 +422,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

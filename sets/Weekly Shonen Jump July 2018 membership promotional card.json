@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump July 2018 membership promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 68431965,
         "name": "Shooting Riser Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can send 1 monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's, but for the rest of this turn, you cannot activate the effects of monsters with the same name the sent monster had in the GY. You can only use this effect of \"Shooting Riser Dragon\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 1700,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 68431965,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

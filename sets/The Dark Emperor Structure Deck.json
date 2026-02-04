@@ -1,27 +1,19 @@
 {
   "setName": "The Dark Emperor Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 9748752,
-        "name": "Caius the Shadow Monarch",
-        "card_images": [
-          {
-            "id": 9748752,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9748752.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9748752.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9748752.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 94853057,
         "name": "Banisher of the Radiance",
+        "desc": "Any card sent to the Graveyard is banished instead.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94853057,
@@ -34,6 +26,15 @@
       {
         "id": 40133511,
         "name": "Bazoo the Soul-Eater",
+        "desc": "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40133511,
@@ -46,6 +47,15 @@
       {
         "id": 61127349,
         "name": "Big Bang Shot",
+        "desc": "The equipped monster gains 400 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card leaves the field, banish the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61127349,
@@ -58,6 +68,15 @@
       {
         "id": 29401950,
         "name": "Bottomless Trap Hole",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29401950,
@@ -70,6 +89,15 @@
       {
         "id": 87910978,
         "name": "Brain Control",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87910978,
@@ -82,6 +110,15 @@
       {
         "id": 35011819,
         "name": "By Order of the Emperor",
+        "desc": "When a monster effect is activated that activates when a monster is Normal Summoned: You can negate the activation, then the player whose effect activation was negated draws 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35011819,
@@ -94,6 +131,15 @@
       {
         "id": 47829960,
         "name": "Chaosrider Gustaph",
+        "desc": "Once per turn, you can remove from play up to 2 Spell Cards from your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent's next turn.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47829960,
@@ -106,6 +152,15 @@
       {
         "id": 70074904,
         "name": "D.D. Assailant",
+        "desc": "After damage calculation, when this card is destroyed by battle with an opponent's monster: Banish that monster, also banish this card.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70074904,
@@ -118,6 +173,15 @@
       {
         "id": 8628798,
         "name": "D.D. Dynamite",
+        "desc": "Inflict 300 damage to your opponent for each of their removed from play cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8628798,
@@ -130,6 +194,15 @@
       {
         "id": 3773196,
         "name": "D.D. Scout Plane",
+        "desc": "Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 1200,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3773196,
@@ -142,6 +215,15 @@
       {
         "id": 48092532,
         "name": "D.D. Survivor",
+        "desc": "During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48092532,
@@ -154,6 +236,15 @@
       {
         "id": 37043180,
         "name": "D.D. Warrior",
+        "desc": "After damage calculation, when this card battles a monster: Banish that monster, also banish this card.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37043180,
@@ -166,6 +257,15 @@
       {
         "id": 7572887,
         "name": "D.D. Warrior Lady",
+        "desc": "After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7572887,
@@ -178,6 +278,15 @@
       {
         "id": 82112775,
         "name": "D.D.M. - Different Dimension Master",
+        "desc": "Once per turn, you can discard 1 Spell Card to Special Summon 1 of your removed from play monsters.",
+        "race": "Spellcaster",
+        "atk": 1700,
+        "def": 1500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82112775,
@@ -190,6 +299,15 @@
       {
         "id": 9622164,
         "name": "D.D.R. - Different Dimension Reincarnation",
+        "desc": "Discard 1 card, then target 1 of your banished monsters; Special Summon it in Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9622164,
@@ -202,6 +320,15 @@
       {
         "id": 70231910,
         "name": "Dark Core",
+        "desc": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70231910,
@@ -214,6 +341,15 @@
       {
         "id": 36733451,
         "name": "Dimensional Alchemist",
+        "desc": "Once per turn, you can activate this effect to remove from play the top card of your Deck and give this card 500 ATK until the End Phase. When this card is destroyed and sent from your side of the field to your Graveyard, you can select 1 of your removed from play monsters and return it to your hand.",
+        "race": "Fairy",
+        "atk": 1300,
+        "def": 200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36733451,
@@ -226,6 +362,15 @@
       {
         "id": 81674782,
         "name": "Dimensional Fissure",
+        "desc": "Any monster sent to the Graveyard is banished instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81674782,
@@ -238,6 +383,15 @@
       {
         "id": 98045062,
         "name": "Enemy Controller",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98045062,
@@ -250,6 +404,15 @@
       {
         "id": 74131780,
         "name": "Exiled Force",
+        "desc": "You can Tribute this card to target 1 monster on the field; destroy that target.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74131780,
@@ -262,6 +425,15 @@
       {
         "id": 27408609,
         "name": "Golden Homunculus",
+        "desc": "This card gains 300 ATK and DEF for each of your banished cards.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1500,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27408609,
@@ -274,6 +446,15 @@
       {
         "id": 36584821,
         "name": "Gren Maju Da Eiza",
+        "desc": "This card's ATK/DEF are each equal to the number of your banished cards x 400.",
+        "race": "Fiend",
+        "atk": -1,
+        "def": -1,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36584821,
@@ -286,6 +467,15 @@
       {
         "id": 54493213,
         "name": "Helios - The Primordial Sun",
+        "desc": "This card's ATK and DEF are each equal to the number of removed from play monsters x 100.",
+        "race": "Pyro",
+        "atk": -1,
+        "def": -1,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54493213,
@@ -298,6 +488,15 @@
       {
         "id": 71587526,
         "name": "Karma Cut",
+        "desc": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent's Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71587526,
@@ -310,6 +509,15 @@
       {
         "id": 88240808,
         "name": "Kycoo the Ghost Destroyer",
+        "desc": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88240808,
@@ -322,6 +530,15 @@
       {
         "id": 69162969,
         "name": "Lightning Vortex",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69162969,
@@ -334,6 +551,15 @@
       {
         "id": 30241314,
         "name": "Macro Cosmos",
+        "desc": "When this card resolves: You can Special Summon 1 \"Helios - The Primordial Sun\" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30241314,
@@ -346,6 +572,15 @@
       {
         "id": 5318639,
         "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5318639,
@@ -358,6 +593,15 @@
       {
         "id": 71044499,
         "name": "Nobleman of Crossout",
+        "desc": "Target 1 face-down monster on the field; destroy that target, and if you do, banish it, then, if it was a Flip monster, each player reveals their Main Deck, then banishes all cards from it with that monster's name.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71044499,
@@ -370,6 +614,15 @@
       {
         "id": 32807846,
         "name": "Reinforcement of the Army",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32807846,
@@ -382,6 +635,15 @@
       {
         "id": 27174286,
         "name": "Return from the Different Dimension",
+        "desc": "Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27174286,
@@ -394,6 +656,15 @@
       {
         "id": 56120475,
         "name": "Sakuretsu Armor",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56120475,
@@ -406,6 +677,15 @@
       {
         "id": 72237166,
         "name": "Samsara Kaiser",
+        "desc": "When you Tribute Summon a monster by Tributing this card, return this card to your hand.",
+        "race": "Warrior",
+        "atk": 200,
+        "def": 100,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72237166,
@@ -418,6 +698,15 @@
       {
         "id": 5758500,
         "name": "Soul Release",
+        "desc": "Target up to 5 cards in any GY(s); banish them.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5758500,
@@ -430,12 +719,44 @@
       {
         "id": 53582587,
         "name": "Torrential Tribute",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53582587,
             "image_url": "https://images.ygoprodeck.com/images/cards/53582587.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53582587.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 9748752,
+        "name": "Caius the Shadow Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 9748752,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9748752.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9748752.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9748752.jpg"
           }
         ]
       }

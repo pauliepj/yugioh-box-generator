@@ -1,10 +1,19 @@
 {
   "setName": "Duelist Pack Collection Tin 2011",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 94515289,
         "name": "Frozen Fitzgerald",
+        "desc": "1 DARK Tuner + 1 non-Tuner Beast-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 2500,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 94515289,
@@ -15,11 +24,19 @@
         ]
       }
     ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 95453143,
         "name": "Hundred Eyes Dragon",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner Fiend-Type monsters\nOnce per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your Graveyard; until the End Phase, this card's name becomes that banished monster's, and replace this effect with that banished monster's original effects. If this card is destroyed and sent to the Graveyard: Add 1 \"Earthbound Immortal\" monster from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95453143,
@@ -32,6 +49,15 @@
       {
         "id": 63465535,
         "name": "Underground Arachnid",
+        "desc": "1 DARK Tuner + 1 non-Tuner Insect-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. Once per turn, you can select 1 face-up monster your opponent controls, and equip it to this card. If this card would be destroyed by battle, you can destroy the monster equipped to this card by its effect instead. (You can only equip 1 monster at a time to this card.)",
+        "race": "Insect",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63465535,
@@ -44,6 +70,15 @@
       {
         "id": 22858242,
         "name": "Zeman the Ape King",
+        "desc": "1 DARK Tuner + 1 non-Tuner Beast-Type monster\nIf this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.",
+        "race": "Beast",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 22858242,
@@ -53,8 +88,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

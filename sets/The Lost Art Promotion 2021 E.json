@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 E",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 38033121,
         "name": "Dark Magician Girl",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 38033121,
@@ -45,9 +53,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

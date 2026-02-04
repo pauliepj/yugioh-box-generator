@@ -1,11 +1,19 @@
 {
   "setName": "Ultimate Edition 2",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 62873545,
         "name": "Dragon Master Knight",
+        "desc": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\r\nMust be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+        "race": "Dragon",
+        "atk": 5000,
+        "def": 5000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62873545,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

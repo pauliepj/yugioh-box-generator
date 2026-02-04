@@ -1,12 +1,19 @@
 {
   "setName": "Flames of Destruction Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 61468779,
         "name": "Grandsoil the Elemental Lord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your GY. When this card is Special Summoned: You can target 1 monster in either player's GY; Special Summon that target. You can only use this effect of \"Grandsoil the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+        "race": "Beast-Warrior",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 61468779,
@@ -19,6 +26,15 @@
       {
         "id": 13959634,
         "name": "Moulinglacia the Elemental Lord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your GY. If this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use this effect of \"Moulinglacia the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+        "race": "Sea Serpent",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 13959634,
@@ -31,6 +47,15 @@
       {
         "id": 53077251,
         "name": "Universal Adapter",
+        "desc": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 53077251,
@@ -43,6 +68,15 @@
       {
         "id": 68191756,
         "name": "World Legacy's Memory",
+        "desc": "Special Summon 1 \"Mekk-Knight\" monster from your hand or Deck in Defense Position, but return it to the hand during the End Phase. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except \"Mekk-Knight\" monsters. You can only activate 1 \"World Legacy's Memory\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 68191756,
@@ -52,8 +86,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

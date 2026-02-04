@@ -1,111 +1,19 @@
 {
   "setName": "2-Player Starter Set",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 82633039,
-        "name": "Castel, the Skyblaster Musketeer",
-        "card_images": [
-          {
-            "id": 82633039,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82633039.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82633039.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82633039.jpg"
-          }
-        ]
-      },
-      {
-        "id": 42566602,
-        "name": "Coral Dragon",
-        "card_images": [
-          {
-            "id": 42566602,
-            "image_url": "https://images.ygoprodeck.com/images/cards/42566602.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42566602.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42566602.jpg"
-          }
-        ]
-      },
-      {
-        "id": 581014,
-        "name": "Daigusto Emeral",
-        "card_images": [
-          {
-            "id": 581014,
-            "image_url": "https://images.ygoprodeck.com/images/cards/581014.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/581014.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/581014.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90448279,
-        "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
-        "card_images": [
-          {
-            "id": 90448279,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90448279.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90448279.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90448279.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90465153,
-        "name": "Mannadium Prime-Heart",
-        "card_images": [
-          {
-            "id": 90465153,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90465153.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90465153.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90465153.jpg"
-          }
-        ]
-      },
-      {
-        "id": 47805931,
-        "name": "Number 20: Giga-Brilliant",
-        "card_images": [
-          {
-            "id": 47805931,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47805931.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47805931.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47805931.jpg"
-          }
-        ]
-      },
-      {
-        "id": 82197831,
-        "name": "Rampaging Smashtank Rhynosaber",
-        "card_images": [
-          {
-            "id": 82197831,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82197831.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82197831.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82197831.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86137485,
-        "name": "Stygian Sergeants",
-        "card_images": [
-          {
-            "id": 86137485,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86137485.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86137485.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86137485.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 89386122,
         "name": "Ally of Justice Clausolas",
+        "desc": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89386122,
@@ -118,6 +26,15 @@
       {
         "id": 64977888,
         "name": "Apprentice Piper",
+        "desc": "FLIP: You can Special Summon 1 monster from your hand.\r\nIf this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster from your hand.",
+        "race": "Spellcaster",
+        "atk": 100,
+        "def": 1500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64977888,
@@ -130,6 +47,15 @@
       {
         "id": 46083380,
         "name": "Attraffic Control",
+        "desc": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46083380,
@@ -142,6 +68,15 @@
       {
         "id": 59919307,
         "name": "Back to the Front",
+        "desc": "Target 1 monster in your GY; Special Summon it in Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59919307,
@@ -154,6 +89,15 @@
       {
         "id": 68833958,
         "name": "Back-Up Rider",
+        "desc": "Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68833958,
@@ -166,6 +110,15 @@
       {
         "id": 89127526,
         "name": "Barrier Resonator",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 800,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89127526,
@@ -178,6 +131,15 @@
       {
         "id": 78651105,
         "name": "Beast King Barbaros",
+        "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.",
+        "race": "Beast-Warrior",
+        "atk": 3000,
+        "def": 1200,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78651105,
@@ -190,6 +152,15 @@
       {
         "id": 14087893,
         "name": "Book of Moon",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14087893,
@@ -202,6 +173,15 @@
       {
         "id": 44947065,
         "name": "Burden of the Mighty",
+        "desc": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44947065,
@@ -214,6 +194,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -226,6 +215,15 @@
       {
         "id": 85087012,
         "name": "Card Trooper",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85087012,
@@ -238,6 +236,15 @@
       {
         "id": 45812361,
         "name": "Cardcar D",
+        "desc": "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 400,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45812361,
@@ -250,6 +257,15 @@
       {
         "id": 16956455,
         "name": "Chiron the Mage",
+        "desc": "Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16956455,
@@ -262,6 +278,15 @@
       {
         "id": 23265313,
         "name": "Cost Down",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23265313,
@@ -274,6 +299,15 @@
       {
         "id": 28637168,
         "name": "Crane Crane",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 3 monster in your GY; Special Summon that target, but it has its effects negated. You can only use this effect of \"Crane Crane\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 300,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28637168,
@@ -286,6 +320,15 @@
       {
         "id": 70095154,
         "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70095154,
@@ -298,6 +341,15 @@
       {
         "id": 24508238,
         "name": "D.D. Crow",
+        "desc": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24508238,
@@ -310,6 +362,15 @@
       {
         "id": 90928333,
         "name": "Dark Factory of Mass Production",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90928333,
@@ -322,6 +383,15 @@
       {
         "id": 53129443,
         "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53129443,
@@ -334,6 +404,15 @@
       {
         "id": 46986421,
         "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46986421,
@@ -346,6 +425,15 @@
       {
         "id": 38033121,
         "name": "Dark Magician Girl",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38033121,
@@ -358,6 +446,15 @@
       {
         "id": 97021916,
         "name": "Dark Resonator",
+        "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+        "race": "Fiend",
+        "atk": 1300,
+        "def": 300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97021916,
@@ -370,6 +467,15 @@
       {
         "id": 43250041,
         "name": "Draining Shield",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate that attack, and if you do, gain LP equal to that target's ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43250041,
@@ -382,6 +488,15 @@
       {
         "id": 95440946,
         "name": "Eldlich the Golden Lord",
+        "desc": "You can send this card and 1 Spell/Trap from your hand to the GY, then target 1 card on the field; send it to the GY. If this card is in your GY: You can send 1 Spell/Trap you control to the GY; add this card to your hand, then you can Special Summon 1 Zombie monster from your hand, and if you do, until the end of your opponent's turn, it gains 1000 ATK/DEF and cannot be destroyed by card effects. You can only use each effect of \"Eldlich the Golden Lord\" once per turn.",
+        "race": "Zombie",
+        "atk": 2500,
+        "def": 2800,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95440946,
@@ -394,6 +509,15 @@
       {
         "id": 20721928,
         "name": "Elemental HERO Sparkman",
+        "desc": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20721928,
@@ -406,6 +530,15 @@
       {
         "id": 27012717,
         "name": "Fierce Tiger Monghu",
+        "desc": "All other monsters on the field lose 500 ATK. Once per turn, during your Main Phase: You can destroy all monsters on the field with less ATK than this card.",
+        "race": "Beast",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27012717,
@@ -418,6 +551,15 @@
       {
         "id": 6178850,
         "name": "Fighting Spirit",
+        "desc": "The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6178850,
@@ -430,6 +572,15 @@
       {
         "id": 66788016,
         "name": "Fissure",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66788016,
@@ -442,6 +593,15 @@
       {
         "id": 26082117,
         "name": "Gagaga Magician",
+        "desc": "Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 \"Gagaga Magician\". This card cannot be used as a Synchro Material Monster.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26082117,
@@ -454,6 +614,15 @@
       {
         "id": 5133471,
         "name": "Galaxy Cyclone",
+        "desc": "Target 1 Set Spell/Trap on the field; destroy it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Spell/Trap on the field; destroy it. You can only use this effect of \"Galaxy Cyclone\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5133471,
@@ -466,6 +635,15 @@
       {
         "id": 13039848,
         "name": "Giant Soldier of Stone",
+        "desc": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+        "race": "Rock",
+        "atk": 1300,
+        "def": 2000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13039848,
@@ -478,6 +656,15 @@
       {
         "id": 38445524,
         "name": "Gil Garth",
+        "desc": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38445524,
@@ -490,6 +677,15 @@
       {
         "id": 32022366,
         "name": "Gravity Axe - Grarl",
+        "desc": "The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32022366,
@@ -502,6 +698,15 @@
       {
         "id": 18325492,
         "name": "Gyroid",
+        "desc": "Once per turn, this card cannot be destroyed by battle.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18325492,
@@ -514,6 +719,15 @@
       {
         "id": 97923414,
         "name": "Inpachi",
+        "desc": "A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 1900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97923414,
@@ -526,6 +740,15 @@
       {
         "id": 37390589,
         "name": "Kunai with Chain",
+        "desc": "Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37390589,
@@ -538,6 +761,15 @@
       {
         "id": 97590747,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97590747,
@@ -550,6 +782,15 @@
       {
         "id": 87322377,
         "name": "Launcher Spider",
+        "desc": "A mechanical spider with rocket launchers capable of random fire.",
+        "race": "Machine",
+        "atk": 2200,
+        "def": 2500,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87322377,
@@ -562,6 +803,15 @@
       {
         "id": 72022087,
         "name": "Liberty at Last!",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72022087,
@@ -574,6 +824,15 @@
       {
         "id": 83746708,
         "name": "Mage Power",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83746708,
@@ -586,6 +845,15 @@
       {
         "id": 62279055,
         "name": "Magic Cylinder",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62279055,
@@ -598,6 +866,15 @@
       {
         "id": 72171665,
         "name": "Magical Broker",
+        "desc": "While you control a Continuous Spell/Trap, this card cannot be destroyed by battle or card effects. During your opponent's turn (Quick Effect): You can send 1 face-up Continuous Spell/Trap you control to the GY; draw 1 card. You can only use this effect of \"Magical Broker\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72171665,
@@ -610,6 +887,15 @@
       {
         "id": 31560081,
         "name": "Magician of Faith",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 400,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31560081,
@@ -622,6 +908,15 @@
       {
         "id": 17272964,
         "name": "Mannadium Fearless",
+        "desc": "If you control \"Visas Starfrost\" or a monster with 1500 ATK/2100 DEF, you can Special Summon this card (from your hand). You can only Special Summon \"Mannadium Fearless\" once per turn this way. If this card is destroyed by battle or card effect: You can Special Summon 1 \"Mannadium Fearless\" from your Deck, also during the Battle Phase this turn, Synchro Monsters you control gain 500 ATK.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 2000,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17272964,
@@ -640,6 +935,15 @@
       {
         "id": 28933734,
         "name": "Mask of Darkness",
+        "desc": "FLIP: Target 1 Trap in your GY; add that target to your hand.",
+        "race": "Fiend",
+        "atk": 900,
+        "def": 400,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28933734,
@@ -652,6 +956,15 @@
       {
         "id": 56948373,
         "name": "Mask of the Accursed",
+        "desc": "The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56948373,
@@ -664,6 +977,15 @@
       {
         "id": 4929256,
         "name": "Mobius the Frost Monarch",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Aqua",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4929256,
@@ -676,6 +998,15 @@
       {
         "id": 5318639,
         "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5318639,
@@ -688,6 +1019,15 @@
       {
         "id": 38411870,
         "name": "Needle Ceiling",
+        "desc": "When there are 4 or more monsters on the field: Destroy all face-up monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38411870,
@@ -700,6 +1040,15 @@
       {
         "id": 89882100,
         "name": "Night Beam",
+        "desc": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89882100,
@@ -712,6 +1061,15 @@
       {
         "id": 60306104,
         "name": "No Entry!!",
+        "desc": "Change all Attack Position monsters to Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60306104,
@@ -724,6 +1082,15 @@
       {
         "id": 98806751,
         "name": "Obsessive Uvualoop",
+        "desc": "If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of \"Obsessive Uvualoop\" once per turn.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98806751,
@@ -736,6 +1103,15 @@
       {
         "id": 12482652,
         "name": "Ojama Green",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12482652,
@@ -748,6 +1124,15 @@
       {
         "id": 42941100,
         "name": "Ojama Yellow",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 42941100,
@@ -760,6 +1145,15 @@
       {
         "id": 93104632,
         "name": "One-Time Passcode",
+        "desc": "Special Summon 1 \"Security Token\" (Cyberse/LIGHT/Level 4/ATK 2000/DEF 2000) in Defense Position. You can only activate 1 \"One-Time Passcode\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93104632,
@@ -772,6 +1166,15 @@
       {
         "id": 93920745,
         "name": "Penguin Soldier",
+        "desc": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+        "race": "Aqua",
+        "atk": 750,
+        "def": 500,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93920745,
@@ -784,6 +1187,15 @@
       {
         "id": 6901008,
         "name": "Phantom King Hydride",
+        "desc": "If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6901008,
@@ -796,6 +1208,15 @@
       {
         "id": 53656677,
         "name": "Power Frame",
+        "desc": "When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53656677,
@@ -808,6 +1229,15 @@
       {
         "id": 25652259,
         "name": "Queen's Knight",
+        "desc": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25652259,
@@ -820,6 +1250,15 @@
       {
         "id": 23571046,
         "name": "Quillbolt Hedgehog",
+        "desc": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23571046,
@@ -832,6 +1271,15 @@
       {
         "id": 95788410,
         "name": "Rabidragon",
+        "desc": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
+        "race": "Dragon",
+        "atk": 2950,
+        "def": 2900,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95788410,
@@ -844,6 +1292,15 @@
       {
         "id": 2964201,
         "name": "Ryu-Ran",
+        "desc": "A vicious little dragon sheltered in an egg that looks deceptively harmless.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 2600,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2964201,
@@ -856,6 +1313,15 @@
       {
         "id": 73915051,
         "name": "Scapegoat",
+        "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73915051,
@@ -868,6 +1334,15 @@
       {
         "id": 73729209,
         "name": "Skill Successor",
+        "desc": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73729209,
@@ -880,6 +1355,15 @@
       {
         "id": 80770678,
         "name": "Spirit of the Harp",
+        "desc": "A spirit that soothes the soul with the music of its heavenly harp.",
+        "race": "Fairy",
+        "atk": 800,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80770678,
@@ -892,6 +1376,15 @@
       {
         "id": 63485233,
         "name": "Star Changer",
+        "desc": "Target 1 face-up monster on the field and activate 1 of these effects;\n● Increase that target's Level by 1.\n● Reduce that target's Level by 1.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63485233,
@@ -904,6 +1397,15 @@
       {
         "id": 24610207,
         "name": "Star Drawing",
+        "desc": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\r\n● If it is Xyz Summoned: Draw 1 card.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24610207,
@@ -916,6 +1418,15 @@
       {
         "id": 5650082,
         "name": "Storming Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Return all your opponent's Attack Position monsters to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5650082,
@@ -928,6 +1439,15 @@
       {
         "id": 17626381,
         "name": "Supply Squad",
+        "desc": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17626381,
@@ -940,6 +1460,15 @@
       {
         "id": 96765646,
         "name": "Swing of Memories",
+        "desc": "Target 1 Normal Monster in your GY; Special Summon it, but destroy it during the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96765646,
@@ -952,6 +1481,15 @@
       {
         "id": 72302403,
         "name": "Swords of Revealing Light",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72302403,
@@ -964,6 +1502,15 @@
       {
         "id": 50005633,
         "name": "Swordstalker",
+        "desc": "A monster formed by the vengeful souls of those who passed away in battle.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 1600,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50005633,
@@ -976,6 +1523,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -988,6 +1544,15 @@
       {
         "id": 63391643,
         "name": "Thousand Knives",
+        "desc": "If you control \"Dark Magician\": Target 1 monster your opponent controls; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63391643,
@@ -1000,6 +1565,15 @@
       {
         "id": 38120068,
         "name": "Trade-In",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38120068,
@@ -1012,6 +1586,15 @@
       {
         "id": 56099748,
         "name": "Visas Starfrost",
+        "desc": "If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of \"Visas Starfrost\" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1500,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56099748,
@@ -1024,6 +1607,15 @@
       {
         "id": 18756904,
         "name": "White Elephant's Gift",
+        "desc": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18756904,
@@ -1036,6 +1628,15 @@
       {
         "id": 1571945,
         "name": "White Ninja",
+        "desc": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1571945,
@@ -1048,12 +1649,191 @@
       {
         "id": 26708437,
         "name": "Xyz Reborn",
+        "desc": "Target 1 Xyz Monster in your Graveyard; Special Summon it, and if you do, attach this card to it as an Xyz Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26708437,
             "image_url": "https://images.ygoprodeck.com/images/cards/26708437.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26708437.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26708437.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 82633039,
+        "name": "Castel, the Skyblaster Musketeer",
+        "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 \"Castel, the Skyblaster Musketeer\" effect per turn, and only once that turn.",
+        "race": "Winged Beast",
+        "atk": 2000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 82633039,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82633039.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82633039.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82633039.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42566602,
+        "name": "Coral Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls; destroy it. If this Synchro Summoned card is sent from the field to the GY: You can draw 1 card. You can only use this effect of \"Coral Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 500,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 42566602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42566602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42566602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42566602.jpg"
+          }
+        ]
+      },
+      {
+        "id": 581014,
+        "name": "Daigusto Emeral",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects.\n● Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card.\n● Target 1 non-Effect Monster in your GY; Special Summon that target.",
+        "race": "Rock",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 581014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/581014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/581014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/581014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90448279,
+        "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+        "desc": "2 Level 12 monsters\r\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 3000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 90448279,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90448279.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90448279.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90448279.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90465153,
+        "name": "Mannadium Prime-Heart",
+        "desc": "1+ Tuners + 1 LIGHT monster\r\nThis card can attack a number of times each Battle Phase, up to the number of Tuners used for its Synchro Summon. If this card was Synchro Summoned using a \"Mannadium\" Tuner as material, your opponent cannot target it with card effects. If this face-up Synchro Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your monsters with 1500 ATK/2100 DEF, or your \"Visas Starfrost\", that is banished or in your GY.",
+        "race": "Fairy",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 90465153,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90465153.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90465153.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90465153.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47805931,
+        "name": "Number 20: Giga-Brilliant",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.",
+        "race": "Insect",
+        "atk": 1800,
+        "def": 1800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 47805931,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47805931.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47805931.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47805931.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82197831,
+        "name": "Rampaging Smashtank Rhynosaber",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon monsters from your GY whose total Levels equal 7, except \"Rampaging Smashtank Rhynosaber\", but their effects are negated. You can only use each effect of \"Rampaging Smashtank Rhynosaber\" once per turn.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 2100,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 82197831,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82197831.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82197831.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82197831.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86137485,
+        "name": "Stygian Sergeants",
+        "desc": "1 Fiend-Type Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can have this card gain 800 ATK until the end of the Battle Phase, also this card can make a second attack in a row.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 86137485,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86137485.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86137485.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86137485.jpg"
           }
         ]
       }

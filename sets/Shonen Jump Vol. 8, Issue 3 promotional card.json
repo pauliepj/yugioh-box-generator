@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 8, Issue 3 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 33093439,
         "name": "Cyber Eltanin",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT Machine monsters from your field and GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 500. If this card is Special Summoned: Send all other face-up monsters on the field to the GY.",
+        "race": "Machine",
+        "atk": -1,
+        "def": -1,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 33093439,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

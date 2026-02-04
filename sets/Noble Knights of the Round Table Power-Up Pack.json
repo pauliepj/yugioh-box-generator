@@ -1,10 +1,133 @@
 {
   "setName": "Noble Knights of the Round Table Power-Up Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "platinum rare": [
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 94192409,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94192409.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94192409.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97268402,
+        "name": "Effect Veiler",
+        "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 97268402,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97268402.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97268402.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97268402.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27243130,
+        "name": "Forbidden Lance",
+        "desc": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 27243130,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27243130.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27243130.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27243130.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75500286,
+        "name": "Gold Sarcophagus",
+        "desc": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 75500286,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75500286.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75500286.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 5318639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5318639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5318639.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53582587,
+        "name": "Torrential Tribute",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Platinum Rare",
+        "rarityCanonical": "platinum rare",
+        "card_images": [
+          {
+            "id": 53582587,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53582587.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53582587.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53582587.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

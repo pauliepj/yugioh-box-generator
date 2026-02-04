@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 5D's Volume 6 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 39765958,
         "name": "Hot Red Dragon Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, during your Main Phase 1: You can destroy all other face-up Attack Position monsters on the field. Monsters other than this card cannot attack the turn you activate this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39765958,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

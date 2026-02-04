@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2008 Wave 2",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 73580471,
         "name": "Black Rose Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1800,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 73580471,
@@ -17,6 +26,15 @@
       {
         "id": 46195773,
         "name": "Turbo Warrior",
+        "desc": "\"Turbo Synchron\" + 1 or more non-Tuner monsters\nWhen this card declares an attack on a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1500,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 46195773,
@@ -26,10 +44,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

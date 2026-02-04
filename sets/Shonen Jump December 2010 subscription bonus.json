@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump December 2010 subscription bonus",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 87259077,
         "name": "Lightning Warrior",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 300 damage to your opponent for each card in your opponent's hand.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 87259077,
@@ -18,6 +26,15 @@
       {
         "id": 43366227,
         "name": "Seven Swords Warrior",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, when an Equip Card is equipped to this card: Inflict 800 damage to your opponent. Once per turn: You can target 1 Equip Card equipped to this card; send it to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard (except during the Damage Step): You can target 1 face-up monster your opponent controls; destroy that target.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 43366227,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

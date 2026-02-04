@@ -1,37 +1,19 @@
 {
   "setName": "Synchron Extreme Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 286392,
-        "name": "Jet Warrior",
-        "card_images": [
-          {
-            "id": 286392,
-            "image_url": "https://images.ygoprodeck.com/images/cards/286392.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/286392.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/286392.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74892653,
-        "name": "Stardust Warrior",
-        "card_images": [
-          {
-            "id": 74892653,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74892653.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74892653.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74892653.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
+    "super rare": [
       {
         "id": 37675907,
         "name": "Accel Synchron",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can send 1 \"Synchron\" monster from your Deck to the GY, then activate 1 of these effects;\r\n● Increase this card's Level by the Level of the sent monster.\r\n● Reduce this card's Level by the Level of the sent monster.\r\nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only Synchro Summon \"Accel Synchron\" once per turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2100,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37675907,
@@ -44,6 +26,15 @@
       {
         "id": 9742784,
         "name": "Jet Synchron",
+        "desc": "If this card is sent to the GY as Synchro Material: You can add 1 \"Junk\" monster from your Deck to your hand. If this card is in your GY: You can send 1 card from your hand to the GY; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Jet Synchron\" effect per turn, and only once that turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 0,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9742784,
@@ -56,6 +47,15 @@
       {
         "id": 8529136,
         "name": "Scrap Fist",
+        "desc": "Target 1 \"Junk Warrior\" you control; if it battles an opponent's monster this turn while you control it, apply these effects.\n● Your opponent cannot activate cards or effects until the end of the Damage Step.\n● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n● Double any battle damage your opponent takes.\n● It cannot be destroyed by battle.\n● Destroy the opponent's monster that battled it at the end of the Damage Step.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 8529136,
@@ -66,11 +66,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 61901281,
         "name": "Black Dragon Collapserpent",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61901281,
@@ -83,6 +91,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -95,6 +112,15 @@
       {
         "id": 674561,
         "name": "Dark Eruption",
+        "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 674561,
@@ -107,6 +133,15 @@
       {
         "id": 53855409,
         "name": "Doppelwarrior",
+        "desc": "When a monster(s) is Special Summoned from your GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is sent to the GY as a Synchro Material: You can Special Summon 2 \"Doppel Tokens\" (Warrior/DARK/Level 1/ATK 400/DEF 400) in Attack Position.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53855409,
@@ -119,6 +154,15 @@
       {
         "id": 75652080,
         "name": "Double Cyclone",
+        "desc": "Target 1 Spell/Trap you control and 1 Spell/Trap your opponent controls; destroy them.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75652080,
@@ -131,6 +175,15 @@
       {
         "id": 56286179,
         "name": "Drill Synchron",
+        "desc": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56286179,
@@ -143,6 +196,15 @@
       {
         "id": 97268402,
         "name": "Effect Veiler",
+        "desc": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97268402,
@@ -155,6 +217,15 @@
       {
         "id": 19642774,
         "name": "Fleur Synchron",
+        "desc": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 200,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19642774,
@@ -167,6 +238,15 @@
       {
         "id": 64034255,
         "name": "Genex Ally Birdman",
+        "desc": "You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 400,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64034255,
@@ -179,6 +259,15 @@
       {
         "id": 19182751,
         "name": "Genex Neutron",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19182751,
@@ -191,6 +280,15 @@
       {
         "id": 30459350,
         "name": "Imperial Iron Wall",
+        "desc": "Neither player can banish cards.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30459350,
@@ -203,6 +301,15 @@
       {
         "id": 63977008,
         "name": "Junk Synchron",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63977008,
@@ -215,6 +322,15 @@
       {
         "id": 60800381,
         "name": "Junk Warrior",
+        "desc": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 1300,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60800381,
@@ -227,6 +343,15 @@
       {
         "id": 57421866,
         "name": "Level Eater",
+        "desc": "If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.",
+        "race": "Insect",
+        "atk": 600,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57421866,
@@ -239,6 +364,15 @@
       {
         "id": 35014241,
         "name": "Limit Overdrive",
+        "desc": "Return 1 Tuner Synchro Monster and 1 non-Tuner Synchro Monster you control to the Extra Deck; Special Summon 1 Synchro Monster from your Extra Deck that has a Level equal to the combined Levels the 2 monsters had on the field, ignoring its Summoning conditions. You can only activate 1 \"Limit Overdrive\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35014241,
@@ -251,6 +385,15 @@
       {
         "id": 92450185,
         "name": "Limiter Overload",
+        "desc": "If this card is sent to the Graveyard: Special Summon 1 \"Speed Warrior\" from your hand, Deck, or Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92450185,
@@ -263,6 +406,15 @@
       {
         "id": 89882100,
         "name": "Night Beam",
+        "desc": "Target 1 Set Spell/Trap your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89882100,
@@ -275,6 +427,15 @@
       {
         "id": 2295440,
         "name": "One for One",
+        "desc": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2295440,
@@ -287,6 +448,15 @@
       {
         "id": 33420078,
         "name": "Plaguespreader Zombie",
+        "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
+        "race": "Zombie",
+        "atk": 400,
+        "def": 200,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33420078,
@@ -299,6 +469,15 @@
       {
         "id": 20932152,
         "name": "Quickdraw Synchron",
+        "desc": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a \"Synchron\" Tuner as material.",
+        "race": "Machine",
+        "atk": 700,
+        "def": 1400,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20932152,
@@ -311,6 +490,15 @@
       {
         "id": 23571046,
         "name": "Quillbolt Hedgehog",
+        "desc": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23571046,
@@ -323,6 +511,15 @@
       {
         "id": 32807846,
         "name": "Reinforcement of the Army",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32807846,
@@ -335,6 +532,15 @@
       {
         "id": 36736723,
         "name": "Rush Warrior",
+        "desc": "During damage calculation (in either player's turn), if a \"Warrior\" Synchro Monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; your battling monster's ATK becomes double its current ATK during that damage calculation only. You can banish this card from your Graveyard, then target 1 \"Synchron\" monster in your Graveyard; add it to your hand. You can only use each effect of \"Rush Warrior\" once per turn.",
+        "race": "Warrior",
+        "atk": 300,
+        "def": 1200,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36736723,
@@ -347,6 +553,15 @@
       {
         "id": 98427577,
         "name": "Scrap-Iron Scarecrow",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98427577,
@@ -359,6 +574,15 @@
       {
         "id": 48497555,
         "name": "Scrap-Iron Statue",
+        "desc": "When a Spell/Trap Card that is already face-up on your opponent's field activates its effect: Destroy that card, also, after that, Set this card face-down instead of sending it to the GY. If this card is sent to the GY: You can target 1 \"Junk\" monster in your GY; Special Summon it in Defense Position. You can only use each effect of \"Scrap-Iron Statue\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48497555,
@@ -371,6 +595,15 @@
       {
         "id": 84749824,
         "name": "Solemn Warning",
+        "desc": "When a monster(s) would be Summoned, OR when a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Pay 2000 LP; negate the Summon or activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84749824,
@@ -383,6 +616,15 @@
       {
         "id": 17932494,
         "name": "Sonic Warrior",
+        "desc": "If this card is sent to the Graveyard: All Level 2 or lower monsters you currently control gain 500 ATK.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 0,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17932494,
@@ -395,6 +637,15 @@
       {
         "id": 9365703,
         "name": "Speed Warrior",
+        "desc": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+        "race": "Warrior",
+        "atk": 900,
+        "def": 400,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9365703,
@@ -407,6 +658,15 @@
       {
         "id": 1003840,
         "name": "Starlight Junktion",
+        "desc": "You can Tribute 1 Tuner monster; Special Summon 1 \"Synchron\" monster from your Deck with a different Level than the Tributed monster had on the field. During your opponent's turn, if you Special Summon a Synchro Monster from your Extra Deck: Target 1 card on the field; shuffle it into the Deck. You can only use each effect of \"Starlight Junktion\" once per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1003840,
@@ -419,6 +679,15 @@
       {
         "id": 18964575,
         "name": "Swift Scarecrow",
+        "desc": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18964575,
@@ -431,6 +700,15 @@
       {
         "id": 62125438,
         "name": "Synchron Carrier",
+        "desc": "During your Main Phase, you can Normal Summon 1 \"Synchron\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Synchron\" monster is sent to your Graveyard as a Synchro Material for the Synchro Summon of a Warrior or Machine-Type Synchro Monster, while you control this card: You can Special Summon 1 \"Synchron Token\" (Machine-Type/EARTH/Level 2/ATK 1000/DEF 0). You can only use this effect of \"Synchron Carrier\" once per turn.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 1000,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62125438,
@@ -443,6 +721,15 @@
       {
         "id": 36643046,
         "name": "Synchron Explorer",
+        "desc": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 700,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36643046,
@@ -455,6 +742,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -467,6 +763,15 @@
       {
         "id": 96363153,
         "name": "Tuning",
+        "desc": "Add 1 \"Synchron\" Tuner from your Deck to your hand, then send the top card of your Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96363153,
@@ -479,6 +784,15 @@
       {
         "id": 92676637,
         "name": "Tuningware",
+        "desc": "This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.",
+        "race": "Machine",
+        "atk": 100,
+        "def": 300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92676637,
@@ -491,6 +805,15 @@
       {
         "id": 67270095,
         "name": "Turbo Synchron",
+        "desc": "When this card declares an attack: You can change the attack target to Defense Position. When you take battle damage while this card is attacking: You can Special Summon 1 monster from your hand with ATK less than or equal to the battle damage you took.",
+        "race": "Machine",
+        "atk": 100,
+        "def": 500,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67270095,
@@ -503,6 +826,15 @@
       {
         "id": 15310033,
         "name": "Unknown Synchron",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Unknown Synchron\" once per Duel this way.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15310033,
@@ -515,12 +847,65 @@
       {
         "id": 99234526,
         "name": "White Dragon Wyverburster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99234526,
             "image_url": "https://images.ygoprodeck.com/images/cards/99234526.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99234526.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99234526.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 286392,
+        "name": "Jet Warrior",
+        "desc": "\"Jet Synchron\" + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned: You can target 1 card your opponent controls; return it to the hand. If this card is in your Graveyard: You can Tribute 1 Level 2 or lower monster; Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Jet Warrior\" once per turn.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1200,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 286392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/286392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/286392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/286392.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74892653,
+        "name": "Stardust Warrior",
+        "desc": "1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters\nDuring either player's turn, if your opponent would Special Summon a monster(s): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s). During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your Graveyard. If this card is destroyed by battle, or if this face-up card you control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 8 or lower \"Warrior\" Synchro Monster from your Extra Deck. (This Special Summon is treated as a Synchro Summon.)",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 74892653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74892653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74892653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74892653.jpg"
           }
         ]
       }

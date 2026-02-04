@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Volume 9 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 33574806,
         "name": "Elemental HERO Escuridao",
+        "desc": "1 \"Elemental HERO\" monster + 1 DARK monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 100 ATK for each \"Elemental HERO\" monster in your Graveyard.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 33574806,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

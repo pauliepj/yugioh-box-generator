@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump January 2018 membership promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 51011872,
         "name": "Trickstar Crimson Heart",
+        "desc": "2 \"Trickstar\" monsters\r\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, gain 200 LP. You can discard 1 \"Trickstar\" card; both players draw 1 card, but if your LP was at least 2000 higher than your opponent's when this effect was activated, you draw 2 cards instead. You can only use this effect of \"Trickstar Crimson Heart\" once per turn.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51011872,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

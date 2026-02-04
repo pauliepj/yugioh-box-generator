@@ -1,10 +1,756 @@
 {
   "setName": "Strike of Neos",
   "rarities": {
-    "secret": [
+    "common": [
+      {
+        "id": 73262676,
+        "name": "\"A\" Cell Scatter Burst",
+        "desc": "Select 1 face-up \"Alien\" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 73262676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73262676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73262676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73262676.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46052429,
+        "name": "Advanced Ritual Art",
+        "desc": "This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46052429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46052429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46052429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46052429.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58012107,
+        "name": "Alien Psychic",
+        "desc": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.",
+        "race": "Reptile",
+        "atk": 200,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 58012107,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58012107.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58012107.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58012107.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72150572,
+        "name": "Anti-Fusion Device",
+        "desc": "Destroy 1 face-up Fusion Monster on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 72150572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72150572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72150572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72150572.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74095602,
+        "name": "Change of Hero - Reflector Ray",
+        "desc": "When an \"Elemental HERO\" Fusion Monster you control is destroyed by battle and sent to the Graveyard: Inflict damage to your opponent equal to its original Level x 300.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 74095602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74095602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74095602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74095602.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10789972,
+        "name": "Cu Chulainn the Awakened",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, Emblem of the Awakening. Once per turn, you can remove from play 1 Normal Monster in your Graveyard. This card gains ATK equal to that Normal Monster's ATK, until the Standby Phase of your next turn.",
+        "race": "Warrior",
+        "atk": 500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10789972,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10789972.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10789972.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10789972.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59235795,
+        "name": "Destruction Cyclone",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 59235795,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59235795.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59235795.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59235795.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24725825,
+        "name": "Electric Virus",
+        "desc": "You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Thunder",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 24725825,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24725825.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24725825.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24725825.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9845733,
+        "name": "Emblem of the Awakening",
+        "desc": "This card is used to Ritual Summon \"Cu Chulainn the Awakened\". You must also Tribute monsters whose total Levels equal 4 or more from the field or your hand.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 9845733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9845733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9845733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9845733.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13846680,
+        "name": "Firestorm Prominence",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-FIRE monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13846680,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13846680.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13846680.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13846680.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9267769,
+        "name": "Flashbang",
+        "desc": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 9267769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9267769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9267769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9267769.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51232472,
+        "name": "Gren, Tactician of Dark World",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51232472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51232472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51232472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51232472.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25847467,
+        "name": "Kahkki, Guerilla of Dark World",
+        "desc": "If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 25847467,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25847467.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25847467.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25847467.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12324546,
+        "name": "Legendary Ebon Steed",
+        "desc": "Equip only to a \"Six Samurai\" monster. It gains 200 ATK and DEF. If it would be destroyed, destroy this card instead.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12324546,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12324546.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12324546.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12324546.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84385264,
+        "name": "Lycanthrope",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Synthesis Spell\". When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Normal Monster in your Graveyard.",
+        "race": "Beast-Warrior",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 84385264,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84385264.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84385264.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84385264.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87514539,
+        "name": "Marionette Mite",
+        "desc": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 87514539,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87514539.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87514539.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87514539.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17732278,
+        "name": "Neo-Spacian Glow Moss",
+        "desc": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.\r\n● Monster: End the Battle Phase of this turn.\r\n● Spell: If this card is attacking, you can change it to a direct attack instead.\r\n● Trap: Change this card to Defense Position.",
+        "race": "Plant",
+        "atk": 300,
+        "def": 900,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17732278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17732278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17732278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17732278.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51119924,
+        "name": "Puppet Plant",
+        "desc": "You can discard this card to the Graveyard, then target 1 Warrior or Spellcaster-Type monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Plant",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51119924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51119924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51119924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51119924.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12624008,
+        "name": "Radiant Spirit",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12624008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12624008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12624008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12624008.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50957346,
+        "name": "Raging Earth",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-EARTH monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 50957346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50957346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50957346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50957346.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46874015,
+        "name": "Return of the Six Samurai",
+        "desc": "Target 1 \"Six Samurai\" monster in your GY; Special Summon that target. Destroy it during the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46874015,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46874015.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46874015.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46874015.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9145181,
+        "name": "Ritual Sealing",
+        "desc": "Destroy 1 face-up Ritual Monster on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 9145181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9145181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9145181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9145181.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62054060,
+        "name": "Sage of Stillness",
+        "desc": "If this card destroys an opponent's monster by battle, your opponent cannot activate Trap Cards during the next turn.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 62054060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62054060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62054060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62054060.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11102908,
+        "name": "Shien's Castle of Mist",
+        "desc": "When a \"Six Samurai\" monster is attacked, the attacking monster loses 500 ATK during damage calculation only.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11102908,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11102908.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11102908.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11102908.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99675356,
+        "name": "Shien's Footsoldier",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 3 or lower \"Six Samurai\" monster from your Deck.",
+        "race": "Warrior",
+        "atk": 700,
+        "def": 300,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 99675356,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99675356.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99675356.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99675356.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86442081,
+        "name": "Silent Abyss",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WATER monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86442081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86442081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86442081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86442081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71934924,
+        "name": "Swift Samurai Storm!",
+        "desc": "Each turn, after the first time a \"Six Samurai\" monster you control battles, all \"Six Samurai\" monsters you control gain 300 ATK until the end of this turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 71934924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71934924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71934924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71934924.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72446038,
+        "name": "Synthesis Spell",
+        "desc": "This card is used to Ritual Summon \"Lycanthrope\". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 72446038,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72446038.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72446038.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72446038.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27782503,
+        "name": "The Six Samurai - Irou",
+        "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 27782503,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27782503.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27782503.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27782503.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90397998,
+        "name": "The Six Samurai - Kamon",
+        "desc": "Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1000,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 90397998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90397998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90397998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90397998.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31904181,
+        "name": "The Six Samurai - Nisashi",
+        "desc": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack twice during each Battle Phase. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 700,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 31904181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31904181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31904181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31904181.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64398890,
+        "name": "The Six Samurai - Yaichi",
+        "desc": "Once per turn: You can target 1 Set Spell/Trap Card; destroy that target. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 800,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64398890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64398890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64398890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64398890.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69025477,
+        "name": "The Six Samurai - Yariza",
+        "desc": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 69025477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69025477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69025477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69025477.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95519486,
+        "name": "The Six Samurai - Zanji",
+        "desc": "At the end of the Damage Step, if this card attacked: Destroy the monster this card attacked. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 95519486,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95519486.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95519486.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95519486.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86229493,
+        "name": "Umbral Soul",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-DARK monsters.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86229493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86229493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86229493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86229493.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
       {
         "id": 47060347,
         "name": "Aegis of Gaia",
+        "desc": "Gain 3000 Life Points. If this face-up card is removed from the field, take 3000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 47060347,
@@ -17,6 +763,15 @@
       {
         "id": 12398280,
         "name": "Freya, Spirit of Victory",
+        "desc": "While you control a Fairy-Type monster other than \"Freya, Spirit of Victory\", your opponent's monsters cannot target this card for attacks. All Fairy-Type monsters you control gain 400 ATK and DEF.",
+        "race": "Fairy",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 12398280,
@@ -29,6 +784,15 @@
       {
         "id": 11662742,
         "name": "Gellenduo",
+        "desc": "Cannot be destroyed by battle. If you take any damage: Destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy monster.",
+        "race": "Fairy",
+        "atk": 1700,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 11662742,
@@ -41,6 +805,15 @@
       {
         "id": 83039729,
         "name": "Grandmaster of the Six Samurai",
+        "desc": "You can only control 1 \"Grandmaster of the Six Samurai\". If you control a \"Six Samurai\" monster, you can Special Summon this card (from your hand). If this card in your possession is destroyed by an opponent's card effect: Target 1 \"Six Samurai\" monster in your GY; add that target to your hand.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 800,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 83039729,
@@ -53,6 +826,15 @@
       {
         "id": 85399281,
         "name": "Harvest Angel of Wisdom",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can target 1 Counter Trap in your GY; add it to your hand.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 85399281,
@@ -65,6 +847,15 @@
       {
         "id": 49905576,
         "name": "Meltiel, Sage of the Sky",
+        "desc": "Each time a Counter Trap Card is activated, immediately after it resolves, gain 1000 LP, and if you do, if \"The Sanctuary in the Sky\" is on the field, destroy 1 card your opponent controls.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 49905576,
@@ -77,6 +868,15 @@
       {
         "id": 12510878,
         "name": "Neo-Parshath, the Sky Paladin",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Airknight Parshath\". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While \"The Sanctuary in the Sky\" is on the field and your LP is higher than your opponent's, this card gains ATK/DEF equal to the difference in LP.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 12510878,
@@ -89,6 +889,15 @@
       {
         "id": 48783998,
         "name": "Nova Summoner",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 LIGHT Fairy monster with 1500 or less ATK from your Deck. If \"The Sanctuary in the Sky\" is on the field, you can Special Summon 1 \"Airknight Parshath\" instead.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 48783998,
@@ -101,6 +910,15 @@
       {
         "id": 84177693,
         "name": "Radiant Jeral",
+        "desc": "When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if \"The Sanctuary in the Sky\" is on the field.",
+        "race": "Fairy",
+        "atk": 1000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 84177693,
@@ -111,212 +929,19 @@
         ]
       }
     ],
-    "ultra": [
-      {
-        "id": 11502550,
-        "name": "Elemental HERO Air Neos",
-        "card_images": [
-          {
-            "id": 11502550,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
-          },
-          {
-            "id": 11502550,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85507811,
-        "name": "Elemental HERO Glow Neos",
-        "card_images": [
-          {
-            "id": 85507811,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
-          },
-          {
-            "id": 85507811,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48996569,
-        "name": "Elemental HERO Grand Neos",
-        "card_images": [
-          {
-            "id": 48996569,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
-          },
-          {
-            "id": 48996569,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99458769,
-        "name": "Reign-Beaux, Overlord of Dark World",
-        "card_images": [
-          {
-            "id": 99458769,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
-          },
-          {
-            "id": 99458769,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 35539880,
-        "name": "Birthright",
-        "card_images": [
-          {
-            "id": 35539880,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
-          },
-          {
-            "id": 35539880,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48712195,
-        "name": "Card Trader",
-        "card_images": [
-          {
-            "id": 48712195,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
-          },
-          {
-            "id": 48712195,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74117290,
-        "name": "Dark World Dealings",
-        "card_images": [
-          {
-            "id": 74117290,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
-          },
-          {
-            "id": 74117290,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69247929,
-        "name": "Gene-Warped Warwolf",
-        "card_images": [
-          {
-            "id": 69247929,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
-          },
-          {
-            "id": 69247929,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63176202,
-        "name": "Great Shogun Shien",
-        "card_images": [
-          {
-            "id": 63176202,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
-          },
-          {
-            "id": 63176202,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
-          }
-        ]
-      },
-      {
-        "id": 54959865,
-        "name": "Neo-Spacian Air Hummingbird",
-        "card_images": [
-          {
-            "id": 54959865,
-            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
-          },
-          {
-            "id": 54959865,
-            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
-          }
-        ]
-      },
-      {
-        "id": 47596607,
-        "name": "Skyscraper 2 - Hero City",
-        "card_images": [
-          {
-            "id": 47596607,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
-          },
-          {
-            "id": 47596607,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 10667321,
         "name": "Ancient Rules",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10667321,
@@ -335,6 +960,15 @@
       {
         "id": 8323633,
         "name": "Cloak and Dagger",
+        "desc": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 8323633,
@@ -353,6 +987,15 @@
       {
         "id": 24508238,
         "name": "D.D. Crow",
+        "desc": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 24508238,
@@ -371,6 +1014,15 @@
       {
         "id": 73872164,
         "name": "Eliminating the League",
+        "desc": "Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 73872164,
@@ -389,6 +1041,15 @@
       {
         "id": 6631034,
         "name": "Frostosaurus",
+        "desc": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+        "race": "Dinosaur",
+        "atk": 2600,
+        "def": 1700,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6631034,
@@ -407,6 +1068,15 @@
       {
         "id": 98336111,
         "name": "Fusion Devourer",
+        "desc": "When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 98336111,
@@ -425,6 +1095,15 @@
       {
         "id": 10489311,
         "name": "Hero Medal",
+        "desc": "When this Set card is destroyed and sent to the Graveyard by an opponent's card effect, shuffle this card into its owner's Deck. Then draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10489311,
@@ -443,6 +1122,15 @@
       {
         "id": 80344569,
         "name": "Neo-Spacian Grand Mole",
+        "desc": "At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.",
+        "race": "Rock",
+        "atk": 900,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 80344569,
@@ -461,6 +1149,15 @@
       {
         "id": 47274077,
         "name": "Neos Force",
+        "desc": "Equip only to \"Elemental HERO Neos\". It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 47274077,
@@ -479,6 +1176,15 @@
       {
         "id": 34717238,
         "name": "Pulling the Rug",
+        "desc": "Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 34717238,
@@ -497,6 +1203,15 @@
       {
         "id": 26669055,
         "name": "Sage of Silence",
+        "desc": "If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 26669055,
@@ -515,6 +1230,15 @@
       {
         "id": 32626733,
         "name": "Spiral Serpent",
+        "desc": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+        "race": "Sea Serpent",
+        "atk": 2900,
+        "def": 2900,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 32626733,
@@ -533,6 +1257,15 @@
       {
         "id": 46652477,
         "name": "The Transmigration Prophecy",
+        "desc": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 46652477,
@@ -551,6 +1284,15 @@
       {
         "id": 45939841,
         "name": "Twister",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 45939841,
@@ -567,424 +1309,980 @@
         ]
       }
     ],
-    "common": [
+    "ultimate rare": [
       {
-        "id": 73262676,
-        "name": "\"A\" Cell Scatter Burst",
+        "id": 10667321,
+        "name": "Ancient Rules",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 73262676,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73262676.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73262676.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73262676.jpg"
+            "id": 10667321,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10667321.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10667321.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10667321.jpg"
+          },
+          {
+            "id": 10667321,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10667321.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10667321.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10667321.jpg"
           }
         ]
       },
       {
-        "id": 46052429,
-        "name": "Advanced Ritual Art",
+        "id": 35539880,
+        "name": "Birthright",
+        "desc": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 46052429,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46052429.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46052429.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46052429.jpg"
+            "id": 35539880,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
+          },
+          {
+            "id": 35539880,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
           }
         ]
       },
       {
-        "id": 58012107,
-        "name": "Alien Psychic",
+        "id": 48712195,
+        "name": "Card Trader",
+        "desc": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 58012107,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58012107.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58012107.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58012107.jpg"
+            "id": 48712195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
+          },
+          {
+            "id": 48712195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
           }
         ]
       },
       {
-        "id": 72150572,
-        "name": "Anti-Fusion Device",
+        "id": 8323633,
+        "name": "Cloak and Dagger",
+        "desc": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 72150572,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72150572.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72150572.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72150572.jpg"
+            "id": 8323633,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8323633.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8323633.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8323633.jpg"
+          },
+          {
+            "id": 8323633,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8323633.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8323633.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8323633.jpg"
           }
         ]
       },
       {
-        "id": 74095602,
-        "name": "Change of Hero - Reflector Ray",
+        "id": 24508238,
+        "name": "D.D. Crow",
+        "desc": "(Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 74095602,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74095602.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74095602.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74095602.jpg"
+            "id": 24508238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24508238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24508238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24508238.jpg"
+          },
+          {
+            "id": 24508238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24508238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24508238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24508238.jpg"
           }
         ]
       },
       {
-        "id": 10789972,
-        "name": "Cu Chulainn the Awakened",
+        "id": 74117290,
+        "name": "Dark World Dealings",
+        "desc": "Each player draws 1 card, then each player discards 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 10789972,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10789972.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10789972.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10789972.jpg"
+            "id": 74117290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
+          },
+          {
+            "id": 74117290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
           }
         ]
       },
       {
-        "id": 59235795,
-        "name": "Destruction Cyclone",
+        "id": 11502550,
+        "name": "Elemental HERO Air Neos",
+        "desc": "\"Elemental Hero Neos\" + \"Neo-Spacian Air Hummingbird\"\nThis card can only be Special Summoned from your Extra Deck by returning the above cards you control to the Deck. (You do not use \"Polymerization\".) While your Life Points are lower than your opponent's, this card gains ATK equal to the difference. This card returns to the Extra Deck during the End Phase.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 59235795,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59235795.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59235795.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59235795.jpg"
+            "id": 11502550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
+          },
+          {
+            "id": 11502550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
           }
         ]
       },
       {
-        "id": 24725825,
-        "name": "Electric Virus",
+        "id": 85507811,
+        "name": "Elemental HERO Glow Neos",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack your opponent directly this turn. ● Trap: Change this card to Defense Position.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 24725825,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24725825.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24725825.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24725825.jpg"
+            "id": 85507811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
+          },
+          {
+            "id": 85507811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
           }
         ]
       },
       {
-        "id": 9845733,
-        "name": "Emblem of the Awakening",
+        "id": 48996569,
+        "name": "Elemental HERO Grand Neos",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Grand Mole\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 9845733,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9845733.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9845733.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9845733.jpg"
+            "id": 48996569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
+          },
+          {
+            "id": 48996569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
           }
         ]
       },
       {
-        "id": 13846680,
-        "name": "Firestorm Prominence",
+        "id": 73872164,
+        "name": "Eliminating the League",
+        "desc": "Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 13846680,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13846680.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13846680.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13846680.jpg"
+            "id": 73872164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73872164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73872164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73872164.jpg"
+          },
+          {
+            "id": 73872164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73872164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73872164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73872164.jpg"
           }
         ]
       },
       {
-        "id": 9267769,
-        "name": "Flashbang",
+        "id": 6631034,
+        "name": "Frostosaurus",
+        "desc": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+        "race": "Dinosaur",
+        "atk": 2600,
+        "def": 1700,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 9267769,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9267769.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9267769.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9267769.jpg"
+            "id": 6631034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6631034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6631034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6631034.jpg"
+          },
+          {
+            "id": 6631034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6631034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6631034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6631034.jpg"
           }
         ]
       },
       {
-        "id": 51232472,
-        "name": "Gren, Tactician of Dark World",
+        "id": 98336111,
+        "name": "Fusion Devourer",
+        "desc": "When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 51232472,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51232472.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51232472.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51232472.jpg"
+            "id": 98336111,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98336111.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98336111.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98336111.jpg"
+          },
+          {
+            "id": 98336111,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98336111.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98336111.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98336111.jpg"
           }
         ]
       },
       {
-        "id": 25847467,
-        "name": "Kahkki, Guerilla of Dark World",
+        "id": 69247929,
+        "name": "Gene-Warped Warwolf",
+        "desc": "This warwolf was given incalculable strength through horrific genetic manipulation. Its gentle nature was completely wiped out, and it now lives only to unleash destruction.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 25847467,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25847467.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25847467.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25847467.jpg"
+            "id": 69247929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
+          },
+          {
+            "id": 69247929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
           }
         ]
       },
       {
-        "id": 12324546,
-        "name": "Legendary Ebon Steed",
+        "id": 63176202,
+        "name": "Great Shogun Shien",
+        "desc": "If you control 2 or more face-up \"Six Samurai\" monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2400,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 12324546,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12324546.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12324546.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12324546.jpg"
+            "id": 63176202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
+          },
+          {
+            "id": 63176202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
           }
         ]
       },
       {
-        "id": 84385264,
-        "name": "Lycanthrope",
+        "id": 10489311,
+        "name": "Hero Medal",
+        "desc": "When this Set card is destroyed and sent to the Graveyard by an opponent's card effect, shuffle this card into its owner's Deck. Then draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 84385264,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84385264.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84385264.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84385264.jpg"
+            "id": 10489311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10489311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10489311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10489311.jpg"
+          },
+          {
+            "id": 10489311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10489311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10489311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10489311.jpg"
           }
         ]
       },
       {
-        "id": 87514539,
-        "name": "Marionette Mite",
+        "id": 54959865,
+        "name": "Neo-Spacian Air Hummingbird",
+        "desc": "Once per turn: You can gain 500 LP for each card in your opponent's hand.",
+        "race": "Winged Beast",
+        "atk": 800,
+        "def": 600,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 87514539,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87514539.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87514539.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87514539.jpg"
+            "id": 54959865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
+          },
+          {
+            "id": 54959865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
           }
         ]
       },
       {
-        "id": 17732278,
-        "name": "Neo-Spacian Glow Moss",
+        "id": 80344569,
+        "name": "Neo-Spacian Grand Mole",
+        "desc": "At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.",
+        "race": "Rock",
+        "atk": 900,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 17732278,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17732278.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17732278.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17732278.jpg"
+            "id": 80344569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80344569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80344569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80344569.jpg"
+          },
+          {
+            "id": 80344569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80344569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80344569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80344569.jpg"
           }
         ]
       },
       {
-        "id": 51119924,
-        "name": "Puppet Plant",
+        "id": 47274077,
+        "name": "Neos Force",
+        "desc": "Equip only to \"Elemental HERO Neos\". It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 51119924,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51119924.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51119924.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51119924.jpg"
+            "id": 47274077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47274077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47274077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47274077.jpg"
+          },
+          {
+            "id": 47274077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47274077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47274077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47274077.jpg"
           }
         ]
       },
       {
-        "id": 12624008,
-        "name": "Radiant Spirit",
+        "id": 34717238,
+        "name": "Pulling the Rug",
+        "desc": "Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 12624008,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12624008.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12624008.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12624008.jpg"
+            "id": 34717238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34717238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34717238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34717238.jpg"
+          },
+          {
+            "id": 34717238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34717238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34717238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34717238.jpg"
           }
         ]
       },
       {
-        "id": 50957346,
-        "name": "Raging Earth",
+        "id": 99458769,
+        "name": "Reign-Beaux, Overlord of Dark World",
+        "desc": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 50957346,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50957346.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50957346.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50957346.jpg"
+            "id": 99458769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
+          },
+          {
+            "id": 99458769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
           }
         ]
       },
       {
-        "id": 46874015,
-        "name": "Return of the Six Samurai",
+        "id": 26669055,
+        "name": "Sage of Silence",
+        "desc": "If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 46874015,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46874015.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46874015.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46874015.jpg"
+            "id": 26669055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26669055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26669055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26669055.jpg"
+          },
+          {
+            "id": 26669055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26669055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26669055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26669055.jpg"
           }
         ]
       },
       {
-        "id": 9145181,
-        "name": "Ritual Sealing",
+        "id": 47596607,
+        "name": "Skyscraper 2 - Hero City",
+        "desc": "Once per turn, during your Main Phase, if you control this card: You can target 1 \"Elemental HERO\" monster in your Graveyard that was destroyed by battle; Special Summon that target.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 9145181,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9145181.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9145181.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9145181.jpg"
+            "id": 47596607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
+          },
+          {
+            "id": 47596607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
           }
         ]
       },
       {
-        "id": 62054060,
-        "name": "Sage of Stillness",
+        "id": 32626733,
+        "name": "Spiral Serpent",
+        "desc": "When huge whirlpools lay cities asunder, it is the hunger of this sea serpent at work. No one has ever escaped its dreaded Spiral Wave to accurately describe the terror they experienced.",
+        "race": "Sea Serpent",
+        "atk": 2900,
+        "def": 2900,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 62054060,
-            "image_url": "https://images.ygoprodeck.com/images/cards/62054060.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62054060.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62054060.jpg"
+            "id": 32626733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32626733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32626733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32626733.jpg"
+          },
+          {
+            "id": 32626733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32626733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32626733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32626733.jpg"
           }
         ]
       },
       {
-        "id": 11102908,
-        "name": "Shien's Castle of Mist",
+        "id": 46652477,
+        "name": "The Transmigration Prophecy",
+        "desc": "Target 2 cards in the GY(s); shuffle those targets into the Deck(s).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 11102908,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11102908.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11102908.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11102908.jpg"
+            "id": 46652477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46652477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46652477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46652477.jpg"
+          },
+          {
+            "id": 46652477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46652477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46652477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46652477.jpg"
           }
         ]
       },
       {
-        "id": 99675356,
-        "name": "Shien's Footsoldier",
+        "id": 45939841,
+        "name": "Twister",
+        "desc": "Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
-            "id": 99675356,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99675356.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99675356.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99675356.jpg"
+            "id": 45939841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45939841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45939841.jpg"
+          },
+          {
+            "id": 45939841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45939841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45939841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45939841.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 35539880,
+        "name": "Birthright",
+        "desc": "Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 35539880,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
+          },
+          {
+            "id": 35539880,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35539880.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35539880.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35539880.jpg"
           }
         ]
       },
       {
-        "id": 86442081,
-        "name": "Silent Abyss",
+        "id": 48712195,
+        "name": "Card Trader",
+        "desc": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 86442081,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86442081.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86442081.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86442081.jpg"
+            "id": 48712195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
+          },
+          {
+            "id": 48712195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48712195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48712195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48712195.jpg"
           }
         ]
       },
       {
-        "id": 71934924,
-        "name": "Swift Samurai Storm!",
+        "id": 74117290,
+        "name": "Dark World Dealings",
+        "desc": "Each player draws 1 card, then each player discards 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 71934924,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71934924.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71934924.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71934924.jpg"
+            "id": 74117290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
+          },
+          {
+            "id": 74117290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74117290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74117290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74117290.jpg"
           }
         ]
       },
       {
-        "id": 72446038,
-        "name": "Synthesis Spell",
+        "id": 69247929,
+        "name": "Gene-Warped Warwolf",
+        "desc": "This warwolf was given incalculable strength through horrific genetic manipulation. Its gentle nature was completely wiped out, and it now lives only to unleash destruction.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 72446038,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72446038.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72446038.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72446038.jpg"
+            "id": 69247929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
+          },
+          {
+            "id": 69247929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69247929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69247929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69247929.jpg"
           }
         ]
       },
       {
-        "id": 27782503,
-        "name": "The Six Samurai - Irou",
+        "id": 63176202,
+        "name": "Great Shogun Shien",
+        "desc": "If you control 2 or more face-up \"Six Samurai\" monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up \"Six Samurai\" monster you control instead.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2400,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 27782503,
-            "image_url": "https://images.ygoprodeck.com/images/cards/27782503.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27782503.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27782503.jpg"
+            "id": 63176202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
+          },
+          {
+            "id": 63176202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63176202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63176202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63176202.jpg"
           }
         ]
       },
       {
-        "id": 90397998,
-        "name": "The Six Samurai - Kamon",
+        "id": 54959865,
+        "name": "Neo-Spacian Air Hummingbird",
+        "desc": "Once per turn: You can gain 500 LP for each card in your opponent's hand.",
+        "race": "Winged Beast",
+        "atk": 800,
+        "def": 600,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 90397998,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90397998.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90397998.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90397998.jpg"
+            "id": 54959865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
+          },
+          {
+            "id": 54959865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54959865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54959865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54959865.jpg"
           }
         ]
       },
       {
-        "id": 31904181,
-        "name": "The Six Samurai - Nisashi",
+        "id": 47596607,
+        "name": "Skyscraper 2 - Hero City",
+        "desc": "Once per turn, during your Main Phase, if you control this card: You can target 1 \"Elemental HERO\" monster in your Graveyard that was destroyed by battle; Special Summon that target.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 31904181,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31904181.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31904181.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31904181.jpg"
+            "id": 47596607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
+          },
+          {
+            "id": 47596607,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47596607.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47596607.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47596607.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 11502550,
+        "name": "Elemental HERO Air Neos",
+        "desc": "\"Elemental Hero Neos\" + \"Neo-Spacian Air Hummingbird\"\nThis card can only be Special Summoned from your Extra Deck by returning the above cards you control to the Deck. (You do not use \"Polymerization\".) While your Life Points are lower than your opponent's, this card gains ATK equal to the difference. This card returns to the Extra Deck during the End Phase.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 11502550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
+          },
+          {
+            "id": 11502550,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11502550.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11502550.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11502550.jpg"
           }
         ]
       },
       {
-        "id": 64398890,
-        "name": "The Six Samurai - Yaichi",
+        "id": 85507811,
+        "name": "Elemental HERO Glow Neos",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type. ● Monster: This card cannot attack this turn. ● Spell: This card can attack your opponent directly this turn. ● Trap: Change this card to Defense Position.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 64398890,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64398890.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64398890.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64398890.jpg"
+            "id": 85507811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
+          },
+          {
+            "id": 85507811,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85507811.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85507811.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85507811.jpg"
           }
         ]
       },
       {
-        "id": 69025477,
-        "name": "The Six Samurai - Yariza",
+        "id": 48996569,
+        "name": "Elemental HERO Grand Neos",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Grand Mole\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 69025477,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69025477.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69025477.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69025477.jpg"
+            "id": 48996569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
+          },
+          {
+            "id": 48996569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48996569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48996569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48996569.jpg"
           }
         ]
       },
       {
-        "id": 95519486,
-        "name": "The Six Samurai - Zanji",
+        "id": 99458769,
+        "name": "Reign-Beaux, Overlord of Dark World",
+        "desc": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 95519486,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95519486.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95519486.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95519486.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86229493,
-        "name": "Umbral Soul",
-        "card_images": [
+            "id": 99458769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
+          },
           {
-            "id": 86229493,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86229493.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86229493.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86229493.jpg"
+            "id": 99458769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99458769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99458769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99458769.jpg"
           }
         ]
       }

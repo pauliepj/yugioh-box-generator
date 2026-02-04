@@ -1,10 +1,28 @@
 {
   "setName": "Yu-Gi-Oh! GX Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "ultra secret rare": [
+      {
+        "id": 86188410,
+        "name": "Elemental HERO Wildheart",
+        "desc": "This card is unaffected by Trap effects.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Secret Rare",
+        "rarityCanonical": "ultra secret rare",
+        "card_images": [
+          {
+            "id": 86188410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86188410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86188410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86188410.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

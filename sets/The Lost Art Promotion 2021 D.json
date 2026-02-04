@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 D",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 92518817,
         "name": "Blazing Hiita",
+        "desc": "Once per turn, you can Tribute 1 FIRE monster (except this card) to Special Summon 1 FIRE monster from your hand. The monster Special Summoned by this effect is destroyed if \"Blazing Hiita\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 92518817,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,10 +1,82 @@
 {
   "setName": "Yu-Gi-Oh! Forbidden Memories promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "prismatic secret rare": [
+      {
+        "id": 52040216,
+        "name": "Harpie's Pet Dragon",
+        "desc": "Gains 300 ATK/DEF for each \"Harpie Lady\" on the field.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 2500,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 52040216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52040216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52040216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52040216.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68540058,
+        "name": "Metalmorph",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 68540058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68540058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68540058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68540058.jpg"
+          },
+          {
+            "id": 68540059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68540059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68540059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68540059.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64335804,
+        "name": "Red-Eyes Black Metal Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 64335804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64335804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64335804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64335804.jpg"
+          },
+          {
+            "id": 64335805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64335805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64335805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64335805.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

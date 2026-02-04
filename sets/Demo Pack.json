@@ -1,14 +1,19 @@
 {
   "setName": "Demo Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 11321183,
         "name": "Dark Blade",
+        "desc": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11321183,
@@ -21,6 +26,15 @@
       {
         "id": 69579761,
         "name": "Des Koala",
+        "desc": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+        "race": "Beast",
+        "atk": 1100,
+        "def": 1800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69579761,
@@ -33,6 +47,15 @@
       {
         "id": 74131780,
         "name": "Exiled Force",
+        "desc": "You can Tribute this card to target 1 monster on the field; destroy that target.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74131780,
@@ -45,6 +68,15 @@
       {
         "id": 66788016,
         "name": "Fissure",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66788016,
@@ -57,6 +89,15 @@
       {
         "id": 69247929,
         "name": "Gene-Warped Warwolf",
+        "desc": "This warwolf was given incalculable strength through horrific genetic manipulation. Its gentle nature was completely wiped out, and it now lives only to unleash destruction.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69247929,
@@ -69,6 +110,15 @@
       {
         "id": 21015833,
         "name": "Hayabusa Knight",
+        "desc": "This card can make a second attack during each Battle Phase.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 700,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21015833,
@@ -81,6 +131,15 @@
       {
         "id": 69303178,
         "name": "Majestic Mech - Ohka",
+        "desc": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
+        "race": "Fairy",
+        "atk": 2400,
+        "def": 1400,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69303178,
@@ -93,6 +152,15 @@
       {
         "id": 54652250,
         "name": "Man-Eater Bug",
+        "desc": "FLIP: Target 1 monster on the field; destroy it.",
+        "race": "Insect",
+        "atk": 450,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54652250,
@@ -105,6 +173,15 @@
       {
         "id": 2460565,
         "name": "Marauding Captain",
+        "desc": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2460565,
@@ -117,6 +194,15 @@
       {
         "id": 57882509,
         "name": "Mask of Weakness",
+        "desc": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57882509,
@@ -129,6 +215,15 @@
       {
         "id": 60306104,
         "name": "No Entry!!",
+        "desc": "Change all Attack Position monsters to Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60306104,
@@ -141,6 +236,15 @@
       {
         "id": 78211862,
         "name": "Rising Energy",
+        "desc": "Discard 1 card, then target 1 face-up monster on the field; that target gains 1500 ATK until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78211862,
@@ -153,6 +257,15 @@
       {
         "id": 37265642,
         "name": "Sabersaurus",
+        "desc": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+        "race": "Dinosaur",
+        "atk": 1900,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37265642,
@@ -165,6 +278,15 @@
       {
         "id": 27053506,
         "name": "Secret Barrel",
+        "desc": "Inflict 200 damage to your opponent for each card in their hand and for each card they control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27053506,
@@ -177,6 +299,15 @@
       {
         "id": 70781052,
         "name": "Summoned Skull",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70781052,
@@ -207,6 +338,15 @@
       {
         "id": 51196174,
         "name": "The Calculator",
+        "desc": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+        "race": "Thunder",
+        "atk": -1,
+        "def": 0,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51196174,
@@ -219,6 +359,15 @@
       {
         "id": 66362965,
         "name": "The Fiend Megacyber",
+        "desc": "If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66362965,
@@ -231,6 +380,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -243,6 +401,15 @@
       {
         "id": 36361633,
         "name": "Threatening Roar",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36361633,
@@ -255,6 +422,15 @@
       {
         "id": 70368879,
         "name": "Upstart Goblin",
+        "desc": "Draw 1 card, then your opponent gains 1000 LP.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70368879,

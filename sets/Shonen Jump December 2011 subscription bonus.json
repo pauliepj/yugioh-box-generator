@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump December 2011 subscription bonus",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 8967776,
         "name": "Sephylon, the Ultimate Timelord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your GY. Once per turn: You can Special Summon 1 Level 8 or higher Fairy monster from your hand or GY, but its effects are negated, also its ATK becomes 4000.",
+        "race": "Fairy",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 8967776,
@@ -18,6 +26,15 @@
       {
         "id": 35952884,
         "name": "Shooting Quasar Dragon",
+        "desc": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35952884,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

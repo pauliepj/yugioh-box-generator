@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! ZEXAL Volume 2 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 51735257,
         "name": "Number 50: Blackship of Corn",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
+        "race": "Plant",
+        "atk": 2100,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51735257,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump March 2010 subscription bonus",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 31038159,
         "name": "Genesis Dragon",
+        "desc": "Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1800,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 31038159,
@@ -18,6 +26,15 @@
       {
         "id": 7634581,
         "name": "Orichalcos Shunoros",
+        "desc": "This card cannot be Normal Summoned or Set. If a Normal Monster you control is destroyed by battle, you can Special Summon this card from your hand. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.",
+        "race": "Machine",
+        "atk": -1,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 7634581,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

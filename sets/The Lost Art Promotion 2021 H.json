@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 H",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 29013526,
         "name": "Storming Wynn",
+        "desc": "Once per turn, you can Tribute 1 WIND monster (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if \"Storming Wynn\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 29013526,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

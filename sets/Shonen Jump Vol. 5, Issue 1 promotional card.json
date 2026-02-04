@@ -1,10 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 5, Issue 1 promotional card",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 44910027,
         "name": "Victory Dragon",
+        "desc": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44910027,
@@ -14,10 +23,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

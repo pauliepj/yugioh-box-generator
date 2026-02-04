@@ -1,11 +1,19 @@
 {
   "setName": "25th Anniversary Ultimate Kaiba Set",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 54912977,
         "name": "Ancient Lamp",
+        "desc": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.",
+        "race": "Spellcaster",
+        "atk": 900,
+        "def": 1400,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 54912977,
@@ -18,6 +26,15 @@
       {
         "id": 5053103,
         "name": "Battle Ox",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 5053103,
@@ -30,6 +47,15 @@
       {
         "id": 39507162,
         "name": "Blade Knight",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39507162,
@@ -42,6 +68,15 @@
       {
         "id": 23995346,
         "name": "Blue-Eyes Ultimate Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "race": "Dragon",
+        "atk": 4500,
+        "def": 3800,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23995346,
@@ -54,6 +89,15 @@
       {
         "id": 89631139,
         "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89631139,
@@ -72,6 +116,15 @@
       {
         "id": 59750328,
         "name": "Card of Demise",
+        "desc": "Draw until you have 3 cards in your hand, also for the rest of this turn after this card resolves, your opponent takes no damage. During the End Phase of this turn, send your entire hand to the GY. You can only activate 1 \"Card of Demise\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 59750328,
@@ -84,6 +137,15 @@
       {
         "id": 86871614,
         "name": "Cloning",
+        "desc": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 86871614,
@@ -96,6 +158,15 @@
       {
         "id": 23265313,
         "name": "Cost Down",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23265313,
@@ -108,6 +179,15 @@
       {
         "id": 57728570,
         "name": "Crush Card Virus",
+        "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 57728570,
@@ -120,6 +200,15 @@
       {
         "id": 4614116,
         "name": "Dark Energy",
+        "desc": "Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 4614116,
@@ -132,6 +221,15 @@
       {
         "id": 81985784,
         "name": "Des Feral Imp",
+        "desc": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
+        "race": "Reptile",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 81985784,
@@ -144,6 +242,15 @@
       {
         "id": 98045062,
         "name": "Enemy Controller",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 98045062,
@@ -156,6 +263,15 @@
       {
         "id": 24874630,
         "name": "Fiend's Sanctuary",
+        "desc": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. Once per turn, during your Standby Phase, pay 1000 LP or destroy this Token.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24874630,
@@ -168,6 +284,15 @@
       {
         "id": 52503575,
         "name": "Final Attack Orders",
+        "desc": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 52503575,
@@ -180,6 +305,15 @@
       {
         "id": 86281779,
         "name": "Gadget Soldier",
+        "desc": "A rust-free machine warrior born to battle.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 86281779,
@@ -192,6 +326,15 @@
       {
         "id": 98299011,
         "name": "Gift of The Mystical Elf",
+        "desc": "Increase your Life Points by 300 points for each monster on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 98299011,
@@ -204,6 +347,15 @@
       {
         "id": 31122090,
         "name": "Gyakutenno Megami",
+        "desc": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 31122090,
@@ -216,6 +368,15 @@
       {
         "id": 76184692,
         "name": "Hitotsu-Me Giant",
+        "desc": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+        "race": "Beast-Warrior",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 76184692,
@@ -228,6 +389,15 @@
       {
         "id": 62397231,
         "name": "Hyozanryu",
+        "desc": "A dragon created from a massive diamond that sparkles with blinding light.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 2800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62397231,
@@ -240,6 +410,15 @@
       {
         "id": 36261276,
         "name": "Interdimensional Matter Transporter",
+        "desc": "Target 1 face-up monster you control; banish that target until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 36261276,
@@ -252,6 +431,15 @@
       {
         "id": 52675689,
         "name": "Invitation to a Dark Sleep",
+        "desc": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 52675689,
@@ -264,6 +452,15 @@
       {
         "id": 30113682,
         "name": "Judge Man",
+        "desc": "This club-wielding warrior battles to the end and will never surrender.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1500,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 30113682,
@@ -276,6 +473,15 @@
       {
         "id": 52824910,
         "name": "Kaiser Glider",
+        "desc": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2200,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 52824910,
@@ -288,6 +494,15 @@
       {
         "id": 97590747,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 97590747,
@@ -300,6 +515,15 @@
       {
         "id": 17985575,
         "name": "Lord of D.",
+        "desc": "Neither player can target Dragon monsters on the field with card effects.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 17985575,
@@ -312,6 +536,15 @@
       {
         "id": 39238953,
         "name": "Lullaby of Obedience",
+        "desc": "Pay 2000 LP and declare 1 Monster Card name; your opponent looks at their Deck, reveals 1 of the declared monsters if there is any, and chooses 1 of these effects to be applied.\r\n● The declared monster is added to the hand of the player who activated this card.\r\n● The player who activated this card Special Summons the declared monster to their field in Attack Position, ignoring its Summoning conditions.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39238953,
@@ -324,6 +557,15 @@
       {
         "id": 48948935,
         "name": "Masked Beast Des Gardius",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 \"Grand Tiki Elder\" or \"Melchid the Four-Face Beast\". When this card is sent from the field to the Graveyard, equip 1 \"The Mask of Remnants\" from your Deck to 1 monster on the field.",
+        "race": "Fiend",
+        "atk": 3300,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 48948935,
@@ -336,6 +578,15 @@
       {
         "id": 22046459,
         "name": "Megamorph",
+        "desc": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 22046459,
@@ -348,6 +599,15 @@
       {
         "id": 48642904,
         "name": "Mesmeric Control",
+        "desc": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 48642904,
@@ -360,6 +620,15 @@
       {
         "id": 83764719,
         "name": "Monster Reborn",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 83764719,
@@ -372,6 +641,15 @@
       {
         "id": 68516705,
         "name": "Mystic Horseman",
+        "desc": "Half man and half horse, this monster is known for its extreme speed.",
+        "race": "Beast",
+        "atk": 1300,
+        "def": 1550,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 68516705,
@@ -384,6 +662,15 @@
       {
         "id": 14315573,
         "name": "Negate Attack",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14315573,
@@ -396,6 +683,15 @@
       {
         "id": 10000000,
         "name": "Obelisk the Tormentor",
+        "desc": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
+        "race": "Divine-Beast",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DIVINE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 10000000,
@@ -408,6 +704,15 @@
       {
         "id": 24094653,
         "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24094653,
@@ -420,6 +725,15 @@
       {
         "id": 94905343,
         "name": "Rabid Horseman",
+        "desc": "\"Battle Ox\" + \"Mystic Horseman\"",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 94905343,
@@ -432,6 +746,15 @@
       {
         "id": 83555666,
         "name": "Ring of Destruction",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 83555666,
@@ -444,6 +767,15 @@
       {
         "id": 26378150,
         "name": "Rude Kaiser",
+        "desc": "With an axe in each hand, this monster delivers heavy damage.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 1600,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 26378150,
@@ -456,6 +788,15 @@
       {
         "id": 15303296,
         "name": "Ryu-Kishin",
+        "desc": "A very elusive creature that looks like a harmless statue until it attacks.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 15303296,
@@ -468,6 +809,15 @@
       {
         "id": 24611934,
         "name": "Ryu-Kishin Powered",
+        "desc": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 24611934,
@@ -480,6 +830,15 @@
       {
         "id": 66602787,
         "name": "Saggi the Dark Clown",
+        "desc": "This clown appears from nowhere and executes very strange moves to avoid enemy attacks.",
+        "race": "Spellcaster",
+        "atk": 600,
+        "def": 1500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 66602787,
@@ -492,6 +851,15 @@
       {
         "id": 29267084,
         "name": "Shadow Spell",
+        "desc": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 29267084,
@@ -504,6 +872,15 @@
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 55713623,
@@ -516,6 +893,15 @@
       {
         "id": 42534368,
         "name": "Silent Doom",
+        "desc": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 42534368,
@@ -528,6 +914,15 @@
       {
         "id": 68005187,
         "name": "Soul Exchange",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 68005187,
@@ -540,6 +935,15 @@
       {
         "id": 51481927,
         "name": "Spell Absorption",
+        "desc": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51481927,
@@ -552,6 +956,15 @@
       {
         "id": 90908427,
         "name": "Steel Ogre Grotto #2",
+        "desc": "A mechanized iron doll with tremendous strength.",
+        "race": "Machine",
+        "atk": 1900,
+        "def": 2200,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 90908427,
@@ -564,6 +977,15 @@
       {
         "id": 63102017,
         "name": "Stop Defense",
+        "desc": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 63102017,
@@ -576,6 +998,15 @@
       {
         "id": 50005633,
         "name": "Swordstalker",
+        "desc": "A monster formed by the vengeful souls of those who passed away in battle.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 1600,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 50005633,
@@ -588,6 +1019,15 @@
       {
         "id": 43973174,
         "name": "The Flute of Summoning Dragon",
+        "desc": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 43973174,
@@ -600,6 +1040,15 @@
       {
         "id": 6285791,
         "name": "The Wicked Worm Beast",
+        "desc": "This face-up card on the field is returned to the owner's hand during the End Phase of your turn.",
+        "race": "Beast",
+        "atk": 1400,
+        "def": 700,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 6285791,
@@ -612,6 +1061,15 @@
       {
         "id": 54591086,
         "name": "Virus Cannon",
+        "desc": "Tribute any number of monsters, except Tokens; your opponent sends an equal number of Spells from their Deck to the GY (or all their Spells, if lower than the number of Tributes).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 54591086,
@@ -624,6 +1082,15 @@
       {
         "id": 14898066,
         "name": "Vorse Raider",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14898066,
@@ -636,6 +1103,15 @@
       {
         "id": 62651957,
         "name": "X-Head Cannon",
+        "desc": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 62651957,
@@ -648,6 +1124,15 @@
       {
         "id": 2111707,
         "name": "XY-Dragon Cannon",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-up Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Machine",
+        "atk": 2200,
+        "def": 1900,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 2111707,
@@ -660,6 +1145,15 @@
       {
         "id": 91998119,
         "name": "XYZ-Dragon Cannon",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 91998119,
@@ -672,6 +1166,15 @@
       {
         "id": 65622692,
         "name": "Y-Dragon Head",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 65622692,
@@ -684,6 +1187,15 @@
       {
         "id": 64500000,
         "name": "Z-Metal Tank",
+        "desc": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 64500000,
@@ -694,8 +1206,120 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
-    "common": []
+    "new": [
+      {
+        "id": 3103067,
+        "name": "Attack Guidance Armor",
+        "desc": "When a monster declares an attack: Activate 1 of these effects;\r\n● Destroy the attacking monster.\r\n● Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.\r\nYou can only activate 1 \"Attack Guidance Armor\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "New",
+        "rarityCanonical": "new",
+        "card_images": [
+          {
+            "id": 3103067,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3103067.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3103067.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3103067.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2906250,
+        "name": "Grappler",
+        "desc": "A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.",
+        "race": "Reptile",
+        "atk": 1300,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "New",
+        "rarityCanonical": "new",
+        "card_images": [
+          {
+            "id": 2906250,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2906250.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2906250.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2906250.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38105306,
+        "name": "Life Shaver",
+        "desc": "You can only control 1 \"Life Shaver\". Once per turn, during your opponent's End Phase: Place 1 counter on this card. During the Main or Battle Phase, if this card has a counter(s) on it: You can send this card to the GY, then make your opponent discard as many cards as possible, up to the number of counters that were on this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "New",
+        "rarityCanonical": "new",
+        "card_images": [
+          {
+            "id": 38105306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38105306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38105306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38105306.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85758066,
+        "name": "Magical Trick Mirror",
+        "desc": "When an opponent's monster declares an attack: Target 1 Spell in your opponent's GY; Set it to your field. You can banish this card from your GY and send 1 \"Monster Reborn\" from your hand or face-down field to the GY; Special Summon 1 \"Obelisk the Tormentor\" from your GY in Defense Position, and if you activated this effect during your opponent's turn, all monsters your opponent controls that can attack must attack that face-up monster, this turn, while you control it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "New",
+        "rarityCanonical": "new",
+        "card_images": [
+          {
+            "id": 85758066,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85758066.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85758066.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85758066.jpg"
+          }
+        ]
+      }
+    ],
+    "quarter century secret rare": [
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Quarter Century Secret Rare",
+        "rarityCanonical": "quarter century secret rare",
+        "card_images": [
+          {
+            "id": 89631139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+          },
+          {
+            "id": 89631139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

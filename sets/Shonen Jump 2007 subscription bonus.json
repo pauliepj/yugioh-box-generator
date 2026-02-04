@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump 2007 subscription bonus",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 66973070,
         "name": "Dreadscythe Harvester",
+        "desc": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
+        "race": "Insect",
+        "atk": 2300,
+        "def": 1600,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 66973070,
@@ -18,6 +26,15 @@
       {
         "id": 46668237,
         "name": "Green Baboon, Defender of the Forest",
+        "desc": "If this card is in your hand or Graveyard when a face-up Beast-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): You can pay 1000 Life Points; Special Summon this card.",
+        "race": "Beast",
+        "atk": 2600,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 46668237,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

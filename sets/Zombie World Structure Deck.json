@@ -1,27 +1,19 @@
 {
   "setName": "Zombie World Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 5186893,
-        "name": "Red-Eyes Zombie Dragon",
-        "card_images": [
-          {
-            "id": 5186893,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5186893.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5186893.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5186893.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 2204140,
         "name": "Book of Life",
+        "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2204140,
@@ -34,6 +26,15 @@
       {
         "id": 29401950,
         "name": "Bottomless Trap Hole",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29401950,
@@ -46,6 +47,15 @@
       {
         "id": 4861205,
         "name": "Call of the Mummy",
+        "desc": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4861205,
@@ -58,6 +68,15 @@
       {
         "id": 72892473,
         "name": "Card Destruction",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72892473,
@@ -70,6 +89,15 @@
       {
         "id": 57953380,
         "name": "Card of Safe Return",
+        "desc": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57953380,
@@ -82,6 +110,15 @@
       {
         "id": 60682203,
         "name": "Cold Wave",
+        "desc": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60682203,
@@ -94,6 +131,15 @@
       {
         "id": 31036355,
         "name": "Creature Swap",
+        "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31036355,
@@ -106,6 +152,15 @@
       {
         "id": 2326738,
         "name": "Des Lacooda",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
+        "race": "Zombie",
+        "atk": 500,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2326738,
@@ -118,6 +173,15 @@
       {
         "id": 60082869,
         "name": "Dust Tornado",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60082869,
@@ -130,6 +194,15 @@
       {
         "id": 7153114,
         "name": "Field Barrier",
+        "desc": "Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 \"Field Barrier\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7153114,
@@ -142,6 +215,15 @@
       {
         "id": 77936940,
         "name": "Gernia",
+        "desc": "During your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.",
+        "race": "Zombie",
+        "atk": 1300,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77936940,
@@ -154,6 +236,15 @@
       {
         "id": 21887179,
         "name": "Getsu Fuhma",
+        "desc": "If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21887179,
@@ -166,6 +257,15 @@
       {
         "id": 30459350,
         "name": "Imperial Iron Wall",
+        "desc": "Neither player can banish cards.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30459350,
@@ -178,6 +278,15 @@
       {
         "id": 96008713,
         "name": "Magical Arm Shield",
+        "desc": "When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96008713,
@@ -190,6 +299,15 @@
       {
         "id": 98494543,
         "name": "Magical Stone Excavation",
+        "desc": "Discard 2 cards, then target 1 Spell in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98494543,
@@ -202,6 +320,15 @@
       {
         "id": 31571902,
         "name": "Malevolent Mech - Goku En",
+        "desc": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Send it to the GY, then take damage equal to its original ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 1400,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31571902,
@@ -214,6 +341,15 @@
       {
         "id": 87514539,
         "name": "Marionette Mite",
+        "desc": "You can discard this card to the GY, then target 1 Fiend or Zombie monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87514539,
@@ -226,6 +362,15 @@
       {
         "id": 24530661,
         "name": "Master Kyonshee",
+        "desc": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.",
+        "race": "Zombie",
+        "atk": 1750,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24530661,
@@ -238,6 +383,15 @@
       {
         "id": 68670547,
         "name": "Paladin of the Cursed Dragon",
+        "desc": "Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68670547,
@@ -250,6 +404,15 @@
       {
         "id": 19153634,
         "name": "Patrician of Darkness",
+        "desc": "You choose the attack targets for your opponent's attacks.",
+        "race": "Zombie",
+        "atk": 2000,
+        "def": 1400,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19153634,
@@ -262,6 +425,15 @@
       {
         "id": 55696885,
         "name": "Plague Wolf",
+        "desc": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
+        "race": "Zombie",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55696885,
@@ -274,6 +446,15 @@
       {
         "id": 67169062,
         "name": "Pot of Avarice",
+        "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67169062,
@@ -286,6 +467,15 @@
       {
         "id": 77044671,
         "name": "Pyramid Turtle",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "race": "Zombie",
+        "atk": 1200,
+        "def": 1400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77044671,
@@ -298,6 +488,15 @@
       {
         "id": 70821187,
         "name": "Regenerating Mummy",
+        "desc": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.",
+        "race": "Zombie",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70821187,
@@ -310,6 +509,15 @@
       {
         "id": 37534148,
         "name": "Ribbon of Rebirth",
+        "desc": "During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37534148,
@@ -322,6 +530,15 @@
       {
         "id": 16509093,
         "name": "Royal Keeper",
+        "desc": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)",
+        "race": "Zombie",
+        "atk": 1600,
+        "def": 1700,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16509093,
@@ -334,6 +551,15 @@
       {
         "id": 57281778,
         "name": "Ryu Kokki",
+        "desc": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 2000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57281778,
@@ -346,6 +572,15 @@
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55713623,
@@ -358,6 +593,15 @@
       {
         "id": 81510157,
         "name": "Soul Taker",
+        "desc": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81510157,
@@ -370,6 +614,15 @@
       {
         "id": 93260132,
         "name": "Spell Shattering Arrow",
+        "desc": "Destroy as many face-up Spells your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93260132,
@@ -382,6 +635,15 @@
       {
         "id": 23205979,
         "name": "Spirit Reaper",
+        "desc": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+        "race": "Zombie",
+        "atk": 300,
+        "def": 200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23205979,
@@ -394,6 +656,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -406,6 +677,15 @@
       {
         "id": 3149764,
         "name": "Tutan Mask",
+        "desc": "When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3149764,
@@ -418,6 +698,15 @@
       {
         "id": 12607053,
         "name": "Waboku",
+        "desc": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12607053,
@@ -430,6 +719,15 @@
       {
         "id": 17259470,
         "name": "Zombie Master",
+        "desc": "Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.",
+        "race": "Zombie",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17259470,
@@ -442,12 +740,44 @@
       {
         "id": 4064256,
         "name": "Zombie World",
+        "desc": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4064256,
             "image_url": "https://images.ygoprodeck.com/images/cards/4064256.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4064256.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4064256.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 5186893,
+        "name": "Red-Eyes Zombie Dragon",
+        "desc": "You can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 5186893,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5186893.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5186893.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5186893.jpg"
           }
         ]
       }

@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Tag Force Evolution promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 30155789,
         "name": "Brutal Potion",
+        "desc": "This card becomes an Equip Card, and equips to 1 monster you control. Once per turn, when you inflict damage to your opponent with a card effect, the equipped monster gains 1000 ATK until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 30155789,
@@ -19,6 +26,15 @@
       {
         "id": 3701074,
         "name": "Dark Cure",
+        "desc": "When your opponent Summons a monster(s), they gain Life Points equal to half the ATK of 1 of the Summoned monsters of your choice.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 3701074,
@@ -31,6 +47,15 @@
       {
         "id": 67316075,
         "name": "Darklord Nurse Reficule",
+        "desc": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 67316075,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

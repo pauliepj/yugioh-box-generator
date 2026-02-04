@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Tag Force 3 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 93709215,
         "name": "Darkness Destroyer",
+        "desc": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+        "race": "Fiend",
+        "atk": 2300,
+        "def": 1800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 93709215,
@@ -19,6 +26,15 @@
       {
         "id": 30915572,
         "name": "Gallis the Star Beast",
+        "desc": "You can reveal this card in your hand; send the top card of your Deck to the Graveyard, then, if it was a monster, inflict damage to your opponent equal to its Level x 200 and Special Summon this card from your hand, otherwise destroy this card.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 30915572,
@@ -31,6 +47,15 @@
       {
         "id": 67300516,
         "name": "Red-Eyes Wyvern",
+        "desc": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 67300516,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

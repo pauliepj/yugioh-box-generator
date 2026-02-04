@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 4, Issue 11 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 80304126,
         "name": "Magician's Valkyria",
+        "desc": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 80304126,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

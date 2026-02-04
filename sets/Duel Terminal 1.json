@@ -1,10 +1,2335 @@
 {
   "setName": "Duel Terminal 1",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "duel terminal normal parallel rare": [
+      {
+        "id": 62325062,
+        "name": "Adhesion Trap Hole",
+        "desc": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 62325062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62325062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62325062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62325062.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89386122,
+        "name": "Ally of Justice Clausolas",
+        "desc": "A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 89386122,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89386122.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89386122.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89386122.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25771826,
+        "name": "Ally of Justice Garadholg",
+        "desc": "If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 25771826,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25771826.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25771826.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25771826.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52265835,
+        "name": "Ally of Justice Rudra",
+        "desc": "If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.",
+        "race": "Machine",
+        "atk": 1900,
+        "def": 1200,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 52265835,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52265835.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52265835.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52265835.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85876417,
+        "name": "Ally of Justice Thousand Arms",
+        "desc": "This card can attack all face-up LIGHT monsters your opponent controls once each. If this card battles a non-LIGHT monster, destroy this card before damage calculation.",
+        "race": "Machine",
+        "atk": 1700,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 85876417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85876417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85876417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85876417.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15471265,
+        "name": "Berserker Crush",
+        "desc": "Banish 1 monster from your GY, then target 1 \"Winged Kuriboh\" you control; that target's ATK/DEF become equal to the ATK/DEF of the monster that was banished, until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 15471265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15471265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15471265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15471265.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50323155,
+        "name": "Black Horn of Heaven",
+        "desc": "When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 50323155,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50323155.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50323155.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50323155.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65169794,
+        "name": "Black Pendant",
+        "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 65169794,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65169794.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65169794.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65169794.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96565487,
+        "name": "Blizzard Warrior",
+        "desc": "If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return that card to either the top or the bottom of their Deck.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 400,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 96565487,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96565487.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96565487.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96565487.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60161788,
+        "name": "Blizzed, Defender of the Ice Barrier",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "race": "Aqua",
+        "atk": 300,
+        "def": 500,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 60161788,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60161788.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60161788.jpg"
+          },
+          {
+            "id": 60161788,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60161788.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60161788.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78193831,
+        "name": "Buster Blader",
+        "desc": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 78193831,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78193831.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78193831.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78193831.jpg"
+          },
+          {
+            "id": 78193832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78193832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78193832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78193832.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7093411,
+        "name": "Crystal Beast Sapphire Pegasus",
+        "desc": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or GY, face-up in your Spell & Trap Zone as a Continuous Spell. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+        "race": "Beast",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 7093411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7093411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7093411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7093411.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96331676,
+        "name": "Crystal Raigeki",
+        "desc": "Send 1 \"Crystal Beast\" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 96331676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96331676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96331676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96331676.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2314238,
+        "name": "Dark Magic Attack",
+        "desc": "If you control \"Dark Magician\": Destroy all Spells and Traps your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 2314238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2314238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2314238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2314238.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97021916,
+        "name": "Dark Resonator",
+        "desc": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+        "race": "Fiend",
+        "atk": 1300,
+        "def": 300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 97021916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97021916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97021916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97021916.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89086566,
+        "name": "Detonate",
+        "desc": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of cards destroyed by this effect.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 89086566,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89086566.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89086566.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89086566.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60082869,
+        "name": "Dust Tornado",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 60082869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60082869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60082869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60082869.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97687912,
+        "name": "Fairy Meteor Crush",
+        "desc": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 97687912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97687912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97687912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97687912.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54326448,
+        "name": "Flamvell Archer",
+        "desc": "Once per turn, you can Tribute 1 face-up Pyro-Type monster you control to have all \"Flamvell\" monsters on the field gain 800 ATK until the End Phase.",
+        "race": "Pyro",
+        "atk": 1000,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 54326448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54326448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54326448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54326448.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68226653,
+        "name": "Flamvell Dragnov",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 \"Flamvell Dragnov\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1100,
+        "def": 200,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 68226653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68226653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68226653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68226653.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21615956,
+        "name": "Flamvell Guard",
+        "desc": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+        "race": "Dragon",
+        "atk": 100,
+        "def": 2000,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 21615956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21615956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21615956.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95621257,
+        "name": "Flamvell Magician",
+        "desc": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 95621257,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95621257.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95621257.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95621257.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30399511,
+        "name": "Genex Power Planner",
+        "desc": "When this card is Normal Summoned, you can add 1 Level 3 \"Genex\" Effect Monster from your Deck to your hand.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 30399511,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30399511.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30399511.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30399511.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67483216,
+        "name": "Genex Searcher",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Genex\" monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 67483216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67483216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67483216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67483216.jpg"
+          }
+        ]
+      },
+      {
+        "id": 93882364,
+        "name": "Genex Worker",
+        "desc": "You can Tribute this card to Special Summon 1 \"Genex\" monster from your hand.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 1200,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 93882364,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93882364.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93882364.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93882364.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59965151,
+        "name": "Ghost Gardna",
+        "desc": "When a face-up monster you control is selected as an attack target, you can change the target to this card. When this card is destroyed and sent to the Graveyard, 1 face-up monster your opponent controls loses 1000 ATK, until the End Phase.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 1900,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 59965151,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59965151.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59965151.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59965151.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97904474,
+        "name": "Handcuffs Dragon",
+        "desc": "When this card is destroyed by battle with an attacking monster your opponent controls and is sent to the Graveyard, you can equip this card to that monster. The equipped monster loses 1800 ATK. When it is destroyed and this card is sent to the Graveyard, you can Special Summon this card.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1800,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 97904474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97904474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97904474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97904474.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91932350,
+        "name": "Harpie Lady 1",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
+        "race": "Winged Beast",
+        "atk": 1300,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 91932350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91932350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91932350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40640057,
+        "name": "Kuriboh",
+        "desc": "During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 40640057,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640057.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640057.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640057.jpg"
+          },
+          {
+            "id": 40640058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640058.jpg"
+          },
+          {
+            "id": 40640059,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40640059.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40640059.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40640059.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77414722,
+        "name": "Magic Jammer",
+        "desc": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 77414722,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77414722.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77414722.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77414722.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99597615,
+        "name": "Malevolent Nuzzler",
+        "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 99597615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99597615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99597615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99597615.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57882509,
+        "name": "Mask of Weakness",
+        "desc": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 57882509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57882509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57882509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57882509.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37580756,
+        "name": "Michizure",
+        "desc": "When a monster is sent from the field to your GY, even during the Damage Step: Target 1 monster on the field; destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 37580756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37580756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37580756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37580756.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22837504,
+        "name": "Mist Valley Soldier",
+        "desc": "While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.",
+        "race": "Winged Beast",
+        "atk": 1700,
+        "def": 300,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 22837504,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22837504.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22837504.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22837504.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69448290,
+        "name": "Mist Valley Thunderbird",
+        "desc": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+        "race": "Thunder",
+        "atk": 1100,
+        "def": 700,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 69448290,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69448290.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69448290.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69448290.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29054481,
+        "name": "Mist Valley Watcher",
+        "desc": "Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1900,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 29054481,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29054481.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29054481.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29054481.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92933195,
+        "name": "Mist Valley Windmaster",
+        "desc": "Once per turn, if both players have 5 or more cards in their hand, you can activate this effect to make both players send cards from their hand to the Graveyard until they have 4 cards.",
+        "race": "Winged Beast",
+        "atk": 400,
+        "def": 800,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 92933195,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92933195.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92933195.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92933195.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5318639,
+        "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 5318639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5318639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5318639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5318639.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14315573,
+        "name": "Negate Attack",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 14315573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14315573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14315573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14315573.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17449108,
+        "name": "Nobleman of Extermination",
+        "desc": "Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 17449108,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17449108.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17449108.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17449108.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42941100,
+        "name": "Ojama Yellow",
+        "desc": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 42941100,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42941100.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42941100.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42941100.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30276969,
+        "name": "Reese the Ice Mistress",
+        "desc": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+        "race": "Sea Serpent",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 30276969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30276969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30276969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30276969.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17814387,
+        "name": "Reinforcements",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 17814387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17814387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17814387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17814387.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34016756,
+        "name": "Riryoku",
+        "desc": "Target 2 face-up monsters on the field; halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster. These effects last until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 34016756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34016756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34016756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34016756.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58621589,
+        "name": "Shadow of Eyes",
+        "desc": "When a monster(s) is Set on your opponent's field: Target 1 of those Set monsters; change that Set monster to face-up Attack Position. (Flip Effects are not activated.)",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 58621589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58621589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58621589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58621589.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56830749,
+        "name": "Share the Pain",
+        "desc": "Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 56830749,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56830749.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56830749.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56830749.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68005187,
+        "name": "Soul Exchange",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 68005187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68005187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68005187.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16589042,
+        "name": "Swift Gaia the Fierce Knight",
+        "desc": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 16589042,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16589042.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16589042.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16589042.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57116033,
+        "name": "Winged Kuriboh",
+        "desc": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 57116033,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57116033.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57116033.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57116033.jpg"
+          },
+          {
+            "id": 57116034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57116034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57116034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57116034.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88650530,
+        "name": "Worm Apocalypse",
+        "desc": "FLIP: Target 1 Spell/Trap Card on the field; destroy that target.",
+        "race": "Reptile",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 88650530,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88650530.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88650530.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88650530.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15658249,
+        "name": "Worm Barses",
+        "desc": "When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.",
+        "race": "Reptile",
+        "atk": 1400,
+        "def": 1500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 15658249,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15658249.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15658249.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15658249.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51043243,
+        "name": "Worm Cartaros",
+        "desc": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
+        "race": "Reptile",
+        "atk": 1200,
+        "def": 500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 51043243,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51043243.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51043243.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51043243.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88438982,
+        "name": "Worm Dimikles",
+        "desc": "FLIP: This card gains 300 ATK and DEF.",
+        "race": "Reptile",
+        "atk": 1700,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 88438982,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88438982.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88438982.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88438982.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58760121,
+        "name": "Worm Falco",
+        "desc": "FLIP: Change all face-up Reptile-Type \"Worm\" monsters you control to face-down Defense Position, except this card.",
+        "race": "Reptile",
+        "atk": 500,
+        "def": 800,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 58760121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58760121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58760121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58760121.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85754829,
+        "name": "Worm Gulse",
+        "desc": "Each time a face-down Defense Position monster is flipped face-up, place 1 Worm Counter on this card. This card gains 300 ATK for each Worm Counter on it.",
+        "race": "Reptile",
+        "atk": 1500,
+        "def": 300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 85754829,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85754829.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85754829.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85754829.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11159464,
+        "name": "Worm Hope",
+        "desc": "FLIP: When this card is flipped face-up by an opponent's monster's attack, draw 1 card.\nWhen this card is sent from the field to the Graveyard, send 1 card from your hand to the Graveyard.",
+        "race": "Reptile",
+        "atk": 800,
+        "def": 1500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 11159464,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11159464.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11159464.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11159464.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84932271,
+        "name": "Worm Jetelikpse",
+        "desc": "FLIP: When this card is destroyed and sent to the Graveyard this turn: Special Summon it from the Graveyard in face-up Defense Position.",
+        "race": "Reptile",
+        "atk": 1200,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 84932271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84932271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84932271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84932271.jpg"
+          },
+          {
+            "id": 84932271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84932271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84932271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84932271.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23115241,
+        "name": "X-Saber Anu Piranha",
+        "desc": "A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 23115241,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23115241.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23115241.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23115241.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53100061,
+        "name": "X-Saber Axel",
+        "desc": "While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "race": "Beast-Warrior",
+        "atk": 400,
+        "def": 100,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 53100061,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53100061.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53100061.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53100061.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96099959,
+        "name": "X-Saber Palomuro",
+        "desc": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
+        "race": "Reptile",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 96099959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96099959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96099959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96099959.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23093604,
+        "name": "X-Saber Pashuul",
+        "desc": "This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 23093604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23093604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23093604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23093604.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26993374,
+        "name": "X-Saber Uruz",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Tribute this card to return the destroyed card to the top of its owner's Deck.",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 26993374,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26993374.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26993374.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26993374.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal rare parallel rare": [
+      {
+        "id": 26593852,
+        "name": "Ally of Justice Catastor",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nAt the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.",
+        "race": "Machine",
+        "atk": 2200,
+        "def": 1200,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 26593852,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26593852.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26593852.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26593852.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22371016,
+        "name": "Ally of Justice Unknown Crusher",
+        "desc": "When this card battles a LIGHT monster, remove that monster from play after damage calculation.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 22371016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22371016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22371016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22371016.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59482302,
+        "name": "Ally Salvo",
+        "desc": "When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 cards on the field and destroy them.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 300,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 59482302,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59482302.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59482302.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59482302.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25247218,
+        "name": "Big Piece Golem",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.",
+        "race": "Rock",
+        "atk": 2100,
+        "def": 0,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 25247218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25247218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25247218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25247218.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17655904,
+        "name": "Burst Stream of Destruction",
+        "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 17655904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17655904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17655904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17655904.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23950192,
+        "name": "Cryomancer of the Ice Barrier",
+        "desc": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+        "race": "Aqua",
+        "atk": 1300,
+        "def": 0,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 23950192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23950192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23950192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23950192.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 70095154,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70095154.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70095154.jpg"
+          },
+          {
+            "id": 70095155,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70095155.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70095155.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70095155.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36996508,
+        "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 36996508,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36996508.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36996508.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36996508.jpg"
+          },
+          {
+            "id": 46986414,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986414.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986414.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986414.jpg"
+          },
+          {
+            "id": 46986415,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986415.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986415.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986415.jpg"
+          },
+          {
+            "id": 46986416,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986416.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986416.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986416.jpg"
+          },
+          {
+            "id": 46986417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986417.jpg"
+          },
+          {
+            "id": 46986418,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986418.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986418.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986418.jpg"
+          },
+          {
+            "id": 46986419,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986419.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986419.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986419.jpg"
+          },
+          {
+            "id": 46986420,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986420.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986420.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986420.jpg"
+          },
+          {
+            "id": 46986421,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46986421.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46986421.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46986421.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89943723,
+        "name": "Elemental HERO Neos",
+        "desc": "''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 89943723,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89943723.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89943723.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89943723.jpg"
+          },
+          {
+            "id": 89943724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89943724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89943724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89943724.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52875873,
+        "name": "Evolution Burst",
+        "desc": "If you control \"Cyber Dragon\": Target 1 card your opponent controls; destroy that target. \"Cyber Dragon\" cannot attack the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 52875873,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52875873.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52875873.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52875873.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28332833,
+        "name": "Flamvell Poun",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.",
+        "race": "Pyro",
+        "atk": 200,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 28332833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28332833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28332833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28332833.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53714009,
+        "name": "Flamvell Uruquizas",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
+        "race": "Pyro",
+        "atk": 2100,
+        "def": 400,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 53714009,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53714009.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53714009.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53714009.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68505803,
+        "name": "Genex Controller",
+        "desc": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 68505803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52684508,
+        "name": "Inferno Fire Blast",
+        "desc": "Target 1 \"Red-Eyes B. Dragon\" in your Monster Zone; inflict damage to your opponent equal to its original ATK. \"Red-Eyes B. Dragon\" cannot attack the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 52684508,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52684508.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52684508.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52684508.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65549080,
+        "name": "Mist Condor",
+        "desc": "You can Special Summon this card from your hand by returning 1 face-up \"Mist Valley\" monster you control to the hand. If you do, this card's ATK becomes 1700.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 65549080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65549080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65549080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65549080.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96182448,
+        "name": "Nitro Synchron",
+        "desc": "If this card is sent to the Graveyard for the Synchro Summon of a \"Nitro\" Synchro Monster: Draw 1 card.",
+        "race": "Machine",
+        "atk": 300,
+        "def": 100,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 96182448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96182448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96182448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96182448.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92065772,
+        "name": "Numbing Grub in the Ice Barrier",
+        "desc": "When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.",
+        "race": "Insect",
+        "atk": 1300,
+        "def": 1800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 92065772,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92065772.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92065772.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92065772.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74677422,
+        "name": "Red-Eyes Black Dragon",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 74677422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677422.jpg"
+          },
+          {
+            "id": 74677423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677423.jpg"
+          },
+          {
+            "id": 74677424,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677424.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677424.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677424.jpg"
+          },
+          {
+            "id": 74677425,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677425.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677425.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677425.jpg"
+          },
+          {
+            "id": 74677426,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677426.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677426.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677426.jpg"
+          },
+          {
+            "id": 74677427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677427.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84932271,
+        "name": "Worm Jetelikpse",
+        "desc": "FLIP: When this card is destroyed and sent to the Graveyard this turn: Special Summon it from the Graveyard in face-up Defense Position.",
+        "race": "Reptile",
+        "atk": 1200,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 84932271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84932271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84932271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84932271.jpg"
+          },
+          {
+            "id": 84932271,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84932271.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84932271.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84932271.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50604950,
+        "name": "X-Saber Galahad",
+        "desc": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another \"Saber\" monster to negate the attack.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 50604950,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50604950.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50604950.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50604950.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal ultra parallel rare": [
+      {
+        "id": 19204398,
+        "name": "Ally of Justice Light Gazer",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 1600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 19204398,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19204398.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19204398.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19204398.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50321796,
+        "name": "Brionac, Dragon of the Ice Barrier",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+        "race": "Sea Serpent",
+        "atk": 2300,
+        "def": 1400,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 50321796,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50321796.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50321796.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50321796.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47421985,
+        "name": "Hydro Genex",
+        "desc": "\"Genex Controller\" + 1 or more non-Tuner WATER monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1800,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 47421985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47421985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47421985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47421985.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27315304,
+        "name": "Mist Wurm",
+        "desc": "1 Tuner + 2 or more non-Tuner monsters\nIf this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+        "race": "Thunder",
+        "atk": 2500,
+        "def": 1500,
+        "level": 9,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 27315304,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27315304.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27315304.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27315304.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10026986,
+        "name": "Worm King",
+        "desc": "This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type \"Worm\" monster. You can Tribute 1 Reptile-Type \"Worm\" monster to select 1 card your opponent controls, and destroy it.",
+        "race": "Reptile",
+        "atk": 2700,
+        "def": 1100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 10026986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10026986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10026986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10026986.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52098461,
+        "name": "Wrath of Neos",
+        "desc": "Select 1 face-up \"Elemental HERO Neos\" you control. Return it to the Deck and destroy all cards on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 52098461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52098461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52098461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52098461.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80108118,
+        "name": "X-Saber Urbellum",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 80108118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80108118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80108118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80108118.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83810690,
+        "name": "X-Saber Wayne",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned, you can Special Summon 1 Level 4 or lower Warrior-Type monster from your hand.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 83810690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83810690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83810690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83810690.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal super parallel rare": [
+      {
+        "id": 60161788,
+        "name": "Blizzed, Defender of the Ice Barrier",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+        "race": "Aqua",
+        "atk": 300,
+        "def": 500,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 60161788,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60161788.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60161788.jpg"
+          },
+          {
+            "id": 60161788,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60161788.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60161788.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60161788.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 89631139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+          },
+          {
+            "id": 89631140,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631140.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631140.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631140.jpg"
+          },
+          {
+            "id": 89631141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631141.jpg"
+          },
+          {
+            "id": 89631142,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631142.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631142.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631142.jpg"
+          },
+          {
+            "id": 89631143,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631143.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631143.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631143.jpg"
+          },
+          {
+            "id": 89631144,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631144.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631144.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631144.jpg"
+          },
+          {
+            "id": 89631145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631145.jpg"
+          },
+          {
+            "id": 89631146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631146.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53388413,
+        "name": "Commander Gottoms, Swordmaster",
+        "desc": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+        "race": "Beast-Warrior",
+        "atk": 2100,
+        "def": 1600,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 53388413,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53388413.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53388413.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53388413.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91711547,
+        "name": "Flamvell Fiend",
+        "desc": "When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Pyro-Type monster in your Graveyard.",
+        "race": "Fiend",
+        "atk": 2100,
+        "def": 1200,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 91711547,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91711547.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91711547.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91711547.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4904812,
+        "name": "Genex Undine",
+        "desc": "When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 \"Genex Controller\" from your Deck to your hand.",
+        "race": "Aqua",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 4904812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7391448,
+        "name": "Goyo Guardian",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 7391448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7391448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7391448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7391448.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95443805,
+        "name": "Mist Valley Shaman",
+        "desc": "Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.",
+        "race": "Winged Beast",
+        "atk": 1200,
+        "def": 1200,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 95443805,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95443805.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95443805.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95443805.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18013090,
+        "name": "Nitro Warrior",
+        "desc": "\"Nitro Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, if you activate a Spell Card, this card gains 1000 ATK during the next attack this turn involving this card, during damage calculation only. If this attacking card destroys an opponent's monster by battle, after damage calculation: You can target 1 face-up Defense Position monster your opponent controls; change that target to Attack Position, then this card can make a second attack in a row, on that monster.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1800,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 18013090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18013090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18013090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18013090.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66661678,
+        "name": "Royal Knight of the Ice Barrier",
+        "desc": "When this card is Tribute Summoned, Special Summon 1 \"Ice Coffin Token\" (Aqua-Type/WATER/Level 1/ATK 1000/DEF 0) in Attack Position to your opponent's side of the field. This Token cannot be Tributed for a Tribute Summon.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 2000,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 66661678,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66661678.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66661678.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66661678.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14936691,
+        "name": "Worm Erokin",
+        "desc": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it to face-down Defense Position.",
+        "race": "Reptile",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 14936691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14936691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14936691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14936691.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57543573,
+        "name": "Worm Illidan",
+        "desc": "Each time a card is Set on your side of the field, place 1 Worm Counter on this card. You can remove 2 Worm Counters from this card to select 1 card your opponent controls, and destroy it.",
+        "race": "Reptile",
+        "atk": 2000,
+        "def": 1800,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 57543573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57543573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57543573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57543573.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90508760,
+        "name": "X-Saber Airbellum",
+        "desc": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 90508760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90508760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90508760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90508760.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

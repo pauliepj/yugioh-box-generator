@@ -1,10 +1,19 @@
 {
   "setName": "Destiny Soldiers",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 52240819,
         "name": "Abyss Actor - Evil Heel",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 face-up monster your opponent controls; it loses ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. When this card destroys an opponent's monster by battle: You can target 1 \"Abyss Script\" Spell Card in your Graveyard; Set that card.",
+        "race": "Fiend",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 52240819,
@@ -17,6 +26,15 @@
       {
         "id": 24907044,
         "name": "Abyss Actor - Leading Lady",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects; ● That opponent's monster loses ATK equal to the damage you took (even if this card leaves the field). ● Add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.\n\n[ Monster Effect ] \nOnce per turn, when battle damage is inflicted: You can target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. When this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Set 1 \"Abyss Script\" Spell directly from your Deck.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 24907044,
@@ -29,6 +47,15 @@
       {
         "id": 25629622,
         "name": "Abyss Actor - Superstar",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.\n\n[ Monster Effect ] \nWhen Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 25629622,
@@ -41,6 +68,15 @@
       {
         "id": 51391183,
         "name": "Abyss Actor - Wild Hope",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).\n\n[ Monster Effect ] \nOnce per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn. If this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\". You can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 51391183,
@@ -53,6 +89,15 @@
       {
         "id": 13662809,
         "name": "Abyss Script - Rise of the Abyss King",
+        "desc": "Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spells with different names from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 13662809,
@@ -65,6 +110,15 @@
       {
         "id": 87112784,
         "name": "Banishment of the Darklords",
+        "desc": "Add 1 \"Darklord\" card from your Deck to your hand, except \"Banishment of the Darklords\". You can only activate 1 \"Banishment of the Darklords\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 87112784,
@@ -77,6 +131,15 @@
       {
         "id": 99357565,
         "name": "D Cubed",
+        "desc": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\n● You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or GY, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\n● If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the GY.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 99357565,
@@ -89,6 +152,15 @@
       {
         "id": 26841274,
         "name": "D-Fusion",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material, and if you do, it cannot be destroyed by battle or card effects this turn. Only \"Destiny HERO\" monsters can be used as Fusion Material for a Fusion Summon using this card's effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 26841274,
@@ -101,6 +173,15 @@
       {
         "id": 51728779,
         "name": "Darklord Amdusc",
+        "desc": "You can discard this card and 1 \"Darklord\" card, then target 1 \"Darklord\" card in your Graveyard; add it to your hand. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Amdusc\" once per turn. You can only Special Summon \"Darklord Amdusc(s)\" once per turn.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 2800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 51728779,
@@ -113,6 +194,15 @@
       {
         "id": 14517422,
         "name": "Darklord Contact",
+        "desc": "Special Summon 1 \"Darklord\" monster from your GY in Defense Position. You can only activate 1 \"Darklord Contact\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 14517422,
@@ -125,6 +215,15 @@
       {
         "id": 87990236,
         "name": "Darklord Enchantment",
+        "desc": "Send 1 \"Darklord\" monster from your hand or face-up field to the GY; take control of 1 face-up monster your opponent controls until the End Phase. You can only activate 1 \"Darklord Enchantment\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 87990236,
@@ -137,6 +236,15 @@
       {
         "id": 52840267,
         "name": "Darklord Ixchel",
+        "desc": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
+        "race": "Fairy",
+        "atk": 2500,
+        "def": 2900,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 52840267,
@@ -149,6 +257,15 @@
       {
         "id": 25451652,
         "name": "Darklord Morningstar",
+        "desc": "Cannot be Special Summoned. If this card is Tribute Summoned: You can Special Summon \"Darklord\" monsters from your hand and/or Deck, up to the number of Effect Monsters your opponent controls. While you control another \"Darklord\" monster, your opponent cannot target this card with card effects. Once per turn: You can send cards from the top of your Deck to the Graveyard, equal to the number of \"Darklord\" monsters on the field, and if you do, gain 500 LP for each \"Darklord\" card sent to the Graveyard by this effect.",
+        "race": "Fairy",
+        "atk": 3000,
+        "def": 3000,
+        "level": 11,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 25451652,
@@ -161,6 +278,15 @@
       {
         "id": 25339070,
         "name": "Darklord Nasten",
+        "desc": "You can discard 2 other \"Darklord\" cards; Special Summon this card from your hand. (Quick Effect): You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Nasten\" once per turn. You can only Special Summon \"Darklord Nasten(s)\" once per turn.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 2600,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 25339070,
@@ -173,6 +299,15 @@
       {
         "id": 50501121,
         "name": "Darklord Rebellion",
+        "desc": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 50501121,
@@ -185,6 +320,15 @@
       {
         "id": 88234365,
         "name": "Darklord Tezcatlipoca",
+        "desc": "If a \"Darklord\" monster(s) you control would be destroyed by battle or card effect, you can discard this card instead. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Tezcatlipoca\" once per turn. You can only Special Summon \"Darklord Tezcatlipoca(s)\" once per turn.",
+        "race": "Fairy",
+        "atk": 2800,
+        "def": 2100,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 88234365,
@@ -197,6 +341,15 @@
       {
         "id": 63362460,
         "name": "Destiny HERO - Celestial",
+        "desc": "When this card declares an attack: You can target 1 face-up Spell your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the GY: You can banish this card and 1 \"Destiny HERO\" monster from your GY; draw 2 cards. You can only use this effect of \"Destiny HERO - Celestial\" once per turn.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 63362460,
@@ -209,6 +362,15 @@
       {
         "id": 26964762,
         "name": "Destiny HERO - Dark Angel",
+        "desc": "If you have 3 or more \"Destiny HERO\" monsters in your GY: You can discard this card, then target 1 \"Destiny HERO\" monster in your GY; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your GY; each player chooses 1 Normal Spell from their Deck, and places it on top of their Deck.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 26964762,
@@ -221,6 +383,15 @@
       {
         "id": 64184058,
         "name": "Destiny HERO - Decider",
+        "desc": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.\n● If this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your GY to your hand during the End Phase of this turn.\n● When a card or effect is activated that would inflict damage to you, while this card is in your GY (Quick Effect): Return this card to your hand, and if you do, make that effect damage to you 0.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 64184058,
@@ -233,6 +404,15 @@
       {
         "id": 90579153,
         "name": "Destiny HERO - Dystopia",
+        "desc": "2 \"Destiny HERO\" monsters\r\nIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your GY; inflict damage to your opponent equal to that target's ATK. If this card's current ATK is different from its original ATK (except during the Damage Step) (Quick Effect): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 90579153,
@@ -243,11 +423,19 @@
         ]
       }
     ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 88412339,
         "name": "Abyss Actor - Extras",
+        "desc": "[ Pendulum Effect ] \nIf your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\n\n[ Monster Effect ] \nYou can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 88412339,
@@ -260,6 +448,15 @@
       {
         "id": 99634927,
         "name": "Abyss Actor - Funky Comedian",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Actor\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can make this card gain 300 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. You can target 1 other \"Abyss Actor\" monster you control; it gains ATK equal to this card's current ATK, until the end of this turn. This card cannot attack the turn this effect is activated. You can only use this effect of \"Abyss Actor - Funky Comedian\" once per turn.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 99634927,
@@ -272,6 +469,15 @@
       {
         "id": 51028231,
         "name": "Abyss Actor - Sassy Rookie",
+        "desc": "[ Pendulum Effect ] \nIf an \"Abyss Actor\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n\n[ Monster Effect ] \nThe first time this card would be destroyed by battle or card effect each turn, it is not destroyed. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" monster from your Deck, except \"Abyss Actor - Sassy Rookie\". If this card in the Pendulum Zone is destroyed: You can target 1 Level 4 or lower monster your opponent controls; destroy it.",
+        "race": "Fiend",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51028231,
@@ -284,6 +490,15 @@
       {
         "id": 59057953,
         "name": "Abyss Actors Back Stage",
+        "desc": "If you have 2 \"Abyss Actor\" cards in your Pendulum Zones: Add 2 \"Abyss Actor\" Pendulum Monsters with different names from your Deck to your Extra Deck face-up. You can only activate 1 \"Abyss Actors Back Stage\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59057953,
@@ -296,6 +511,15 @@
       {
         "id": 86578200,
         "name": "Abyss Prop - Wild Wagon",
+        "desc": "The first time each \"Abyss Actor\" monster you control would be destroyed by battle each turn, it is not destroyed. Once per turn: You can target 1 \"Abyss Actor\" monster you control; your opponent cannot target it with card effects until the end of their turn (even if this card leaves the field). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return all cards your opponent controls to the hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 86578200,
@@ -308,6 +532,15 @@
       {
         "id": 87390798,
         "name": "Abyss Script - Fantasy Magic",
+        "desc": "Target 1 \"Abyss Actor\" monster you control; this turn, every monster that battles it, but is not destroyed, returns to the hand at the end of the Damage Step. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can target 1 card your opponent controls; place it on top of the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 87390798,
@@ -320,6 +553,15 @@
       {
         "id": 50179591,
         "name": "Abyss Script - Fire Dragon's Lair",
+        "desc": "Target 1 \"Abyss Actor\" monster you control; if it destroys your opponent's monster by battle this turn, your opponent banishes 3 monsters from their Extra Deck (their choice). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can look at your opponent's Extra Deck, also banish 1 monster from their Extra Deck. You can only use this effect of \"Abyss Script - Fire Dragon's Lair\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 50179591,
@@ -332,6 +574,15 @@
       {
         "id": 23784496,
         "name": "Abyss Script - Opening Ceremony",
+        "desc": "Gain 500 LP for each \"Abyss Actor\" monster you control. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can draw until you have 5 cards in your hand. You can only use each effect of \"Abyss Script - Opening Ceremony\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 23784496,
@@ -344,6 +595,15 @@
       {
         "id": 51630558,
         "name": "Advance Draw",
+        "desc": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51630558,
@@ -356,6 +616,15 @@
       {
         "id": 1475311,
         "name": "Allure of Darkness",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1475311,
@@ -368,6 +637,15 @@
       {
         "id": 59509952,
         "name": "Archlord Kristya",
+        "desc": "If you have exactly 4 Fairy monsters in your GY, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy monster in your GY; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the GY, place it on top of the Deck, instead.",
+        "race": "Fairy",
+        "atk": 2800,
+        "def": 2300,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59509952,
@@ -380,6 +658,15 @@
       {
         "id": 78811937,
         "name": "Creeping Darkness",
+        "desc": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78811937,
@@ -392,6 +679,15 @@
       {
         "id": 674561,
         "name": "Dark Eruption",
+        "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 674561,
@@ -404,6 +700,15 @@
       {
         "id": 53129443,
         "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 53129443,
@@ -416,6 +721,15 @@
       {
         "id": 5562461,
         "name": "Dark Illusion",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated that targets a DARK monster on the field: Negate the activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 5562461,
@@ -428,6 +742,15 @@
       {
         "id": 41722932,
         "name": "Dark Mambele",
+        "desc": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 41722932,
@@ -440,6 +763,15 @@
       {
         "id": 85771019,
         "name": "Darklord Asmodeus",
+        "desc": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle.",
+        "race": "Fairy",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 85771019,
@@ -452,6 +784,15 @@
       {
         "id": 47664723,
         "name": "Darklord Edeh Arae",
+        "desc": "If this card is Special Summoned from the Graveyard, it gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 2000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47664723,
@@ -464,6 +805,15 @@
       {
         "id": 57579381,
         "name": "Darklord Marie",
+        "desc": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
+        "race": "Fiend",
+        "atk": 1700,
+        "def": 1200,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 57579381,
@@ -476,6 +826,15 @@
       {
         "id": 67316075,
         "name": "Darklord Nurse Reficule",
+        "desc": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 67316075,
@@ -488,6 +847,15 @@
       {
         "id": 11260714,
         "name": "Darklord Superbia",
+        "desc": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target.",
+        "race": "Fairy",
+        "atk": 2900,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 11260714,
@@ -500,6 +868,15 @@
       {
         "id": 40921744,
         "name": "Darklord Zerato",
+        "desc": "If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. Once per turn, during the End Phase, if this effect was activated this turn: Destroy this card.",
+        "race": "Fairy",
+        "atk": 2800,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 40921744,
@@ -512,6 +889,15 @@
       {
         "id": 45809008,
         "name": "Destiny Draw",
+        "desc": "Discard 1 \"Destiny HERO\" card; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 45809008,
@@ -524,6 +910,15 @@
       {
         "id": 76263644,
         "name": "Destiny End Dragoon",
+        "desc": "\"Destiny HERO - Plasma\" + \"Destiny HERO - Dogma\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. Once per turn: You can target 1 monster your opponent controls; destroy that target, and if it was face-up, inflict damage to your opponent equal to the ATK it had on the field. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn, during your Standby Phase, if this card is in your GY: You can banish 1 \"Destiny HERO\" card from your GY; Special Summon this card.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 76263644,
@@ -536,6 +931,15 @@
       {
         "id": 13093792,
         "name": "Destiny HERO - Diamond Dude",
+        "desc": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 13093792,
@@ -548,6 +952,15 @@
       {
         "id": 17132130,
         "name": "Destiny HERO - Dogma",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster. Once per turn, if you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.",
+        "race": "Warrior",
+        "atk": 3400,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 17132130,
@@ -560,6 +973,15 @@
       {
         "id": 91691605,
         "name": "Destiny HERO - Drilldark",
+        "desc": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Destiny HERO\" monster from your hand with ATK less than or equal to this card's ATK on the field. You can only use this effect of \"Destiny HERO - Drilldark\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 91691605,
@@ -572,6 +994,15 @@
       {
         "id": 37780349,
         "name": "Destiny HERO - Dynatag",
+        "desc": "During damage calculation, when you would take battle damage (Quick Effect): You can discard this card; make yourself take no battle damage from that battle, and if you do, each player takes 1000 damage. You can banish this card from your GY, then target 1 \"Destiny HERO\" monster you control; it gains 1000 ATK until the end of your opponent's next turn.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37780349,
@@ -584,6 +1015,15 @@
       {
         "id": 9411399,
         "name": "Destiny HERO - Malicious",
+        "desc": "You can banish this card from your GY; Special Summon 1 \"Destiny HERO - Malicious\" from your Deck.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9411399,
@@ -596,6 +1036,15 @@
       {
         "id": 83965310,
         "name": "Destiny HERO - Plasma",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). Gains ATK equal to half the original ATK of the monster equipped to it by this effect.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 83965310,
@@ -614,6 +1063,15 @@
       {
         "id": 35464895,
         "name": "Destiny Signal",
+        "desc": "When a monster you control is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower \"Destiny HERO\" monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 35464895,
@@ -626,6 +1084,15 @@
       {
         "id": 64379430,
         "name": "Doomsday Horror",
+        "desc": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+        "race": "Fiend",
+        "atk": -1,
+        "def": -1,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 64379430,
@@ -638,6 +1105,15 @@
       {
         "id": 31550470,
         "name": "Escape from the Dark Dimension",
+        "desc": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy that target, and if you do, banish it. When that target is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 31550470,
@@ -650,6 +1126,15 @@
       {
         "id": 46173679,
         "name": "Fires of Doomsday",
+        "desc": "Special Summon 2 \"Doomsday Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 46173679,
@@ -662,6 +1147,15 @@
       {
         "id": 72204747,
         "name": "Over Destiny",
+        "desc": "Target 1 \"Destiny HERO\" monster in your GY; Special Summon 1 \"Destiny HERO\" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 72204747,
@@ -674,6 +1168,15 @@
       {
         "id": 82213171,
         "name": "Prometheus, King of the Shadows",
+        "desc": "If this card is Normal Summoned: Banish 1 or more DARK monsters from your GY, and if you do, this card gains 400 ATK for each, until the end of this turn.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 82213171,
@@ -686,6 +1189,15 @@
       {
         "id": 73680966,
         "name": "The Beginning of the End",
+        "desc": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 73680966,
@@ -698,6 +1210,15 @@
       {
         "id": 38120068,
         "name": "Trade-In",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 38120068,
@@ -710,6 +1231,15 @@
       {
         "id": 1353770,
         "name": "Valhalla, Hall of the Fallen",
+        "desc": "Once per turn: You can Special Summon 1 Fairy monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1353770,
@@ -722,6 +1252,15 @@
       {
         "id": 90434926,
         "name": "Veil of Darkness",
+        "desc": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 90434926,
@@ -731,8 +1270,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

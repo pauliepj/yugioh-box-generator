@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 662855,
         "name": "Amatsu-Okami of the Divine Peaks",
+        "desc": "3+ Dragon Effect Monsters\r\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 662855,
@@ -18,6 +26,15 @@
       {
         "id": 662854,
         "name": "Noritoshi in Darkest Rainment",
+        "desc": "3+ Spellcaster Effect Monsters\r\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 662854,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

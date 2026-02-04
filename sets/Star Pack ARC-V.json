@@ -1,14 +1,19 @@
 {
   "setName": "Star Pack ARC-V",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 40502912,
         "name": "Aria the Melodious Diva",
+        "desc": "While this Special Summoned card is on the field, \"Melodious\" monsters you control cannot be targeted by card effects, or be destroyed by battle.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40502912,
@@ -27,6 +32,15 @@
       {
         "id": 39389320,
         "name": "Battleguard King",
+        "desc": "Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 1100,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39389320,
@@ -45,6 +59,15 @@
       {
         "id": 78184733,
         "name": "Command Performance",
+        "desc": "If you control a \"Performapal\" monster: Change all face-up Attack Position monsters your opponent controls to Defense Position. Monsters changed to Defense Position by this effect cannot change their battle positions until the end of the next turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78184733,
@@ -63,6 +86,15 @@
       {
         "id": 41269771,
         "name": "Constellar Algiedi",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 \"Constellar\" monster from your hand.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41269771,
@@ -81,6 +113,15 @@
       {
         "id": 70908596,
         "name": "Constellar Kaus",
+        "desc": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 700,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70908596,
@@ -99,6 +140,15 @@
       {
         "id": 73964868,
         "name": "Constellar Pleiades",
+        "desc": "2 Level 5 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; return that target to the hand.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73964868,
@@ -117,6 +167,15 @@
       {
         "id": 30068120,
         "name": "Edge Imp Sabres",
+        "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30068120,
@@ -135,6 +194,15 @@
       {
         "id": 55416843,
         "name": "Feast of the Wild LV5",
+        "desc": "Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also, for the rest of this turn, they cannot attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55416843,
@@ -153,6 +221,15 @@
       {
         "id": 3841833,
         "name": "Fluffal Bear",
+        "desc": "You can send this card from your hand to the Graveyard; Set 1 \"Toy Vendor\" directly from your Deck to your Spell & Trap Zone. You can Tribute this card, then target 1 \"Polymerization\" in your Graveyard; add it to your hand. You can only use 1 \"Fluffal Bear\" effect per turn, and only once that turn.",
+        "race": "Fairy",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3841833,
@@ -171,6 +248,15 @@
       {
         "id": 85545073,
         "name": "Frightfur Bear",
+        "desc": "\"Edge Imp Sabres\" + \"Fluffal Bear\"\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.\n● The equipped monster gains 1000 ATK.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 1800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85545073,
@@ -189,6 +275,15 @@
       {
         "id": 1264319,
         "name": "Gem-Knight Fusion",
+        "desc": "Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is in your Graveyard: You can banish 1 \"Gem-Knight\" monster from your Graveyard; add this card to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1264319,
@@ -207,6 +302,15 @@
       {
         "id": 39512984,
         "name": "Gem-Knight Master Diamond",
+        "desc": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+        "race": "Rock",
+        "atk": 2900,
+        "def": 2500,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39512984,
@@ -225,6 +329,15 @@
       {
         "id": 54620698,
         "name": "Gem-Knight Tourmaline",
+        "desc": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
+        "race": "Thunder",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54620698,
@@ -243,6 +356,15 @@
       {
         "id": 18027138,
         "name": "Hippo Carnival",
+        "desc": "Special Summon 3 \"Hippo Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a \"Hippo Token\" is in a Monster Zone. For the rest of this turn after this card resolves, monsters your opponent controls cannot target monsters for attacks, except \"Hippo Tokens\".",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18027138,
@@ -261,6 +383,15 @@
       {
         "id": 62161698,
         "name": "Illusion Balloons",
+        "desc": "If a monster(s) was destroyed during this turn, while you controlled it: Excavate the top 5 cards of your Deck, then you can Special Summon 1 excavated \"Performapal\" monster, also shuffle the rest back into your Deck.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62161698,
@@ -279,6 +410,15 @@
       {
         "id": 20394040,
         "name": "Lava Battleguard",
+        "desc": "This card gains 500 ATK for each \"Swamp Battleguard\" you control.",
+        "race": "Warrior",
+        "atk": 1550,
+        "def": 1800,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20394040,
@@ -297,6 +437,15 @@
       {
         "id": 4929256,
         "name": "Mobius the Frost Monarch",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Aqua",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4929256,
@@ -315,6 +464,15 @@
       {
         "id": 23689697,
         "name": "Mobius the Mega Monarch",
+        "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.\n● Your opponent cannot activate the targeted cards in response to this effect's activation.",
+        "race": "Aqua",
+        "atk": 2800,
+        "def": 1000,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23689697,
@@ -333,6 +491,15 @@
       {
         "id": 3395226,
         "name": "Mozarta the Melodious Maestra",
+        "desc": "Once per turn: You can Special Summon 1 LIGHT Fairy-Type monster from your hand. You cannot Special Summon other monsters the turn you activate this effect, except for LIGHT monsters.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3395226,
@@ -351,6 +518,15 @@
       {
         "id": 33823832,
         "name": "Performapal Fire Mufflerlion",
+        "desc": "[ Pendulum Effect ] \nWhen a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.\n\n[ Monster Effect ] \nOnce per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33823832,
@@ -369,6 +545,15 @@
       {
         "id": 96606246,
         "name": "Performapal Friendonkey",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Performapal\" monster from your hand or Graveyard.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96606246,
@@ -387,6 +572,15 @@
       {
         "id": 41440148,
         "name": "Performapal Hip Hippo",
+        "desc": "After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "race": "Beast",
+        "atk": 800,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41440148,
@@ -405,6 +599,15 @@
       {
         "id": 78835747,
         "name": "Performapal Kaleidoscorp",
+        "desc": "[ Pendulum Effect ] \nAll LIGHT monsters you control gain 300 ATK.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+        "race": "Insect",
+        "atk": 100,
+        "def": 2300,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78835747,
@@ -423,6 +626,15 @@
       {
         "id": 69211541,
         "name": "Performapal Partnaga",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster you control; it gains 300 ATK for each \"Performapal\" card you currently control, until the end of this turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control. Level 5 or lower monsters cannot attack.",
+        "race": "Reptile",
+        "atk": 500,
+        "def": 2100,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69211541,
@@ -441,6 +653,15 @@
       {
         "id": 5672432,
         "name": "Performapal Revival",
+        "desc": "If a monster(s) you control is destroyed by battle or card effect: Special Summon 1 \"Performapal\" monster from your hand or Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5672432,
@@ -459,6 +680,15 @@
       {
         "id": 15452043,
         "name": "Performapal Sword Fish",
+        "desc": "If this card is Normal or Special Summoned: All monsters your opponent currently controls lose 600 ATK and DEF. If you Special Summon a monster(s) while you control this card: All monsters your opponent currently controls lose 600 ATK and DEF.",
+        "race": "Fish",
+        "atk": 600,
+        "def": 600,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15452043,
@@ -477,6 +707,15 @@
       {
         "id": 43241495,
         "name": "Performapal Trampolynx",
+        "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.",
+        "race": "Beast",
+        "atk": 300,
+        "def": 300,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43241495,
@@ -495,6 +734,15 @@
       {
         "id": 91584698,
         "name": "Performapal Trump Witch",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\n\n[ Monster Effect ] \nYou can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+        "race": "Spellcaster",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91584698,
@@ -513,6 +761,15 @@
       {
         "id": 79967395,
         "name": "Performapal Whip Snake",
+        "desc": "Once per turn, during either player's Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
+        "race": "Reptile",
+        "atk": 1700,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79967395,
@@ -531,6 +788,15 @@
       {
         "id": 24094653,
         "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24094653,
@@ -561,6 +827,15 @@
       {
         "id": 8559793,
         "name": "Raidraptor - Nest",
+        "desc": "If you control 2 or more \"Raidraptor\" monsters: You can add 1 \"Raidraptor\" monster from your Deck or Graveyard to your hand. You can only use this effect of \"Raidraptor - Nest\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8559793,
@@ -579,6 +854,15 @@
       {
         "id": 21648584,
         "name": "Raidraptor - Readiness",
+        "desc": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21648584,
@@ -597,6 +881,15 @@
       {
         "id": 73887236,
         "name": "Raidraptor - Rise Falcon",
+        "desc": "3 Level 4 Winged Beast-Type monsters\nThis card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster's current ATK.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73887236,
@@ -615,6 +908,15 @@
       {
         "id": 53251824,
         "name": "Raidraptor - Vanishing Lanius",
+        "desc": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can Special Summon 1 Level 4 or lower \"Raidraptor\" monster from your hand.",
+        "race": "Winged Beast",
+        "atk": 1300,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53251824,
@@ -633,6 +935,15 @@
       {
         "id": 1516510,
         "name": "Rune-Eyes Pendulum Dragon",
+        "desc": "\"Odd-Eyes Pendulum Dragon\" + 1 Spellcaster-Type monster\r\nIf this card was Fusion Summoned using a Pendulum Summoned monster(s) on the field as Fusion Material, it is unaffected by your opponent's card effects this turn. Apply the appropriate effect, depending on the original Level of the monster used as Fusion Material that was not \"Odd-Eyes Pendulum Dragon\".\r\n● Level 4 or lower: This card can make up to 2 attacks on monsters during each Battle Phase.\r\n● Level 5 or higher: This card can make up to 3 attacks on monsters during each Battle Phase.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1516510,
@@ -651,6 +962,15 @@
       {
         "id": 94415058,
         "name": "Stargazer Magician",
+        "desc": "[ Pendulum Effect ] \nIf a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nOnce per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 2400,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94415058,
@@ -669,6 +989,15 @@
       {
         "id": 3117804,
         "name": "Superheavy Samurai Big Benkei",
+        "desc": "When this card is Normal or Special Summoned: You can change its battle position. \"Superheavy Samurai\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 3500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3117804,
@@ -687,6 +1016,15 @@
       {
         "id": 64373401,
         "name": "Superheavy Samurai Trumpeter",
+        "desc": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is Tributed for the Tribute Summon of a \"Superheavy Samurai\" monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.",
+        "race": "Machine",
+        "atk": 300,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64373401,
@@ -705,6 +1043,15 @@
       {
         "id": 494922,
         "name": "Superheavy Samurai Warlord Susanowo",
+        "desc": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent's Graveyard; Set it to your side of the field, but banish it when it leaves the field.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 3800,
+        "level": 10,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 494922,
@@ -723,6 +1070,15 @@
       {
         "id": 40453765,
         "name": "Swamp Battleguard",
+        "desc": "This card gains 500 ATK for each \"Lava Battleguard\" you control.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1500,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40453765,
@@ -741,6 +1097,15 @@
       {
         "id": 77462146,
         "name": "The Phantom Knights of Shadow Veil",
+        "desc": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77462146,
@@ -759,6 +1124,15 @@
       {
         "id": 20409757,
         "name": "Timegazer Magician",
+        "desc": "[ Pendulum Effect ] \nYou must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nEach turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20409757,
@@ -777,6 +1151,15 @@
       {
         "id": 70245411,
         "name": "Toy Vendor",
+        "desc": "Once per turn: You can discard 1 card; draw 1 card and show it, then if it is a \"Fluffal\" monster, you can Special Summon 1 monster from your hand. Otherwise, discard the card you drew. If this card is sent to the Graveyard: You can add 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster from your Deck to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70245411,
@@ -795,6 +1178,15 @@
       {
         "id": 58169731,
         "name": "Wall of Disruption",
+        "desc": "When an opponent's monster declares an attack: All Attack Position monsters your opponent controls lose 800 ATK for each monster they control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58169731,
@@ -813,6 +1205,15 @@
       {
         "id": 78574395,
         "name": "Wonder Balloons",
+        "desc": "Once per turn: You can send any number of cards from your hand to the GY; place 1 Balloon Counter on this card for each card sent to the GY. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78574395,
@@ -831,6 +1232,15 @@
       {
         "id": 63612442,
         "name": "X-Saber Souza",
+        "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63612442,
@@ -849,6 +1259,15 @@
       {
         "id": 5998840,
         "name": "XX-Saber Boggart Knight",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5998840,
@@ -867,6 +1286,1385 @@
       {
         "id": 78422252,
         "name": "XX-Saber Fulhelmknight",
+        "desc": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 78422252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78422252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78422252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78422252.jpg"
+          },
+          {
+            "id": 78422252,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78422252.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78422252.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78422252.jpg"
+          }
+        ]
+      }
+    ],
+    "shatterfoil rare": [
+      {
+        "id": 40502912,
+        "name": "Aria the Melodious Diva",
+        "desc": "While this Special Summoned card is on the field, \"Melodious\" monsters you control cannot be targeted by card effects, or be destroyed by battle.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 40502912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40502912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40502912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40502912.jpg"
+          },
+          {
+            "id": 40502912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40502912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40502912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40502912.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39389320,
+        "name": "Battleguard King",
+        "desc": "Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 1100,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 39389320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39389320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39389320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39389320.jpg"
+          },
+          {
+            "id": 39389320,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39389320.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39389320.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39389320.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78184733,
+        "name": "Command Performance",
+        "desc": "If you control a \"Performapal\" monster: Change all face-up Attack Position monsters your opponent controls to Defense Position. Monsters changed to Defense Position by this effect cannot change their battle positions until the end of the next turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 78184733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78184733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78184733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78184733.jpg"
+          },
+          {
+            "id": 78184733,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78184733.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78184733.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78184733.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41269771,
+        "name": "Constellar Algiedi",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 \"Constellar\" monster from your hand.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 41269771,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41269771.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41269771.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41269771.jpg"
+          },
+          {
+            "id": 41269771,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41269771.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41269771.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41269771.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70908596,
+        "name": "Constellar Kaus",
+        "desc": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 700,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 70908596,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70908596.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70908596.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70908596.jpg"
+          },
+          {
+            "id": 70908596,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70908596.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70908596.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70908596.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73964868,
+        "name": "Constellar Pleiades",
+        "desc": "2 Level 5 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; return that target to the hand.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 73964868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73964868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73964868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73964868.jpg"
+          },
+          {
+            "id": 73964868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73964868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73964868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73964868.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16195942,
+        "name": "Dark Rebellion Xyz Dragon",
+        "desc": "2 Level 4 monsters\r\nYou can detach 2 materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 16195942,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16195942.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16195942.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16195942.jpg"
+          },
+          {
+            "id": 16195943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16195943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16195943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16195943.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30068120,
+        "name": "Edge Imp Sabres",
+        "desc": "If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 30068120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30068120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30068120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30068120.jpg"
+          },
+          {
+            "id": 30068120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30068120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30068120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30068120.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55416843,
+        "name": "Feast of the Wild LV5",
+        "desc": "Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also, for the rest of this turn, they cannot attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 55416843,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55416843.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55416843.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55416843.jpg"
+          },
+          {
+            "id": 55416843,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55416843.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55416843.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55416843.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3841833,
+        "name": "Fluffal Bear",
+        "desc": "You can send this card from your hand to the Graveyard; Set 1 \"Toy Vendor\" directly from your Deck to your Spell & Trap Zone. You can Tribute this card, then target 1 \"Polymerization\" in your Graveyard; add it to your hand. You can only use 1 \"Fluffal Bear\" effect per turn, and only once that turn.",
+        "race": "Fairy",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 3841833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3841833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3841833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3841833.jpg"
+          },
+          {
+            "id": 3841833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3841833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3841833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3841833.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85545073,
+        "name": "Frightfur Bear",
+        "desc": "\"Edge Imp Sabres\" + \"Fluffal Bear\"\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.\n● The equipped monster gains 1000 ATK.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 1800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 85545073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85545073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85545073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85545073.jpg"
+          },
+          {
+            "id": 85545073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85545073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85545073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85545073.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1264319,
+        "name": "Gem-Knight Fusion",
+        "desc": "Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is in your Graveyard: You can banish 1 \"Gem-Knight\" monster from your Graveyard; add this card to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 1264319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1264319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1264319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1264319.jpg"
+          },
+          {
+            "id": 1264319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1264319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1264319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1264319.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39512984,
+        "name": "Gem-Knight Master Diamond",
+        "desc": "3 \"Gem-Knight\" monsters\nMust first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+        "race": "Rock",
+        "atk": 2900,
+        "def": 2500,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 39512984,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39512984.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39512984.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39512984.jpg"
+          },
+          {
+            "id": 39512984,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39512984.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39512984.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39512984.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54620698,
+        "name": "Gem-Knight Tourmaline",
+        "desc": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
+        "race": "Thunder",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 54620698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54620698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54620698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54620698.jpg"
+          },
+          {
+            "id": 54620698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54620698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54620698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54620698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18027138,
+        "name": "Hippo Carnival",
+        "desc": "Special Summon 3 \"Hippo Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a \"Hippo Token\" is in a Monster Zone. For the rest of this turn after this card resolves, monsters your opponent controls cannot target monsters for attacks, except \"Hippo Tokens\".",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 18027138,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18027138.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18027138.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18027138.jpg"
+          },
+          {
+            "id": 18027138,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18027138.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18027138.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18027138.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62161698,
+        "name": "Illusion Balloons",
+        "desc": "If a monster(s) was destroyed during this turn, while you controlled it: Excavate the top 5 cards of your Deck, then you can Special Summon 1 excavated \"Performapal\" monster, also shuffle the rest back into your Deck.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 62161698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62161698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62161698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62161698.jpg"
+          },
+          {
+            "id": 62161698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62161698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62161698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62161698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20394040,
+        "name": "Lava Battleguard",
+        "desc": "This card gains 500 ATK for each \"Swamp Battleguard\" you control.",
+        "race": "Warrior",
+        "atk": 1550,
+        "def": 1800,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 20394040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20394040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20394040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20394040.jpg"
+          },
+          {
+            "id": 20394040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20394040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20394040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20394040.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4929256,
+        "name": "Mobius the Frost Monarch",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Aqua",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 4929256,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4929256.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4929256.jpg"
+          },
+          {
+            "id": 4929256,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4929256.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4929256.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23689697,
+        "name": "Mobius the Mega Monarch",
+        "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.\n● Your opponent cannot activate the targeted cards in response to this effect's activation.",
+        "race": "Aqua",
+        "atk": 2800,
+        "def": 1000,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 23689697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23689697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23689697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23689697.jpg"
+          },
+          {
+            "id": 23689697,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23689697.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23689697.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23689697.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3395226,
+        "name": "Mozarta the Melodious Maestra",
+        "desc": "Once per turn: You can Special Summon 1 LIGHT Fairy-Type monster from your hand. You cannot Special Summon other monsters the turn you activate this effect, except for LIGHT monsters.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 3395226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3395226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3395226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3395226.jpg"
+          },
+          {
+            "id": 3395226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3395226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3395226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3395226.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16178681,
+        "name": "Odd-Eyes Pendulum Dragon",
+        "desc": "[ Pendulum Effect ] \nYou can reduce the battle damage you take from an attack involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of \"Odd-Eyes Pendulum Dragon\" once per turn.\n\n[ Monster Effect ] \nIf this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 16178681,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178681.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178681.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178681.jpg"
+          },
+          {
+            "id": 16178682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178682.jpg"
+          },
+          {
+            "id": 16178683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178683.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33823832,
+        "name": "Performapal Fire Mufflerlion",
+        "desc": "[ Pendulum Effect ] \nWhen a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.\n\n[ Monster Effect ] \nOnce per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 33823832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33823832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33823832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33823832.jpg"
+          },
+          {
+            "id": 33823832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33823832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33823832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33823832.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96606246,
+        "name": "Performapal Friendonkey",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Performapal\" monster from your hand or Graveyard.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 96606246,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96606246.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96606246.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96606246.jpg"
+          },
+          {
+            "id": 96606246,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96606246.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96606246.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96606246.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41440148,
+        "name": "Performapal Hip Hippo",
+        "desc": "After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "race": "Beast",
+        "atk": 800,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 41440148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41440148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41440148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41440148.jpg"
+          },
+          {
+            "id": 41440148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41440148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41440148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41440148.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78835747,
+        "name": "Performapal Kaleidoscorp",
+        "desc": "[ Pendulum Effect ] \nAll LIGHT monsters you control gain 300 ATK.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+        "race": "Insect",
+        "atk": 100,
+        "def": 2300,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 78835747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78835747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78835747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78835747.jpg"
+          },
+          {
+            "id": 78835747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78835747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78835747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78835747.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69211541,
+        "name": "Performapal Partnaga",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster you control; it gains 300 ATK for each \"Performapal\" card you currently control, until the end of this turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control. Level 5 or lower monsters cannot attack.",
+        "race": "Reptile",
+        "atk": 500,
+        "def": 2100,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 69211541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69211541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69211541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69211541.jpg"
+          },
+          {
+            "id": 69211541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69211541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69211541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69211541.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5672432,
+        "name": "Performapal Revival",
+        "desc": "If a monster(s) you control is destroyed by battle or card effect: Special Summon 1 \"Performapal\" monster from your hand or Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 5672432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5672432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5672432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5672432.jpg"
+          },
+          {
+            "id": 5672432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5672432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5672432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5672432.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15452043,
+        "name": "Performapal Sword Fish",
+        "desc": "If this card is Normal or Special Summoned: All monsters your opponent currently controls lose 600 ATK and DEF. If you Special Summon a monster(s) while you control this card: All monsters your opponent currently controls lose 600 ATK and DEF.",
+        "race": "Fish",
+        "atk": 600,
+        "def": 600,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 15452043,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15452043.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15452043.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15452043.jpg"
+          },
+          {
+            "id": 15452043,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15452043.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15452043.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15452043.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43241495,
+        "name": "Performapal Trampolynx",
+        "desc": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.",
+        "race": "Beast",
+        "atk": 300,
+        "def": 300,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 43241495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43241495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43241495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43241495.jpg"
+          },
+          {
+            "id": 43241495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43241495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43241495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43241495.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91584698,
+        "name": "Performapal Trump Witch",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\n\n[ Monster Effect ] \nYou can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+        "race": "Spellcaster",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 91584698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91584698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91584698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91584698.jpg"
+          },
+          {
+            "id": 91584698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91584698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91584698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91584698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79967395,
+        "name": "Performapal Whip Snake",
+        "desc": "Once per turn, during either player's Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.",
+        "race": "Reptile",
+        "atk": 1700,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 79967395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79967395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79967395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79967395.jpg"
+          },
+          {
+            "id": 79967395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79967395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79967395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79967395.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24094653,
+        "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 24094653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+          },
+          {
+            "id": 24094653,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+          },
+          {
+            "id": 27847700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27847700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27847700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27847700.jpg"
+          },
+          {
+            "id": 27847700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27847700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27847700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27847700.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8559793,
+        "name": "Raidraptor - Nest",
+        "desc": "If you control 2 or more \"Raidraptor\" monsters: You can add 1 \"Raidraptor\" monster from your Deck or Graveyard to your hand. You can only use this effect of \"Raidraptor - Nest\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 8559793,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8559793.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8559793.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8559793.jpg"
+          },
+          {
+            "id": 8559793,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8559793.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8559793.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8559793.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21648584,
+        "name": "Raidraptor - Readiness",
+        "desc": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 21648584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21648584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21648584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21648584.jpg"
+          },
+          {
+            "id": 21648584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21648584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21648584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21648584.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73887236,
+        "name": "Raidraptor - Rise Falcon",
+        "desc": "3 Level 4 Winged Beast-Type monsters\nThis card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster's current ATK.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 73887236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73887236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73887236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73887236.jpg"
+          },
+          {
+            "id": 73887236,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73887236.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73887236.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73887236.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53251824,
+        "name": "Raidraptor - Vanishing Lanius",
+        "desc": "Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can Special Summon 1 Level 4 or lower \"Raidraptor\" monster from your hand.",
+        "race": "Winged Beast",
+        "atk": 1300,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 53251824,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53251824.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53251824.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53251824.jpg"
+          },
+          {
+            "id": 53251824,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53251824.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53251824.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53251824.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1516510,
+        "name": "Rune-Eyes Pendulum Dragon",
+        "desc": "\"Odd-Eyes Pendulum Dragon\" + 1 Spellcaster-Type monster\r\nIf this card was Fusion Summoned using a Pendulum Summoned monster(s) on the field as Fusion Material, it is unaffected by your opponent's card effects this turn. Apply the appropriate effect, depending on the original Level of the monster used as Fusion Material that was not \"Odd-Eyes Pendulum Dragon\".\r\n● Level 4 or lower: This card can make up to 2 attacks on monsters during each Battle Phase.\r\n● Level 5 or higher: This card can make up to 3 attacks on monsters during each Battle Phase.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 1516510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1516510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1516510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1516510.jpg"
+          },
+          {
+            "id": 1516510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1516510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1516510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1516510.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94415058,
+        "name": "Stargazer Magician",
+        "desc": "[ Pendulum Effect ] \nIf a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nOnce per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 2400,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 94415058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94415058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94415058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94415058.jpg"
+          },
+          {
+            "id": 94415058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94415058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94415058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94415058.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3117804,
+        "name": "Superheavy Samurai Big Benkei",
+        "desc": "When this card is Normal or Special Summoned: You can change its battle position. \"Superheavy Samurai\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 3500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 3117804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3117804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3117804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3117804.jpg"
+          },
+          {
+            "id": 3117804,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3117804.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3117804.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3117804.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64373401,
+        "name": "Superheavy Samurai Trumpeter",
+        "desc": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. If this card is Tributed for the Tribute Summon of a \"Superheavy Samurai\" monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.",
+        "race": "Machine",
+        "atk": 300,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 64373401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64373401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64373401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64373401.jpg"
+          },
+          {
+            "id": 64373401,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64373401.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64373401.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64373401.jpg"
+          }
+        ]
+      },
+      {
+        "id": 494922,
+        "name": "Superheavy Samurai Warlord Susanowo",
+        "desc": "1 Machine-Type Tuner + 1 or more non-Tuner \"Superheavy Samurai\" monsters\nThis card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent's Graveyard; Set it to your side of the field, but banish it when it leaves the field.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 3800,
+        "level": 10,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 494922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/494922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/494922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/494922.jpg"
+          },
+          {
+            "id": 494922,
+            "image_url": "https://images.ygoprodeck.com/images/cards/494922.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/494922.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/494922.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40453765,
+        "name": "Swamp Battleguard",
+        "desc": "This card gains 500 ATK for each \"Lava Battleguard\" you control.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1500,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 40453765,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40453765.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40453765.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40453765.jpg"
+          },
+          {
+            "id": 40453765,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40453765.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40453765.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40453765.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77462146,
+        "name": "The Phantom Knights of Shadow Veil",
+        "desc": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 77462146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77462146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77462146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77462146.jpg"
+          },
+          {
+            "id": 77462146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77462146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77462146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77462146.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20409757,
+        "name": "Timegazer Magician",
+        "desc": "[ Pendulum Effect ] \nYou must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nEach turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 20409757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20409757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20409757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20409757.jpg"
+          },
+          {
+            "id": 20409757,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20409757.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20409757.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20409757.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70245411,
+        "name": "Toy Vendor",
+        "desc": "Once per turn: You can discard 1 card; draw 1 card and show it, then if it is a \"Fluffal\" monster, you can Special Summon 1 monster from your hand. Otherwise, discard the card you drew. If this card is sent to the Graveyard: You can add 1 \"Edge Imp Sabres\" or 1 \"Fluffal\" monster from your Deck to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 70245411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70245411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70245411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70245411.jpg"
+          },
+          {
+            "id": 70245411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70245411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70245411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70245411.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58169731,
+        "name": "Wall of Disruption",
+        "desc": "When an opponent's monster declares an attack: All Attack Position monsters your opponent controls lose 800 ATK for each monster they control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 58169731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58169731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58169731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58169731.jpg"
+          },
+          {
+            "id": 58169731,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58169731.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58169731.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58169731.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78574395,
+        "name": "Wonder Balloons",
+        "desc": "Once per turn: You can send any number of cards from your hand to the GY; place 1 Balloon Counter on this card for each card sent to the GY. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 78574395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78574395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78574395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78574395.jpg"
+          },
+          {
+            "id": 78574395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78574395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78574395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78574395.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63612442,
+        "name": "X-Saber Souza",
+        "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 63612442,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63612442.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63612442.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63612442.jpg"
+          },
+          {
+            "id": 63612442,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63612442.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63612442.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63612442.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5998840,
+        "name": "XX-Saber Boggart Knight",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 5998840,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5998840.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5998840.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5998840.jpg"
+          },
+          {
+            "id": 5998840,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5998840.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5998840.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5998840.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78422252,
+        "name": "XX-Saber Fulhelmknight",
+        "desc": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
         "card_images": [
           {
             "id": 78422252,

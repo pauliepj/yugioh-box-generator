@@ -1,64 +1,19 @@
 {
   "setName": "Realm of Light Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 52665542,
-        "name": "Lightsworn Sanctuary",
-        "card_images": [
-          {
-            "id": 52665542,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52665542.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52665542.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52665542.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4779823,
-        "name": "Michael, the Arch-Lightsworn",
-        "card_images": [
-          {
-            "id": 4779823,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4779823.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4779823.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4779823.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 40164421,
-        "name": "Minerva, Lightsworn Maiden",
-        "card_images": [
-          {
-            "id": 40164421,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40164421.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40164421.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40164421.jpg"
-          }
-        ]
-      },
-      {
-        "id": 77558536,
-        "name": "Raiden, Hand of the Lightsworn",
-        "card_images": [
-          {
-            "id": 77558536,
-            "image_url": "https://images.ygoprodeck.com/images/cards/77558536.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77558536.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77558536.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 43096270,
         "name": "Alexandrite Dragon",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43096270,
@@ -71,6 +26,15 @@
       {
         "id": 7183277,
         "name": "Aurkus, Lightsworn Druid",
+        "desc": "Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+        "race": "Beast-Warrior",
+        "atk": 1200,
+        "def": 1800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7183277,
@@ -83,6 +47,15 @@
       {
         "id": 16255442,
         "name": "Beckoning Light",
+        "desc": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16255442,
@@ -95,6 +68,15 @@
       {
         "id": 14785765,
         "name": "Blackwing - Zephyros the Elite",
+        "desc": "If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+        "race": "Winged Beast",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14785765,
@@ -107,6 +89,15 @@
       {
         "id": 78474168,
         "name": "Breakthrough Skill",
+        "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78474168,
@@ -119,6 +110,15 @@
       {
         "id": 94381039,
         "name": "Celestia, Lightsworn Angel",
+        "desc": "When you Tribute Summon this card by Tributing a \"Lightsworn\" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 200,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94381039,
@@ -131,6 +131,15 @@
       {
         "id": 94886282,
         "name": "Charge of the Light Brigade",
+        "desc": "Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94886282,
@@ -143,6 +152,15 @@
       {
         "id": 44178886,
         "name": "Ehren, Lightsworn Monk",
+        "desc": "If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44178886,
@@ -155,6 +173,15 @@
       {
         "id": 47217354,
         "name": "Fabled Raven",
+        "desc": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
+        "race": "Fiend",
+        "atk": 1300,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47217354,
@@ -167,6 +194,15 @@
       {
         "id": 81439174,
         "name": "Foolish Burial",
+        "desc": "Send 1 monster from your Deck to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81439174,
@@ -185,6 +221,15 @@
       {
         "id": 59019082,
         "name": "Garoth, Lightsworn Warrior",
+        "desc": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
+        "race": "Warrior",
+        "atk": 1850,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59019082,
@@ -197,6 +242,15 @@
       {
         "id": 61962135,
         "name": "Glorious Illusion",
+        "desc": "Activate this card by targeting 1 \"Lightsworn\" monster in your Graveyard; Special Summon that target in face-up Attack Position. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61962135,
@@ -209,6 +263,15 @@
       {
         "id": 21785144,
         "name": "Gragonith, Lightsworn Dragon",
+        "desc": "This card gains 300 ATK and DEF for each \"Lightsworn\" monster with a different name in your Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1600,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21785144,
@@ -221,6 +284,15 @@
       {
         "id": 37742478,
         "name": "Honest",
+        "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "race": "Fairy",
+        "atk": 1100,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37742478,
@@ -233,6 +305,15 @@
       {
         "id": 96235275,
         "name": "Jain, Lightsworn Paladin",
+        "desc": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the Graveyard.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96235275,
@@ -245,6 +326,15 @@
       {
         "id": 57774843,
         "name": "Judgment Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more \"Lightsworn\" monsters with different names in your GY. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57774843,
@@ -257,6 +347,15 @@
       {
         "id": 38737148,
         "name": "Lightray Daedalus",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more LIGHT monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Field Spell Card and 2 other cards on the field; destroy them.",
+        "race": "Sea Serpent",
+        "atk": 2600,
+        "def": 1500,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38737148,
@@ -269,6 +368,15 @@
       {
         "id": 30126992,
         "name": "Lightray Diabolos",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30126992,
@@ -281,6 +389,15 @@
       {
         "id": 22201234,
         "name": "Lightsworn Barrier",
+        "desc": "When a \"Lightsworn\" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22201234,
@@ -293,6 +410,15 @@
       {
         "id": 95503687,
         "name": "Lumina, Lightsworn Summoner",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 4 or lower \"Lightsworn\" monster in your GY; Special Summon that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95503687,
@@ -305,6 +431,15 @@
       {
         "id": 22624373,
         "name": "Lyla, Lightsworn Sorceress",
+        "desc": "You can target 1 Spell/Trap your opponent controls; this card's battle position cannot be changed until the end of your next turn, also change this card you control from face-up Attack Position to face-up Defense Position, and if you do, destroy that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+        "race": "Spellcaster",
+        "atk": 1700,
+        "def": 200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22624373,
@@ -317,6 +452,15 @@
       {
         "id": 74848038,
         "name": "Monster Reincarnation",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74848038,
@@ -329,6 +473,15 @@
       {
         "id": 4906301,
         "name": "Necro Gardna",
+        "desc": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "race": "Warrior",
+        "atk": 600,
+        "def": 1300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4906301,
@@ -341,6 +494,15 @@
       {
         "id": 36099620,
         "name": "Realm of Light",
+        "desc": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36099620,
@@ -353,6 +515,15 @@
       {
         "id": 21502796,
         "name": "Ryko, Lightsworn Hunter",
+        "desc": "FLIP: Apply these effects (simultaneously).\r\n● You can destroy 1 card on the field.\r\n● Send the top 3 cards of your Deck to the GY.",
+        "race": "Beast",
+        "atk": 200,
+        "def": 100,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21502796,
@@ -365,6 +536,15 @@
       {
         "id": 2420921,
         "name": "Shire, Lightsworn Spirit",
+        "desc": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+        "race": "Fairy",
+        "atk": 400,
+        "def": 1400,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2420921,
@@ -377,6 +557,15 @@
       {
         "id": 73729209,
         "name": "Skill Successor",
+        "desc": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73729209,
@@ -389,6 +578,15 @@
       {
         "id": 691925,
         "name": "Solar Recharge",
+        "desc": "Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 691925,
@@ -401,6 +599,15 @@
       {
         "id": 82888408,
         "name": "The Fabled Cerburrel",
+        "desc": "If this card is discarded to the GY: Special Summon it.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82888408,
@@ -413,6 +620,15 @@
       {
         "id": 32233746,
         "name": "Vanquishing Light",
+        "desc": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32233746,
@@ -425,6 +641,15 @@
       {
         "id": 74064212,
         "name": "Vylon Prism",
+        "desc": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.",
+        "race": "Thunder",
+        "atk": 1500,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74064212,
@@ -437,12 +662,109 @@
       {
         "id": 58996430,
         "name": "Wulf, Lightsworn Beast",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
+        "race": "Beast-Warrior",
+        "atk": 2100,
+        "def": 300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58996430,
             "image_url": "https://images.ygoprodeck.com/images/cards/58996430.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58996430.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58996430.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 52665542,
+        "name": "Lightsworn Sanctuary",
+        "desc": "Once per turn: You can send 1 \"Lightsworn\" monster from your hand to the Graveyard, then target 1 other \"Lightsworn\" monster in your Graveyard; add it to your hand. Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. If a \"Lightsworn\" card(s) you control would be destroyed by a card effect, you can remove 2 Shine Counters from your side of the field for each of those \"Lightsworn\" card(s) instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 52665542,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52665542.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52665542.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52665542.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4779823,
+        "name": "Michael, the Arch-Lightsworn",
+        "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can pay 1000 LP, then target 1 card on the field; banish that target. When this card is destroyed: You can target any number of other \"Lightsworn\" monsters in your Graveyard; shuffle them into the Deck, and if you do, you gain 300 LP for each returned card. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 4779823,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4779823.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4779823.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4779823.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 40164421,
+        "name": "Minerva, Lightsworn Maiden",
+        "desc": "When this card is Normal Summoned: You can add 1 LIGHT Dragon-Type monster from your Deck to your hand, whose Level is less than or equal to the total number of \"Lightsworn\" monsters with different names in your Graveyard. If this card is sent from the hand or Deck to the Graveyard: Send the top card of your Deck to the Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 200,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 40164421,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40164421.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40164421.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40164421.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77558536,
+        "name": "Raiden, Hand of the Lightsworn",
+        "desc": "During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any \"Lightsworn\" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 77558536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77558536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77558536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77558536.jpg"
           }
         ]
       }

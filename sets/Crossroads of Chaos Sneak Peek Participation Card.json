@@ -1,12 +1,19 @@
 {
   "setName": "Crossroads of Chaos Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 1557341,
         "name": "Rose, Warrior of Revenge",
+        "desc": "When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1557341,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

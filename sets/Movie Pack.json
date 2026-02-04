@@ -1,12 +1,19 @@
 {
   "setName": "Movie Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 53347303,
         "name": "Blue-Eyes Shining Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Blue-Eyes Ultimate Dragon\". Gains 300 ATK for each Dragon monster in your GY. When a card or effect is activated that targets this card (Quick Effect): You can negate that effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 53347303,
@@ -17,11 +24,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 53569894,
         "name": "Pyramid of Light",
+        "desc": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53569894,
@@ -34,6 +49,15 @@
       {
         "id": 88619463,
         "name": "Sorcerer of Dark Magic",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 2 Level 6 or higher Spellcaster-Type monsters, and cannot be Special Summoned by other ways. During either player's turn, when a Trap Card is activated: You can negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.",
+        "race": "Spellcaster",
+        "atk": 3200,
+        "def": 2800,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88619463,
@@ -46,6 +70,15 @@
       {
         "id": 87774234,
         "name": "Watapon",
+        "desc": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.",
+        "race": "Fairy",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87774234,

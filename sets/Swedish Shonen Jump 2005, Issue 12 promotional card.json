@@ -1,11 +1,19 @@
 {
   "setName": "Swedish Shonen Jump 2005, Issue 12 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 74677422,
         "name": "Red-Eyes Black Dragon",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 74677422,
@@ -45,9 +53,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

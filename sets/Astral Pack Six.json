@@ -1,12 +1,105 @@
 {
   "setName": "Astral Pack Six",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "short print": [
+      {
+        "id": 17968114,
+        "name": "Amazon of the Seas",
+        "desc": "A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.",
+        "race": "Fish",
+        "atk": 1300,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 17968114,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17968114.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17968114.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17968114.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65623423,
+        "name": "Gruesome Goo",
+        "desc": "A slime boss that is definitely tougher than it looks.",
+        "race": "Aqua",
+        "atk": 1300,
+        "def": 700,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 65623423,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65623423.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65623423.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65623423.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80727036,
+        "name": "Man-Eating Black Shark",
+        "desc": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\"",
+        "race": "Fish",
+        "atk": 2100,
+        "def": 1300,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 80727036,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80727036.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80727036.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80727036.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71746462,
+        "name": "Sea Kamen",
+        "desc": "A merciless monster that tears opponents to shreds with razor-like claws.",
+        "race": "Aqua",
+        "atk": 1100,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 71746462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71746462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71746462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71746462.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
       {
         "id": 61901281,
         "name": "Black Dragon Collapserpent",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 61901281,
@@ -19,6 +112,15 @@
       {
         "id": 73906480,
         "name": "Bujincarnation",
+        "desc": "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Material for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 73906480,
@@ -31,6 +133,15 @@
       {
         "id": 51717541,
         "name": "Infernity Break",
+        "desc": "If you have no cards in your hand: Target 1 \"Infernity\" card in your Graveyard and 1 card your opponent controls; banish the first target, and if you do, destroy the second target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51717541,
@@ -43,6 +154,15 @@
       {
         "id": 93568288,
         "name": "Number 80: Rhapsody in Berserk",
+        "desc": "2 Level 4 monsters\nYou can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 1200 ATK. You can detach 1 Xyz Material from this card, then target 1 card in your opponent's Graveyard; banish that target. You can use this effect of \"Number 80: Rhapsody in Berserk\" up to twice per turn.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 93568288,
@@ -55,6 +175,15 @@
       {
         "id": 3717252,
         "name": "Shaddoll Beast",
+        "desc": "FLIP: You can draw 2 cards, then discard 1 card.\r\nIf this card is sent to the GY by a card effect: You can draw 1 card. You can only use 1 \"Shaddoll Beast\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 2200,
+        "def": 1700,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 3717252,
@@ -67,6 +196,15 @@
       {
         "id": 79816536,
         "name": "Summoner's Art",
+        "desc": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 79816536,
@@ -79,6 +217,15 @@
       {
         "id": 3117804,
         "name": "Superheavy Samurai Big Benkei",
+        "desc": "When this card is Normal or Special Summoned: You can change its battle position. \"Superheavy Samurai\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 3500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 3117804,
@@ -91,6 +238,15 @@
       {
         "id": 91812341,
         "name": "Traptrix Myrmeleo",
+        "desc": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. When this card is Normal Summoned: You can add 1 \"Hole\" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Insect",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 91812341,
@@ -103,6 +259,15 @@
       {
         "id": 52639377,
         "name": "Underworld Fighter Balmung",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is destroyed by a card effect and sent to the Graveyard: You can target 1 Level 4 or lower monster in your Graveyard, except this card; Special Summon that target.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 52639377,
@@ -115,6 +280,15 @@
       {
         "id": 99234526,
         "name": "White Dragon Wyverburster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 99234526,
@@ -125,11 +299,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 36468556,
         "name": "Ceasefire",
+        "desc": "If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36468556,
@@ -142,6 +324,15 @@
       {
         "id": 58851034,
         "name": "Cursed Seal of the Forbidden Spell",
+        "desc": "When a Spell Card is activated: Discard 1 Spell; negate the activation, and if you do, destroy it, and if you do that, your opponent cannot activate Spell Cards with that name for the rest of this Duel.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58851034,
@@ -154,6 +345,15 @@
       {
         "id": 36021814,
         "name": "King of the Skull Servants",
+        "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
+        "race": "Zombie",
+        "atk": -1,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36021814,
@@ -166,6 +366,15 @@
       {
         "id": 5556499,
         "name": "Machina Fortress",
+        "desc": "You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5556499,
@@ -178,6 +387,15 @@
       {
         "id": 37164373,
         "name": "Madolche Queen Tiaramisu",
+        "desc": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
+        "race": "Fairy",
+        "atk": 2200,
+        "def": 2100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37164373,
@@ -190,6 +408,15 @@
       {
         "id": 71044499,
         "name": "Nobleman of Crossout",
+        "desc": "Target 1 face-down monster on the field; destroy that target, and if you do, banish it, then, if it was a Flip monster, each player reveals their Main Deck, then banishes all cards from it with that monster's name.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71044499,
@@ -202,6 +429,15 @@
       {
         "id": 33950246,
         "name": "Royal Command",
+        "desc": "Flip monsters' effects cannot be activated, also their effects are negated.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33950246,
@@ -214,6 +450,15 @@
       {
         "id": 79844764,
         "name": "The Monarchs Stormforth",
+        "desc": "Once during this turn, if you would Tribute a monster for a Tribute Summon, you can Tribute 1 monster your opponent controls even though you do not control it. You can only activate 1 \"The Monarchs Stormforth\" per turn. During the turn you activate this card, you cannot Special Summon monsters from the Extra Deck.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79844764,
@@ -226,6 +471,15 @@
       {
         "id": 69196160,
         "name": "Thunder Crash",
+        "desc": "Destroy all monsters you control, and if you do, inflict 300 damage to your opponent for each monster destroyed.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69196160,
@@ -238,6 +492,15 @@
       {
         "id": 24857466,
         "name": "Van'Dalgyon the Dark Dragon Lord",
+        "desc": "If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:\n● Spell: Inflict 1500 damage to your opponent.\n● Trap: Target 1 card your opponent controls; destroy that target.\n● Monster: Target 1 monster in your Graveyard; Special Summon it.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24857466,
@@ -250,12 +513,92 @@
       {
         "id": 47084486,
         "name": "Vanity's Fiend",
+        "desc": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47084486,
             "image_url": "https://images.ygoprodeck.com/images/cards/47084486.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47084486.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47084486.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 80117527,
+        "name": "Number 11: Big Eye",
+        "desc": "2 Level 7 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn this effect is activated.",
+        "race": "Spellcaster",
+        "atk": 2600,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 80117527,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80117527.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80117527.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80117527.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10802916,
+        "name": "Tour Guide From the Underworld",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 10802916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10802916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10802916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10802916.jpg"
+          },
+          {
+            "id": 10802915,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10802915.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10802915.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10802915.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29616929,
+        "name": "Traptrix Trap Hole Nightmare",
+        "desc": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 29616929,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29616929.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29616929.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29616929.jpg"
           }
         ]
       }

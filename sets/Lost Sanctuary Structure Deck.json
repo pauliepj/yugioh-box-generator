@@ -1,52 +1,19 @@
 {
   "setName": "Lost Sanctuary Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 55794644,
-        "name": "Master Hyperion",
-        "card_images": [
-          {
-            "id": 55794644,
-            "image_url": "https://images.ygoprodeck.com/images/cards/55794644.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55794644.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55794644.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 28573958,
-        "name": "The Agent of Miracles - Jupiter",
-        "card_images": [
-          {
-            "id": 28573958,
-            "image_url": "https://images.ygoprodeck.com/images/cards/28573958.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28573958.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28573958.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91188343,
-        "name": "The Agent of Mystery - Earth",
-        "card_images": [
-          {
-            "id": 91188343,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91188343.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91188343.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91188343.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 18036057,
         "name": "Airknight Parshath",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card.",
+        "race": "Fairy",
+        "atk": 1900,
+        "def": 1400,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18036057,
@@ -59,6 +26,15 @@
       {
         "id": 48964966,
         "name": "Athena",
+        "desc": "If another Fairy monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy monster you control to the GY, except \"Athena\", then target 1 Fairy monster in your GY, except \"Athena\"; Special Summon that target.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48964966,
@@ -71,6 +47,15 @@
       {
         "id": 16255442,
         "name": "Beckoning Light",
+        "desc": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16255442,
@@ -83,6 +68,15 @@
       {
         "id": 48976825,
         "name": "Burial from a Different Dimension",
+        "desc": "Target up to 3 banished monsters; return them to the GY.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48976825,
@@ -95,6 +89,15 @@
       {
         "id": 54977057,
         "name": "Cards from the Sky",
+        "desc": "Banish 1 LIGHT Fairy monster in your hand, and if you do, draw 2 cards. You cannot Special Summon or conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54977057,
@@ -107,6 +110,15 @@
       {
         "id": 28890974,
         "name": "Celestial Transformation",
+        "desc": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28890974,
@@ -119,6 +131,15 @@
       {
         "id": 2980764,
         "name": "Consecrated Light",
+        "desc": "Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2980764,
@@ -131,6 +152,15 @@
       {
         "id": 81066751,
         "name": "Divine Punishment",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated, while \"The Sanctuary in the Sky\" is on the field: Negate the activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81066751,
@@ -143,6 +173,15 @@
       {
         "id": 20450925,
         "name": "Hanewata",
+        "desc": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+        "race": "Fairy",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20450925,
@@ -155,6 +194,15 @@
       {
         "id": 74968065,
         "name": "Hecatrice",
+        "desc": "You can discard this card to the GY; add 1 \"Valhalla, Hall of the Fallen\" from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74968065,
@@ -167,6 +215,15 @@
       {
         "id": 37742478,
         "name": "Honest",
+        "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "race": "Fairy",
+        "atk": 1100,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37742478,
@@ -179,6 +236,15 @@
       {
         "id": 31305911,
         "name": "Marshmallon",
+        "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31305911,
@@ -191,6 +257,15 @@
       {
         "id": 80921533,
         "name": "Mausoleum of the Emperor",
+        "desc": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80921533,
@@ -203,6 +278,15 @@
       {
         "id": 80551130,
         "name": "Miraculous Descent",
+        "desc": "Target 1 of your banished Fairy monsters; Special Summon it. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80551130,
@@ -215,6 +299,15 @@
       {
         "id": 39552864,
         "name": "Mystical Shine Ball",
+        "desc": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+        "race": "Fairy",
+        "atk": 500,
+        "def": 500,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39552864,
@@ -227,6 +320,15 @@
       {
         "id": 48783998,
         "name": "Nova Summoner",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 LIGHT Fairy monster with 1500 or less ATK from your Deck. If \"The Sanctuary in the Sky\" is on the field, you can Special Summon 1 \"Airknight Parshath\" instead.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48783998,
@@ -239,6 +341,15 @@
       {
         "id": 27174286,
         "name": "Return from the Different Dimension",
+        "desc": "Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27174286,
@@ -251,6 +362,15 @@
       {
         "id": 95956346,
         "name": "Shining Angel",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95956346,
@@ -263,6 +383,15 @@
       {
         "id": 97169186,
         "name": "Smashing Ground",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97169186,
@@ -275,6 +404,15 @@
       {
         "id": 41420027,
         "name": "Solemn Judgment",
+        "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41420027,
@@ -287,6 +425,15 @@
       {
         "id": 86780027,
         "name": "Solidarity",
+        "desc": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 86780027,
@@ -299,6 +446,15 @@
       {
         "id": 77527210,
         "name": "Soul of Purity and Light",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": 1800,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77527210,
@@ -311,6 +467,15 @@
       {
         "id": 5645210,
         "name": "Splendid Venus",
+        "desc": "All non-Fairy monsters lose 500 ATK/DEF. The activation and effects of Spell/Trap Cards activated on your field cannot be negated.",
+        "race": "Fairy",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5645210,
@@ -323,6 +488,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -335,6 +509,15 @@
       {
         "id": 87148330,
         "name": "Tethys, Goddess of Light",
+        "desc": "When you draw a Fairy monster(s) (except during the Damage Step): You can reveal 1 of those monsters; draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
+        "race": "Fairy",
+        "atk": 2400,
+        "def": 1800,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87148330,
@@ -347,6 +530,15 @@
       {
         "id": 64734921,
         "name": "The Agent of Creation - Venus",
+        "desc": "You can pay 500 LP; Special Summon 1 \"Mystical Shine Ball\" from your hand or Deck.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64734921,
@@ -359,6 +551,15 @@
       {
         "id": 91123920,
         "name": "The Agent of Force - Mars",
+        "desc": "This card is unaffected by any Spell Cards. While you control a face-up \"The Sanctuary in the Sky\" and your Life Points are higher than your opponent's, this card gains ATK and DEF by the difference between your and your opponent's Life Points.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 0,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91123920,
@@ -371,6 +572,15 @@
       {
         "id": 91345518,
         "name": "The Agent of Judgment - Saturn",
+        "desc": "While your Life Points are higher than your opponent's, you can Tribute this card to inflict damage to your opponent equal to the difference. If you do not control a face-up \"The Sanctuary in the Sky\", this effect is not applied. You cannot conduct your Battle Phase the turn you activate this effect.",
+        "race": "Fairy",
+        "atk": 2400,
+        "def": 0,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91345518,
@@ -383,6 +593,15 @@
       {
         "id": 38730226,
         "name": "The Agent of Wisdom - Mercury",
+        "desc": "During your Standby Phase, if you controlled this face-up card and had no cards in your hand at the end of the opponent's last End Phase: Draw 1 card.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 1700,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38730226,
@@ -395,6 +614,15 @@
       {
         "id": 92223641,
         "name": "The Fountain in the Sky",
+        "desc": "When a LIGHT monster is destroyed by battle and sent to your Graveyard, you can remove that monster from play to gain Life Points equal to its ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92223641,
@@ -407,6 +635,15 @@
       {
         "id": 56433456,
         "name": "The Sanctuary in the Sky",
+        "desc": "Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56433456,
@@ -419,6 +656,15 @@
       {
         "id": 53582587,
         "name": "Torrential Tribute",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53582587,
@@ -431,6 +677,15 @@
       {
         "id": 1353770,
         "name": "Valhalla, Hall of the Fallen",
+        "desc": "Once per turn: You can Special Summon 1 Fairy monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1353770,
@@ -443,6 +698,15 @@
       {
         "id": 75162696,
         "name": "Victoria",
+        "desc": "Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75162696,
@@ -455,12 +719,88 @@
       {
         "id": 12171659,
         "name": "Zeradias, Herald of Heaven",
+        "desc": "You can discard this card to the GY; add 1 \"The Sanctuary in the Sky\" from your Deck to your hand. If \"The Sanctuary in the Sky\" is not on the field, destroy this card.",
+        "race": "Fairy",
+        "atk": 2100,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12171659,
             "image_url": "https://images.ygoprodeck.com/images/cards/12171659.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12171659.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12171659.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 55794644,
+        "name": "Master Hyperion",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or Graveyard. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
+        "race": "Fairy",
+        "atk": 2700,
+        "def": 2100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 55794644,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55794644.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55794644.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55794644.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 28573958,
+        "name": "The Agent of Miracles - Jupiter",
+        "desc": "Once per turn, you can remove from play 1 \"The Agent\" monster in your Graveyard to select 1 face-up LIGHT Fairy-Type monster you control. The selected monster gains 800 ATK until the End Phase. While \"The Sanctuary in the Sky\" is face-up on the field, once per turn, you can discard 1 Fairy-Type monster to select 1 of your removed from play LIGHT Fairy-Type monster, and Special Summon it.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 28573958,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28573958.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28573958.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28573958.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91188343,
+        "name": "The Agent of Mystery - Earth",
+        "desc": "When this card is Normal Summoned, you can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\". While \"The Sanctuary in the Sky\" is face-up on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
+        "race": "Fairy",
+        "atk": 1000,
+        "def": 800,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 91188343,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91188343.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91188343.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91188343.jpg"
           }
         ]
       }

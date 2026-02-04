@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! ZEXAL Volume 8 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 56832966,
         "name": "Number S39: Utopia the Lightning",
+        "desc": "3 Level 5 LIGHT monsters\r\nYou can also Xyz Summon this card by using a Rank 4 \"Utopia\" monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a \"Utopia\" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 56832966,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

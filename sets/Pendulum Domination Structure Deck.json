@@ -1,76 +1,19 @@
 {
   "setName": "Pendulum Domination Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 83303851,
-        "name": "D/D/D Chaos King Apocalypse",
-        "card_images": [
-          {
-            "id": 83303851,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83303851.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83303851.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83303851.jpg"
-          }
-        ]
-      },
-      {
-        "id": 8463720,
-        "name": "D/D/D Dragonbane King Beowulf",
-        "card_images": [
-          {
-            "id": 8463720,
-            "image_url": "https://images.ygoprodeck.com/images/cards/8463720.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8463720.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8463720.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 19580308,
-        "name": "D/D Lamia",
-        "card_images": [
-          {
-            "id": 19580308,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19580308.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19580308.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19580308.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72181263,
-        "name": "D/D Orthros",
-        "card_images": [
-          {
-            "id": 72181263,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72181263.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72181263.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72181263.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44852429,
-        "name": "D/D/D Cursed King Siegfried",
-        "card_images": [
-          {
-            "id": 44852429,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44852429.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44852429.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44852429.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 1475311,
         "name": "Allure of Darkness",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1475311,
@@ -83,6 +26,15 @@
       {
         "id": 28985331,
         "name": "Armageddon Knight",
+        "desc": "When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28985331,
@@ -95,6 +47,15 @@
       {
         "id": 46259438,
         "name": "Contract Laundering",
+        "desc": "Destroy as many \"Dark Contract\" cards in your Spell & Trap Zone as possible, and if you do, draw the same number of cards you destroyed, then gain 1000 LP for each card you drew with this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46259438,
@@ -107,6 +68,15 @@
       {
         "id": 39153655,
         "name": "D/D Cerberus",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"D/D\" monster you control; change its Level to 4, and if you do, it gains 400 ATK and DEF (even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is Pendulum Summoned from the hand, while you control a \"D/D\" monster other than \"D/D Cerberus\": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39153655,
@@ -119,6 +89,15 @@
       {
         "id": 12822541,
         "name": "D/D Lilith",
+        "desc": "If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of \"D/D Lilith\" once per turn.\n● Target 1 \"D/D\" monster in your Graveyard; add it to your hand.\n● Add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 2100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12822541,
@@ -131,6 +110,15 @@
       {
         "id": 48210156,
         "name": "D/D Nighthowl",
+        "desc": "When this card is Normal Summoned: You can target 1 \"D/D\" monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters. That monster's ATK and DEF become 0. If it is destroyed, you take 1000 damage.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48210156,
@@ -143,6 +131,15 @@
       {
         "id": 17979378,
         "name": "D/D Proud Chevalier",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can pay 500 LP, then target 1 face-up monster your opponent controls; it loses 500 ATK (even if this card leaves the field). Unless you have a \"D/D\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 700,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17979378,
@@ -155,6 +152,15 @@
       {
         "id": 81571633,
         "name": "D/D Proud Ogre",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can pay 500 LP, then target 1 \"D/D\" monster you control; it gains 500 ATK (even if this card leaves the field). Unless you have a \"D/D\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can Special Summon 1 face-up DARK Pendulum Monster from your Extra Deck, but it has its effects negated, also you cannot Special Summon monsters for the rest of this turn, except \"D/D\" monsters.",
+        "race": "Fiend",
+        "atk": 2300,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81571633,
@@ -167,6 +173,15 @@
       {
         "id": 8643186,
         "name": "D/D Recruits",
+        "desc": "If your opponent controls more monsters than you do: Target any number of \"D/D\" monsters and/or \"Dark Contract\" cards in your Graveyard up to the difference; add those cards to your hand. You can only activate 1 \"D/D Recruits\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8643186,
@@ -179,6 +194,15 @@
       {
         "id": 71069715,
         "name": "D/D Reroll",
+        "desc": "\"Dark Contract\" cards you control cannot be destroyed by your opponent's card effects. You can banish this card from your Graveyard, then target up to 3 of your other banished \"D/D\" cards; shuffle them into the Deck.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71069715,
@@ -191,6 +215,15 @@
       {
         "id": 46796664,
         "name": "D/D Savant Copernicus",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Spell effect that would inflict damage to you, then destroy this card.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the GY, except \"D/D Savant Copernicus\". You can only use this effect of \"D/D Savant Copernicus\" once per turn.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46796664,
@@ -203,6 +236,15 @@
       {
         "id": 74605254,
         "name": "D/D Savant Galilei",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\n[ Monster Effect ] \nDuring either player's turn: You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card you control; return it to the hand. You can only use this effect of \"D/D Savant Galilei\" once per turn.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74605254,
@@ -215,6 +257,15 @@
       {
         "id": 11609969,
         "name": "D/D Savant Kepler",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Reduce this card's Pendulum Scale by 2 (min. 1), then destroy all monsters you control with a Level greater than or equal to this card's Pendulum Scale, except \"D/D\" monsters.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of \"D/D Savant Kepler\" once per turn.\r\n● Target 1 other \"D/D\" card you control; return it to the hand.\r\n● Add 1 \"Dark Contract\" card from your Deck to your hand.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11609969,
@@ -227,6 +278,15 @@
       {
         "id": 19302550,
         "name": "D/D Savant Newton",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Trap effect that would inflict damage to you, then destroy this card.\n\n[ Monster Effect ] \nYou can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card in your Graveyard, except \"D/D Savant Newton\"; add it to your hand. You can only use this effect of \"D/D Savant Newton\" once per turn.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19302550,
@@ -239,6 +299,15 @@
       {
         "id": 47198668,
         "name": "D/D/D Doom King Armageddon",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"D/D\" monster you control; it gains 800 ATK until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nOnce per turn, if a monster(s) you control is destroyed by battle or card effect: You can target 1 of those monsters; this card gains ATK equal to that monster's original ATK until the end of this turn. This card cannot attack your opponent directly during the turn this effect is activated. Cannot be destroyed by Spell/Trap effects that do not target this card.",
+        "race": "Fiend",
+        "atk": 3000,
+        "def": 1000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47198668,
@@ -251,6 +320,15 @@
       {
         "id": 72648577,
         "name": "D/D/D Human Resources",
+        "desc": "Shuffle 3 cards into the Deck (any combination of \"D/D\" monsters in your hand, field, or Graveyard, and/or \"D/D\" cards in your Pendulum Zone), then you can add 2 \"D/D\" monsters from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72648577,
@@ -263,6 +341,15 @@
       {
         "id": 74069667,
         "name": "D/D/D Oblivion King Abyss Ragnarok",
+        "desc": "[ Pendulum Effect ] \nIf you Special Summon a \"D/D\" monster(s), except during the Damage Step: You can target 1 \"D/D\" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 \"D/D/D\" monster in your Graveyard; Special Summon it. You can only use this effect of \"D/D/D Oblivion King Abyss Ragnarok\" once per turn. Once per turn: You can Tribute 1 other \"D/D\" monster, then target 1 monster your opponent controls; banish it.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74069667,
@@ -275,6 +362,15 @@
       {
         "id": 44186624,
         "name": "D/D/D Supreme King Kaiser",
+        "desc": "If this card is Pendulum Summoned: All face-up cards your opponent currently controls have their effects negated, until the end of this turn. Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can target up to 2 cards in your Spell & Trap Zones; destroy them, and if you do, for each destroyed card, this card gains 1 additional attack during each Battle Phase this turn.",
+        "race": "Fiend",
+        "atk": 2800,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44186624,
@@ -287,6 +383,15 @@
       {
         "id": 3758046,
         "name": "D/D/D Wave King Caesar",
+        "desc": "2 Level 4 Fiend-Type monsters\nDuring either player's turn: You can detach 1 Xyz Material from this card; at the end of the Battle Phase, Special Summon from your Graveyard as many monsters destroyed this turn as possible, but during the next Standby Phase, take 1000 damage for each monster Special Summoned by this effect. If this card is sent from the field to the Graveyard: You can add 1 \"Dark Contract\" card from your Deck to your hand. You can only use each effect of \"D/D/D Wave King Caesar\" once per turn.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3758046,
@@ -299,6 +404,15 @@
       {
         "id": 65192027,
         "name": "Dark Armed Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can banish 1 DARK monster from your GY, then target 1 card on the field; destroy that target.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 65192027,
@@ -311,6 +425,15 @@
       {
         "id": 37209439,
         "name": "Dark Contract with Errors",
+        "desc": "Once per turn, if you control a \"D/D\" monster: You can negate all Trap Card effects on the field (other than this card's) for the rest of this turn (even if this card leaves the field). Once per turn, during your Standby Phase: Take 1000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37209439,
@@ -323,6 +446,15 @@
       {
         "id": 46372010,
         "name": "Dark Contract with the Gate",
+        "desc": "During your Main Phase: You can add 1 \"D/D\" monster from your Deck to your hand. You can only use this effect of \"Dark Contract with the Gate\" once per turn. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46372010,
@@ -335,6 +467,15 @@
       {
         "id": 73360025,
         "name": "Dark Contract with the Swamp King",
+        "desc": "During your Main Phase: You can Fusion Summon 1 Fiend-Type Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. You can only use this effect of \"Dark Contract with the Swamp King\" once per turn. If Summoning a \"D/D\" Fusion Monster this way, you can also banish monsters from your Graveyard as Fusion Material. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73360025,
@@ -347,6 +488,15 @@
       {
         "id": 9765723,
         "name": "Dark Contract with the Witch",
+        "desc": "You can send 1 \"D/D\" or \"Dark Contract\" card from your hand to the Graveyard, then target 1 card on the field; destroy it. You can only use this effect of \"Dark Contract with the Witch\" once per turn. All Fiend-Type monsters you control gain 1000 ATK during your opponent's turn only. Once per turn, during your Standby Phase: Take 1000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9765723,
@@ -359,6 +509,15 @@
       {
         "id": 45974017,
         "name": "Dark Contract with the Yamimakai",
+        "desc": "Once per turn, during your Standby Phase: Take 1000 damage.\nYou can only use 1 of the following effects of \"Dark Contract with the Yamimakai\" per turn, and only once that turn.\n● During your Main Phase: You can target 1 \"D/D\" Pendulum Monster in your Graveyard; place it in your Pendulum Zone.\n● During your Main Phase: You can place 1 face-up \"D/D\" Pendulum Monster from your Extra Deck in your Pendulum Zone.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45974017,
@@ -371,6 +530,15 @@
       {
         "id": 674561,
         "name": "Dark Eruption",
+        "desc": "Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 674561,
@@ -383,6 +551,15 @@
       {
         "id": 14536035,
         "name": "Dark Grepher",
+        "desc": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK monster. Once per turn: You can discard 1 DARK monster; send 1 DARK monster from your Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14536035,
@@ -395,6 +572,15 @@
       {
         "id": 53046408,
         "name": "Emergency Provisions",
+        "desc": "Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53046408,
@@ -407,6 +593,15 @@
       {
         "id": 31550470,
         "name": "Escape from the Dark Dimension",
+        "desc": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy that target, and if you do, banish it. When that target is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31550470,
@@ -419,6 +614,15 @@
       {
         "id": 81439173,
         "name": "Foolish Burial",
+        "desc": "Send 1 monster from your Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81439173,
@@ -437,6 +641,15 @@
       {
         "id": 10833828,
         "name": "Forbidden Dark Contract with the Swamp King",
+        "desc": "Once per turn: You can Special Summon 1 \"D/D/D\" monster from your hand in Defense Position, but its effects are negated. Once per turn: You can Fusion Summon 1 Fiend-Type Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials, including a monster Special Summoned by this card with the above effect. Once per turn, during your Standby Phase: Take 2000 damage.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10833828,
@@ -449,6 +662,15 @@
       {
         "id": 80036543,
         "name": "Hope for Escape",
+        "desc": "If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80036543,
@@ -461,6 +683,15 @@
       {
         "id": 16404809,
         "name": "Kuribandit",
+        "desc": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 700,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16404809,
@@ -473,6 +704,15 @@
       {
         "id": 2295440,
         "name": "One for One",
+        "desc": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2295440,
@@ -485,6 +725,15 @@
       {
         "id": 72497366,
         "name": "Sinister Yorishiro",
+        "desc": "Each turn, 1 Level 5 or higher Fiend monster you Normal Summon can be Summoned without Tributing. If exactly 1 Normal Summoned/Set Level 5 or higher Fiend monster (and no other cards) would be destroyed, you can send this card to the GY instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72497366,
@@ -497,6 +746,15 @@
       {
         "id": 50732780,
         "name": "Stygian Security",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 600,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50732780,
@@ -509,6 +767,15 @@
       {
         "id": 13521194,
         "name": "Stygian Street Patrol",
+        "desc": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13521194,
@@ -521,12 +788,130 @@
       {
         "id": 94283662,
         "name": "Trance Archfiend",
+        "desc": "Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94283662,
             "image_url": "https://images.ygoprodeck.com/images/cards/94283662.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94283662.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94283662.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 19580308,
+        "name": "D/D Lamia",
+        "desc": "If this card is in your hand or Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your hand or face-up from your field to the Graveyard, except \"D/D Lamia\"; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"D/D Lamia\" once per turn.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 1900,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 19580308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19580308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19580308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19580308.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72181263,
+        "name": "D/D Orthros",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.\n\n[ Monster Effect ] \nWhen you take battle or effect damage: You can Special Summon this card from your hand. If this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.",
+        "race": "Fiend",
+        "atk": 600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Tuner Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 72181263,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72181263.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72181263.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72181263.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44852429,
+        "name": "D/D/D Cursed King Siegfried",
+        "desc": "1 Tuner + 1 or more non-Tuner \"D/D\" monsters\nDuring either player's turn: You can target 1 face-up Spell/Trap Card on the field; that target has its effects negated, until the next Standby Phase. You can only use this effect of \"D/D/D Cursed King Siegfried\" once per turn. If this card is destroyed by battle or card effect and sent to the Graveyard: Gain 1000 LP for each \"Dark Contract\" card you control.",
+        "race": "Fiend",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 44852429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44852429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44852429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44852429.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 83303851,
+        "name": "D/D/D Chaos King Apocalypse",
+        "desc": "[ Pendulum Effect ] \nYou can banish 2 \"D/D\" monsters from your Graveyard; Special Summon this card from your Pendulum Zone.\n\n[ Monster Effect ] \nDuring your opponent's turn, if this card is in your hand or Graveyard: You can target 2 face-up Spell/Trap Cards you control; you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters, also destroy the targeted cards, and if you do, Special Summon this card (this is a Quick Effect). You can only use this effect of \"D/D/D Chaos King Apocalypse\" once per turn.",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 83303851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83303851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83303851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83303851.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8463720,
+        "name": "D/D/D Dragonbane King Beowulf",
+        "desc": "1 \"D/D/D\" monster + 1 \"D/D\" monster\nIf a \"D/D\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your Standby Phase: You can destroy all cards in the Spell & Trap Zones.",
+        "race": "Fiend",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 8463720,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8463720.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8463720.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8463720.jpg"
           }
         ]
       }

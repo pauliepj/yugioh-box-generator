@@ -1,52 +1,19 @@
 {
   "setName": "Machina Mayhem Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 5556499,
-        "name": "Machina Fortress",
-        "card_images": [
-          {
-            "id": 5556499,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5556499.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5556499.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5556499.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 42940404,
-        "name": "Machina Gearframe",
-        "card_images": [
-          {
-            "id": 42940404,
-            "image_url": "https://images.ygoprodeck.com/images/cards/42940404.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42940404.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42940404.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78349103,
-        "name": "Machina Peacekeeper",
-        "card_images": [
-          {
-            "id": 78349103,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78349103.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78349103.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78349103.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 67159705,
         "name": "Armored Cybern",
+        "desc": "Once per turn, you can either: Target 1 \"Cyber Dragon\" you control, or 1 Fusion Monster you control that lists \"Cyber Dragon\" as Fusion Material; equip this card to that target, OR: Unequip this card and Special Summon it. Once per turn, while equipped to a monster by this effect: You can target 1 face-up monster on the field; the equipped monster loses exactly 1000 ATK (even if this card leaves the field), and if it does, destroy that target. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Union Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67159705,
@@ -59,6 +26,15 @@
       {
         "id": 26302522,
         "name": "Blast Sphere",
+        "desc": "If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase: Destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26302522,
@@ -71,6 +47,15 @@
       {
         "id": 48712195,
         "name": "Card Trader",
+        "desc": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48712195,
@@ -83,6 +68,15 @@
       {
         "id": 36468556,
         "name": "Ceasefire",
+        "desc": "If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36468556,
@@ -95,6 +89,15 @@
       {
         "id": 79853073,
         "name": "Cipher Soldier",
+        "desc": "If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during that damage calculation only.",
+        "race": "Machine",
+        "atk": 1350,
+        "def": 1800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79853073,
@@ -107,6 +110,15 @@
       {
         "id": 22666164,
         "name": "Commander Covington",
+        "desc": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22666164,
@@ -119,6 +131,15 @@
       {
         "id": 94192409,
         "name": "Compulsory Evacuation Device",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94192409,
@@ -131,6 +152,15 @@
       {
         "id": 70095155,
         "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70095155,
@@ -149,6 +179,15 @@
       {
         "id": 3657444,
         "name": "Cyber Valley",
+        "desc": "You can use 1 of these effects.\r\n● When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.\r\n● You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.\r\n● You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3657444,
@@ -161,6 +200,15 @@
       {
         "id": 70342110,
         "name": "Dimensional Prison",
+        "desc": "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70342110,
@@ -173,6 +221,15 @@
       {
         "id": 46181000,
         "name": "Frontline Base",
+        "desc": "Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46181000,
@@ -185,6 +242,15 @@
       {
         "id": 41172955,
         "name": "Green Gadget",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Red Gadget\" from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41172955,
@@ -197,6 +263,15 @@
       {
         "id": 74519184,
         "name": "Hand Destruction",
+        "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74519184,
@@ -209,6 +284,15 @@
       {
         "id": 23265594,
         "name": "Heavy Mech Support Platform",
+        "desc": "Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Union Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23265594,
@@ -221,6 +305,15 @@
       {
         "id": 12247206,
         "name": "Inferno Reckless Summon",
+        "desc": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12247206,
@@ -233,6 +326,15 @@
       {
         "id": 31828916,
         "name": "Machina Armored Unit",
+        "desc": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31828916,
@@ -245,6 +347,15 @@
       {
         "id": 96384007,
         "name": "Machina Defender",
+        "desc": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96384007,
@@ -257,6 +368,15 @@
       {
         "id": 58054262,
         "name": "Machina Force",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Commander Covington\". You must pay 1000 LP to declare an attack with this card. You can send this card you control to the GY, then target 1 \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" in your GY; Special Summon those targets.",
+        "race": "Machine",
+        "atk": 4600,
+        "def": 4100,
+        "level": 10,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58054262,
@@ -269,6 +389,15 @@
       {
         "id": 23782705,
         "name": "Machina Sniper",
+        "desc": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23782705,
@@ -281,6 +410,15 @@
       {
         "id": 60999392,
         "name": "Machina Soldier",
+        "desc": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 \"Machina\" monster from your hand, except \"Machina Soldier\".",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60999392,
@@ -293,6 +431,15 @@
       {
         "id": 63995093,
         "name": "Machine Duplication",
+        "desc": "Target 1 Machine monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that face-up monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63995093,
@@ -305,6 +452,15 @@
       {
         "id": 68540058,
         "name": "Metalmorph",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68540058,
@@ -323,6 +479,15 @@
       {
         "id": 43711255,
         "name": "Prohibition",
+        "desc": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43711255,
@@ -335,6 +500,15 @@
       {
         "id": 26439287,
         "name": "Proto-Cyber Dragon",
+        "desc": "This card's name becomes \"Cyber Dragon\" while on the field.",
+        "race": "Machine",
+        "atk": 1100,
+        "def": 600,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26439287,
@@ -347,6 +521,15 @@
       {
         "id": 12503902,
         "name": "Rare Metalmorph",
+        "desc": "Activate this card by targeting 1 Machine-Type monster on the field; it gains 500 ATK. Once, negate a Spell effect that targets that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12503902,
@@ -359,6 +542,15 @@
       {
         "id": 86445415,
         "name": "Red Gadget",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Yellow Gadget\" from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1300,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 86445415,
@@ -371,6 +563,15 @@
       {
         "id": 91597389,
         "name": "Roll Out!",
+        "desc": "Target 1 Union monster in your Graveyard; equip that target to a monster you control that would be an appropriate target for that Union monster's effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91597389,
@@ -383,6 +584,15 @@
       {
         "id": 4334811,
         "name": "Scrap Recycler",
+        "desc": "When this card is Normal or Special Summoned: You can send 1 Machine monster from your Deck to the GY. Once per turn: You can shuffle 2 Level 4 EARTH Machine monsters from your GY into the Deck; draw 1 card.",
+        "race": "Machine",
+        "atk": 900,
+        "def": 1200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4334811,
@@ -395,6 +605,15 @@
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55713623,
@@ -407,6 +626,15 @@
       {
         "id": 86780027,
         "name": "Solidarity",
+        "desc": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 86780027,
@@ -419,6 +647,15 @@
       {
         "id": 72302403,
         "name": "Swords of Revealing Light",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72302403,
@@ -431,6 +668,15 @@
       {
         "id": 34004470,
         "name": "The Big Saturn",
+        "desc": "Cannot be Special Summoned from the hand or Deck. Once per turn: You can discard 1 card and pay 1000 Life Points; this card gains 1000 ATK until the End Phase. When this card in your possession is destroyed by your opponent's card effect and sent to your Graveyard: Both players take damage equal to this card's ATK in the Graveyard.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 34004470,
@@ -443,6 +689,15 @@
       {
         "id": 80987696,
         "name": "Time Machine",
+        "desc": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80987696,
@@ -455,12 +710,88 @@
       {
         "id": 13839120,
         "name": "Yellow Gadget",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Green Gadget\" from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13839120,
             "image_url": "https://images.ygoprodeck.com/images/cards/13839120.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13839120.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13839120.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 5556499,
+        "name": "Machina Fortress",
+        "desc": "You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 5556499,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5556499.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5556499.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5556499.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 42940404,
+        "name": "Machina Gearframe",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Machina\" monster from your Deck to your hand, except \"Machina Gearframe\". Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Union Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 42940404,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42940404.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42940404.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42940404.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78349103,
+        "name": "Machina Peacekeeper",
+        "desc": "When this card on the field is destroyed and sent to the GY: You can add 1 Union monster from your Deck to your hand. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 400,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Union Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 78349103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78349103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78349103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78349103.jpg"
           }
         ]
       }

@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Tag Force promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 71181155,
         "name": "Phantom Beast Cross-Wing",
+        "desc": "While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.",
+        "race": "Beast-Warrior",
+        "atk": 1300,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 71181155,
@@ -19,6 +26,15 @@
       {
         "id": 34961968,
         "name": "Phantom Beast Thunder-Pegasus",
+        "desc": "When your opponent's monster declares an attack, you can remove from play this card from your Graveyard to make the Battle Damage taken by 1 \"Gazelle the King of Mythical Beasts\" or \"Phantom Beast\" monster 0. When this happens, that monster is not destroyed by battle.",
+        "race": "Beast-Warrior",
+        "atk": 700,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 34961968,
@@ -31,6 +47,15 @@
       {
         "id": 7576264,
         "name": "Phantom Beast Wild-Horn",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 7576264,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

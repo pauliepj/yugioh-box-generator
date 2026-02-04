@@ -1,27 +1,19 @@
 {
   "setName": "Event Pack Speed Duel",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 300302021,
-        "name": "Power Up!",
-        "card_images": [
-          {
-            "id": 300302021,
-            "image_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 38033121,
         "name": "Dark Magician Girl",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38033121,
@@ -64,6 +56,15 @@
       {
         "id": 91939608,
         "name": "Rogue Doll",
+        "desc": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91939608,
@@ -76,6 +77,15 @@
       {
         "id": 33904024,
         "name": "Shard of Greed",
+        "desc": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33904024,
@@ -88,6 +98,15 @@
       {
         "id": 126218,
         "name": "Skull Dice",
+        "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 126218,
@@ -100,12 +119,44 @@
       {
         "id": 59744639,
         "name": "Windstorm of Etaqua",
+        "desc": "Change the battle positions of all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59744639,
             "image_url": "https://images.ygoprodeck.com/images/cards/59744639.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59744639.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59744639.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 300302021,
+        "name": "Power Up!",
+        "desc": "Activate this Skill during your Main Phase.\r\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
+        "race": "Yami Yugi",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Skill Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 300302021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/300302021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/300302021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/300302021.jpg"
           }
         ]
       }

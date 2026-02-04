@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2022 K",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 80230510,
         "name": "Tribute Burial",
+        "desc": "You cannot Special Summon for the rest of this turn. Once during this turn, you can conduct a Tribute Summon that requires 2 Tributes by banishing 1 monster from each Graveyard instead of Tributing (it is still treated as a Tribute Summon).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 80230510,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

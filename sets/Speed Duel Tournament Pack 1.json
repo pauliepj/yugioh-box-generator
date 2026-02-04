@@ -1,11 +1,303 @@
 {
   "setName": "Speed Duel Tournament Pack 1",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
+      {
+        "id": 41426869,
+        "name": "Black Illusion Ritual",
+        "desc": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 41426869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41426869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41426869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41426869.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38033126,
+        "name": "Dark Magician Girl",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 38033126,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033126.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033126.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033126.jpg"
+          },
+          {
+            "id": 38033125,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033125.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033125.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033125.jpg"
+          },
+          {
+            "id": 38033124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033124.jpg"
+          },
+          {
+            "id": 38033123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033123.jpg"
+          },
+          {
+            "id": 38033122,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033122.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033122.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033122.jpg"
+          },
+          {
+            "id": 38033121,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38033121.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033121.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033121.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90219263,
+        "name": "Elegant Egotist",
+        "desc": "If \"Harpie Lady\" is on the field: Special Summon 1 \"Harpie Lady\" or \"Harpie Lady Sisters\" from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 90219263,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90219263.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90219263.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90219263.jpg"
+          }
+        ]
+      },
+      {
+        "id": 423705,
+        "name": "Gearfried the Iron Knight",
+        "desc": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 423705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/423705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/423705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/423705.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3381441,
+        "name": "Gravekeeper's Priestess",
+        "desc": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 3381441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3381441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3381441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3381441.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99523325,
+        "name": "Gravekeeper's Stele",
+        "desc": "Target 2 \"Gravekeeper's\" monsters in your GY; add those targets to your hand. This effect cannot be negated by the effect of \"Necrovalley\".",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 99523325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99523325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99523325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99523325.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91932350,
+        "name": "Harpie Lady 1",
+        "desc": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
+        "race": "Winged Beast",
+        "atk": 1300,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 91932350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91932350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91932350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17985575,
+        "name": "Lord of D.",
+        "desc": "Neither player can target Dragon monsters on the field with card effects.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 17985575,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17985575.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17985575.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17985575.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43973174,
+        "name": "The Flute of Summoning Dragon",
+        "desc": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 43973174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43973174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43973174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43973174.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71625222,
+        "name": "Time Wizard",
+        "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 71625222,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71625222.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71625222.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71625222.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89997728,
+        "name": "Toon Table of Contents",
+        "desc": "Add 1 \"Toon\" card from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 89997728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67775894,
+        "name": "Wonder Wand",
+        "desc": "Equip only to a Spellcaster monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the GY; draw 2 cards.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 67775894,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67775894.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67775894.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67775894.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
       {
         "id": 89631139,
         "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89631139,
@@ -60,6 +352,15 @@
       {
         "id": 46986414,
         "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 46986414,
@@ -120,6 +421,15 @@
       {
         "id": 25524823,
         "name": "Gravekeeper's Oracle",
+        "desc": "You can Tribute 3 monsters or 1 \"Gravekeeper's\" monster to Tribute Summon (but not Set) this card. When this card is Tribute Summoned: You can activate any of these effects, and resolve in sequence, up to the number of \"Gravekeeper's\" monsters Tributed for its Summon;\n● This card gains ATK equal to the combined Levels that all monsters Tributed for its Tribute Summon had on the field x 100.\n● Destroy all Set monsters your opponent controls.\n● All monsters your opponent currently controls lose 2000 ATK/DEF.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1500,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 25524823,
@@ -132,6 +442,15 @@
       {
         "id": 12206212,
         "name": "Harpie Lady Sisters",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".",
+        "race": "Winged Beast",
+        "atk": 1950,
+        "def": 2100,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 12206212,
@@ -144,6 +463,15 @@
       {
         "id": 74677425,
         "name": "Red-Eyes Black Dragon",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 74677425,
@@ -186,6 +514,15 @@
       {
         "id": 64631466,
         "name": "Relinquished",
+        "desc": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 64631466,
@@ -195,184 +532,6 @@
           }
         ]
       }
-    ],
-    "super": [
-      {
-        "id": 41426869,
-        "name": "Black Illusion Ritual",
-        "card_images": [
-          {
-            "id": 41426869,
-            "image_url": "https://images.ygoprodeck.com/images/cards/41426869.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41426869.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41426869.jpg"
-          }
-        ]
-      },
-      {
-        "id": 38033126,
-        "name": "Dark Magician Girl",
-        "card_images": [
-          {
-            "id": 38033126,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033126.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033126.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033126.jpg"
-          },
-          {
-            "id": 38033125,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033125.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033125.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033125.jpg"
-          },
-          {
-            "id": 38033124,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033124.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033124.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033124.jpg"
-          },
-          {
-            "id": 38033123,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033123.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033123.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033123.jpg"
-          },
-          {
-            "id": 38033122,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033122.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033122.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033122.jpg"
-          },
-          {
-            "id": 38033121,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38033121.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38033121.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38033121.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90219263,
-        "name": "Elegant Egotist",
-        "card_images": [
-          {
-            "id": 90219263,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90219263.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90219263.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90219263.jpg"
-          }
-        ]
-      },
-      {
-        "id": 423705,
-        "name": "Gearfried the Iron Knight",
-        "card_images": [
-          {
-            "id": 423705,
-            "image_url": "https://images.ygoprodeck.com/images/cards/423705.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/423705.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/423705.jpg"
-          }
-        ]
-      },
-      {
-        "id": 3381441,
-        "name": "Gravekeeper's Priestess",
-        "card_images": [
-          {
-            "id": 3381441,
-            "image_url": "https://images.ygoprodeck.com/images/cards/3381441.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3381441.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3381441.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99523325,
-        "name": "Gravekeeper's Stele",
-        "card_images": [
-          {
-            "id": 99523325,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99523325.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99523325.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99523325.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91932350,
-        "name": "Harpie Lady 1",
-        "card_images": [
-          {
-            "id": 91932350,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91932350.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91932350.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91932350.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17985575,
-        "name": "Lord of D.",
-        "card_images": [
-          {
-            "id": 17985575,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17985575.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17985575.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17985575.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43973174,
-        "name": "The Flute of Summoning Dragon",
-        "card_images": [
-          {
-            "id": 43973174,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43973174.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43973174.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43973174.jpg"
-          }
-        ]
-      },
-      {
-        "id": 71625222,
-        "name": "Time Wizard",
-        "card_images": [
-          {
-            "id": 71625222,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71625222.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71625222.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71625222.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89997728,
-        "name": "Toon Table of Contents",
-        "card_images": [
-          {
-            "id": 89997728,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
-          }
-        ]
-      },
-      {
-        "id": 67775894,
-        "name": "Wonder Wand",
-        "card_images": [
-          {
-            "id": 67775894,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67775894.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67775894.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67775894.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

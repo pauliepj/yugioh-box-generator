@@ -1,10 +1,19 @@
 {
   "setName": "Rising Rampage",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 4280258,
         "name": "Apollousa, Bow of the Goddess",
+        "desc": "2+ monsters with different names, except Tokens\r\nYou can only control 1 \"Apollousa, Bow of the Goddess\". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.",
+        "race": "Fairy",
+        "atk": -1,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 4280258,
@@ -35,6 +44,15 @@
       {
         "id": 76722334,
         "name": "Capshell",
+        "desc": "You can only use 1 of the following effects of \"Capshell\" per turn, and only once that turn.\r\n● If this card is Tributed: You can draw 1 card.\r\n● If this card is used as material for a Fusion, Synchro, or Link Summon: You can draw 1 card.\r\n● If this card is detached from an Xyz Monster to activate that monster's effect: You can draw 1 card.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 76722334,
@@ -47,6 +65,15 @@
       {
         "id": 70252926,
         "name": "Fortune Lady Every",
+        "desc": "1 Tuner + 1+ non-Tuner Spellcaster monsters\r\nThis card's ATK/DEF become its Level x 400. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12), then, you can banish 1 face-up monster your opponent controls. During your opponent's End Phase, if this card is in your GY: You can banish 1 other Spellcaster monster from your GY; Special Summon this card. You can only use this effect of \"Fortune Lady Every\" once per turn.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 70252926,
@@ -59,6 +86,15 @@
       {
         "id": 22373487,
         "name": "Get Out!",
+        "desc": "Target 2 monsters your opponent controls that were Special Summoned from the Extra Deck; shuffle them into the Deck. You can only activate 1 \"Get Out!\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 22373487,
@@ -71,6 +107,15 @@
       {
         "id": 71197066,
         "name": "Gizmek Orochi, the Serpentron Sky Slasher",
+        "desc": "If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck face-down; Special Summon this card. You can banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 \"Gizmek Orochi, the Serpentron Sky Slasher\" effect per turn, and only once that turn.",
+        "race": "Machine",
+        "atk": 2450,
+        "def": 2450,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 71197066,
@@ -83,6 +128,15 @@
       {
         "id": 79130389,
         "name": "Marincess Coral Anemone",
+        "desc": "2 WATER monsters\r\nYou can target 1 WATER monster with 1500 or less ATK in your GY; Special Summon it to your zone this card points to, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. If this card is sent from the field to the GY: You can target 1 \"Marincess\" card in your GY, except \"Marincess Coral Anemone\"; add it to your hand. You can only use each effect of \"Marincess Coral Anemone\" once per turn.",
+        "race": "Cyberse",
+        "atk": 2000,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 79130389,
@@ -95,6 +149,15 @@
       {
         "id": 5524387,
         "name": "Marincess Marbled Rock",
+        "desc": "2+ WATER monsters\r\nYou can target 1 \"Marincess\" card in your GY, except \"Marincess Marbled Rock\"; add it to your hand. You can only use this effect of \"Marincess Marbled Rock\" once per turn. When an opponent's monster declares an attack: You can send 1 \"Marincess\" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.",
+        "race": "Cyberse",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 5524387,
@@ -107,6 +170,15 @@
       {
         "id": 71074418,
         "name": "Witchcrafter Golem Aruru",
+        "desc": "When your opponent activates a card or effect that targets a Spellcaster monster(s) you control, or targets it for an attack (Quick Effect): You can target 1 card your opponent controls, or 1 \"Witchcrafter\" Spell in your GY; Special Summon this card from your hand, and if you do, return that targeted card to the hand. You can only use this effect of \"Witchcrafter Golem Aruru\" once per turn. Once per turn, during your opponent's Standby Phase: Return this card to the hand.",
+        "race": "Spellcaster",
+        "atk": 2800,
+        "def": 0,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 71074418,
@@ -117,70 +189,58 @@
         ]
       }
     ],
-    "ultra": [
+    "starlight rare": [
       {
-        "id": 6247535,
-        "name": "Borreload eXcharge Dragon",
+        "id": 4280258,
+        "name": "Apollousa, Bow of the Goddess",
+        "desc": "2+ monsters with different names, except Tokens\r\nYou can only control 1 \"Apollousa, Bow of the Goddess\". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.",
+        "race": "Fairy",
+        "atk": -1,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
-            "id": 6247535,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6247535.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6247535.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6247535.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11969228,
-        "name": "Dragunity Knight - Romulus",
-        "card_images": [
+            "id": 4280258,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4280258.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4280258.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4280258.jpg"
+          },
           {
-            "id": 11969228,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11969228.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11969228.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11969228.jpg"
-          }
-        ]
-      },
-      {
-        "id": 27895597,
-        "name": "Fortune Lady Calling",
-        "card_images": [
+            "id": 4280258,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4280258.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4280258.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4280258.jpg"
+          },
           {
-            "id": 27895597,
-            "image_url": "https://images.ygoprodeck.com/images/cards/27895597.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27895597.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27895597.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49389190,
-        "name": "Ikelos, the Dream Mirror Sprite",
-        "card_images": [
+            "id": 4280259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4280259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4280259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4280259.jpg"
+          },
           {
-            "id": 49389190,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49389190.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49389190.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49389190.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43735670,
-        "name": "Marincess Blue Slug",
-        "card_images": [
-          {
-            "id": 43735670,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43735670.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43735670.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43735670.jpg"
+            "id": 4280259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4280259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4280259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4280259.jpg"
           }
         ]
       },
       {
         "id": 36492575,
         "name": "Marincess Sea Horse",
+        "desc": "You can Special Summon this card (from your hand) to your zone a \"Marincess\" Link Monster points to. You can only Special Summon \"Marincess Sea Horse\" once per turn this way. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; Special Summon 1 WATER monster from your hand to your zone a \"Marincess\" Link Monster points to. You can only use this effect of \"Marincess Sea Horse\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1400,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
             "id": 36492575,
@@ -197,58 +257,73 @@
         ]
       },
       {
-        "id": 52945066,
-        "name": "Marincess Wave",
+        "id": 83195035,
+        "name": "Storm Dragon's Return",
+        "desc": "Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 \"Storm Dragon's Return\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
-            "id": 52945066,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52945066.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52945066.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52945066.jpg"
+            "id": 83195035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83195035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83195035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83195035.jpg"
+          },
+          {
+            "id": 83195035,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83195035.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83195035.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83195035.jpg"
           }
         ]
       },
       {
-        "id": 38267552,
-        "name": "Morpheus, the Dream Mirror Black Knight",
+        "id": 30674956,
+        "name": "Wynn the Wind Charmer, Verdant",
+        "desc": "2 monsters, including a WIND monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WIND monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WIND monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Wynn the Wind Charmer, Verdant\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1850,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
-            "id": 38267552,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38267552.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38267552.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38267552.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78917791,
-        "name": "Shaman of the Tenyi",
-        "card_images": [
+            "id": 30674956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30674956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30674956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30674956.jpg"
+          },
           {
-            "id": 78917791,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78917791.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78917791.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78917791.jpg"
-          }
-        ]
-      },
-      {
-        "id": 19307353,
-        "name": "Spirit Sculptor",
-        "card_images": [
-          {
-            "id": 19307353,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19307353.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19307353.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19307353.jpg"
+            "id": 30674956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30674956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30674956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30674956.jpg"
           }
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 17469113,
         "name": "Avida, Rebuilder of Worlds",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by there being at least 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters that are banished, on the field, and in the GYs into the Decks. Neither player can activate cards or effects in response to this effect's activation.",
+        "race": "Cyberse",
+        "atk": 3500,
+        "def": 3500,
+        "level": 11,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 17469113,
@@ -261,6 +336,15 @@
       {
         "id": 84257883,
         "name": "B.E.S. Blaster Cannon Core",
+        "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"B.E.S. Blaster Cannon Core\" once per turn this way. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 3000,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 84257883,
@@ -273,6 +357,15 @@
       {
         "id": 74665651,
         "name": "Dream Mirror of Joy",
+        "desc": "During the End Phase: You can banish this card; activate 1 \"Dream Mirror of Terror\" directly from your hand or Deck. You can only use this effect of \"Dream Mirror of Joy\" once per turn. \"Dream Mirror\" monsters you control cannot be targeted by your opponent's card effects, or their monsters' attacks, except your \"Dream Mirror\" monster(s) with the highest Level. This effect is only applied while you control a LIGHT \"Dream Mirror\" monster.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 74665651,
@@ -285,6 +378,15 @@
       {
         "id": 1050355,
         "name": "Dream Mirror of Terror",
+        "desc": "During the End Phase: You can banish this card; activate 1 \"Dream Mirror of Joy\" directly from your hand or Deck. You can only use this effect of \"Dream Mirror of Terror\" once per turn. Each time your opponent Special Summons a monster(s), inflict 300 damage to your opponent. This effect is only applied while you control a DARK \"Dream Mirror\" monster.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1050355,
@@ -297,6 +399,15 @@
       {
         "id": 90384300,
         "name": "Hypernova Burst",
+        "desc": "Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned; draw 2 cards. You can only activate 1 \"Hypernova Burst\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 90384300,
@@ -309,6 +420,15 @@
       {
         "id": 75888208,
         "name": "Ikelos, the Dream Mirror Mara",
+        "desc": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can Special Summon 1 \"Dream Mirror\" monster from your hand, except \"Ikelos, the Dream Mirror Mara\". During the Main or Battle Phase, if \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Ikelos, the Dream Mirror Sprite\" from your Deck. You can only use each effect of \"Ikelos, the Dream Mirror Mara\" once per turn.",
+        "race": "Fairy",
+        "atk": 500,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 75888208,
@@ -321,6 +441,15 @@
       {
         "id": 68295149,
         "name": "Linkmail Archfiend",
+        "desc": "2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster\r\nIf this card is Special Summoned: You can target 1 Ritual, Fusion, Synchro, or Xyz Monster you control or in your GY; all monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, until the end of this turn. Your opponent cannot target monsters you control, that were Special Summoned from the Extra Deck, with monster effects. If this card would be destroyed by battle or card effect, you can banish 1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead.",
+        "race": "Cyberse",
+        "atk": 2800,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 68295149,
@@ -333,6 +462,15 @@
       {
         "id": 21364070,
         "name": "Mayosenju Hitot",
+        "desc": "[ Pendulum Effect ] \nYou can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.\n\n[ Monster Effect ] \nCannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 21364070,
@@ -345,6 +483,15 @@
       {
         "id": 1872843,
         "name": "Morpheus, the Dream Mirror White Knight",
+        "desc": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can activate this effect; this card cannot be destroyed by battle or card effects this turn. During the Main or Battle Phase, if \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Morpheus, the Dream Mirror Black Knight\" from your Deck. You can only use each effect of \"Morpheus, the Dream Mirror White Knight\" once per turn.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1872843,
@@ -357,6 +504,15 @@
       {
         "id": 22586618,
         "name": "Simorgh of Darkness",
+        "desc": "While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of \"Simorgh of Darkness\" once per turn.\r\n● If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).\r\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card.",
+        "race": "Winged Beast",
+        "atk": 2900,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 22586618,
@@ -369,6 +525,15 @@
       {
         "id": 95192919,
         "name": "Simorgh, Lord of the Storm",
+        "desc": "Your opponent cannot target this Tribute Summoned card with Spell/Trap Cards or effects. You can only use each of the following effects of \"Simorgh, Lord of the Storm\" once per turn.\r\n● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster, then target 1 card your opponent controls; shuffle it into the Deck.\r\n● When a Winged Beast monster you control is destroyed by battle while this card is in your GY: You can add this card to your hand.",
+        "race": "Winged Beast",
+        "atk": 2900,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95192919,
@@ -381,6 +546,15 @@
       {
         "id": 83195035,
         "name": "Storm Dragon's Return",
+        "desc": "Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 \"Storm Dragon's Return\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 83195035,
@@ -399,6 +573,15 @@
       {
         "id": 63731062,
         "name": "White Aura Monoceros",
+        "desc": "1 WATER Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can target 1 Fish monster in your GY; Special Summon it, but it cannot attack this turn. You can only use this effect of \"White Aura Monoceros\" once per turn. If this card you control is destroyed by your opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.",
+        "race": "Fish",
+        "atk": 2500,
+        "def": 1500,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63731062,
@@ -411,6 +594,15 @@
       {
         "id": 62487836,
         "name": "White Howling",
+        "desc": "If you control a WATER monster: Target 1 Spell in your opponent's GY; banish it, and if you do, for the rest of this turn negate all Spell effects on your opponent's field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 62487836,
@@ -421,10 +613,1029 @@
         ]
       }
     ],
+    "common": [
+      {
+        "id": 67073561,
+        "name": "Baba Barber",
+        "desc": "2 monsters\r\nAt the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of \"Baba Barber\" once per turn.",
+        "race": "Fiend",
+        "atk": 200,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 67073561,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67073561.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67073561.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67073561.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13117073,
+        "name": "Barricadeborg Blocker",
+        "desc": "2 monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13117073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46924949,
+        "name": "Beatraptor",
+        "desc": "Negate the effects of monsters in the Extra Monster Zones while this card is in the Main Monster Zone. When this card is destroyed by battle: You can Special Summon 1 \"Beatraptor\" from your Deck. You can only use this effect of \"Beatraptor\" once per turn.",
+        "race": "Dinosaur",
+        "atk": 1400,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46924949,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46924949.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46924949.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46924949.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53167658,
+        "name": "Blockout Curtain",
+        "desc": "If a card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead of 1 of those cards. If a card(s) your opponent controls would be destroyed by battle or card effect, you can banish this card from your GY instead of 1 of those cards. You can only use each effect of \"Blockout Curtain\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 53167658,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53167658.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53167658.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53167658.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19420830,
+        "name": "Cataclysmic Cryonic Coldo",
+        "desc": "If a face-up WIND monster(s) you control is destroyed by battle or an opponent's card effect: You can Special Summon this card from your hand, then, you can place 1 Spell/Trap from the field on top of the Deck. You can only use this effect of \"Cataclysmic Cryonic Coldo\" once per turn.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 200,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19420830,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19420830.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19420830.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19420830.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9097866,
+        "name": "Cross Debug",
+        "desc": "If you control 2 or more Link Monsters: You can Special Summon this card from your hand. During damage calculation, if your Link Monster battles an opponent's Link Monster (Quick Effect): You can banish this card from your GY, then target 1 Link Monster in your GY; your battling monster cannot be destroyed by that battle, also, until the end of this turn, it gains ATK equal to the target's ATK. You can only use each effect of \"Cross Debug\" once per turn.",
+        "race": "Cyberse",
+        "atk": 900,
+        "def": 600,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 9097866,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9097866.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9097866.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9097866.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31897444,
+        "name": "Defender of the Labyrinth",
+        "desc": "2 Normal Monsters\r\nNon-Effect Monsters you control gain 500 ATK, also all Effect Monsters your opponent controls lose 500 ATK. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 non-Effect Monster in your GY; Special Summon it. You can only use this effect of \"Defender of the Labyrinth\" once per turn.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 31897444,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31897444.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31897444.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31897444.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35770983,
+        "name": "Dinowrestler Martial Ankylo",
+        "desc": "During damage calculation, if another \"Dinowrestler\" monster you control battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; that monster you control cannot be destroyed by that battle, also the ATK of your opponent's battling monster is halved at the end of the Damage Step. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Dinowrestler Martial Ankylo\" once per turn.",
+        "race": "Dinosaur",
+        "atk": 1000,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 35770983,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35770983.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35770983.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35770983.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61764082,
+        "name": "Dinowrestler Rambrachio",
+        "desc": "When your \"Dinowrestler\" monster inflicts battle damage to your opponent: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Dinowrestler Rambrachio\" once per turn. Your opponent cannot target other \"Dinowrestler\" monsters you control with card effects.",
+        "race": "Dinosaur",
+        "atk": 1600,
+        "def": 0,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 61764082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61764082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61764082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61764082.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98371278,
+        "name": "DMZ Dragon",
+        "desc": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in your GY to that monster on the field as an Equip Spell that makes it gain 500 ATK. At the end of the Damage Step, if your monster equipped with an Equip Card attacked: You can banish this card from your GY; destroy as many cards as possible equipped to that monster you control, and if you do, that monster can make a second attack in a row.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 98371278,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98371278.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98371278.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98371278.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26557451,
+        "name": "Draw Discharge",
+        "desc": "When your opponent draws a card(s) by their own card effect: Look at those cards, and if any are monsters, inflict damage to your opponent equal to their combined ATK, and if you do that, banish all cards you looked at. You can only activate 1 \"Draw Discharge\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 26557451,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26557451.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26557451.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26557451.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37444964,
+        "name": "Dream Mirror Fantasy",
+        "desc": "If you control a \"Dream Mirror\" monster: Target 1 each of your banished \"Dream Mirror of Joy\" and \"Dream Mirror of Terror\"; shuffle them into the Deck, and if you do, banish 1 card on the field. If a \"Dream Mirror\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 \"Dream Mirror Fantasy\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 37444964,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37444964.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37444964.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37444964.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46984349,
+        "name": "Dwimmered Glimmer",
+        "desc": "Activate this card by banishing 1 face-up monster you control or 1 monster in your GY; Special Summon this card as a Normal Monster (Spellcaster/LIGHT/ATK 0/DEF 0) with the same Level as that banished monster. (This card is also still a Trap.) You can only activate 1 \"Dwimmered Glimmer\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46984349,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46984349.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46984349.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46984349.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92223430,
+        "name": "Elborz, the Sacred Lands of Simorgh",
+        "desc": "All WIND Winged Beast monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of \"Elborz, the Sacred Lands of Simorgh\" once per turn.\r\n● You can reveal 1 Level 5 or higher WIND Winged Beast monster in your hand; this turn, you can Normal Summon Winged Beast monsters for 1 less Tribute (even if this card leaves the field).\r\n● If you control a WIND Winged Beast monster, you can: Immediately after this effect resolves, Normal Summon 1 Winged Beast monster.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 92223430,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92223430.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223430.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223430.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37414347,
+        "name": "F.A. Shining Star GT",
+        "desc": "2 Machine monsters\r\nGains ATK equal to the total Levels of the \"F.A.\" monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a \"F.A.\" Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of \"F.A. Shining Star GT\" once per turn.",
+        "race": "Machine",
+        "atk": 0,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 37414347,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37414347.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37414347.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37414347.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85862791,
+        "name": "Fighting Dirty",
+        "desc": "If a card(s) you control and a card(s) your opponent controls are destroyed by battle or card effect at the same time: Each player draws 2 cards. You can only activate 1 \"Fighting Dirty\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 85862791,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85862791.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85862791.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85862791.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2994495,
+        "name": "Fuhma Wave",
+        "desc": "Target 1 face-up monster on the field; destroy 1 monster on the field with the same Attribute, but a different name, as that monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 2994495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2994495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2994495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2994495.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92345028,
+        "name": "Fury of Fire",
+        "desc": "(This card is always treated as a \"Salamangreat\" card.)\r\nSpecial Summon up to 2 \"Salamangreat\" monsters with different names from your hand and/or GY in Defense Position, but their effects are negated, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once. You can only activate 1 \"Fury of Fire\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 92345028,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92345028.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92345028.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92345028.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30552375,
+        "name": "Grid Rod",
+        "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 30552375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30552375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30552375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30552375.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27240101,
+        "name": "Kikinagashi Fucho",
+        "desc": "2 Level 1 monsters\r\nUnaffected by other cards' effects. Once per turn (Quick Effect): You can detach 2 materials from this card; for the rest of this turn, this card cannot be destroyed by battle, also you take no battle damage from attacks involving this card.",
+        "race": "Winged Beast",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 27240101,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27240101.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27240101.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27240101.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3567660,
+        "name": "Link Back",
+        "desc": "Target 1 Link Monster you control in the Extra Monster Zone; move that monster you control to your Main Monster Zone it points to, then, you can send cards from the top of your Deck to the GY equal to its Link Rating. You can only activate 1 \"Link Back\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 3567660,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3567660.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3567660.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3567660.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43857222,
+        "name": "Magicalibra",
+        "desc": "[ Pendulum Effect ] \nYou can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of \"Magicalibra\" once per turn.\n\n[ Monster Effect ] \n''A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.''",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Pendulum Tuner Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 43857222,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43857222.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43857222.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43857222.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84430165,
+        "name": "Marincess Current",
+        "desc": "When a \"Marincess\" Link Monster you control destroys an opponent's monster by battle: Inflict damage to your opponent equal to the Link Rating of that monster you control x 400, then, if you destroyed an opponent's Link Monster by that battle while you controlled a Link-2 or higher \"Marincess\" monster, inflict damage to your opponent equal to that destroyed monster's Link Rating x 500. You can only activate 1 \"Marincess Current\" per turn. If you control a Link-3 or higher \"Marincess\" monster, you can activate this card from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 84430165,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84430165.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84430165.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84430165.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62886670,
+        "name": "Marincess Sea Star",
+        "desc": "You can send this card from your hand to the GY, then target 1 \"Marincess\" monster you control; it gains 800 ATK until the end of this turn. You can use this effect of \"Marincess Sea Star\" up to twice per turn.",
+        "race": "Cyberse",
+        "atk": 800,
+        "def": 400,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 62886670,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62886670.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62886670.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62886670.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83035296,
+        "name": "Megistric Maginician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of \"Megistric Maginician\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 2000,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 83035296,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83035296.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83035296.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83035296.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54191698,
+        "name": "Number 29: Mannequin Cat",
+        "desc": "2 Level 2 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon it to your opponent's field. If a monster(s) is Special Summoned to your opponent's field, while you control this monster (except during the Damage Step): You can target 1 face-up monster your opponent controls; Special Summon 1 monster with the same Type or Attribute from your hand, Deck, or GY. You can only use this effect of \"Number 29: Mannequin Cat\" once per turn.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 900,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 54191698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54191698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54191698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54191698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26773909,
+        "name": "Psychic Fervor",
+        "desc": "During the Battle Phase: Target 1 face-up monster you control; you lose LP equal to its ATK, and if you do, that monster's ATK is doubled until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 \"Psychic Fervor\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 26773909,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26773909.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26773909.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26773909.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44680819,
+        "name": "Ranryu",
+        "desc": "You can only control 1 \"Ranryu\". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster with 1500 ATK/200 DEF in your GY, except \"Ranryu\"; Special Summon it.",
+        "race": "Dragon",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44680819,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44680819.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44680819.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44680819.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57647597,
+        "name": "Reptilianne Lamia",
+        "desc": "If this card is in your hand and all monsters you control are face-up Reptile monsters (min. 1): You can target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, Special Summon this card, then take damage equal to that monster's original ATK. If this card is sent to the GY as Synchro Material: You can target up to 2 face-up monsters on the field; change their ATK to 0. You can only use 1 \"Reptilianne Lamia\" effect per turn, and only once that turn.",
+        "race": "Reptile",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57647597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57647597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57647597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57647597.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63009228,
+        "name": "Rescue Interlacer",
+        "desc": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded there to activate this effect this turn: Special Summon this card.",
+        "race": "Cyberse",
+        "atk": 1000,
+        "def": 1200,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 63009228,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63009228.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63009228.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63009228.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45702357,
+        "name": "Reversible Beetle",
+        "desc": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\r\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+        "race": "Insect",
+        "atk": 1100,
+        "def": 1500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 45702357,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45702357.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45702357.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45702357.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44640691,
+        "name": "Rogue of Endymion",
+        "desc": "If this card is Normal or Special Summoned: Place 1 Spell Counter on it. You can remove 1 Spell Counter from this card and discard 1 Spellcaster monster; Set 1 Continuous Spell directly from your Deck, but for the rest of this turn you cannot activate it, or activate cards, or the effects of cards, with its name. You can only use each effect of \"Rogue of Endymion\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44640691,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44640691.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44640691.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44640691.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19590644,
+        "name": "Setuppercut",
+        "desc": "When a monster you control is destroyed by battle: Special Summon 1 monster from your hand or Deck with ATK less than or equal to that destroyed monster, in face-down Defense Position. You can only activate 1 \"Setuppercut\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19590644,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19590644.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19590644.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19590644.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99162753,
+        "name": "Sextet Summon",
+        "desc": "Banish from your hand, GY, and/or face-up field, 6 monsters (1 each Ritual, Fusion, Synchro, Xyz, Pendulum, and Link), each with the same original Type, then Special Summon 1 monster from your Deck or Extra Deck, with the same original Type as those banished monsters. You can only activate 1 \"Sextet Summon\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 99162753,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99162753.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99162753.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99162753.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28617139,
+        "name": "Simorgh Onslaught",
+        "desc": "Discard 1 Winged Beast monster; add 2 \"Simorgh\" monsters with different Attributes from your Deck to your hand. You can banish this card from your GY; reveal 1 Winged Beast monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned). You can only activate 1 \"Simorgh Onslaught\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 28617139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28617139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28617139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28617139.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64002884,
+        "name": "Simorgh Repulsion",
+        "desc": "Discard 1 Winged Beast monster; return all cards in your opponent's Spell & Trap Zones to the hand. You can banish this card from your GY; reveal 1 Winged Beast monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned). You can only activate 1 \"Simorgh Repulsion\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64002884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64002884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64002884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64002884.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57823578,
+        "name": "Simorgh Sky Battle",
+        "desc": "Winged Beast monsters you control cannot be targeted by your opponent's card effects, or their monsters' attacks, except your Winged Beast monster(s) with the highest ATK. You can send to the GY, this card and 2 \"Simorgh\" monsters you control with different original Attributes whose original Levels are 7 or higher; return as many cards on the field to the hand as possible, and if you do, take 500 damage for each card returned to the hand, then inflict damage to your opponent equal to the damage you took. You can only use this effect of \"Simorgh Sky Battle\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57823578,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57823578.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57823578.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57823578.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50820852,
+        "name": "Simorgh, Bird of Beginning",
+        "desc": "When this card is Normal Summoned: You can activate this effect; during your Main Phase this turn, you can Normal Summon 1 \"Simorgh\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is in your GY and your opponent controls no cards in their Spell & Trap Zone: You can Special Summon this card in Defense Position, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Winged Beast monsters. You can only use each effect of \"Simorgh, Bird of Beginning\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 0,
+        "def": 1600,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 50820852,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50820852.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50820852.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50820852.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23619206,
+        "name": "Simorgh, Bird of Calamity",
+        "desc": "When this card is Normal Summoned: You can send 1 \"Simorgh\" card from your Deck to the GY, except \"Simorgh, Bird of Calamity\". If this card is in your GY and your opponent controls no cards in their Spell & Trap Zone: You can Special Summon this card in Defense Position, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Winged Beast monsters. You can only use each effect of \"Simorgh, Bird of Calamity\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 1500,
+        "def": 200,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 23619206,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23619206.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23619206.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23619206.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59707204,
+        "name": "Simorgh, Bird of Protection",
+        "desc": "When this card is Normal Summoned: You can target 1 card in your opponent's Spell & Trap Zone; return it to the hand. If this card is in your GY and your opponent controls no cards in their Spell & Trap Zone: You can Special Summon this card in Defense Position, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Winged Beast monsters. You can only use each effect of \"Simorgh, Bird of Protection\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 59707204,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59707204.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59707204.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59707204.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56001930,
+        "name": "The Return to the Normal",
+        "desc": "When exactly 1 monster is Normal or Special Summoned face-up (except during the Damage Step): Destroy all monsters on the field with less ATK than that monster. You can only activate 1 \"The Return to the Normal\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 56001930,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56001930.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56001930.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56001930.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18585765,
+        "name": "Voltester",
+        "desc": "If this card is Special Summoned to a zone a Link Monster points to: Destroy all Link Monsters that point to this card, then destroy all other monsters that those Link Monsters pointed to, and follow the Link Arrows of all those destroyed monsters, destroying everything they point to, and repeating the process, until there are no more to destroy. (This card cannot be destroyed by this effect.) You can only use this effect of \"Voltester\" once per turn.",
+        "race": "Thunder",
+        "atk": 2500,
+        "def": 1000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 18585765,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18585765.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18585765.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18585765.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59778096,
+        "name": "World Legacy Bestowal",
+        "desc": "Activate 1 of the following effects.\r\n● Send 1 Link Monster your opponent controls to the GY.\r\n● Banish 7 \"World Legacy\" cards from your GY; add 1 Cyberse monster from your Deck to your hand.\r\nYou can only activate 1 \"World Legacy Bestowal\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 59778096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59778096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59778096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59778096.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85970321,
+        "name": "Yosenju Izna",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Izna\" once per turn.\r\n● You can discard this card; this turn, your opponent cannot activate cards or effects when a \"Yosenju\" monster(s) is Normal or Special Summoned.\r\n● If you control another \"Yosenju\" monster: You can draw 1 card.",
+        "race": "Beast-Warrior",
+        "atk": 800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 85970321,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85970321.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85970321.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85970321.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61884774,
+        "name": "Yosenju Oroshi Channeling",
+        "desc": "If you control no monsters: Activate 1 of the following effects; also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except \"Yosenju\" monsters.\r\n● Add 1 Level 5 or higher \"Yosenju\" monster from your Deck to your hand.\r\n● Place 1 \"Yosenju Shinchu L\" and 1 \"Yosenju Shinchu R\" from your Deck in your Pendulum Zones, but destroy them during your opponent's next End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 61884774,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61884774.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61884774.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61884774.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58981727,
+        "name": "Yosenju Sabu",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\r\n● If this card is Normal Summoned: If you control another \"Yosenju\" card, you can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\r\n● You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 58981727,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58981727.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58981727.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58981727.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54880296,
+        "name": "Yosenju Wind Worship",
+        "desc": "If you control 3 or more \"Yosenju\" Monster Cards with different names: Return as many \"Yosenju\" Monster Cards you control to the hand as possible, then you can draw until you have 5 cards in your hand. You can only activate 1 \"Yosenju Wind Worship\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 54880296,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54880296.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54880296.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54880296.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10612222,
+        "name": "Yosenjus' Sword Sting",
+        "desc": "If you control no monsters: Reveal up to 2 \"Yosenju\" monsters with different names in your hand, then target the same number of face-up cards your opponent controls; return them to the hand. You can only activate 1 \"Yosenjus' Sword Sting\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10612222,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10612222.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10612222.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10612222.jpg"
+          }
+        ]
+      }
+    ],
     "rare": [
       {
         "id": 5402805,
         "name": "Berserker of the Tenyi",
+        "desc": "2+ monsters, including a Link Monster",
+        "race": "Wyrm",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 5402805,
@@ -437,6 +1648,15 @@
       {
         "id": 21834870,
         "name": "Fists of the Unrivaled Tenyi",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated while you control a face-up non-Effect Monster: Negate the activation. If this Set card you control is destroyed by your opponent's card effect: You can Special Summon 1 non-Effect Monster from your Extra Deck.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 21834870,
@@ -449,6 +1669,15 @@
       {
         "id": 39730727,
         "name": "Flawless Perfection of the Tenyi",
+        "desc": "All non-Effect Monsters on the field are unaffected by monster effects. Once per turn, if your opponent Special Summons an Effect Monster(s), while you control a face-down monster or non-Effect Monster (except during the Damage Step): You can draw 2 cards.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 39730727,
@@ -461,6 +1690,15 @@
       {
         "id": 57869175,
         "name": "Fortune Lady Past",
+        "desc": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). You can target 1 \"Fortune Lady\" monster you control; banish any number of other Spellcaster monsters from your hand, field, and/or GY, and if you do, increase or reduce that monster's Level by the number of monsters banished, until the end of this turn. You can only use this effect of \"Fortune Lady Past\" once per turn.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 57869175,
@@ -473,6 +1711,15 @@
       {
         "id": 84218527,
         "name": "Fortune Lady Rewind",
+        "desc": "Target any number of your banished \"Fortune Lady\" monsters with different names; Special Summon them, but shuffle them into the Deck during the End Phase. You can only activate 1 \"Fortune Lady Rewind\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 84218527,
@@ -485,6 +1732,15 @@
       {
         "id": 91407982,
         "name": "Fortune Vision",
+        "desc": "When this card is activated: You can add 1 \"Fortune Lady\" card from your Deck to your hand. Once per turn, if a card(s) you control is banished by card effect (except during the Damage Step): You can activate this effect; this turn, monsters you control cannot be destroyed by card effects (even if this card leaves the field). Once per turn, if a card(s) your opponent controls is banished by card effect (except during the Damage Step): You can make the next battle damage you take this turn become 0 (even if this card leaves the field). You can only activate 1 \"Fortune Vision\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 91407982,
@@ -497,6 +1753,15 @@
       {
         "id": 49105782,
         "name": "Hraesvelgr, the Desperate Doom Eagle",
+        "desc": "2+ WIND monsters\r\nGains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of \"Hraesvelgr, the Desperate Doom Eagle\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 2400,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 49105782,
@@ -509,6 +1774,15 @@
       {
         "id": 32519092,
         "name": "Monk of the Tenyi",
+        "desc": "1 non-Link \"Tenyi\" monster",
+        "race": "Wyrm",
+        "atk": 1000,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 32519092,
@@ -521,6 +1795,15 @@
       {
         "id": 66947913,
         "name": "Rising Fire",
+        "desc": "(This card is always treated as a \"Salamangreat\" card.)\r\nIf you control no monsters: Activate this card by targeting 1 FIRE monster in your GY; Special Summon it and equip it with this card. The equipped monster gains 500 ATK. When this card leaves the field, destroy that monster. If this card in your possession is destroyed by an opponent's card effect: You can banish 1 monster on the field. You can only use each effect of \"Rising Fire\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 66947913,
@@ -533,6 +1816,15 @@
       {
         "id": 96214561,
         "name": "Simorgh, Bird of Bringing",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Simorgh\" card from your Deck to your hand, except \"Simorgh, Bird of Bringing\". If this card is in your GY and your opponent controls no cards in their Spell & Trap Zone: You can Special Summon this card in Defense Position, but banish it when it leaves the field, also you cannot Special Summon monsters for the rest of this turn, except Winged Beast monsters. You can only use each effect of \"Simorgh, Bird of Bringing\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 1000,
+        "def": 1000,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 96214561,
@@ -545,6 +1837,15 @@
       {
         "id": 76500786,
         "name": "Star Power!!",
+        "desc": "During damage calculation, if your Link Monster battles an opponent's monster: Your monster gains ATK equal to the total Levels/Ranks of the monsters it points to x 400, during that damage calculation only. You can only activate 1 \"Star Power!!\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 76500786,
@@ -557,6 +1858,15 @@
       {
         "id": 98159737,
         "name": "Tenyi Spirit - Adhara",
+        "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of \"Tenyi Spirit - Adhara\" once per turn.",
+        "race": "Wyrm",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 98159737,
@@ -569,6 +1879,15 @@
       {
         "id": 60942444,
         "name": "Tenyi Spirit - Mapura",
+        "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When your opponent activates a card or effect that targets a face-up non-Effect Monster(s) you control (Quick Effect): You can banish this card from your hand or GY; negate the activation, and if you do, destroy that card. You can only use each effect of \"Tenyi Spirit - Mapura\" once per turn.",
+        "race": "Wyrm",
+        "atk": 600,
+        "def": 1500,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 60942444,
@@ -581,6 +1900,15 @@
       {
         "id": 97036149,
         "name": "Tenyi Spirit - Nahata",
+        "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. When an attack is declared involving your face-up non-Effect Monster and an opponent's face-up monster: You can banish this card from your hand or GY; that opponent's monster loses 1500 ATK until the end of this turn. You can only use each effect of \"Tenyi Spirit - Nahata\" once per turn.",
+        "race": "Wyrm",
+        "atk": 800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97036149,
@@ -593,6 +1921,15 @@
       {
         "id": 24557335,
         "name": "Tenyi Spirit - Shthana",
+        "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If a face-up non-Effect Monster(s) you control is destroyed by battle or card effect: You can banish this card from your hand or GY, then target 1 of those destroyed monsters; Special Summon it, then you can destroy 1 monster your opponent controls. You can only use each effect of \"Tenyi Spirit - Shthana\" once per turn.",
+        "race": "Wyrm",
+        "atk": 400,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 24557335,
@@ -605,6 +1942,15 @@
       {
         "id": 23431858,
         "name": "Tenyi Spirit - Vishuda",
+        "desc": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of \"Tenyi Spirit - Vishuda\" once per turn.",
+        "race": "Wyrm",
+        "atk": 1500,
+        "def": 2500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23431858,
@@ -617,6 +1963,15 @@
       {
         "id": 82319644,
         "name": "Tlakalel, His Malevolent Majesty",
+        "desc": "If this card is Tribute Summoned: You can destroy any number of face-up monsters your opponent controls whose combined ATK is less than or equal to the original ATK of the monster Tributed to Tribute Summon this card.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 82319644,
@@ -629,6 +1984,15 @@
       {
         "id": 65124425,
         "name": "Vessel for the Dragon Cycle",
+        "desc": "Send 1 Wyrm monster from your Deck to the GY, then, if you control a face-up non-Effect Monster, you can add from your Deck to your hand 1 \"Tenyi\" monster with a different name from the monster sent to the GY. You can only activate 1 \"Vessel for the Dragon Cycle\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 65124425,
@@ -641,6 +2005,15 @@
       {
         "id": 10642488,
         "name": "Vic Viper T301",
+        "desc": "When an attack is declared involving your face-up monster and an opponent's monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Vic Viper T301\" once per turn. Other LIGHT Machine monsters you control gain 1200 ATK.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10642488,
@@ -653,6 +2026,15 @@
       {
         "id": 30674956,
         "name": "Wynn the Wind Charmer, Verdant",
+        "desc": "2 monsters, including a WIND monster\r\n(This card is always treated as a \"Familiar-Possessed\" card.)\r\nYou can target 1 WIND monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WIND monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Wynn the Wind Charmer, Verdant\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1850,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 30674956,
@@ -669,580 +2051,220 @@
         ]
       }
     ],
-    "common": [
+    "ultra rare": [
       {
-        "id": 67073561,
-        "name": "Baba Barber",
+        "id": 6247535,
+        "name": "Borreload eXcharge Dragon",
+        "desc": "2 Level 4 DARK Dragon monsters\r\nNeither player can target this Xyz Summoned card with monster effects, except its own. Once per turn: You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 600 ATK/DEF, then, you can Special Summon 1 \"Borrel\" monster from your GY, but banish it during the End Phase, also you cannot Special Summon other monsters or attack directly for the rest of this turn.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 67073561,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67073561.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67073561.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67073561.jpg"
+            "id": 6247535,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6247535.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6247535.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6247535.jpg"
           }
         ]
       },
       {
-        "id": 13117073,
-        "name": "Barricadeborg Blocker",
+        "id": 11969228,
+        "name": "Dragunity Knight - Romulus",
+        "desc": "2 Dragon and/or Winged Beast monsters, except Tokens\r\nIf this card is Link Summoned: You can add 1 \"Dragunity\" Spell/Trap or 1 \"Dragon Ravine\" from your Deck to your hand. If a Dragon monster(s) is Special Summoned from the Extra Deck to a zone this card points to (except during the Damage Step): You can Special Summon 1 Dragon or Winged Beast monster from your hand in Defense Position, but for the rest of this turn, its effects (if any) are negated and it cannot be used as Link Material. You can only use each effect of \"Dragunity Knight - Romulus\" once per turn.",
+        "race": "Dragon",
+        "atk": 1200,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 13117073,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
+            "id": 11969228,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11969228.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11969228.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11969228.jpg"
           }
         ]
       },
       {
-        "id": 46924949,
-        "name": "Beatraptor",
+        "id": 27895597,
+        "name": "Fortune Lady Calling",
+        "desc": "If you control a \"Fortune Lady\" monster: Special Summon 1 \"Fortune Lady\" monster from your Deck with a different name from the cards you control, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters. You can only activate 1 \"Fortune Lady Calling\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 46924949,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46924949.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46924949.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46924949.jpg"
+            "id": 27895597,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27895597.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27895597.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27895597.jpg"
           }
         ]
       },
       {
-        "id": 53167658,
-        "name": "Blockout Curtain",
+        "id": 49389190,
+        "name": "Ikelos, the Dream Mirror Sprite",
+        "desc": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can add 1 \"Dream Mirror\" card from your Deck to your hand, except \"Ikelos, the Dream Mirror Sprite\". During the Main or Battle Phase, if \"Dream Mirror of Terror\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Ikelos, the Dream Mirror Mara\" from your Deck. You can only use each effect of \"Ikelos, the Dream Mirror Sprite\" once per turn.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 53167658,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53167658.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53167658.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53167658.jpg"
+            "id": 49389190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49389190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49389190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49389190.jpg"
           }
         ]
       },
       {
-        "id": 19420830,
-        "name": "Cataclysmic Cryonic Coldo",
+        "id": 43735670,
+        "name": "Marincess Blue Slug",
+        "desc": "1 Level 4 or lower \"Marincess\" monster\r\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1500,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 19420830,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19420830.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19420830.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19420830.jpg"
+            "id": 43735670,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43735670.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43735670.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43735670.jpg"
           }
         ]
       },
       {
-        "id": 9097866,
-        "name": "Cross Debug",
+        "id": 36492575,
+        "name": "Marincess Sea Horse",
+        "desc": "You can Special Summon this card (from your hand) to your zone a \"Marincess\" Link Monster points to. You can only Special Summon \"Marincess Sea Horse\" once per turn this way. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; Special Summon 1 WATER monster from your hand to your zone a \"Marincess\" Link Monster points to. You can only use this effect of \"Marincess Sea Horse\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1400,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 9097866,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9097866.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9097866.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9097866.jpg"
+            "id": 36492575,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36492575.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36492575.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36492575.jpg"
+          },
+          {
+            "id": 36492575,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36492575.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36492575.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36492575.jpg"
           }
         ]
       },
       {
-        "id": 31897444,
-        "name": "Defender of the Labyrinth",
+        "id": 52945066,
+        "name": "Marincess Wave",
+        "desc": "If you control a \"Marincess\" Link Monster: Target 1 face-up monster your opponent controls; negate that face-up monster's effects until the end of this turn, then, if you control a Link-2 or higher \"Marincess\" monster, all face-up monsters you currently control are unaffected by your opponent's card effects until the end of this turn. If you control a Link-3 or higher \"Marincess\" monster, you can activate this card from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 31897444,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31897444.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31897444.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31897444.jpg"
+            "id": 52945066,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52945066.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52945066.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52945066.jpg"
           }
         ]
       },
       {
-        "id": 35770983,
-        "name": "Dinowrestler Martial Ankylo",
+        "id": 38267552,
+        "name": "Morpheus, the Dream Mirror Black Knight",
+        "desc": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: You can target 1 card on the field; destroy it. During the Main or Battle Phase, if \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Morpheus, the Dream Mirror White Knight\" from your Deck. You can only use each effect of \"Morpheus, the Dream Mirror Black Knight\" once per turn.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 35770983,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35770983.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35770983.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35770983.jpg"
+            "id": 38267552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38267552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38267552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38267552.jpg"
           }
         ]
       },
       {
-        "id": 61764082,
-        "name": "Dinowrestler Rambrachio",
+        "id": 78917791,
+        "name": "Shaman of the Tenyi",
+        "desc": "2 Wyrm monsters\r\nYou can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except \"Tenyi\" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Shaman of the Tenyi\" once per turn.",
+        "race": "Wyrm",
+        "atk": 1600,
+        "def": null,
+        "level": null,
+        "attribute": "FIRE",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 61764082,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61764082.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61764082.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61764082.jpg"
+            "id": 78917791,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78917791.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78917791.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78917791.jpg"
           }
         ]
       },
       {
-        "id": 98371278,
-        "name": "DMZ Dragon",
+        "id": 19307353,
+        "name": "Spirit Sculptor",
+        "desc": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 2100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 98371278,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98371278.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98371278.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98371278.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26557451,
-        "name": "Draw Discharge",
-        "card_images": [
-          {
-            "id": 26557451,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26557451.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26557451.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26557451.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37444964,
-        "name": "Dream Mirror Fantasy",
-        "card_images": [
-          {
-            "id": 37444964,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37444964.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37444964.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37444964.jpg"
-          }
-        ]
-      },
-      {
-        "id": 46984349,
-        "name": "Dwimmered Glimmer",
-        "card_images": [
-          {
-            "id": 46984349,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46984349.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46984349.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46984349.jpg"
-          }
-        ]
-      },
-      {
-        "id": 92223430,
-        "name": "Elborz, the Sacred Lands of Simorgh",
-        "card_images": [
-          {
-            "id": 92223430,
-            "image_url": "https://images.ygoprodeck.com/images/cards/92223430.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223430.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223430.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37414347,
-        "name": "F.A. Shining Star GT",
-        "card_images": [
-          {
-            "id": 37414347,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37414347.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37414347.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37414347.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85862791,
-        "name": "Fighting Dirty",
-        "card_images": [
-          {
-            "id": 85862791,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85862791.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85862791.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85862791.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2994495,
-        "name": "Fuhma Wave",
-        "card_images": [
-          {
-            "id": 2994495,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2994495.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2994495.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2994495.jpg"
-          }
-        ]
-      },
-      {
-        "id": 92345028,
-        "name": "Fury of Fire",
-        "card_images": [
-          {
-            "id": 92345028,
-            "image_url": "https://images.ygoprodeck.com/images/cards/92345028.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92345028.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92345028.jpg"
-          }
-        ]
-      },
-      {
-        "id": 30552375,
-        "name": "Grid Rod",
-        "card_images": [
-          {
-            "id": 30552375,
-            "image_url": "https://images.ygoprodeck.com/images/cards/30552375.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30552375.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30552375.jpg"
-          }
-        ]
-      },
-      {
-        "id": 27240101,
-        "name": "Kikinagashi Fucho",
-        "card_images": [
-          {
-            "id": 27240101,
-            "image_url": "https://images.ygoprodeck.com/images/cards/27240101.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27240101.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27240101.jpg"
-          }
-        ]
-      },
-      {
-        "id": 3567660,
-        "name": "Link Back",
-        "card_images": [
-          {
-            "id": 3567660,
-            "image_url": "https://images.ygoprodeck.com/images/cards/3567660.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3567660.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3567660.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43857222,
-        "name": "Magicalibra",
-        "card_images": [
-          {
-            "id": 43857222,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43857222.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43857222.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43857222.jpg"
-          }
-        ]
-      },
-      {
-        "id": 84430165,
-        "name": "Marincess Current",
-        "card_images": [
-          {
-            "id": 84430165,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84430165.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84430165.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84430165.jpg"
-          }
-        ]
-      },
-      {
-        "id": 62886670,
-        "name": "Marincess Sea Star",
-        "card_images": [
-          {
-            "id": 62886670,
-            "image_url": "https://images.ygoprodeck.com/images/cards/62886670.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62886670.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62886670.jpg"
-          }
-        ]
-      },
-      {
-        "id": 83035296,
-        "name": "Megistric Maginician",
-        "card_images": [
-          {
-            "id": 83035296,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83035296.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83035296.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83035296.jpg"
-          }
-        ]
-      },
-      {
-        "id": 54191698,
-        "name": "Number 29: Mannequin Cat",
-        "card_images": [
-          {
-            "id": 54191698,
-            "image_url": "https://images.ygoprodeck.com/images/cards/54191698.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54191698.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54191698.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26773909,
-        "name": "Psychic Fervor",
-        "card_images": [
-          {
-            "id": 26773909,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26773909.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26773909.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26773909.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44680819,
-        "name": "Ranryu",
-        "card_images": [
-          {
-            "id": 44680819,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44680819.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44680819.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44680819.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57647597,
-        "name": "Reptilianne Lamia",
-        "card_images": [
-          {
-            "id": 57647597,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57647597.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57647597.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57647597.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63009228,
-        "name": "Rescue Interlacer",
-        "card_images": [
-          {
-            "id": 63009228,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63009228.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63009228.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63009228.jpg"
-          }
-        ]
-      },
-      {
-        "id": 45702357,
-        "name": "Reversible Beetle",
-        "card_images": [
-          {
-            "id": 45702357,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45702357.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45702357.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45702357.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44640691,
-        "name": "Rogue of Endymion",
-        "card_images": [
-          {
-            "id": 44640691,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44640691.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44640691.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44640691.jpg"
-          }
-        ]
-      },
-      {
-        "id": 19590644,
-        "name": "Setuppercut",
-        "card_images": [
-          {
-            "id": 19590644,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19590644.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19590644.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19590644.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99162753,
-        "name": "Sextet Summon",
-        "card_images": [
-          {
-            "id": 99162753,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99162753.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99162753.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99162753.jpg"
-          }
-        ]
-      },
-      {
-        "id": 28617139,
-        "name": "Simorgh Onslaught",
-        "card_images": [
-          {
-            "id": 28617139,
-            "image_url": "https://images.ygoprodeck.com/images/cards/28617139.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28617139.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28617139.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64002884,
-        "name": "Simorgh Repulsion",
-        "card_images": [
-          {
-            "id": 64002884,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64002884.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64002884.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64002884.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57823578,
-        "name": "Simorgh Sky Battle",
-        "card_images": [
-          {
-            "id": 57823578,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57823578.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57823578.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57823578.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50820852,
-        "name": "Simorgh, Bird of Beginning",
-        "card_images": [
-          {
-            "id": 50820852,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50820852.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50820852.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50820852.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23619206,
-        "name": "Simorgh, Bird of Calamity",
-        "card_images": [
-          {
-            "id": 23619206,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23619206.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23619206.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23619206.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59707204,
-        "name": "Simorgh, Bird of Protection",
-        "card_images": [
-          {
-            "id": 59707204,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59707204.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59707204.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59707204.jpg"
-          }
-        ]
-      },
-      {
-        "id": 56001930,
-        "name": "The Return to the Normal",
-        "card_images": [
-          {
-            "id": 56001930,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56001930.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56001930.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56001930.jpg"
-          }
-        ]
-      },
-      {
-        "id": 18585765,
-        "name": "Voltester",
-        "card_images": [
-          {
-            "id": 18585765,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18585765.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18585765.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18585765.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59778096,
-        "name": "World Legacy Bestowal",
-        "card_images": [
-          {
-            "id": 59778096,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59778096.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59778096.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59778096.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85970321,
-        "name": "Yosenju Izna",
-        "card_images": [
-          {
-            "id": 85970321,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85970321.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85970321.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85970321.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61884774,
-        "name": "Yosenju Oroshi Channeling",
-        "card_images": [
-          {
-            "id": 61884774,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61884774.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61884774.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61884774.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58981727,
-        "name": "Yosenju Sabu",
-        "card_images": [
-          {
-            "id": 58981727,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58981727.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58981727.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58981727.jpg"
-          }
-        ]
-      },
-      {
-        "id": 54880296,
-        "name": "Yosenju Wind Worship",
-        "card_images": [
-          {
-            "id": 54880296,
-            "image_url": "https://images.ygoprodeck.com/images/cards/54880296.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54880296.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54880296.jpg"
-          }
-        ]
-      },
-      {
-        "id": 10612222,
-        "name": "Yosenjus' Sword Sting",
-        "card_images": [
-          {
-            "id": 10612222,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10612222.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10612222.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10612222.jpg"
+            "id": 19307353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19307353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19307353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19307353.jpg"
           }
         ]
       }

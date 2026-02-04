@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! The Falsebound Kingdom promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 79853073,
         "name": "Cipher Soldier",
+        "desc": "If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during that damage calculation only.",
+        "race": "Machine",
+        "atk": 1350,
+        "def": 1800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 79853073,
@@ -19,6 +26,15 @@
       {
         "id": 45425051,
         "name": "Fairy King Truesdale",
+        "desc": "While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.",
+        "race": "Plant",
+        "atk": 2200,
+        "def": 1500,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 45425051,
@@ -31,6 +47,15 @@
       {
         "id": 78636495,
         "name": "Slate Warrior",
+        "desc": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78636495,
@@ -41,7 +66,70 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "prismatic secret rare": [
+      {
+        "id": 4149689,
+        "name": "Goblin Fan",
+        "desc": "When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 4149689,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4149689.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4149689.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4149689.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50705071,
+        "name": "Metalzoa",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Zoa\" equipped with \"Metalmorph\".",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 50705071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50705071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50705071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50705071.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24311372,
+        "name": "Zoa",
+        "desc": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 1900,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 24311372,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24311372.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24311372.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24311372.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

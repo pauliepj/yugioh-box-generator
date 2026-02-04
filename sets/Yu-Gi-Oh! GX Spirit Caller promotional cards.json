@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Spirit Caller promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 81919143,
         "name": "Brain Crusher",
+        "desc": "Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle and sent it to the Graveyard this turn while you controlled it: You can target 1 of those destroyed monsters in the Graveyard; Special Summon that target.",
+        "race": "Insect",
+        "atk": 2400,
+        "def": 1500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 81919143,
@@ -19,6 +26,15 @@
       {
         "id": 51962254,
         "name": "Hunter Owl",
+        "desc": "This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.",
+        "race": "Winged Beast",
+        "atk": 1000,
+        "def": 900,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51962254,
@@ -31,6 +47,15 @@
       {
         "id": 87350908,
         "name": "Masked Chopper",
+        "desc": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 87350908,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

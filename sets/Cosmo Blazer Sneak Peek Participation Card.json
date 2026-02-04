@@ -1,11 +1,19 @@
 {
   "setName": "Cosmo Blazer Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 23562407,
         "name": "Noble Arms - Caliburn",
+        "desc": "You can only control 1 \"Noble Arms - Caliburn\". Equip only to a Warrior-Type monster. It gains 500 ATK. Once per turn: You can gain 500 LP. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Caliburn\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23562407,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

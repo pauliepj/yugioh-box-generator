@@ -1,10 +1,19 @@
 {
   "setName": "Limited Pack World Championship 2025",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 46396218,
         "name": "Azamina Ilia Silvia",
+        "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nAny battle damage your \"Azamina\" monsters, except \"Azamina Ilia Silvia\", inflicts to your opponent is doubled. You can only use each of the following effects of \"Azamina Ilia Silvia\" once per turn. When your opponent activates a card or effect (Quick Effect): You can Tribute this card; negate that effect. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Trap from your Deck to your hand.",
+        "race": "Illusion",
+        "atk": 1900,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 46396218,
@@ -23,6 +32,15 @@
       {
         "id": 73391962,
         "name": "Azamina Mu Rcielago",
+        "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nMonsters your opponent controls lose 500 ATK/DEF for each \"Azamina\" monster you control. You can only use each of the following effects of \"Azamina Mu Rcielago\" once per turn. If this card is Fusion Summoned: You can add 1 \"Azamina\" or \"Sinful Spoils\" card from your Deck to your hand. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Spell from your Deck to your hand.",
+        "race": "Illusion",
+        "atk": 2000,
+        "def": 2400,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 73391962,
@@ -41,6 +59,15 @@
       {
         "id": 56208713,
         "name": "Bacha the Melodious Maestra",
+        "desc": "2 \"Melodious\" monsters\r\nWhile you control this Fusion Summoned card, the activated effects of your \"Melodious\" Fusion Monsters cannot be negated. You can only use each of the following effects of \"Bacha the Melodious Maestra\" once per turn. If this card is Special Summoned: You can Special Summon 1 \"Melodious\" monster from your Deck. If this card is sent to the GY: You can target 1 \"Melodious\" monster in your GY, except \"Bacha the Melodious Maestra\"; Special Summon it in Defense Position.",
+        "race": "Fairy",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 56208713,
@@ -59,6 +86,15 @@
       {
         "id": 11443677,
         "name": "Blue-Eyes Tyrant Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + 1 Dragon monster\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 \"Blue-Eyes White Dragon\" equipped with a Fusion Monster. Unaffected by Trap Cards or effects. This card can attack all monsters your opponent controls, once each. Once per turn, at the end of the Damage Step, if this card battled: You can target 1 Trap in your GY; Set it to your Spell & Trap Zone.",
+        "race": "Dragon",
+        "atk": 3400,
+        "def": 2900,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 11443677,
@@ -77,6 +113,15 @@
       {
         "id": 89604813,
         "name": "Blue-Eyes Ultimate Spirit Dragon",
+        "desc": "2+ Tuners + 1 non-Tuner \"Blue-Eyes\" monster\r\nYour opponent cannot banish cards from your GY. You can only use each of the following effects of \"Blue-Eyes Ultimate Spirit Dragon\" once per turn. When a card or effect is activated on the field (Quick Effect): You can negate the activation, and if you do, this card gains 1000 ATK until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 LIGHT Dragon monster from your GY, except \"Blue-Eyes Ultimate Spirit Dragon\".",
+        "race": "Dragon",
+        "atk": 3500,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 89604813,
@@ -95,6 +140,15 @@
       {
         "id": 72270339,
         "name": "Diabellstar the Black Witch",
+        "desc": "You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. You can only Special Summon \"Diabellstar the Black Witch\" once per turn this way. You can only use each of the following effects of \"Diabellstar the Black Witch\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Sinful Spoils\" Spell/Trap directly from your Deck. During your opponent's turn, if this card is sent from its owner's hand or field to the GY: You can send 1 card from your hand or field to the GY, and if you do, Special Summon this card.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 72270339,
@@ -113,6 +167,15 @@
       {
         "id": 64182380,
         "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "desc": "2+ Level 8 monsters\r\nIf this card is Xyz Summoned: You can destroy all other monsters on the field. You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it, and if you do, this card gains 500 ATK. If this card is destroyed while it has material: You can Special Summon \"Fire King\" monsters from your GY, up to the number of materials this card had. You can only use each effect of \"Garunix Eternity, Hyang of the Fire Kings\" once per turn.",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 64182380,
@@ -131,6 +194,15 @@
       {
         "id": 90681088,
         "name": "Legendary Fire King Ponix",
+        "desc": "If your monster(s) that was originally FIRE is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Fire King\" Spell/Trap from your Deck to your hand. During the next Standby Phase after this card was destroyed and sent to the GY: Add this card from the GY to your hand. You can only use each effect of \"Legendary Fire King Ponix\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 500,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 90681088,
@@ -149,6 +221,15 @@
       {
         "id": 17947697,
         "name": "Maiden of White",
+        "desc": "You can send this card from your hand or field to the GY; place 1 \"True Light\" from your hand, Deck, or GY, face-up in your Spell & Trap Zone. If you Special Summon \"Blue-Eyes White Dragon\" while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" or 1 Level 1 LIGHT Tuner from your GY. You can only use each effect of \"Maiden of White\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 17947697,
@@ -167,6 +248,15 @@
       {
         "id": 20726052,
         "name": "Maliss GWC-06",
+        "desc": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Special Summon 1 of your \"Maliss\" monsters that is banished or in your GY, then if you control a \"Maliss\" Link Monster, you can gain LP equal to the original ATK of that Special Summoned monster. You can only activate 1 \"Maliss GWC-06\" per turn.",
+        "race": "",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 20726052,
@@ -185,6 +275,15 @@
       {
         "id": 21848500,
         "name": "Maliss Hearts Crypter",
+        "desc": "3 monsters, including a \"Maliss\" monster\r\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field (while this card points to a monster, this effect and its activation cannot be negated). If this card is banished: You can pay 900 LP; Special Summon it and double its ATK. You can only use each effect of \"Maliss Hearts Crypter\" once per turn.",
+        "race": "Cyberse",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 21848500,
@@ -203,6 +302,15 @@
       {
         "id": 14529511,
         "name": "Mementomictlan Tecuhtlica - Creation King",
+        "desc": "3 \"Memento\" monsters\r\nYou can banish this card from your GY; add 1 \"Mementomictlan\" from your Deck to your hand. You cannot activate the following effects of \"Mementomictlan Tecuhtlica - Creation King\" in the same Chain. If this card is Fusion Summoned: You can send 3 \"Memento\" cards from your Deck and/or Extra Deck to the GY. (Quick Effect): You can target an equal number of \"Memento\" monsters you control and cards your opponent controls; destroy them. You can only use each effect of \"Mementomictlan Tecuhtlica - Creation King\" once per turn.",
+        "race": "Illusion",
+        "atk": 3000,
+        "def": 2000,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 14529511,
@@ -221,6 +329,15 @@
       {
         "id": 69385019,
         "name": "Mermail King - Neptabyss",
+        "desc": "2+ monsters, including a Fish, Sea Serpent, or Aqua monster\r\nYour opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of \"Mermail King - Neptabyss\" once per turn. If a WATER monster(s) is sent to the GY to activate a card or effect (except during the Damage Step): You can take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
+        "race": "Sea Serpent",
+        "atk": 2300,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 69385019,
@@ -239,6 +356,15 @@
       {
         "id": 65261141,
         "name": "Nightmare Pain",
+        "desc": "During your Main Phase: You can destroy 1 DARK monster in your hand or face-up field, and if you do, add 1 \"Yubel\", or 1 card that mentions it, from your Deck to your hand, except \"Nightmare Pain\". You can only use this effect of \"Nightmare Pain\" once per turn. While you control a \"Yubel\" monster, your opponent's monsters that can attack must attack \"Yubel\" monsters. Your opponent takes any battle damage you would have taken from battles involving your \"Yubel\" monsters.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 65261141,
@@ -257,6 +383,15 @@
       {
         "id": 60517697,
         "name": "Poseidra Abyss, the Atlantean Dragon Lord",
+        "desc": "3 Level 7 monsters\r\nOnce per turn, you can also Xyz Summon \"Poseidra Abyss, the Atlantean Dragon Lord\" by using 1 \"Atlantean\" or \"Mermail\" Xyz Monster you control. (Transfer its materials to this card.) Once per turn: You can detach 2 materials from this card, then send 1 WATER monster from your hand or Deck to the GY; return up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can discard 1 card to the GY; Special Summon 3 Level 3 or lower Fish, Sea Serpent, and/or Aqua monsters from your hand and/or GY.",
+        "race": "Sea Serpent",
+        "atk": 3000,
+        "def": 1800,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 60517697,
@@ -275,6 +410,15 @@
       {
         "id": 6798031,
         "name": "Ryzeal Cross",
+        "desc": "You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 \"Ryzeal\" cards in your GY, except \"Ryzeal Cross\"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of \"Ryzeal Cross\" once per turn. Once per turn, when a monster effect activated by your opponent resolves, you can detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 6798031,
@@ -293,6 +437,15 @@
       {
         "id": 34909328,
         "name": "Ryzeal Detonator",
+        "desc": "2+ Level 4 \"Ryzeal\" monsters\r\nWhen your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it. You can only use each of the following effects of \"Ryzeal Detonator\" once per turn. If this card is Special Summoned: You can attach 1 monster from your GY to this card as material. If an Xyz Monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 2500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 34909328,
@@ -311,6 +464,15 @@
       {
         "id": 66730191,
         "name": "Sangen Kaimen",
+        "desc": "Apply 1 of these effects, or if you activated this card during the Battle Phase, you can apply any of them, in sequence.\r\n● Add 1 Level 4 or lower FIRE Dragon monster from your Deck to your hand.\r\n● Special Summon 1 FIRE Dragon monster from your hand.\r\nYou can only activate 1 \"Sangen Kaimen\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 66730191,
@@ -329,6 +491,15 @@
       {
         "id": 18969888,
         "name": "Sangenpai Transcendent Dragion",
+        "desc": "1 Dragon Tuner + 1+ non-Tuner Dragon monsters\r\nAll monsters your opponent controls must attack, if able. Your opponent cannot activate cards or effects during the Battle Phase. If this card is Synchro Summoned: You can change all monsters on the field to Attack Position. If 3 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your GY, then you can destroy 1 card on the field. You can only use this effect of \"Sangenpai Transcendent Dragion\" once per Duel.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 18969888,
@@ -347,6 +518,15 @@
       {
         "id": 90241276,
         "name": "Snake-Eyes Poplar",
+        "desc": "If this card is added to your hand, except by drawing it: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
+        "race": "Pyro",
+        "atk": 700,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 90241276,
@@ -363,10 +543,19 @@
         ]
       }
     ],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 46396218,
         "name": "Azamina Ilia Silvia",
+        "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nAny battle damage your \"Azamina\" monsters, except \"Azamina Ilia Silvia\", inflicts to your opponent is doubled. You can only use each of the following effects of \"Azamina Ilia Silvia\" once per turn. When your opponent activates a card or effect (Quick Effect): You can Tribute this card; negate that effect. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Trap from your Deck to your hand.",
+        "race": "Illusion",
+        "atk": 1900,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 46396218,
@@ -385,6 +574,15 @@
       {
         "id": 73391962,
         "name": "Azamina Mu Rcielago",
+        "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nMonsters your opponent controls lose 500 ATK/DEF for each \"Azamina\" monster you control. You can only use each of the following effects of \"Azamina Mu Rcielago\" once per turn. If this card is Fusion Summoned: You can add 1 \"Azamina\" or \"Sinful Spoils\" card from your Deck to your hand. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Spell from your Deck to your hand.",
+        "race": "Illusion",
+        "atk": 2000,
+        "def": 2400,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 73391962,
@@ -403,6 +601,15 @@
       {
         "id": 56208713,
         "name": "Bacha the Melodious Maestra",
+        "desc": "2 \"Melodious\" monsters\r\nWhile you control this Fusion Summoned card, the activated effects of your \"Melodious\" Fusion Monsters cannot be negated. You can only use each of the following effects of \"Bacha the Melodious Maestra\" once per turn. If this card is Special Summoned: You can Special Summon 1 \"Melodious\" monster from your Deck. If this card is sent to the GY: You can target 1 \"Melodious\" monster in your GY, except \"Bacha the Melodious Maestra\"; Special Summon it in Defense Position.",
+        "race": "Fairy",
+        "atk": 2500,
+        "def": 1800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 56208713,
@@ -421,6 +628,15 @@
       {
         "id": 11443677,
         "name": "Blue-Eyes Tyrant Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + 1 Dragon monster\r\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 \"Blue-Eyes White Dragon\" equipped with a Fusion Monster. Unaffected by Trap Cards or effects. This card can attack all monsters your opponent controls, once each. Once per turn, at the end of the Damage Step, if this card battled: You can target 1 Trap in your GY; Set it to your Spell & Trap Zone.",
+        "race": "Dragon",
+        "atk": 3400,
+        "def": 2900,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 11443677,
@@ -439,6 +655,15 @@
       {
         "id": 89604813,
         "name": "Blue-Eyes Ultimate Spirit Dragon",
+        "desc": "2+ Tuners + 1 non-Tuner \"Blue-Eyes\" monster\r\nYour opponent cannot banish cards from your GY. You can only use each of the following effects of \"Blue-Eyes Ultimate Spirit Dragon\" once per turn. When a card or effect is activated on the field (Quick Effect): You can negate the activation, and if you do, this card gains 1000 ATK until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 LIGHT Dragon monster from your GY, except \"Blue-Eyes Ultimate Spirit Dragon\".",
+        "race": "Dragon",
+        "atk": 3500,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89604813,
@@ -457,6 +682,15 @@
       {
         "id": 72270339,
         "name": "Diabellstar the Black Witch",
+        "desc": "You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. You can only Special Summon \"Diabellstar the Black Witch\" once per turn this way. You can only use each of the following effects of \"Diabellstar the Black Witch\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Sinful Spoils\" Spell/Trap directly from your Deck. During your opponent's turn, if this card is sent from its owner's hand or field to the GY: You can send 1 card from your hand or field to the GY, and if you do, Special Summon this card.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 72270339,
@@ -475,6 +709,15 @@
       {
         "id": 64182380,
         "name": "Garunix Eternity, Hyang of the Fire Kings",
+        "desc": "2+ Level 8 monsters\r\nIf this card is Xyz Summoned: You can destroy all other monsters on the field. You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it, and if you do, this card gains 500 ATK. If this card is destroyed while it has material: You can Special Summon \"Fire King\" monsters from your GY, up to the number of materials this card had. You can only use each effect of \"Garunix Eternity, Hyang of the Fire Kings\" once per turn.",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 64182380,
@@ -493,6 +736,15 @@
       {
         "id": 90681088,
         "name": "Legendary Fire King Ponix",
+        "desc": "If your monster(s) that was originally FIRE is destroyed by battle or card effect: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Fire King\" Spell/Trap from your Deck to your hand. During the next Standby Phase after this card was destroyed and sent to the GY: Add this card from the GY to your hand. You can only use each effect of \"Legendary Fire King Ponix\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 500,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 90681088,
@@ -511,6 +763,15 @@
       {
         "id": 17947697,
         "name": "Maiden of White",
+        "desc": "You can send this card from your hand or field to the GY; place 1 \"True Light\" from your hand, Deck, or GY, face-up in your Spell & Trap Zone. If you Special Summon \"Blue-Eyes White Dragon\" while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" or 1 Level 1 LIGHT Tuner from your GY. You can only use each effect of \"Maiden of White\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 17947697,
@@ -529,6 +790,15 @@
       {
         "id": 20726052,
         "name": "Maliss GWC-06",
+        "desc": "You can activate this card the turn it was Set, by banishing 1 face-up \"Maliss\" monster you control. Special Summon 1 of your \"Maliss\" monsters that is banished or in your GY, then if you control a \"Maliss\" Link Monster, you can gain LP equal to the original ATK of that Special Summoned monster. You can only activate 1 \"Maliss GWC-06\" per turn.",
+        "race": "",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 20726052,
@@ -547,6 +817,15 @@
       {
         "id": 21848500,
         "name": "Maliss Hearts Crypter",
+        "desc": "3 monsters, including a \"Maliss\" monster\r\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field (while this card points to a monster, this effect and its activation cannot be negated). If this card is banished: You can pay 900 LP; Special Summon it and double its ATK. You can only use each effect of \"Maliss Hearts Crypter\" once per turn.",
+        "race": "Cyberse",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 21848500,
@@ -565,6 +844,15 @@
       {
         "id": 14529511,
         "name": "Mementomictlan Tecuhtlica - Creation King",
+        "desc": "3 \"Memento\" monsters\r\nYou can banish this card from your GY; add 1 \"Mementomictlan\" from your Deck to your hand. You cannot activate the following effects of \"Mementomictlan Tecuhtlica - Creation King\" in the same Chain. If this card is Fusion Summoned: You can send 3 \"Memento\" cards from your Deck and/or Extra Deck to the GY. (Quick Effect): You can target an equal number of \"Memento\" monsters you control and cards your opponent controls; destroy them. You can only use each effect of \"Mementomictlan Tecuhtlica - Creation King\" once per turn.",
+        "race": "Illusion",
+        "atk": 3000,
+        "def": 2000,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 14529511,
@@ -583,6 +871,15 @@
       {
         "id": 69385019,
         "name": "Mermail King - Neptabyss",
+        "desc": "2+ monsters, including a Fish, Sea Serpent, or Aqua monster\r\nYour opponent cannot target WATER monsters this card points to with card effects. You can only use each of the following effects of \"Mermail King - Neptabyss\" once per turn. If a WATER monster(s) is sent to the GY to activate a card or effect (except during the Damage Step): You can take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
+        "race": "Sea Serpent",
+        "atk": 2300,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 69385019,
@@ -601,6 +898,15 @@
       {
         "id": 65261141,
         "name": "Nightmare Pain",
+        "desc": "During your Main Phase: You can destroy 1 DARK monster in your hand or face-up field, and if you do, add 1 \"Yubel\", or 1 card that mentions it, from your Deck to your hand, except \"Nightmare Pain\". You can only use this effect of \"Nightmare Pain\" once per turn. While you control a \"Yubel\" monster, your opponent's monsters that can attack must attack \"Yubel\" monsters. Your opponent takes any battle damage you would have taken from battles involving your \"Yubel\" monsters.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 65261141,
@@ -619,6 +925,15 @@
       {
         "id": 60517697,
         "name": "Poseidra Abyss, the Atlantean Dragon Lord",
+        "desc": "3 Level 7 monsters\r\nOnce per turn, you can also Xyz Summon \"Poseidra Abyss, the Atlantean Dragon Lord\" by using 1 \"Atlantean\" or \"Mermail\" Xyz Monster you control. (Transfer its materials to this card.) Once per turn: You can detach 2 materials from this card, then send 1 WATER monster from your hand or Deck to the GY; return up to 3 cards your opponent controls to the hand. If this Xyz Summoned card is sent to the GY: You can discard 1 card to the GY; Special Summon 3 Level 3 or lower Fish, Sea Serpent, and/or Aqua monsters from your hand and/or GY.",
+        "race": "Sea Serpent",
+        "atk": 3000,
+        "def": 1800,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 60517697,
@@ -637,6 +952,15 @@
       {
         "id": 6798031,
         "name": "Ryzeal Cross",
+        "desc": "You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 \"Ryzeal\" cards in your GY, except \"Ryzeal Cross\"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of \"Ryzeal Cross\" once per turn. Once per turn, when a monster effect activated by your opponent resolves, you can detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 6798031,
@@ -655,6 +979,15 @@
       {
         "id": 34909328,
         "name": "Ryzeal Detonator",
+        "desc": "2+ Level 4 \"Ryzeal\" monsters\r\nWhen your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it. You can only use each of the following effects of \"Ryzeal Detonator\" once per turn. If this card is Special Summoned: You can attach 1 monster from your GY to this card as material. If an Xyz Monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 2500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 34909328,
@@ -673,6 +1006,15 @@
       {
         "id": 66730191,
         "name": "Sangen Kaimen",
+        "desc": "Apply 1 of these effects, or if you activated this card during the Battle Phase, you can apply any of them, in sequence.\r\n● Add 1 Level 4 or lower FIRE Dragon monster from your Deck to your hand.\r\n● Special Summon 1 FIRE Dragon monster from your hand.\r\nYou can only activate 1 \"Sangen Kaimen\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 66730191,
@@ -691,6 +1033,15 @@
       {
         "id": 18969888,
         "name": "Sangenpai Transcendent Dragion",
+        "desc": "1 Dragon Tuner + 1+ non-Tuner Dragon monsters\r\nAll monsters your opponent controls must attack, if able. Your opponent cannot activate cards or effects during the Battle Phase. If this card is Synchro Summoned: You can change all monsters on the field to Attack Position. If 3 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your GY, then you can destroy 1 card on the field. You can only use this effect of \"Sangenpai Transcendent Dragion\" once per Duel.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 18969888,
@@ -709,6 +1060,15 @@
       {
         "id": 90241276,
         "name": "Snake-Eyes Poplar",
+        "desc": "If this card is added to your hand, except by drawing it: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
+        "race": "Pyro",
+        "atk": 700,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 90241276,
@@ -725,8 +1085,28 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
-    "common": []
+    "new artwork": [
+      {
+        "id": 33396948,
+        "name": "Exodia the Forbidden One",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "New artwork",
+        "rarityCanonical": "new artwork",
+        "card_images": [
+          {
+            "id": 33396948,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33396948.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33396948.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33396948.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

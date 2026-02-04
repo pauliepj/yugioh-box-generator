@@ -1,75 +1,19 @@
 {
   "setName": "Tournament Pack 7",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 37043180,
-        "name": "D.D. Warrior",
-        "card_images": [
-          {
-            "id": 37043180,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37043180.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37043180.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37043180.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 71413901,
-        "name": "Breaker the Magical Warrior",
-        "card_images": [
-          {
-            "id": 71413901,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71413901.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71413901.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71413901.jpg"
-          }
-        ]
-      },
-      {
-        "id": 62337487,
-        "name": "Fortress Whale",
-        "card_images": [
-          {
-            "id": 62337487,
-            "image_url": "https://images.ygoprodeck.com/images/cards/62337487.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62337487.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62337487.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57482479,
-        "name": "Luminous Soldier",
-        "card_images": [
-          {
-            "id": 57482479,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57482479.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57482479.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57482479.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90873992,
-        "name": "Warrior Elimination",
-        "card_images": [
-          {
-            "id": 90873992,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90873992.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90873992.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90873992.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 94004268,
         "name": "Amazoness Swords Woman",
+        "desc": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 94004268,
@@ -82,6 +26,15 @@
       {
         "id": 72630549,
         "name": "Chaos Command Magician",
+        "desc": "Negate the effect of a Monster Card that targets this 1 card.",
+        "race": "Spellcaster",
+        "atk": 2400,
+        "def": 1900,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 72630549,
@@ -94,6 +47,15 @@
       {
         "id": 78658564,
         "name": "Goblin Attack Force",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 78658564,
@@ -106,6 +68,15 @@
       {
         "id": 73915051,
         "name": "Scapegoat",
+        "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 73915051,
@@ -116,10 +87,128 @@
         ]
       }
     ],
+    "super rare": [
+      {
+        "id": 71413901,
+        "name": "Breaker the Magical Warrior",
+        "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 71413901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71413901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71413901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71413901.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62337487,
+        "name": "Fortress Whale",
+        "desc": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
+        "race": "Fish",
+        "atk": 2350,
+        "def": 2150,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 62337487,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62337487.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62337487.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62337487.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57482479,
+        "name": "Luminous Soldier",
+        "desc": "If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1400,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 57482479,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57482479.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57482479.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57482479.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90873992,
+        "name": "Warrior Elimination",
+        "desc": "Destroy all Warrior monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 90873992,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90873992.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90873992.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90873992.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 37043180,
+        "name": "D.D. Warrior",
+        "desc": "After damage calculation, when this card battles a monster: Banish that monster, also banish this card.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 37043180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37043180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37043180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37043180.jpg"
+          }
+        ]
+      }
+    ],
     "common": [
       {
         "id": 29948642,
         "name": "Dig Beak",
+        "desc": "This beast coils like a snake, and strikes quickly with its snapping beak.",
+        "race": "Beast",
+        "atk": 500,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29948642,
@@ -132,6 +221,15 @@
       {
         "id": 77454922,
         "name": "Fortress Whale's Oath",
+        "desc": "This card is used to Ritual Summon \"Fortress Whale\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77454922,
@@ -144,6 +242,15 @@
       {
         "id": 84285623,
         "name": "Haniwa",
+        "desc": "An earthen figure that protects the tomb of an ancient ruler.",
+        "race": "Rock",
+        "atk": 500,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84285623,
@@ -156,6 +263,15 @@
       {
         "id": 85602018,
         "name": "Last Will",
+        "desc": "If a monster on your side of the field was sent to your Graveyard this turn, you can Special Summon 1 monster with an ATK of 1500 points or less from your Deck once during this turn. Then shuffle your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85602018,
@@ -168,6 +284,15 @@
       {
         "id": 47986555,
         "name": "Millennium Golem",
+        "desc": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+        "race": "Rock",
+        "atk": 2000,
+        "def": 2200,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47986555,
@@ -180,6 +305,15 @@
       {
         "id": 43352213,
         "name": "Nekogal #2",
+        "desc": "A fast and lethal creature with very dangerous claws.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43352213,
@@ -192,6 +326,15 @@
       {
         "id": 80234301,
         "name": "Prisman",
+        "desc": "This crystalline monster focuses light to create a lethal laser.",
+        "race": "Rock",
+        "atk": 800,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80234301,
@@ -204,6 +347,15 @@
       {
         "id": 73752131,
         "name": "Skilled Dark Magician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Dark Magician\" from your hand, Deck, or GY.",
+        "race": "Spellcaster",
+        "atk": 1900,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73752131,
@@ -216,6 +368,15 @@
       {
         "id": 46363422,
         "name": "Skilled White Magician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 \"Buster Blader\" from your hand, Deck, or Graveyard.",
+        "race": "Spellcaster",
+        "atk": 1700,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46363422,
@@ -228,6 +389,15 @@
       {
         "id": 68005187,
         "name": "Soul Exchange",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68005187,
@@ -240,6 +410,15 @@
       {
         "id": 13945283,
         "name": "Wall of Illusion",
+        "desc": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 1850,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13945283,

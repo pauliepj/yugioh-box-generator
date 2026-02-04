@@ -1,108 +1,1698 @@
 {
   "setName": "The Shining Darkness",
   "rarities": {
-    "secret": [
+    "rare": [
       {
-        "id": 31385077,
-        "name": "Chaos Goddess",
+        "id": 38837163,
+        "name": "Akz, the Pumer",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 Beast-Warrior-Type monsters in your Graveyard. Once per turn, you can discard 1 Beast-Warrior-Type monster to activate 1 of the following effects: ● Double this card's ATK until the End Phase. ● This card can attack your opponent directly this turn.",
+        "race": "Beast-Warrior",
+        "atk": 1500,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 31385077,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31385077.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31385077.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31385077.jpg"
+            "id": 38837163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38837163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38837163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38837163.jpg"
           }
         ]
       },
       {
-        "id": 19182751,
-        "name": "Genex Neutron",
+        "id": 36629203,
+        "name": "Ally of Justice Core Destroyer",
+        "desc": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 19182751,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19182751.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19182751.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19182751.jpg"
+            "id": 36629203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36629203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36629203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36629203.jpg"
           }
         ]
       },
       {
-        "id": 9059700,
-        "name": "Infernity Barrier",
+        "id": 74730899,
+        "name": "Batteryman Fuel Cell",
+        "desc": "If you control 2 or more face-up \"Batteryman\" monsters, you can Special Summon this card from your hand. Once per turn, you can Tribute 1 \"Batteryman\" monster, except this card, to select 1 card your opponent controls and return it to its owner's hand.",
+        "race": "Thunder",
+        "atk": 2100,
+        "def": 0,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 9059700,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9059700.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9059700.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9059700.jpg"
+            "id": 74730899,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74730899.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74730899.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74730899.jpg"
           }
         ]
       },
       {
-        "id": 98954375,
-        "name": "Infernity Destroyer",
+        "id": 89040386,
+        "name": "Blackwing - Backlash",
+        "desc": "When an opponent's monster declares a direct attack while you have 5 or more \"Blackwing\" monsters in your Graveyard: Destroy all monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 98954375,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98954375.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98954375.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98954375.jpg"
+            "id": 89040386,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89040386.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89040386.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89040386.jpg"
           }
         ]
       },
       {
-        "id": 80367387,
-        "name": "Koa'ki Meiru Bergzak",
+        "id": 52869807,
+        "name": "Blackwing - Gust the Backblast",
+        "desc": "If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a \"Blackwing\" monster you control, the attacking monster loses 300 ATK during the Damage Step only.",
+        "race": "Winged Beast",
+        "atk": 900,
+        "def": 1400,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 80367387,
-            "image_url": "https://images.ygoprodeck.com/images/cards/80367387.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80367387.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80367387.jpg"
+            "id": 52869807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52869807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52869807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52869807.jpg"
           }
         ]
       },
       {
-        "id": 73787254,
-        "name": "Saber Vault",
+        "id": 525110,
+        "name": "Cherry Inmato",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon up to 2 \"Inmato\" monsters from your Deck. They cannot be used as Synchro Material Monsters this turn.",
+        "race": "Plant",
+        "atk": 700,
+        "def": 400,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 73787254,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73787254.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73787254.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73787254.jpg"
+            "id": 525110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/525110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/525110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/525110.jpg"
           }
         ]
       },
       {
-        "id": 35448319,
-        "name": "Snyffus",
+        "id": 12079734,
+        "name": "Delta Tri",
+        "desc": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects: \n● Select 1 appropriate Union monster in your Graveyard and equip it to this card. \n● Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 35448319,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35448319.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35448319.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35448319.jpg"
+            "id": 12079734,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12079734.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12079734.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12079734.jpg"
           }
         ]
       },
       {
-        "id": 63665606,
-        "name": "Wave-Motion Inferno",
+        "id": 51925772,
+        "name": "Dread Dragon",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 3 or lower Dragon-Type monster from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1100,
+        "def": 400,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
-            "id": 63665606,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63665606.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63665606.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63665606.jpg"
+            "id": 51925772,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51925772.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51925772.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51925772.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91107093,
+        "name": "Electromagnetic Shield",
+        "desc": "Level 3 or lower Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 91107093,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91107093.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91107093.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91107093.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67483216,
+        "name": "Genex Searcher",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Genex\" monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 67483216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67483216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67483216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67483216.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88928798,
+        "name": "Guard Mines",
+        "desc": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 88928798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88928798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88928798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88928798.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85475641,
+        "name": "Infernity Avenger",
+        "desc": "When a monster you control, except \"Infernity Avenger\", is destroyed by battle with an opponent's monster and sent to the Graveyard, while you have no cards in your hand, you can Special Summon this card from your Graveyard. In that case, the Level of this card is equal to the Level of your destroyed monster.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 85475641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85475641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85475641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85475641.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49080532,
+        "name": "Infernity Beetle",
+        "desc": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+        "race": "Insect",
+        "atk": 1200,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 49080532,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49080532.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49080532.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49080532.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14550855,
+        "name": "Infernity Inferno",
+        "desc": "Discard up to 2 cards, and send the same number of \"Infernity\" cards from your Deck to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 14550855,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14550855.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14550855.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14550855.jpg"
+          }
+        ]
+      },
+      {
+        "id": 176392,
+        "name": "Koa'ki Meiru Prototype",
+        "desc": "If a face-up \"Koa'ki Meiru\" monster(s) on the field would be destroyed during the End Phase, you can destroy this card instead. When a face-up \"Koa'ki Meiru\" monster(s) on the field is destroyed during the End Phase, you can Special Summon 1 \"Koa'ki Meiru Token\" (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800).",
+        "race": "Rock",
+        "atk": 1800,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 176392,
+            "image_url": "https://images.ygoprodeck.com/images/cards/176392.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/176392.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/176392.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12216615,
+        "name": "Koa'ki Meiru Shield",
+        "desc": "Activate only when your opponent's monster declares an attack if you have 2 or more \"Iron Core of Koa'ki Meiru\" in your Graveyard. Destroy all face-up Attack Position monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 12216615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12216615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12216615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12216615.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47929865,
+        "name": "Magidog",
+        "desc": "If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type monster, you can select and add 1 Field Spell Card from your Graveyard to your hand.",
+        "race": "Spellcaster",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 47929865,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47929865.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47929865.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47929865.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66835946,
+        "name": "Pyramid of Wonders",
+        "desc": "All Zombie monsters you control gain 200 ATK for each monster your opponent controls. If exactly 1 Zombie monster you control (and no other cards) would be destroyed, you can send this card to the GY instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 66835946,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66835946.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66835946.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66835946.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12469386,
+        "name": "Revival Rose",
+        "desc": "If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from the Graveyard.",
+        "race": "Plant",
+        "atk": 1300,
+        "def": 1300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 12469386,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12469386.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12469386.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12469386.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92223641,
+        "name": "The Fountain in the Sky",
+        "desc": "When a LIGHT monster is destroyed by battle and sent to your Graveyard, you can remove that monster from play to gain Life Points equal to its ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 92223641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92223641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223641.jpg"
           }
         ]
       }
     ],
-    "ultra": [
+    "super rare": [
+      {
+        "id": 19204398,
+        "name": "Ally of Justice Light Gazer",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 1600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 19204398,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19204398.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19204398.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19204398.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75252099,
+        "name": "Bird of Roses",
+        "desc": "When this face-up Attack Position card is destroyed by battle with an opponent's attacking monster and sent to the Graveyard, you can Special Summon 2 Plant-Type Tuner monsters from your Deck in face-up Defense Position.",
+        "race": "Plant",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 75252099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75252099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75252099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75252099.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36560997,
+        "name": "Core Overclock",
+        "desc": "All face-up \"Koa'ki Meiru\" monsters you control gain 500 ATK. Once per turn, during your Main Phase, you can discard 1 \"Iron Core of Koa'ki Meiru\" to have all face-up \"Koa'ki Meiru\" monsters you control gain 1000 ATK, until the End Phase.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 36560997,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36560997.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36560997.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36560997.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87106146,
+        "name": "Damage Gate",
+        "desc": "When you take battle damage: Target 1 monster in your Graveyard with ATK less than or equal to the amount of damage you took; Special Summon that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 87106146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87106146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87106146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87106146.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47421985,
+        "name": "Hydro Genex",
+        "desc": "\"Genex Controller\" + 1 or more non-Tuner WATER monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1800,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 47421985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47421985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47421985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47421985.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66957584,
+        "name": "Infernity Launcher",
+        "desc": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 \"Infernity\" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 66957584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66957584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66957584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66957584.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86197239,
+        "name": "Infernity Mirage",
+        "desc": "This card cannot be Special Summoned from the Graveyard. If you have no cards in your hand, you can Tribute this card to select 2 \"Infernity\" monsters in your Graveyard. Special Summon those monsters.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 86197239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86197239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86197239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86197239.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2843014,
+        "name": "Nimble Sunfish",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, send 1 Fish-Type monster from your Deck to the Graveyard. Then, you can Special Summon 1 \"Nimble Sunfish\" from your Deck.",
+        "race": "Fish",
+        "atk": 1000,
+        "def": 100,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 2843014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2843014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2843014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2843014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53656677,
+        "name": "Power Frame",
+        "desc": "When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 53656677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53656677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53656677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53656677.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75105429,
+        "name": "Synchro Ejection",
+        "desc": "Select 1 face-up Synchro Monster your opponent controls and remove it from play. Then, your opponent draws 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 75105429,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75105429.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75105429.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75105429.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87319876,
+        "name": "Trust Guardian",
+        "desc": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Level 7 or higher Synchro Monster. Once per turn, that Synchro Monster cannot be destroyed by battle. Each time this effect is applied, that Synchro Monster loses 400 ATK and DEF at the end of the Damage Step.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 87319876,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87319876.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87319876.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87319876.jpg"
+          }
+        ]
+      },
+      {
+        "id": 402568,
+        "name": "Wattgiraffe",
+        "desc": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.",
+        "race": "Thunder",
+        "atk": 1200,
+        "def": 100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 402568,
+            "image_url": "https://images.ygoprodeck.com/images/cards/402568.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/402568.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/402568.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5998840,
+        "name": "XX-Saber Boggart Knight",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 5998840,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5998840.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5998840.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5998840.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30562585,
+        "name": "ZERO-MAX",
+        "desc": "Activate only if you have no cards in your hand. Select 1 \"Infernity\" monster in your Graveyard. Special Summon it, and destroy all face-up monsters on the field with ATK lower than the Special Summoned monster's ATK. You cannot conduct your Battle Phase during the same turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 30562585,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30562585.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30562585.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30562585.jpg"
+          }
+        ]
+      }
+    ],
+    "common": [
+      {
+        "id": 14430063,
+        "name": "Archfiend Interceptor",
+        "desc": "While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 14430063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14430063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14430063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14430063.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87043568,
+        "name": "Assault Spirits",
+        "desc": "After activation, treat this card as an Equip Card, and equip it to a monster you control. Once per turn, during the equipped monster's attack, you can send 1 monster with 1000 or less ATK from your hand to the Graveyard during the Damage Step to have the equipped monster gain the ATK of the sent monster, until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 87043568,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87043568.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87043568.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87043568.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47346845,
+        "name": "Batteryman AAA",
+        "desc": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
+        "race": "Thunder",
+        "atk": 0,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 47346845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47346845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47346845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47346845.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74130411,
+        "name": "Biofalcon",
+        "desc": "When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 74130411,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74130411.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74130411.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74130411.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52833089,
+        "name": "Black Thunder",
+        "desc": "Activate only when a \"Blackwing\" monster you control is destroyed by battle and sent to the Graveyard. Inflict 400 damage to your opponent for each card your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 52833089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52833089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52833089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52833089.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67779172,
+        "name": "Black-Winged Strafe",
+        "desc": "Send 1 \"Blackwing\" monster from your hand to the Graveyard to select 1 Defense Position monster your opponent controls. Send that monster to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 67779172,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67779172.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67779172.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67779172.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25435080,
+        "name": "Blackwing - Bombardment",
+        "desc": "Tribute 1 \"Blackwing\" monster to select 1 face-up Synchro Monster you control. That Synchro Monster gains ATK equal to the Tributed monster's ATK, until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 25435080,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25435080.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25435080.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25435080.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26775203,
+        "name": "Blackwing - Ghibli the Searing Wind",
+        "desc": "When your opponent declares a direct attack: You can Special Summon this card from your hand. Once per turn: You can switch the original ATK and DEF of this card, until the end of this turn.",
+        "race": "Winged Beast",
+        "atk": 0,
+        "def": 1600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 26775203,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26775203.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26775203.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26775203.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13438207,
+        "name": "Blossom Bombardment",
+        "desc": "When a Plant-Type monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the destroyed monster's ATK in the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13438207,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13438207.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13438207.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13438207.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51047350,
+        "name": "Card Breaker",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 900,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51047350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51047350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51047350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51047350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25652655,
+        "name": "Changer Synchron",
+        "desc": "If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 25652655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25652655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25652655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25652655.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49600724,
+        "name": "Crevice Into the Different Dimension",
+        "desc": "Declare 1 Attribute and select a total of 2 monsters with that Attribute from the Graveyards. Remove those monsters from play.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 49600724,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49600724.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49600724.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49600724.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27383110,
+        "name": "Dawn of the Herald",
+        "desc": "This card is used to Ritual Summon \"Herald of Perfection\". You must also Tribute monsters from your hand or field whose total Levels equal exactly 6. When \"Herald of Perfection\" is Ritual Summoned by this card's effect: You can banish this card from your Graveyard, then target 1 of the monsters in your Graveyard that was Tributed for that Ritual Summon; return that target to your hand.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 27383110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27383110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27383110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27383110.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29228350,
+        "name": "Dragon Laser",
+        "desc": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 29228350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29228350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29228350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29228350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48742406,
+        "name": "Fairy Archer",
+        "desc": "During your Main Phase, you can inflict 400 damage to your opponent for each face-up LIGHT monster you control. This card cannot attack during the same turn you activate this effect. Only one \"Fairy Archer\" can have its effect activated per turn.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 600,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 48742406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48742406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48742406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48742406.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13708425,
+        "name": "Flare Resonator",
+        "desc": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 1300,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13708425,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13708425.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13708425.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13708425.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68505803,
+        "name": "Genex Controller",
+        "desc": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 68505803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4904812,
+        "name": "Genex Undine",
+        "desc": "When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 \"Genex Controller\" from your Deck to your hand.",
+        "race": "Aqua",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 4904812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51717541,
+        "name": "Infernity Break",
+        "desc": "If you have no cards in your hand: Target 1 \"Infernity\" card in your Graveyard and 1 card your opponent controls; banish the first target, and if you do, destroy the second target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51717541,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51717541.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51717541.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51717541.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13582837,
+        "name": "Infernity Randomizer",
+        "desc": "Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster x 200. For a Spell or Trap Card, you take 500 damage.",
+        "race": "Warrior",
+        "atk": 900,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13582837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13582837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13582837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13582837.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15313433,
+        "name": "Infernity Reflector",
+        "desc": "Activate only by discarding all the cards in your hand when an \"Infernity\" monster you control is destroyed by battle and sent to the Graveyard. Select and Special Summon that monster from your Graveyard, and inflict 1000 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 15313433,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15313433.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15313433.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15313433.jpg"
+          }
+        ]
+      },
+      {
+        "id": 135598,
+        "name": "Key Mouse",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 3 or lower Beast-Type monster from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 135598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/135598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/135598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/135598.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91985515,
+        "name": "Koa'ki Meiru Initialize!",
+        "desc": "Tribute 1 \"Koa'ki Meiru\" monster to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck or Graveyard to your hand.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 91985515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91985515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91985515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91985515.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49680980,
+        "name": "Koa'ki Meiru Sandman",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY or reveal 1 Rock monster in your hand. When your opponent activates a Trap Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card.",
+        "race": "Rock",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 49680980,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49680980.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49680980.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49680980.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90263923,
+        "name": "Leeching the Light",
+        "desc": "Select 1 face-up LIGHT monster your opponent controls. All face-up Attack Position monsters you control gain ATK equal to the ATK of the selected monster, until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 90263923,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90263923.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90263923.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90263923.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73318863,
+        "name": "Lyna the Light Charmer",
+        "desc": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 73318863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73318863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73318863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73318863.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64990807,
+        "name": "Magic Triangle of the Ice Barrier",
+        "desc": "Reveal 3 \"Ice Barrier\" monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 \"Ice Barrier\" monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64990807,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64990807.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64990807.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64990807.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75675029,
+        "name": "Memory Crush King",
+        "desc": "When this card inflicts Battle Damage to your opponent by a direct attack, remove from play all Synchro Monsters in your opponent's Graveyard, and inflict 1000 damage to your opponent for each monster removed.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 0,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 75675029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75675029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75675029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75675029.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48868994,
+        "name": "Morphtronic Vacuumen",
+        "desc": "● While in Attack Position: Once per turn, you can send 1 Equip Card equipped to this card to the Graveyard to inflict 500 damage to your opponent. \n ● While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card as an Equip Card. (You can only equip 1 monster at a time to this card by this effect.)",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 48868994,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48868994.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48868994.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48868994.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49833312,
+        "name": "Morphtronics, Scramble!",
+        "desc": "Activate only when your opponent declares a direct attack while you control no monsters. Negate that attack and Special Summon 1 \"Morphtronic\" monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 49833312,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49833312.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49833312.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49833312.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40555959,
+        "name": "Phantom Hand",
+        "desc": "Once per turn, if you control a face-up \"Infernity\" monster(s), you can remove from play all cards in your hand (face-down) until your next Standby Phase.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 40555959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40555959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40555959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40555959.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86821010,
+        "name": "Power Break",
+        "desc": "Activate only while you control a face-up \"Power Tool Dragon\". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86821010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86821010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86821010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86821010.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1357146,
+        "name": "Ronintoadin",
+        "desc": "Cannot be used as a Synchro Material. This card's name becomes \"Des Frog\" while it is on the field. If this card is in your Graveyard: You can banish 1 \"Frog\" monster from your Graveyard; Special Summon this card.",
+        "race": "Aqua",
+        "atk": 100,
+        "def": 2000,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 1357146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1357146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1357146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1357146.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88032368,
+        "name": "Second Booster",
+        "desc": "You can Tribute this card to select 1 face-up Attack Position monster you control. The selected monster gains 1500 ATK until the End Phase.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 500,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 88032368,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88032368.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88032368.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88032368.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53778229,
+        "name": "Silent Graveyard",
+        "desc": "Discard 1 card; effects that activate in the GY this turn are negated.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 53778229,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53778229.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53778229.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53778229.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11747708,
+        "name": "Spore",
+        "desc": "If this card is in your Graveyard: You can banish 1 other Plant-Type monster from your Graveyard; Special Summon this card from your Graveyard and increase its Level by the Level of that banished monster. Each player can only activate the effect of \"Spore\" once per Duel.",
+        "race": "Plant",
+        "atk": 400,
+        "def": 800,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11747708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11747708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11747708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11747708.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50702124,
+        "name": "Synchro Magnet",
+        "desc": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 50702124,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50702124.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50702124.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50702124.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48568432,
+        "name": "Trigon",
+        "desc": "Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, select and Special Summon 1 Level 4 or lower LIGHT Machine-Type monster from your Graveyard. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 1700,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Union Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 48568432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48568432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48568432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48568432.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65612454,
+        "name": "Wattcube",
+        "desc": "Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card from the field to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 65612454,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65612454.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65612454.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65612454.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46897277,
+        "name": "Wattfox",
+        "desc": "If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap effects, or Monster Card effects, for the rest of this turn.",
+        "race": "Thunder",
+        "atk": 800,
+        "def": 100,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46897277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46897277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46897277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46897277.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12296376,
+        "name": "Wattwoodpecker",
+        "desc": "This card can attack twice during each Battle Phase. Any monster that battles with this card cannot change its battle position.",
+        "race": "Thunder",
+        "atk": 1000,
+        "def": 100,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12296376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12296376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12296376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12296376.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28506708,
+        "name": "Worm Call",
+        "desc": "Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Reptile-Type \"Worm\" monster from your hand in face-down Defense Position.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 28506708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28506708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28506708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28506708.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96099959,
+        "name": "X-Saber Palomuro",
+        "desc": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
+        "race": "Reptile",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 96099959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96099959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96099959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96099959.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23093604,
+        "name": "X-Saber Pashuul",
+        "desc": "This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 23093604,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23093604.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23093604.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23093604.jpg"
+          }
+        ]
+      }
+    ],
+    "ghost rare": [
       {
         "id": 9012916,
         "name": "Black-Winged Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ghost Rare",
+        "rarityCanonical": "ghost rare",
+        "card_images": [
+          {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+          },
+          {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+          },
+          {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 9012916,
+        "name": "Black-Winged Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 9012916,
@@ -127,6 +1717,15 @@
       {
         "id": 89258906,
         "name": "Blackwing - Breeze the Zephyr",
+        "desc": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" monster.",
+        "race": "Winged Beast",
+        "atk": 1100,
+        "def": 300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 89258906,
@@ -145,6 +1744,15 @@
       {
         "id": 4168871,
         "name": "Cards for Black Feathers",
+        "desc": "Banish 1 \"Blackwing\" monster from your hand; draw 2 cards. You cannot Special Summon during the turn you activate this card. You can only activate 1 \"Cards for Black Feathers\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 4168871,
@@ -163,6 +1771,15 @@
       {
         "id": 36407615,
         "name": "Chaos King Archfiend",
+        "desc": "1 Fiend-Type Tuner + 1 or more non-Tuner monsters\nWhen this card declares an attack: You can switch the current ATK and DEF of all face-up monsters your opponent controls, until the end of the Battle Phase.",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 2600,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 36407615,
@@ -181,6 +1798,15 @@
       {
         "id": 44665365,
         "name": "Herald of Perfection",
+        "desc": "You can Ritual Summon this card with \"Dawn of the Herald\". During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 2800,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 44665365,
@@ -199,6 +1825,15 @@
       {
         "id": 72896720,
         "name": "Infernity Doom Dragon",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner monsters\nOnce per turn, if you have no cards in your hand, you can select 1 monster your opponent controls. Destroy that monster and inflict damage to your opponent equal to half its ATK. This card cannot attack during the same turn you activate this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 72896720,
@@ -217,6 +1852,15 @@
       {
         "id": 39440937,
         "name": "Intercept Wave",
+        "desc": "All Synchro Monsters on the field are changed to Defense Position. And then, return all face-up Synchro Monsters to the Extra Deck during the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 39440937,
@@ -235,6 +1879,15 @@
       {
         "id": 93946239,
         "name": "Into the Void",
+        "desc": "If you have 3 or more cards in your hand: Draw 1 card, and if you do, during the End Phase of this turn, discard your entire hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 93946239,
@@ -253,6 +1906,15 @@
       {
         "id": 4290468,
         "name": "Splendid Rose",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can banish 1 Plant-Type monster from your Graveyard, then target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn. During the Battle Phase, if this card attacked: You can banish 1 Plant-Type monster from your Graveyard; halve this card's ATK until the end of this turn, and if you do, this card can make a second attack during this Battle Phase.",
+        "race": "Plant",
+        "atk": 2200,
+        "def": 2000,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 4290468,
@@ -271,6 +1933,15 @@
       {
         "id": 31383545,
         "name": "XX-Saber Darksoul",
+        "desc": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 31383545,
@@ -287,944 +1958,536 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
-        "id": 19204398,
-        "name": "Ally of Justice Light Gazer",
+        "id": 9012916,
+        "name": "Black-Winged Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 19204398,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19204398.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19204398.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19204398.jpg"
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+          },
+          {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
+          },
+          {
+            "id": 9012916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9012916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9012916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9012916.jpg"
           }
         ]
       },
       {
-        "id": 75252099,
-        "name": "Bird of Roses",
+        "id": 89258906,
+        "name": "Blackwing - Breeze the Zephyr",
+        "desc": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" monster.",
+        "race": "Winged Beast",
+        "atk": 1100,
+        "def": 300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 75252099,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75252099.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75252099.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75252099.jpg"
+            "id": 89258906,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89258906.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89258906.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89258906.jpg"
+          },
+          {
+            "id": 89258906,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89258906.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89258906.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89258906.jpg"
           }
         ]
       },
       {
-        "id": 36560997,
-        "name": "Core Overclock",
+        "id": 4168871,
+        "name": "Cards for Black Feathers",
+        "desc": "Banish 1 \"Blackwing\" monster from your hand; draw 2 cards. You cannot Special Summon during the turn you activate this card. You can only activate 1 \"Cards for Black Feathers\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 36560997,
-            "image_url": "https://images.ygoprodeck.com/images/cards/36560997.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36560997.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36560997.jpg"
+            "id": 4168871,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4168871.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4168871.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4168871.jpg"
+          },
+          {
+            "id": 4168871,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4168871.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4168871.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4168871.jpg"
           }
         ]
       },
       {
-        "id": 87106146,
-        "name": "Damage Gate",
+        "id": 36407615,
+        "name": "Chaos King Archfiend",
+        "desc": "1 Fiend-Type Tuner + 1 or more non-Tuner monsters\nWhen this card declares an attack: You can switch the current ATK and DEF of all face-up monsters your opponent controls, until the end of the Battle Phase.",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 2600,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 87106146,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87106146.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87106146.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87106146.jpg"
+            "id": 36407615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36407615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36407615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36407615.jpg"
+          },
+          {
+            "id": 36407615,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36407615.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36407615.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36407615.jpg"
           }
         ]
       },
       {
-        "id": 47421985,
-        "name": "Hydro Genex",
+        "id": 44665365,
+        "name": "Herald of Perfection",
+        "desc": "You can Ritual Summon this card with \"Dawn of the Herald\". During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 2800,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 47421985,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47421985.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47421985.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47421985.jpg"
+            "id": 44665365,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44665365.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44665365.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44665365.jpg"
+          },
+          {
+            "id": 44665365,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44665365.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44665365.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44665365.jpg"
           }
         ]
       },
       {
-        "id": 66957584,
-        "name": "Infernity Launcher",
+        "id": 72896720,
+        "name": "Infernity Doom Dragon",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner monsters\nOnce per turn, if you have no cards in your hand, you can select 1 monster your opponent controls. Destroy that monster and inflict damage to your opponent equal to half its ATK. This card cannot attack during the same turn you activate this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 66957584,
-            "image_url": "https://images.ygoprodeck.com/images/cards/66957584.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66957584.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66957584.jpg"
+            "id": 72896720,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72896720.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72896720.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72896720.jpg"
+          },
+          {
+            "id": 72896720,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72896720.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72896720.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72896720.jpg"
           }
         ]
       },
       {
-        "id": 86197239,
-        "name": "Infernity Mirage",
+        "id": 39440937,
+        "name": "Intercept Wave",
+        "desc": "All Synchro Monsters on the field are changed to Defense Position. And then, return all face-up Synchro Monsters to the Extra Deck during the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 86197239,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86197239.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86197239.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86197239.jpg"
+            "id": 39440937,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39440937.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39440937.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39440937.jpg"
+          },
+          {
+            "id": 39440937,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39440937.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39440937.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39440937.jpg"
           }
         ]
       },
       {
-        "id": 2843014,
-        "name": "Nimble Sunfish",
+        "id": 93946239,
+        "name": "Into the Void",
+        "desc": "If you have 3 or more cards in your hand: Draw 1 card, and if you do, during the End Phase of this turn, discard your entire hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 2843014,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2843014.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2843014.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2843014.jpg"
+            "id": 93946239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93946239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93946239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93946239.jpg"
+          },
+          {
+            "id": 93946239,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93946239.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93946239.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93946239.jpg"
           }
         ]
       },
       {
-        "id": 53656677,
-        "name": "Power Frame",
+        "id": 4290468,
+        "name": "Splendid Rose",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn: You can banish 1 Plant-Type monster from your Graveyard, then target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn. During the Battle Phase, if this card attacked: You can banish 1 Plant-Type monster from your Graveyard; halve this card's ATK until the end of this turn, and if you do, this card can make a second attack during this Battle Phase.",
+        "race": "Plant",
+        "atk": 2200,
+        "def": 2000,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 53656677,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53656677.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53656677.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53656677.jpg"
+            "id": 4290468,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4290468.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4290468.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4290468.jpg"
+          },
+          {
+            "id": 4290468,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4290468.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4290468.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4290468.jpg"
           }
         ]
       },
       {
-        "id": 75105429,
-        "name": "Synchro Ejection",
+        "id": 31383545,
+        "name": "XX-Saber Darksoul",
+        "desc": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 75105429,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75105429.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75105429.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75105429.jpg"
-          }
-        ]
-      },
-      {
-        "id": 87319876,
-        "name": "Trust Guardian",
-        "card_images": [
+            "id": 31383545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31383545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31383545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31383545.jpg"
+          },
           {
-            "id": 87319876,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87319876.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87319876.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87319876.jpg"
-          }
-        ]
-      },
-      {
-        "id": 402568,
-        "name": "Wattgiraffe",
-        "card_images": [
-          {
-            "id": 402568,
-            "image_url": "https://images.ygoprodeck.com/images/cards/402568.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/402568.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/402568.jpg"
-          }
-        ]
-      },
-      {
-        "id": 5998840,
-        "name": "XX-Saber Boggart Knight",
-        "card_images": [
-          {
-            "id": 5998840,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5998840.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5998840.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5998840.jpg"
-          }
-        ]
-      },
-      {
-        "id": 30562585,
-        "name": "ZERO-MAX",
-        "card_images": [
-          {
-            "id": 30562585,
-            "image_url": "https://images.ygoprodeck.com/images/cards/30562585.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30562585.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30562585.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [
-      {
-        "id": 38837163,
-        "name": "Akz, the Pumer",
-        "card_images": [
-          {
-            "id": 38837163,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38837163.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38837163.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38837163.jpg"
-          }
-        ]
-      },
-      {
-        "id": 36629203,
-        "name": "Ally of Justice Core Destroyer",
-        "card_images": [
-          {
-            "id": 36629203,
-            "image_url": "https://images.ygoprodeck.com/images/cards/36629203.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36629203.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36629203.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74730899,
-        "name": "Batteryman Fuel Cell",
-        "card_images": [
-          {
-            "id": 74730899,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74730899.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74730899.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74730899.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89040386,
-        "name": "Blackwing - Backlash",
-        "card_images": [
-          {
-            "id": 89040386,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89040386.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89040386.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89040386.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52869807,
-        "name": "Blackwing - Gust the Backblast",
-        "card_images": [
-          {
-            "id": 52869807,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52869807.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52869807.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52869807.jpg"
-          }
-        ]
-      },
-      {
-        "id": 525110,
-        "name": "Cherry Inmato",
-        "card_images": [
-          {
-            "id": 525110,
-            "image_url": "https://images.ygoprodeck.com/images/cards/525110.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/525110.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/525110.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12079734,
-        "name": "Delta Tri",
-        "card_images": [
-          {
-            "id": 12079734,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12079734.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12079734.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12079734.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51925772,
-        "name": "Dread Dragon",
-        "card_images": [
-          {
-            "id": 51925772,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51925772.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51925772.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51925772.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91107093,
-        "name": "Electromagnetic Shield",
-        "card_images": [
-          {
-            "id": 91107093,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91107093.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91107093.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91107093.jpg"
-          }
-        ]
-      },
-      {
-        "id": 67483216,
-        "name": "Genex Searcher",
-        "card_images": [
-          {
-            "id": 67483216,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67483216.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67483216.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67483216.jpg"
-          }
-        ]
-      },
-      {
-        "id": 88928798,
-        "name": "Guard Mines",
-        "card_images": [
-          {
-            "id": 88928798,
-            "image_url": "https://images.ygoprodeck.com/images/cards/88928798.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88928798.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88928798.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85475641,
-        "name": "Infernity Avenger",
-        "card_images": [
-          {
-            "id": 85475641,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85475641.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85475641.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85475641.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49080532,
-        "name": "Infernity Beetle",
-        "card_images": [
-          {
-            "id": 49080532,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49080532.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49080532.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49080532.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14550855,
-        "name": "Infernity Inferno",
-        "card_images": [
-          {
-            "id": 14550855,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14550855.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14550855.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14550855.jpg"
-          }
-        ]
-      },
-      {
-        "id": 176392,
-        "name": "Koa'ki Meiru Prototype",
-        "card_images": [
-          {
-            "id": 176392,
-            "image_url": "https://images.ygoprodeck.com/images/cards/176392.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/176392.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/176392.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12216615,
-        "name": "Koa'ki Meiru Shield",
-        "card_images": [
-          {
-            "id": 12216615,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12216615.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12216615.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12216615.jpg"
-          }
-        ]
-      },
-      {
-        "id": 47929865,
-        "name": "Magidog",
-        "card_images": [
-          {
-            "id": 47929865,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47929865.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47929865.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47929865.jpg"
-          }
-        ]
-      },
-      {
-        "id": 66835946,
-        "name": "Pyramid of Wonders",
-        "card_images": [
-          {
-            "id": 66835946,
-            "image_url": "https://images.ygoprodeck.com/images/cards/66835946.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66835946.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66835946.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12469386,
-        "name": "Revival Rose",
-        "card_images": [
-          {
-            "id": 12469386,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12469386.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12469386.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12469386.jpg"
-          }
-        ]
-      },
-      {
-        "id": 92223641,
-        "name": "The Fountain in the Sky",
-        "card_images": [
-          {
-            "id": 92223641,
-            "image_url": "https://images.ygoprodeck.com/images/cards/92223641.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92223641.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92223641.jpg"
+            "id": 31383545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31383545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31383545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31383545.jpg"
           }
         ]
       }
     ],
-    "common": [
+    "secret rare": [
       {
-        "id": 14430063,
-        "name": "Archfiend Interceptor",
+        "id": 31385077,
+        "name": "Chaos Goddess",
+        "desc": "1 LIGHT Tuner + 2+ non-Tuner DARK monsters\nOnce per turn: You can send 1 LIGHT monster from your hand to the GY, then target 1 Level 5 or higher DARK monster in your GY; Special Summon that monster, but it cannot be used as Synchro Material.",
+        "race": "Fairy",
+        "atk": 2500,
+        "def": 1800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 14430063,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14430063.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14430063.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14430063.jpg"
+            "id": 31385077,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31385077.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31385077.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31385077.jpg"
           }
         ]
       },
       {
-        "id": 87043568,
-        "name": "Assault Spirits",
+        "id": 19182751,
+        "name": "Genex Neutron",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 87043568,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87043568.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87043568.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87043568.jpg"
+            "id": 19182751,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19182751.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19182751.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19182751.jpg"
           }
         ]
       },
       {
-        "id": 47346845,
-        "name": "Batteryman AAA",
+        "id": 9059700,
+        "name": "Infernity Barrier",
+        "desc": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a face-up Attack Position \"Infernity\" monster and have no cards in your hand: Negate the activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 47346845,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47346845.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47346845.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47346845.jpg"
+            "id": 9059700,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9059700.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9059700.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9059700.jpg"
           }
         ]
       },
       {
-        "id": 74130411,
-        "name": "Biofalcon",
+        "id": 98954375,
+        "name": "Infernity Destroyer",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.",
+        "race": "Fiend",
+        "atk": 2300,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 74130411,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74130411.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74130411.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74130411.jpg"
+            "id": 98954375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98954375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98954375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98954375.jpg"
           }
         ]
       },
       {
-        "id": 52833089,
-        "name": "Black Thunder",
+        "id": 80367387,
+        "name": "Koa'ki Meiru Bergzak",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, it can attack once again in a row.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 52833089,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52833089.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52833089.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52833089.jpg"
+            "id": 80367387,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80367387.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80367387.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80367387.jpg"
           }
         ]
       },
       {
-        "id": 67779172,
-        "name": "Black-Winged Strafe",
+        "id": 73787254,
+        "name": "Saber Vault",
+        "desc": "Each face-up \"X-Saber\" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 67779172,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67779172.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67779172.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67779172.jpg"
+            "id": 73787254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73787254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73787254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73787254.jpg"
           }
         ]
       },
       {
-        "id": 25435080,
-        "name": "Blackwing - Bombardment",
+        "id": 35448319,
+        "name": "Snyffus",
+        "desc": "Once per turn, you can Tribute 1 Plant-Type monster to select and destroy 1 face-up card your opponent controls. When a Plant-Type monster(s) on the field is destroyed while this card is in the Graveyard, you can Special Summon this card from the Graveyard. If you do, remove this card from play when it is removed from the field.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 25435080,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25435080.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25435080.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25435080.jpg"
+            "id": 35448319,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35448319.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35448319.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35448319.jpg"
           }
         ]
       },
       {
-        "id": 26775203,
-        "name": "Blackwing - Ghibli the Searing Wind",
+        "id": 63665606,
+        "name": "Wave-Motion Inferno",
+        "desc": "While you have no cards in your hand, face-up \"Infernity\" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 26775203,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26775203.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26775203.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26775203.jpg"
+            "id": 63665606,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63665606.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63665606.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63665606.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 11593137,
+        "name": "Chaos Trap Hole",
+        "desc": "When a LIGHT or DARK monster(s) would be Summoned: Pay 2000 LP; negate the Summon of the LIGHT and DARK monster(s), and if you do, banish it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 11593137,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11593137.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11593137.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11593137.jpg"
           }
         ]
       },
       {
-        "id": 13438207,
-        "name": "Blossom Bombardment",
+        "id": 26257572,
+        "name": "Corridor of Agony",
+        "desc": "Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 13438207,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13438207.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13438207.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13438207.jpg"
+            "id": 26257572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26257572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26257572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26257572.jpg"
           }
         ]
       },
       {
-        "id": 51047350,
-        "name": "Card Breaker",
+        "id": 73018302,
+        "name": "Hunter of Black Feathers",
+        "desc": "While your opponent controls 2 or more face-up monsters, all of the same Type, you can send 1 card from your hand to the Graveyard to select and destroy 1 face-up monster your opponent controls.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 51047350,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51047350.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51047350.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51047350.jpg"
+            "id": 73018302,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73018302.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73018302.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73018302.jpg"
           }
         ]
       },
       {
-        "id": 25652655,
-        "name": "Changer Synchron",
+        "id": 74952447,
+        "name": "Testudo erat Numen",
+        "desc": "Neither player can Special Summon monsters with 1800 or more ATK.",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 1800,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 25652655,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25652655.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25652655.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25652655.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49600724,
-        "name": "Crevice Into the Different Dimension",
-        "card_images": [
-          {
-            "id": 49600724,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49600724.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49600724.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49600724.jpg"
-          }
-        ]
-      },
-      {
-        "id": 27383110,
-        "name": "Dawn of the Herald",
-        "card_images": [
-          {
-            "id": 27383110,
-            "image_url": "https://images.ygoprodeck.com/images/cards/27383110.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27383110.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27383110.jpg"
-          }
-        ]
-      },
-      {
-        "id": 29228350,
-        "name": "Dragon Laser",
-        "card_images": [
-          {
-            "id": 29228350,
-            "image_url": "https://images.ygoprodeck.com/images/cards/29228350.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29228350.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29228350.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48742406,
-        "name": "Fairy Archer",
-        "card_images": [
-          {
-            "id": 48742406,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48742406.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48742406.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48742406.jpg"
-          }
-        ]
-      },
-      {
-        "id": 13708425,
-        "name": "Flare Resonator",
-        "card_images": [
-          {
-            "id": 13708425,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13708425.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13708425.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13708425.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68505803,
-        "name": "Genex Controller",
-        "card_images": [
-          {
-            "id": 68505803,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68505803.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68505803.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68505803.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4904812,
-        "name": "Genex Undine",
-        "card_images": [
-          {
-            "id": 4904812,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51717541,
-        "name": "Infernity Break",
-        "card_images": [
-          {
-            "id": 51717541,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51717541.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51717541.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51717541.jpg"
-          }
-        ]
-      },
-      {
-        "id": 13582837,
-        "name": "Infernity Randomizer",
-        "card_images": [
-          {
-            "id": 13582837,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13582837.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13582837.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13582837.jpg"
-          }
-        ]
-      },
-      {
-        "id": 15313433,
-        "name": "Infernity Reflector",
-        "card_images": [
-          {
-            "id": 15313433,
-            "image_url": "https://images.ygoprodeck.com/images/cards/15313433.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15313433.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15313433.jpg"
-          }
-        ]
-      },
-      {
-        "id": 135598,
-        "name": "Key Mouse",
-        "card_images": [
-          {
-            "id": 135598,
-            "image_url": "https://images.ygoprodeck.com/images/cards/135598.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/135598.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/135598.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91985515,
-        "name": "Koa'ki Meiru Initialize!",
-        "card_images": [
-          {
-            "id": 91985515,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91985515.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91985515.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91985515.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49680980,
-        "name": "Koa'ki Meiru Sandman",
-        "card_images": [
-          {
-            "id": 49680980,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49680980.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49680980.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49680980.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90263923,
-        "name": "Leeching the Light",
-        "card_images": [
-          {
-            "id": 90263923,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90263923.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90263923.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90263923.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73318863,
-        "name": "Lyna the Light Charmer",
-        "card_images": [
-          {
-            "id": 73318863,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73318863.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73318863.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73318863.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64990807,
-        "name": "Magic Triangle of the Ice Barrier",
-        "card_images": [
-          {
-            "id": 64990807,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64990807.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64990807.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64990807.jpg"
-          }
-        ]
-      },
-      {
-        "id": 75675029,
-        "name": "Memory Crush King",
-        "card_images": [
-          {
-            "id": 75675029,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75675029.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75675029.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75675029.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48868994,
-        "name": "Morphtronic Vacuumen",
-        "card_images": [
-          {
-            "id": 48868994,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48868994.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48868994.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48868994.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49833312,
-        "name": "Morphtronics, Scramble!",
-        "card_images": [
-          {
-            "id": 49833312,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49833312.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49833312.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49833312.jpg"
-          }
-        ]
-      },
-      {
-        "id": 40555959,
-        "name": "Phantom Hand",
-        "card_images": [
-          {
-            "id": 40555959,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40555959.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40555959.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40555959.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86821010,
-        "name": "Power Break",
-        "card_images": [
-          {
-            "id": 86821010,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86821010.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86821010.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86821010.jpg"
-          }
-        ]
-      },
-      {
-        "id": 1357146,
-        "name": "Ronintoadin",
-        "card_images": [
-          {
-            "id": 1357146,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1357146.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1357146.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1357146.jpg"
-          }
-        ]
-      },
-      {
-        "id": 88032368,
-        "name": "Second Booster",
-        "card_images": [
-          {
-            "id": 88032368,
-            "image_url": "https://images.ygoprodeck.com/images/cards/88032368.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88032368.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88032368.jpg"
-          }
-        ]
-      },
-      {
-        "id": 53778229,
-        "name": "Silent Graveyard",
-        "card_images": [
-          {
-            "id": 53778229,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53778229.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53778229.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53778229.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11747708,
-        "name": "Spore",
-        "card_images": [
-          {
-            "id": 11747708,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11747708.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11747708.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11747708.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50702124,
-        "name": "Synchro Magnet",
-        "card_images": [
-          {
-            "id": 50702124,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50702124.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50702124.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50702124.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48568432,
-        "name": "Trigon",
-        "card_images": [
-          {
-            "id": 48568432,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48568432.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48568432.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48568432.jpg"
-          }
-        ]
-      },
-      {
-        "id": 65612454,
-        "name": "Wattcube",
-        "card_images": [
-          {
-            "id": 65612454,
-            "image_url": "https://images.ygoprodeck.com/images/cards/65612454.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65612454.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65612454.jpg"
-          }
-        ]
-      },
-      {
-        "id": 46897277,
-        "name": "Wattfox",
-        "card_images": [
-          {
-            "id": 46897277,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46897277.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46897277.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46897277.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12296376,
-        "name": "Wattwoodpecker",
-        "card_images": [
-          {
-            "id": 12296376,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12296376.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12296376.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12296376.jpg"
-          }
-        ]
-      },
-      {
-        "id": 28506708,
-        "name": "Worm Call",
-        "card_images": [
-          {
-            "id": 28506708,
-            "image_url": "https://images.ygoprodeck.com/images/cards/28506708.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28506708.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28506708.jpg"
-          }
-        ]
-      },
-      {
-        "id": 96099959,
-        "name": "X-Saber Palomuro",
-        "card_images": [
-          {
-            "id": 96099959,
-            "image_url": "https://images.ygoprodeck.com/images/cards/96099959.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96099959.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96099959.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23093604,
-        "name": "X-Saber Pashuul",
-        "card_images": [
-          {
-            "id": 23093604,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23093604.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23093604.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23093604.jpg"
+            "id": 74952447,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74952447.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74952447.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74952447.jpg"
           }
         ]
       }

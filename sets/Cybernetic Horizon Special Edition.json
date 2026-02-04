@@ -1,12 +1,19 @@
 {
   "setName": "Cybernetic Horizon Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 82162616,
         "name": "Eternal Galaxy",
+        "desc": "If you control a \"Photon\" or \"Galaxy\" monster: Target 1 Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Photon\" or \"Galaxy\" Xyz Monster that is 4 Ranks higher than that target, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only activate 1 \"Eternal Galaxy\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 82162616,
@@ -19,6 +26,15 @@
       {
         "id": 81223446,
         "name": "Necro Fusion",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY face-down, but it cannot attack this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 81223446,
@@ -31,6 +47,15 @@
       {
         "id": 63767246,
         "name": "Number 38: Hope Harbinger Dragon Titanic Galaxy",
+        "desc": "2 Level 8 monsters\nOnce per turn, when a Spell Card or effect is activated on the field (Quick Effect): You can negate that effect, and if you do, attach that card to this card as material. When an opponent's monster declares an attack: You can detach 1 material from this card; change the attack target to this card and perform damage calculation. If a face-up Xyz Monster(s) you control is destroyed by battle or card effect: You can target 1 face-up Xyz Monster you control; it gains ATK equal to 1 of those destroyed monster's original ATK.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63767246,
@@ -43,6 +68,15 @@
       {
         "id": 41091257,
         "name": "SPYRAL Super Agent",
+        "desc": "If this card is in your hand: You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if you do, Special Summon this card if it is a card of that type. If this card is Special Summoned by the effect of a \"SPYRAL\" card: You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of \"SPYRAL Super Agent\" once per turn.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 41091257,
@@ -52,8 +86,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

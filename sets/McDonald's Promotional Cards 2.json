@@ -1,13 +1,231 @@
 {
   "setName": "McDonald's Promotional Cards 2",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
+    "common": [
+      {
+        "id": 40173854,
+        "name": "Amphibious Bugroth",
+        "desc": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
+        "race": "Aqua",
+        "atk": 1850,
+        "def": 1300,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 40173854,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40173854.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40173854.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40173854.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86164529,
+        "name": "Aqua Dragon",
+        "desc": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+        "race": "Sea Serpent",
+        "atk": 2250,
+        "def": 1900,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86164529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86164529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86164529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86164529.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51228280,
+        "name": "Dungeon Worm",
+        "desc": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
+        "race": "Insect",
+        "atk": 1800,
+        "def": 1500,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51228280,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51228280.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51228280.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51228280.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2830619,
+        "name": "Flame Viper",
+        "desc": "A fire-breathing snake whose speed makes it a difficult target.",
+        "race": "Pyro",
+        "atk": 400,
+        "def": 450,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 2830619,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2830619.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2830619.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2830619.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94566432,
+        "name": "Kaiser Dragon",
+        "desc": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
+        "race": "Dragon",
+        "atk": 2300,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 94566432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94566432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94566432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94566432.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45909477,
+        "name": "Moon Envoy",
+        "desc": "Many have fallen victim to this lunar warrior's crescent pike.",
+        "race": "Warrior",
+        "atk": 1100,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 45909477,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45909477.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45909477.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45909477.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33691040,
+        "name": "Pragtical",
+        "desc": "\"Trakodon\" + \"Flame Viper\"",
+        "race": "Dinosaur",
+        "atk": 1900,
+        "def": 1500,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 33691040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33691040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33691040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33691040.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68171737,
+        "name": "Stone Dragon",
+        "desc": "A dragon formed by huge boulders that are also used to attack the enemy.",
+        "race": "Rock",
+        "atk": 2000,
+        "def": 2300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 68171737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68171737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68171737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68171737.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42348802,
+        "name": "Trakodon",
+        "desc": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
+        "race": "Dinosaur",
+        "atk": 1300,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 42348802,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42348802.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42348802.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42348802.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86100785,
+        "name": "Zone Eater",
+        "desc": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.",
+        "race": "Aqua",
+        "atk": 250,
+        "def": 200,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86100785,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86100785.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86100785.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86100785.jpg"
+          }
+        ]
+      }
+    ],
     "rare": [
       {
         "id": 58932616,
         "name": "Elemental HERO Burstinatrix",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58932616,
@@ -26,6 +244,15 @@
       {
         "id": 29343734,
         "name": "Elemental HERO Electrum",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card.",
+        "race": "Warrior",
+        "atk": 2900,
+        "def": 2600,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 29343734,
@@ -38,6 +265,15 @@
       {
         "id": 52031567,
         "name": "Elemental HERO Mudballman",
+        "desc": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 3000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 52031567,
@@ -50,6 +286,15 @@
       {
         "id": 15367030,
         "name": "Gokibore",
+        "desc": "A large, spherical roach that attacks its enemies by rolling over them.",
+        "race": "Insect",
+        "atk": 1200,
+        "def": 1400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 15367030,
@@ -62,6 +307,15 @@
       {
         "id": 97590747,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97590747,
@@ -80,6 +334,15 @@
       {
         "id": 68339286,
         "name": "Metal Guardian",
+        "desc": "A fiend guarding the treasures of the netherworld, it's most at home in the dark.",
+        "race": "Fiend",
+        "atk": 1150,
+        "def": 2150,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 68339286,
@@ -92,6 +355,15 @@
       {
         "id": 64271667,
         "name": "Meteor Dragon",
+        "desc": "This dragon appeared from the sky and crashed to the earth.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 64271667,
@@ -104,6 +376,15 @@
       {
         "id": 47529357,
         "name": "Mist Body",
+        "desc": "The equipped monster cannot be destroyed by battle.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 47529357,
@@ -116,6 +397,15 @@
       {
         "id": 20065322,
         "name": "The Flute of Summoning Kuriboh",
+        "desc": "Take 1 \"Kuriboh\" or 1 \"Winged Kuriboh\" from your Deck, and either add it to your hand or Special Summon it.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20065322,
@@ -128,134 +418,21 @@
       {
         "id": 73891874,
         "name": "White-Horned Dragon",
+        "desc": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1400,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 73891874,
             "image_url": "https://images.ygoprodeck.com/images/cards/73891874.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73891874.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73891874.jpg"
-          }
-        ]
-      }
-    ],
-    "common": [
-      {
-        "id": 40173854,
-        "name": "Amphibious Bugroth",
-        "card_images": [
-          {
-            "id": 40173854,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40173854.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40173854.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40173854.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86164529,
-        "name": "Aqua Dragon",
-        "card_images": [
-          {
-            "id": 86164529,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86164529.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86164529.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86164529.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51228280,
-        "name": "Dungeon Worm",
-        "card_images": [
-          {
-            "id": 51228280,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51228280.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51228280.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51228280.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2830619,
-        "name": "Flame Viper",
-        "card_images": [
-          {
-            "id": 2830619,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2830619.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2830619.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2830619.jpg"
-          }
-        ]
-      },
-      {
-        "id": 94566432,
-        "name": "Kaiser Dragon",
-        "card_images": [
-          {
-            "id": 94566432,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94566432.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94566432.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94566432.jpg"
-          }
-        ]
-      },
-      {
-        "id": 45909477,
-        "name": "Moon Envoy",
-        "card_images": [
-          {
-            "id": 45909477,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45909477.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45909477.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45909477.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33691040,
-        "name": "Pragtical",
-        "card_images": [
-          {
-            "id": 33691040,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33691040.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33691040.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33691040.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68171737,
-        "name": "Stone Dragon",
-        "card_images": [
-          {
-            "id": 68171737,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68171737.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68171737.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68171737.jpg"
-          }
-        ]
-      },
-      {
-        "id": 42348802,
-        "name": "Trakodon",
-        "card_images": [
-          {
-            "id": 42348802,
-            "image_url": "https://images.ygoprodeck.com/images/cards/42348802.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42348802.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42348802.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86100785,
-        "name": "Zone Eater",
-        "card_images": [
-          {
-            "id": 86100785,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86100785.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86100785.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86100785.jpg"
           }
         ]
       }

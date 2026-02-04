@@ -1,10 +1,19 @@
 {
   "setName": "Premium Pack (TCG)",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 76792184,
         "name": "Black Magic Ritual",
+        "desc": "This card is used to Ritual Summon \"Magician of Black Chaos\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 76792184,
@@ -17,6 +26,15 @@
       {
         "id": 99789342,
         "name": "Dark Magic Curtain",
+        "desc": "Pay half your LP; Special Summon 1 \"Dark Magician\" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 99789342,
@@ -29,6 +47,15 @@
       {
         "id": 67688478,
         "name": "Gemini Imps",
+        "desc": "During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 67688478,
@@ -41,6 +68,15 @@
       {
         "id": 26932788,
         "name": "Javelin Beetle",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+        "race": "Insect",
+        "atk": 2450,
+        "def": 2550,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 26932788,
@@ -59,6 +95,15 @@
       {
         "id": 41182875,
         "name": "Javelin Beetle Pact",
+        "desc": "This card is used to Ritual Summon \"Javelin Beetle\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 41182875,
@@ -77,6 +122,15 @@
       {
         "id": 30461781,
         "name": "Legacy of Yata-Garasu",
+        "desc": "Activate 1 of these effects:\n● Draw 1 card.\n● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 30461781,
@@ -95,6 +149,15 @@
       {
         "id": 30208479,
         "name": "Magician of Black Chaos",
+        "desc": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+        "race": "Spellcaster",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 30208479,
@@ -107,6 +170,15 @@
       {
         "id": 31305911,
         "name": "Marshmallon",
+        "desc": "Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 31305911,
@@ -119,6 +191,15 @@
       {
         "id": 66865880,
         "name": "Marshmallon Glasses",
+        "desc": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 66865880,
@@ -131,6 +212,15 @@
       {
         "id": 68540058,
         "name": "Metalmorph",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 68540058,
@@ -161,6 +251,15 @@
       {
         "id": 64335804,
         "name": "Red-Eyes Black Metal Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 64335804,
@@ -191,6 +290,15 @@
       {
         "id": 3072077,
         "name": "Return Zombie",
+        "desc": "During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+        "race": "Zombie",
+        "atk": 1000,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 3072077,
@@ -203,6 +311,15 @@
       {
         "id": 30683373,
         "name": "Shield Crush",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 30683373,
@@ -215,6 +332,15 @@
       {
         "id": 81756897,
         "name": "Zera Ritual",
+        "desc": "This card is used to Ritual Summon \"Zera the Mant\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 81756897,
@@ -233,6 +359,15 @@
       {
         "id": 69123138,
         "name": "Zera the Mant",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Zera Ritual\".",
+        "race": "Fiend",
+        "atk": 2800,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 69123138,
@@ -249,11 +384,19 @@
         ]
       }
     ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 26932788,
         "name": "Javelin Beetle",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Javelin Beetle Pact\".",
+        "race": "Insect",
+        "atk": 2450,
+        "def": 2550,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 26932788,
@@ -272,6 +415,15 @@
       {
         "id": 41182875,
         "name": "Javelin Beetle Pact",
+        "desc": "This card is used to Ritual Summon \"Javelin Beetle\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 41182875,
@@ -290,6 +442,15 @@
       {
         "id": 30461781,
         "name": "Legacy of Yata-Garasu",
+        "desc": "Activate 1 of these effects:\n● Draw 1 card.\n● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 30461781,
@@ -308,6 +469,15 @@
       {
         "id": 68540058,
         "name": "Metalmorph",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 68540058,
@@ -338,6 +508,15 @@
       {
         "id": 64335804,
         "name": "Red-Eyes Black Metal Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 64335804,
@@ -368,6 +547,15 @@
       {
         "id": 81756897,
         "name": "Zera Ritual",
+        "desc": "This card is used to Ritual Summon \"Zera the Mant\". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 81756897,
@@ -386,6 +574,15 @@
       {
         "id": 69123138,
         "name": "Zera the Mant",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Zera Ritual\".",
+        "race": "Fiend",
+        "atk": 2800,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 69123138,
@@ -401,8 +598,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

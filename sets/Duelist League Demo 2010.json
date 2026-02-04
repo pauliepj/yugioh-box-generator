@@ -1,14 +1,19 @@
 {
   "setName": "Duelist League Demo 2010",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 40619825,
         "name": "Axe of Despair",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40619825,
@@ -21,6 +26,15 @@
       {
         "id": 98045062,
         "name": "Enemy Controller",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98045062,
@@ -33,6 +47,15 @@
       {
         "id": 69162969,
         "name": "Lightning Vortex",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69162969,
@@ -45,6 +68,15 @@
       {
         "id": 54652250,
         "name": "Man-Eater Bug",
+        "desc": "FLIP: Target 1 monster on the field; destroy it.",
+        "race": "Insect",
+        "atk": 450,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54652250,
@@ -57,6 +89,15 @@
       {
         "id": 22567609,
         "name": "Nimble Momonga",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 100,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22567609,

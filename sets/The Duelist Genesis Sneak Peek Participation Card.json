@@ -1,12 +1,19 @@
 {
   "setName": "The Duelist Genesis Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 69514125,
         "name": "Avenging Knight Parshath",
+        "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can target 1 face-up monster your opponent controls; change that target's battle position. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 2100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 69514125,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

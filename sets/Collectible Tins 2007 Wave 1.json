@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2007 Wave 1",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 7093411,
         "name": "Crystal Beast Sapphire Pegasus",
+        "desc": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or GY, face-up in your Spell & Trap Zone as a Continuous Spell. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+        "race": "Beast",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 7093411,
@@ -17,6 +26,15 @@
       {
         "id": 83965310,
         "name": "Destiny HERO - Plasma",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). Gains ATK equal to half the original ATK of the monster equipped to it by this effect.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 600,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 83965310,
@@ -35,6 +53,15 @@
       {
         "id": 48996569,
         "name": "Elemental HERO Grand Neos",
+        "desc": "\"Elemental HERO Neos\" + \"Neo-Spacian Grand Mole\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 48996569,
@@ -44,10 +71,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

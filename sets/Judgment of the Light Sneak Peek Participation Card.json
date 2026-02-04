@@ -1,11 +1,19 @@
 {
   "setName": "Judgment of the Light Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 11066358,
         "name": "Galaxy Serpent",
+        "desc": "Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 0,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 11066358,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

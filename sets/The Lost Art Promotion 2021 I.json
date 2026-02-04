@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 I",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 69140098,
         "name": "Gemini Elf",
+        "desc": "Elf twins that alternate their attacks.",
+        "race": "Spellcaster",
+        "atk": 1900,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 69140098,
@@ -21,9 +29,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

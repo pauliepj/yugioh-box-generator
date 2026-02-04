@@ -1,11 +1,19 @@
 {
   "setName": "Rise of the Duelist Premiere! promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 50354944,
         "name": "Gaia the Fierce Knight Origin",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a Warrior monster. You can only use each of the following effects of \"Gaia the Fierce Knight Origin\" once per turn. You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card from your hand. During the Battle Phase (Quick Effect): You can banish this card from your GY, then target 1 monster on the field whose current ATK is different from its original ATK; its ATK becomes its original ATK.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 50354944,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

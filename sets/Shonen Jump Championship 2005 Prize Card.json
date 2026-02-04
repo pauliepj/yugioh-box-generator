@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Championship 2005 Prize Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 81059524,
         "name": "Des Volstgalph",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 81059524,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

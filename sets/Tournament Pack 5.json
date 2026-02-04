@@ -1,75 +1,19 @@
 {
   "setName": "Tournament Pack 5",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 57482479,
-        "name": "Luminous Soldier",
-        "card_images": [
-          {
-            "id": 57482479,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57482479.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57482479.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57482479.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 65240384,
-        "name": "Big Shield Gardna",
-        "card_images": [
-          {
-            "id": 65240384,
-            "image_url": "https://images.ygoprodeck.com/images/cards/65240384.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65240384.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65240384.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11091375,
-        "name": "Luster Dragon",
-        "card_images": [
-          {
-            "id": 11091375,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11091375.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11091375.jpg"
-          }
-        ]
-      },
-      {
-        "id": 53119267,
-        "name": "Magical Thorn",
-        "card_images": [
-          {
-            "id": 53119267,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53119267.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53119267.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53119267.jpg"
-          }
-        ]
-      },
-      {
-        "id": 81843628,
-        "name": "Needle Worm",
-        "card_images": [
-          {
-            "id": 81843628,
-            "image_url": "https://images.ygoprodeck.com/images/cards/81843628.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81843628.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81843628.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 40133511,
         "name": "Bazoo the Soul-Eater",
+        "desc": "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 40133511,
@@ -82,6 +26,15 @@
       {
         "id": 2204140,
         "name": "Book of Life",
+        "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 2204140,
@@ -94,6 +47,15 @@
       {
         "id": 88240808,
         "name": "Kycoo the Ghost Destroyer",
+        "desc": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 88240808,
@@ -106,6 +68,15 @@
       {
         "id": 3055837,
         "name": "Trap of Board Eraser",
+        "desc": "You can only activate this card when an effect that inflicts damage to your Life Points is activated (except Battle Damage). Negate the Effect Damage you receive and your opponent then selects 1 card from his/her hand and discards it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 3055837,
@@ -120,6 +91,15 @@
       {
         "id": 99426834,
         "name": "Beastking of the Swamps",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "race": "Aqua",
+        "atk": 1000,
+        "def": 1100,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99426834,
@@ -132,6 +112,15 @@
       {
         "id": 2926176,
         "name": "Curse of Royal",
+        "desc": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2926176,
@@ -144,6 +133,15 @@
       {
         "id": 78053598,
         "name": "Dark Designator",
+        "desc": "Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78053598,
@@ -156,6 +154,15 @@
       {
         "id": 5616412,
         "name": "Destruction Punch",
+        "desc": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5616412,
@@ -168,6 +175,15 @@
       {
         "id": 53493204,
         "name": "Goddess with the Third Eye",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "race": "Fairy",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53493204,
@@ -180,6 +196,15 @@
       {
         "id": 41855169,
         "name": "Jowgen the Spiritualist",
+        "desc": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 1300,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41855169,
@@ -192,6 +217,15 @@
       {
         "id": 30451366,
         "name": "Mystical Sheep #1",
+        "desc": "You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).",
+        "race": "Beast",
+        "atk": 1150,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30451366,
@@ -204,6 +238,15 @@
       {
         "id": 77044671,
         "name": "Pyramid Turtle",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "race": "Zombie",
+        "atk": 1200,
+        "def": 1400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77044671,
@@ -216,6 +259,15 @@
       {
         "id": 71283180,
         "name": "Tornado Bird",
+        "desc": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
+        "race": "Winged Beast",
+        "atk": 1100,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71283180,
@@ -228,6 +280,15 @@
       {
         "id": 50259460,
         "name": "Versago the Destroyer",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+        "race": "Fiend",
+        "atk": 1100,
+        "def": 900,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50259460,
@@ -240,12 +301,130 @@
       {
         "id": 87523462,
         "name": "Winged Sage Falcos",
+        "desc": "When this card destroys an opponent's face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck.",
+        "race": "Winged Beast",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87523462,
             "image_url": "https://images.ygoprodeck.com/images/cards/87523462.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87523462.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87523462.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 65240384,
+        "name": "Big Shield Gardna",
+        "desc": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 2600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 65240384,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65240384.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65240384.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65240384.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11091375,
+        "name": "Luster Dragon",
+        "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 11091375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11091375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11091375.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53119267,
+        "name": "Magical Thorn",
+        "desc": "When your opponent's card(s) in their hand are discarded to the Graveyard, inflict 500 points of damage to their Life Points for each card that was discarded.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 53119267,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53119267.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53119267.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53119267.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81843628,
+        "name": "Needle Worm",
+        "desc": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.",
+        "race": "Insect",
+        "atk": 750,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 81843628,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81843628.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81843628.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81843628.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 57482479,
+        "name": "Luminous Soldier",
+        "desc": "If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1400,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 57482479,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57482479.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57482479.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57482479.jpg"
           }
         ]
       }

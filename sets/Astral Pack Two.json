@@ -1,12 +1,84 @@
 {
   "setName": "Astral Pack Two",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "ultimate rare": [
+      {
+        "id": 74311226,
+        "name": "Atlantean Dragoons",
+        "desc": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+        "race": "Sea Serpent",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 74311226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74311226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74311226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74311226.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28150174,
+        "name": "Photon Papilloperative",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster on the field; change it to face-up Attack Position, and if you do, it loses 600 ATK.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 28150174,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28150174.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28150174.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28150174.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25123082,
+        "name": "Spellbook of Power",
+        "desc": "Target 1 Spellcaster monster you control; this turn, it gains 1000 ATK. And if it does, each time it destroys an opponent's monster by battle this turn: You can add 1 \"Spellbook\" Spell from your Deck to your hand. You can only activate 1 \"Spellbook of Power\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 25123082,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25123082.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25123082.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25123082.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
       {
         "id": 37104630,
         "name": "Atlantean Heavy Infantry",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 4 or lower Sea Serpent-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 face-up card your opponent controls; destroy that target.",
+        "race": "Sea Serpent",
+        "atk": 0,
+        "def": 1600,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37104630,
@@ -19,6 +91,15 @@
       {
         "id": 17475251,
         "name": "Brotherhood of the Fire Fist - Hawk",
+        "desc": "If this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can Set 1 \"Fire Formation\" Spell Card directly from your Deck. While you control a \"Fire Formation\" Spell/Trap Card, all \"Fire Fist\" monsters you control gain 500 ATK and DEF.",
+        "race": "Beast-Warrior",
+        "atk": 200,
+        "def": 1500,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 17475251,
@@ -31,6 +112,15 @@
       {
         "id": 44860890,
         "name": "Brotherhood of the Fire Fist - Raven",
+        "desc": "If this card is sent from the field to the GY: You can Set 1 \"Fire Formation\" Spell directly from your Deck. \"Fire Formation\" Spells/Traps you control cannot be destroyed by your opponent's card effects.",
+        "race": "Beast-Warrior",
+        "atk": 200,
+        "def": 1800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 44860890,
@@ -43,6 +133,15 @@
       {
         "id": 47030842,
         "name": "Geargiaccelerator",
+        "desc": "If you control a \"Geargia\" monster, you can Special Summon this card (from your hand) in Defense Position. When this card is sent from the field to the Graveyard: You can target 1 \"Geargia\" monster in your Graveyard, except \"Geargiaccelerator\"; add that target to your hand.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47030842,
@@ -55,6 +154,15 @@
       {
         "id": 33846209,
         "name": "Gemini Spark",
+        "desc": "Tribute 1 face-up Level 4 Gemini monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 33846209,
@@ -67,6 +175,15 @@
       {
         "id": 75782277,
         "name": "Harpies' Hunting Ground",
+        "desc": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 75782277,
@@ -79,6 +196,15 @@
       {
         "id": 25206027,
         "name": "Interplanetarypurplythorny Dragon",
+        "desc": "If a monster you control is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon this card from your hand.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1100,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 25206027,
@@ -91,6 +217,15 @@
       {
         "id": 84650463,
         "name": "Slushy",
+        "desc": "When this card is Normal Summoned: You can send 1 \"Slushy\" from your Deck to the GY. If you have 3 copies of \"Slushy\" total, either banished and/or in your GY (combined): You can banish this card from your GY, then target 1 Level 5 or higher Sea Serpent monster in your GY; Special Summon that target. You can only use this effect of \"Slushy\" once per turn.",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 84650463,
@@ -103,6 +238,15 @@
       {
         "id": 6540606,
         "name": "Spiritual Water Art - Aoi",
+        "desc": "Tribute 1 WATER monster; look at your opponent's hand, then send 1 card from their hand to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 6540606,
@@ -115,6 +259,15 @@
       {
         "id": 59616123,
         "name": "Trap Stun",
+        "desc": "Negate all other Trap effects on the field this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59616123,
@@ -125,11 +278,63 @@
         ]
       }
     ],
-    "rare": [],
+    "short print": [
+      {
+        "id": 6840573,
+        "name": "Barox",
+        "desc": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+        "race": "Fiend",
+        "atk": 1380,
+        "def": 1530,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 6840573,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6840573.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6840573.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6840573.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30532390,
+        "name": "Sky Scout",
+        "desc": "With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.",
+        "race": "Winged Beast",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 30532390,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30532390.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30532390.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30532390.jpg"
+          }
+        ]
+      }
+    ],
     "common": [
       {
         "id": 3370104,
         "name": "Cyber Phoenix",
+        "desc": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 1600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3370104,
@@ -142,6 +347,15 @@
       {
         "id": 77778835,
         "name": "Hysteric Party",
+        "desc": "Activate this card by discarding 1 card; Special Summon as many copies of \"Harpie Lady\" as possible from your Graveyard. When this face-up card leaves the field, destroy those monsters.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77778835,
@@ -154,6 +368,15 @@
       {
         "id": 1845204,
         "name": "Instant Fusion",
+        "desc": "Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 \"Instant Fusion\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1845204,
@@ -166,6 +389,15 @@
       {
         "id": 26732909,
         "name": "Justice of Prophecy",
+        "desc": "During your End Phase, if you have activated a \"Spellbook\" Spell Card previously this turn: You can banish this card from the field; add both 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster and 1 \"Spellbook\" Spell Card from your Deck to your hand. You can only use the effect of \"Justice of Prophecy\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26732909,
@@ -178,6 +410,15 @@
       {
         "id": 47297616,
         "name": "Light and Darkness Dragon",
+        "desc": "Cannot be Special Summoned. While face-up on the field, this card is also DARK-Attribute. Once per Chain, during either player's turn, when a Spell Card, Trap Card, or monster effect is activated: This card loses exactly 500 ATK and DEF and that activation is negated. When this card is destroyed and sent to the Graveyard: Target 1 monster in your Graveyard (if possible); destroy all cards you control, also Special Summon that monster (if any).",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47297616,
@@ -190,6 +431,15 @@
       {
         "id": 31828916,
         "name": "Machina Armored Unit",
+        "desc": "Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31828916,
@@ -202,6 +452,15 @@
       {
         "id": 9354555,
         "name": "Photon Veil",
+        "desc": "Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to your hand. If you add 2 or more monsters, they must have the same name.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9354555,
@@ -214,6 +473,15 @@
       {
         "id": 67169062,
         "name": "Pot of Avarice",
+        "desc": "Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67169062,
@@ -226,6 +494,15 @@
       {
         "id": 99995595,
         "name": "Recycling Batteries",
+        "desc": "Target 2 Thunder-Type monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99995595,
@@ -238,6 +515,15 @@
       {
         "id": 14342283,
         "name": "Token Stampede",
+        "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14342283,

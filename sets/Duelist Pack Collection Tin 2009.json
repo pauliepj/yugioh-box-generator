@@ -1,74 +1,19 @@
 {
   "setName": "Duelist Pack Collection Tin 2009",
   "rarities": {
-    "secret": [
-      {
-        "id": 61257789,
-        "name": "Stardust Dragon/Assault Mode",
-        "card_images": [
-          {
-            "id": 61257789,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
-          },
-          {
-            "id": 61257789,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [
-      {
-        "id": 36623431,
-        "name": "Iron Core of Koa'ki Meiru",
-        "card_images": [
-          {
-            "id": 36623431,
-            "image_url": "https://images.ygoprodeck.com/images/cards/36623431.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36623431.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36623431.jpg"
-          }
-        ]
-      },
-      {
-        "id": 94878265,
-        "name": "Moja",
-        "card_images": [
-          {
-            "id": 94878265,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94878265.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94878265.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94878265.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61257789,
-        "name": "Stardust Dragon/Assault Mode",
-        "card_images": [
-          {
-            "id": 61257789,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
-          },
-          {
-            "id": 61257789,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
+    "super rare": [
       {
         "id": 58820853,
         "name": "Blackwing - Shura the Blue Flame",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 \"Blackwing\" monster with 1500 or less ATK from your Deck, but its effects are negated.",
+        "race": "Winged Beast",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 58820853,
@@ -81,6 +26,15 @@
       {
         "id": 45041488,
         "name": "Koa'ki Meiru Guardian",
+        "desc": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the GY or reveal 1 Rock monster in your hand. When a monster effect is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that monster.",
+        "race": "Rock",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 45041488,
@@ -93,6 +47,15 @@
       {
         "id": 86223870,
         "name": "Level Retuner",
+        "desc": "Reduce the Level of 1 face-up monster you control by up to 2.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 86223870,
@@ -105,6 +68,15 @@
       {
         "id": 16191953,
         "name": "Master Gig",
+        "desc": "Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.",
+        "race": "Psychic",
+        "atk": 2600,
+        "def": 1400,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 16191953,
@@ -115,7 +87,105 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "ultra rare": [
+      {
+        "id": 36623431,
+        "name": "Iron Core of Koa'ki Meiru",
+        "desc": "During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 \"Koa'ki Meiru\" monster from your hand to your Graveyard to add this card to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 36623431,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36623431.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36623431.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36623431.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94878265,
+        "name": "Moja",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 94878265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94878265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94878265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94878265.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61257789,
+        "name": "Stardust Dragon/Assault Mode",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Assault Mode Activate\" and cannot be Special Summoned by other ways except by its own effect. When a card or effect is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. When this card on the field is destroyed: You can target 1 \"Stardust Dragon\" in your GY; Special Summon that target.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 61257789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
+          },
+          {
+            "id": 61257789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
+      {
+        "id": 61257789,
+        "name": "Stardust Dragon/Assault Mode",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Assault Mode Activate\" and cannot be Special Summoned by other ways except by its own effect. When a card or effect is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. When this card on the field is destroyed: You can target 1 \"Stardust Dragon\" in your GY; Special Summon that target.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 61257789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
+          },
+          {
+            "id": 61257789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61257789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61257789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61257789.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

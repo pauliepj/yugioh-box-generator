@@ -1,11 +1,19 @@
 {
   "setName": "Rarity Collection 5",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "starlight rare": [
       {
         "id": 97045737,
         "name": "Dominus Purge",
+        "desc": "If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: Negate that effect, then if you have a Trap in your GY, destroy that card. If you activated this card from your hand, you cannot activate the effects of DARK, WATER, and FIRE monsters for the rest of this Duel. You can only activate 1 \"Dominus Purge\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
             "id": 97045737,
@@ -24,6 +32,15 @@
       {
         "id": 35405755,
         "name": "Kurikara Divincarnate",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all face-up monsters on the field that activated their effects this turn in your opponent's Monster Zone. Gains 1500 ATK for each monster Tributed to Special Summon this card. During your End Phase: You can target 1 monster in your opponent's GY; Special Summon it to your field. You can only use this effect of \"Kurikara Divincarnate\" once per turn.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1500,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
             "id": 35405755,
@@ -42,6 +59,15 @@
       {
         "id": 35952884,
         "name": "Shooting Quasar Dragon",
+        "desc": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
             "id": 35952884,
@@ -60,6 +86,15 @@
       {
         "id": 32828466,
         "name": "Wake Up Your Elemental HERO",
+        "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\r\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2100,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Starlight Rare",
+        "rarityCanonical": "starlight rare",
         "card_images": [
           {
             "id": 32828466,
@@ -76,8 +111,115 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
-    "common": []
+    "ultra rare": [
+      {
+        "id": 97045737,
+        "name": "Dominus Purge",
+        "desc": "If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: Negate that effect, then if you have a Trap in your GY, destroy that card. If you activated this card from your hand, you cannot activate the effects of DARK, WATER, and FIRE monsters for the rest of this Duel. You can only activate 1 \"Dominus Purge\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 97045737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97045737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97045737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97045737.jpg"
+          },
+          {
+            "id": 97045737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97045737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97045737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97045737.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35405755,
+        "name": "Kurikara Divincarnate",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all face-up monsters on the field that activated their effects this turn in your opponent's Monster Zone. Gains 1500 ATK for each monster Tributed to Special Summon this card. During your End Phase: You can target 1 monster in your opponent's GY; Special Summon it to your field. You can only use this effect of \"Kurikara Divincarnate\" once per turn.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1500,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 35405755,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35405755.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35405755.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35405755.jpg"
+          },
+          {
+            "id": 35405755,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35405755.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35405755.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35405755.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35952884,
+        "name": "Shooting Quasar Dragon",
+        "desc": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 35952884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35952884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35952884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35952884.jpg"
+          },
+          {
+            "id": 35952884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35952884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35952884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35952884.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32828466,
+        "name": "Wake Up Your Elemental HERO",
+        "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\r\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2100,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          },
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

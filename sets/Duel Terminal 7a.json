@@ -1,10 +1,1125 @@
 {
   "setName": "Duel Terminal 7a",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "duel terminal normal parallel rare": [
+      {
+        "id": 29654737,
+        "name": "Amazoness Chain Master",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can pay 1500 LP; look at your opponent's hand, then add 1 monster from their hand to your hand.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 29654737,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29654737.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29654737.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29654737.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51254277,
+        "name": "Big Jaws",
+        "desc": "At the end of the Battle Phase, if this card attacked: Banish it.",
+        "race": "Fish",
+        "atk": 1800,
+        "def": 300,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 51254277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51254277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51254277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51254277.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55761792,
+        "name": "Black Luster Ritual",
+        "desc": "This card is used to Ritual Summon \"Black Luster Soldier\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 55761792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55761792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55761792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55761792.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61802346,
+        "name": "Blizzard Dragon",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; it cannot change its battle position or declare an attack until the end of your opponent's next turn.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 61802346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61802346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61802346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61802346.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15871676,
+        "name": "Constellar Aldebaran",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 \"Constellar\" monster from your hand.",
+        "race": "Beast-Warrior",
+        "atk": 1300,
+        "def": 800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 15871676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15871676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15871676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15871676.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41269771,
+        "name": "Constellar Algiedi",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 \"Constellar\" monster from your hand.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 41269771,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41269771.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41269771.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41269771.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78486968,
+        "name": "Constellar Sheratan",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 700,
+        "def": 1900,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 78486968,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78486968.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78486968.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78486968.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35631584,
+        "name": "Constellar Star Chart",
+        "desc": "Once per turn, when a \"Constellar\" Xyz Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can draw 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 35631584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35631584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35631584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35631584.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29116732,
+        "name": "Daybreaker",
+        "desc": "When this card is Special Summoned: You can Special Summon 1 \"Daybreaker\" from your hand.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 29116732,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29116732.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29116732.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29116732.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8414337,
+        "name": "Dust Storm of Gusto",
+        "desc": "Your opponent cannot activate cards or effects when \"Gusto\" monsters you control declare their attacks this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 8414337,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8414337.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8414337.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8414337.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77542832,
+        "name": "Evilswarm Heliotrope",
+        "desc": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
+        "race": "Rock",
+        "atk": 1950,
+        "def": 650,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 77542832,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77542832.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77542832.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77542832.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8814959,
+        "name": "Evilswarm Mandragora",
+        "desc": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).",
+        "race": "Plant",
+        "atk": 1550,
+        "def": 1450,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 8814959,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8814959.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8814959.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8814959.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72429240,
+        "name": "Evilswarm O'lantern",
+        "desc": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
+        "race": "Pyro",
+        "atk": 1650,
+        "def": 1250,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 72429240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72429240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72429240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72429240.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47217354,
+        "name": "Fabled Raven",
+        "desc": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
+        "race": "Fiend",
+        "atk": 1300,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 47217354,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47217354.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47217354.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47217354.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72029628,
+        "name": "Fragment Fusion",
+        "desc": "Banish from your Graveyard the Fusion Material Monsters that are listed on a \"Gem-Knight\" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 72029628,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72029628.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72029628.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72029628.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43114901,
+        "name": "Gem-Knight Sardonyx",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 \"Gem-Knight\" card from your Deck to your hand.",
+        "race": "Pyro",
+        "atk": 1800,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Gemini Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 43114901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43114901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43114901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43114901.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16693254,
+        "name": "Gishki Avance",
+        "desc": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 16693254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16693254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16693254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16693254.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9236985,
+        "name": "Gishki Photomirror",
+        "desc": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 9236985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9236985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9236985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9236985.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62476815,
+        "name": "Gogogo Golem",
+        "desc": "Once per turn, this Defense Position card cannot be destroyed by battle.",
+        "race": "Rock",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 62476815,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62476815.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62476815.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62476815.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13504844,
+        "name": "Gottoms' Emergency Call",
+        "desc": "If a face-up \"X-Saber\" monster is on the field: Target 2 \"X-Saber\" monsters in any Graveyard; Special Summon both to your side of the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 13504844,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13504844.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13504844.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13504844.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42082363,
+        "name": "Gusto Griffin",
+        "desc": "If this card is sent from the hand to your Graveyard: You can Special Summon 1 \"Gusto\" monster from your Deck. You can only use the effect of \"Gusto Griffin\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 800,
+        "def": 300,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 42082363,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42082363.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42082363.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42082363.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35419032,
+        "name": "Infestation Infection",
+        "desc": "Once per turn: You can shuffle 1 \"lswarm\" monster from your hand or face-up from your side of the field into the Main Deck; add 1 \"lswarm\" monster from your Deck to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 35419032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35419032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35419032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35419032.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89609515,
+        "name": "Laval Phlogis",
+        "desc": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
+        "race": "Pyro",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 89609515,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89609515.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89609515.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89609515.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92826944,
+        "name": "Mezuki",
+        "desc": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 92826944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92826944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92826944.jpg"
+          },
+          {
+            "id": 92826944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92826944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92826944.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72142276,
+        "name": "Molten Conduction Field",
+        "desc": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 72142276,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72142276.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72142276.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72142276.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80344569,
+        "name": "Neo-Spacian Grand Mole",
+        "desc": "At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.",
+        "race": "Rock",
+        "atk": 900,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 80344569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80344569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80344569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80344569.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3659803,
+        "name": "Overload Fusion",
+        "desc": "Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 3659803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3659803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3659803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3659803.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23571046,
+        "name": "Quillbolt Hedgehog",
+        "desc": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 23571046,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23571046.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23571046.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23571046.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98427577,
+        "name": "Scrap-Iron Scarecrow",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 98427577,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98427577.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98427577.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98427577.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51808422,
+        "name": "XX-Saber Faultroll",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 51808422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51808422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51808422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51808422.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal rare parallel rare": [
+      {
+        "id": 5405694,
+        "name": "Black Luster Soldier",
+        "desc": "You can Ritual Summon this card with \"Black Luster Ritual\".",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 5405694,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5405694.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5405694.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5405694.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64599569,
+        "name": "Chimeratech Overdragon",
+        "desc": "\"Cyber Dragon\" + 1+ Machine monsters\r\nMust be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Materials used for its Fusion Summon.",
+        "race": "Machine",
+        "atk": -1,
+        "def": -1,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 64599569,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64599569.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64599569.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64599569.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70908596,
+        "name": "Constellar Kaus",
+        "desc": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 700,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 70908596,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70908596.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70908596.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70908596.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78364470,
+        "name": "Constellar Pollux",
+        "desc": "During the turn this card was Normal Summoned, you can Normal Summon 1 \"Constellar\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 78364470,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78364470.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78364470.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78364470.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14759024,
+        "name": "Constellar Zubeneschamali",
+        "desc": "When this card is Normal or Special Summoned: You can add 1 \"Constellar\" monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1400,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 14759024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14759024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14759024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14759024.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35209994,
+        "name": "Evilswarm Hraesvelg",
+        "desc": "FLIP: Target 1 face-up card your opponent controls; return that target to the hand.",
+        "race": "Winged Beast",
+        "atk": 1150,
+        "def": 1850,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 35209994,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35209994.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35209994.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35209994.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40921545,
+        "name": "Evilswarm Ketos",
+        "desc": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Aqua",
+        "atk": 1750,
+        "def": 1050,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 40921545,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40921545.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40921545.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40921545.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3536537,
+        "name": "Evilswarm Zahak",
+        "desc": "If this face-up card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Target 1 Special Summoned Level 5 or higher monster on the field; destroy that target.",
+        "race": "Dragon",
+        "atk": 1850,
+        "def": 850,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 3536537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3536537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3536537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3536537.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37742478,
+        "name": "Honest",
+        "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "race": "Fairy",
+        "atk": 1100,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 37742478,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37742478.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37742478.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37742478.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68140974,
+        "name": "Meklord Emperor Wisel",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. Once per turn, during either player's turn, when your opponent activates a Spell Card: You can negate the activation, and if you do, destroy it.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 2500,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 68140974,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68140974.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68140974.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68140974.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73891874,
+        "name": "White-Horned Dragon",
+        "desc": "When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1400,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal rare parallel rare",
+        "card_images": [
+          {
+            "id": 73891874,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73891874.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73891874.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73891874.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal super parallel rare": [
+      {
+        "id": 47579719,
+        "name": "Constellar Hyades",
+        "desc": "2 Level 3 LIGHT monsters\nOnce per turn: You can detach 1 Xyz Material from this card; change all monsters your opponent controls to face-up Defense Position.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1100,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 47579719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47579719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47579719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47579719.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40143123,
+        "name": "Constellar Virgo",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 5 \"Constellar\" monster from your hand in face-up Defense Position.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 40143123,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40143123.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40143123.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40143123.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71203602,
+        "name": "Evigishki Levianima",
+        "desc": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a \"Gishki\" monster, look at 1 random card in your opponent's hand.",
+        "race": "Aqua",
+        "atk": 2700,
+        "def": 1500,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 71203602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71203602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71203602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71203602.jpg"
+          }
+        ]
+      },
+      {
+        "id": 359563,
+        "name": "Evilswarm Nightmare",
+        "desc": "2 Level 4 DARK monsters\r\nWhen your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; change that Special Summoned monster(s) to face-down Defense Position.",
+        "race": "Fiend",
+        "atk": 950,
+        "def": 1950,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 359563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/359563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/359563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/359563.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8692301,
+        "name": "Gem-Knight Zirconia",
+        "desc": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
+        "race": "Rock",
+        "atk": 2900,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 8692301,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8692301.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8692301.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8692301.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84013237,
+        "name": "Number 39: Utopia",
+        "desc": "2 Level 4 monsters\r\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Super Parallel Rare",
+        "rarityCanonical": "duel terminal super parallel rare",
+        "card_images": [
+          {
+            "id": 84013237,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84013237.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84013237.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84013237.jpg"
+          },
+          {
+            "id": 84013238,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84013238.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84013238.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84013238.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal ultra parallel rare": [
+      {
+        "id": 73964868,
+        "name": "Constellar Pleiades",
+        "desc": "2 Level 5 LIGHT monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; return that target to the hand.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 73964868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73964868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73964868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73964868.jpg"
+          }
+        ]
+      },
+      {
+        "id": 581014,
+        "name": "Daigusto Emeral",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then activate 1 of these effects.\n● Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card.\n● Target 1 non-Effect Monster in your GY; Special Summon that target.",
+        "race": "Rock",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 581014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/581014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/581014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/581014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36757171,
+        "name": "Evilswarm Bahamut",
+        "desc": "2 Level 4 \"lswarm\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; discard 1 \"lswarm\" monster, and if you do, take control of that opponent's monster.",
+        "race": "Dragon",
+        "atk": 2350,
+        "def": 1350,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 36757171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36757171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36757171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36757171.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34086406,
+        "name": "Lavalval Chain",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;\n● Send 1 card from your Deck to the Graveyard.\n● Choose 1 monster from your Deck and place it on top of your Deck.",
+        "race": "Sea Serpent",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Duel Terminal Ultra Parallel Rare",
+        "rarityCanonical": "duel terminal ultra parallel rare",
+        "card_images": [
+          {
+            "id": 34086406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34086406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34086406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34086406.jpg"
+          }
+        ]
+      }
+    ],
+    "duel terminal normal rare parallel rare": [
+      {
+        "id": 92826944,
+        "name": "Mezuki",
+        "desc": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Rare Parallel Rare",
+        "rarityCanonical": "duel terminal normal rare parallel rare",
+        "card_images": [
+          {
+            "id": 92826944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92826944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92826944.jpg"
+          },
+          {
+            "id": 92826944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92826944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92826944.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

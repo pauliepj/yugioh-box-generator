@@ -164,7 +164,7 @@ showFullSetBtn.onclick = async () => {
   }
 
   // TOGGLE ON
-  const setPath = path.join(__dirname, "sets", `${selectedSet}.json`); // <-- use __dirname
+  const setPath = path.join(__dirname, "sets", `${selectedSet}.json`);
   let setData;
 
   try {
@@ -176,16 +176,53 @@ showFullSetBtn.onclick = async () => {
 
   fullSetContainer.innerHTML = "";
 
+  // Define rarity hierarchy (rarest first)
+  const rarityOrder = [
+    "starlight rare",
+    "ghost rare",
+    "quarter century secret rare",
+    "10,000 secret rare",
+    "collector's rare",
+    "ultimate rare",
+    "platinum secret rare",
+    "prismatic secret rare",
+    "extra secret rare / 20th secret rare",
+    "secret rare",
+    "gold ghost rare",
+    "premium gold rare",
+    "gold secret rare",
+    "gold rare",
+    "ultra rare (pharaoh's rare)",
+    "ultra rare",
+    "millennium rare",
+    "super rare",
+    "rare",
+    "black lettering rare",
+    "parallel rares",
+    "super short print",
+    "short print",
+    "common",
+  ];
+
+  // Flatten all cards
   const allCards = [];
   Object.entries(setData.rarities).forEach(([rarity, cards]) => {
     cards.forEach((card) => {
       allCards.push({
         name: card.name,
-        rarity,
+        rarity: card.rarityActual || rarity, // use actual rarity if present
       });
     });
   });
 
+  // Sort by rarity using the index in rarityOrder
+  allCards.sort((a, b) => {
+    const aIndex = rarityOrder.indexOf(a.rarity.toLowerCase());
+    const bIndex = rarityOrder.indexOf(b.rarity.toLowerCase());
+    return aIndex - bIndex; // smaller index = rarer
+  });
+
+  // Render
   allCards.forEach((card) => {
     const row = document.createElement("div");
     row.className = "card-item";

@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2022 prize card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 47484352,
         "name": "Anotherverse Dragon",
+        "desc": "''This secretive dragon has conquered many dimensions, but can only be seen by the champion of time.''",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47484352,
@@ -22,10 +30,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 47484352,
         "name": "Anotherverse Dragon",
+        "desc": "''This secretive dragon has conquered many dimensions, but can only be seen by the champion of time.''",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 47484352,
@@ -41,8 +58,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

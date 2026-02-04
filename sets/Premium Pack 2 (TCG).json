@@ -1,10 +1,19 @@
 {
   "setName": "Premium Pack 2 (TCG)",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 48964966,
         "name": "Athena",
+        "desc": "If another Fairy monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy monster you control to the GY, except \"Athena\", then target 1 Fairy monster in your GY, except \"Athena\"; Special Summon that target.",
+        "race": "Fairy",
+        "atk": 2600,
+        "def": 800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 48964966,
@@ -17,6 +26,15 @@
       {
         "id": 46848859,
         "name": "Carrierroid",
+        "desc": "When an opponent activates a card's effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 46848859,
@@ -29,6 +47,15 @@
       {
         "id": 98266377,
         "name": "Elemental HERO Heat",
+        "desc": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+        "race": "Pyro",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 98266377,
@@ -47,6 +74,15 @@
       {
         "id": 68745629,
         "name": "Elemental HERO Inferno",
+        "desc": "\"Elemental HERO Heat\" + \"Elemental HERO Lady Heat\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles a WATER monster, this card gains 1000 ATK during the Damage Step only.",
+        "race": "Pyro",
+        "atk": 2300,
+        "def": 1600,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 68745629,
@@ -59,6 +95,15 @@
       {
         "id": 62107981,
         "name": "Elemental HERO Knospe",
+        "desc": "Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up \"Elemental HERO\" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.",
+        "race": "Plant",
+        "atk": 600,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 62107981,
@@ -77,6 +122,15 @@
       {
         "id": 95362816,
         "name": "Elemental HERO Lady Heat",
+        "desc": "During each of your End Phases: Inflict 200 damage to your opponent for each face-up \"Elemental HERO\" monster you control.",
+        "race": "Pyro",
+        "atk": 1300,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 95362816,
@@ -95,6 +149,15 @@
       {
         "id": 51085303,
         "name": "Elemental HERO Poison Rose",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned with \"Rose Bud\" and cannot be Special Summoned by other ways. Each time this card inflicts Battle Damage to your opponent: It gains 200 ATK and loses 200 DEF. Your opponent can only target \"Elemental HERO Poison Rose\" for attacks.",
+        "race": "Plant",
+        "atk": 1900,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 51085303,
@@ -113,6 +176,15 @@
       {
         "id": 74711057,
         "name": "Elemental HERO Terra Firma",
+        "desc": "\"Elemental HERO Ocean\" + \"Elemental HERO Woodsman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. You can Tribute 1 face-up \"Elemental HERO\" monster; this card gains ATK equal to the Tributed monster's ATK, until the End Phase.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 74711057,
@@ -125,6 +197,15 @@
       {
         "id": 9327502,
         "name": "Elemental HERO Voltic",
+        "desc": "When this card inflicts battle damage to your opponent: You can target 1 of your banished \"Elemental HERO\" monsters; Special Summon that target.",
+        "race": "Thunder",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 9327502,
@@ -137,6 +218,15 @@
       {
         "id": 75434695,
         "name": "Elemental HERO Woodsman",
+        "desc": "Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 75434695,
@@ -149,6 +239,15 @@
       {
         "id": 8400623,
         "name": "Evil Dragon Ananta",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard. This card's ATK and DEF are each equal to the number of monsters you removed x 600. During each of your End Phases, destroy 1 card on the field.",
+        "race": "Reptile",
+        "atk": -1,
+        "def": -1,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 8400623,
@@ -161,6 +260,15 @@
       {
         "id": 74968065,
         "name": "Hecatrice",
+        "desc": "You can discard this card to the GY; add 1 \"Valhalla, Hall of the Fallen\" from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 74968065,
@@ -179,6 +287,15 @@
       {
         "id": 76442616,
         "name": "HERO's Bond",
+        "desc": "If there is a face-up \"HERO\" monster on the field: Special Summon 2 Level 4 or lower \"Elemental HERO\" monsters from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 76442616,
@@ -191,6 +308,15 @@
       {
         "id": 92826944,
         "name": "Mezuki",
+        "desc": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 92826944,
@@ -203,6 +329,15 @@
       {
         "id": 25090294,
         "name": "Rose Bud",
+        "desc": "Tribute 1 \"Elemental HERO Knospe\"; Special Summon 1 \"Elemental HERO Poison Rose\" from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 25090294,
@@ -221,6 +356,15 @@
       {
         "id": 76232340,
         "name": "Sengenjin",
+        "desc": "An unstoppable savage that carries Millennium Items.",
+        "race": "Beast-Warrior",
+        "atk": 2750,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 76232340,
@@ -239,6 +383,15 @@
       {
         "id": 33951077,
         "name": "Super War-Lion",
+        "desc": "You can Ritual Summon this card with \"War-Lion Ritual\".",
+        "race": "Beast",
+        "atk": 2300,
+        "def": 2100,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Ritual Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 33951077,
@@ -257,6 +410,15 @@
       {
         "id": 26509612,
         "name": "Terra Firma Gravity",
+        "desc": "During your opponent's Battle Phase, if you control \"Elemental HERO Terra Firma\": This turn, all Level 4 or lower monsters your opponent controls that can attack a face-up \"Elemental HERO Terra Firma\" you control must attack it, and cannot otherwise attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 26509612,
@@ -275,6 +437,15 @@
       {
         "id": 1353770,
         "name": "Valhalla, Hall of the Fallen",
+        "desc": "Once per turn: You can Special Summon 1 Fairy monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 1353770,
@@ -287,6 +458,15 @@
       {
         "id": 54539105,
         "name": "War-Lion Ritual",
+        "desc": "This card is used to Ritual Summon \"Super War-Lion\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 54539105,
@@ -303,11 +483,19 @@
         ]
       }
     ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 98266377,
         "name": "Elemental HERO Heat",
+        "desc": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+        "race": "Pyro",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 98266377,
@@ -326,6 +514,15 @@
       {
         "id": 62107981,
         "name": "Elemental HERO Knospe",
+        "desc": "Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up \"Elemental HERO\" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.",
+        "race": "Plant",
+        "atk": 600,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 62107981,
@@ -344,6 +541,15 @@
       {
         "id": 95362816,
         "name": "Elemental HERO Lady Heat",
+        "desc": "During each of your End Phases: Inflict 200 damage to your opponent for each face-up \"Elemental HERO\" monster you control.",
+        "race": "Pyro",
+        "atk": 1300,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95362816,
@@ -362,6 +568,15 @@
       {
         "id": 51085303,
         "name": "Elemental HERO Poison Rose",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned with \"Rose Bud\" and cannot be Special Summoned by other ways. Each time this card inflicts Battle Damage to your opponent: It gains 200 ATK and loses 200 DEF. Your opponent can only target \"Elemental HERO Poison Rose\" for attacks.",
+        "race": "Plant",
+        "atk": 1900,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51085303,
@@ -380,6 +595,15 @@
       {
         "id": 74968065,
         "name": "Hecatrice",
+        "desc": "You can discard this card to the GY; add 1 \"Valhalla, Hall of the Fallen\" from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 74968065,
@@ -398,6 +622,15 @@
       {
         "id": 25090294,
         "name": "Rose Bud",
+        "desc": "Tribute 1 \"Elemental HERO Knospe\"; Special Summon 1 \"Elemental HERO Poison Rose\" from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 25090294,
@@ -416,6 +649,15 @@
       {
         "id": 76232340,
         "name": "Sengenjin",
+        "desc": "An unstoppable savage that carries Millennium Items.",
+        "race": "Beast-Warrior",
+        "atk": 2750,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 76232340,
@@ -434,6 +676,15 @@
       {
         "id": 33951077,
         "name": "Super War-Lion",
+        "desc": "You can Ritual Summon this card with \"War-Lion Ritual\".",
+        "race": "Beast",
+        "atk": 2300,
+        "def": 2100,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 33951077,
@@ -452,6 +703,15 @@
       {
         "id": 26509612,
         "name": "Terra Firma Gravity",
+        "desc": "During your opponent's Battle Phase, if you control \"Elemental HERO Terra Firma\": This turn, all Level 4 or lower monsters your opponent controls that can attack a face-up \"Elemental HERO Terra Firma\" you control must attack it, and cannot otherwise attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 26509612,
@@ -470,6 +730,15 @@
       {
         "id": 54539105,
         "name": "War-Lion Ritual",
+        "desc": "This card is used to Ritual Summon \"Super War-Lion\". You must also Tribute monsters from your hand or field whose total Levels equal 7 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 54539105,
@@ -485,8 +754,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

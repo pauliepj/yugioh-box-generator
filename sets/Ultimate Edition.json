@@ -1,11 +1,19 @@
 {
   "setName": "Ultimate Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 23995346,
         "name": "Blue-Eyes Ultimate Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+        "race": "Dragon",
+        "atk": 4500,
+        "def": 3800,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23995346,
@@ -27,9 +35,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,52 +1,19 @@
 {
   "setName": "Realm of the Sea Emperor Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 47826112,
-        "name": "Poseidra, the Atlantean Dragon",
-        "card_images": [
-          {
-            "id": 47826112,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47826112.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47826112.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47826112.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 74311226,
-        "name": "Atlantean Dragoons",
-        "card_images": [
-          {
-            "id": 74311226,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74311226.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74311226.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74311226.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73199638,
-        "name": "Call of the Atlanteans",
-        "card_images": [
-          {
-            "id": 73199638,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73199638.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73199638.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73199638.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 295517,
         "name": "A Legendary Ocean",
+        "desc": "(This card's name is always treated as \"Umi\".)\r\nAll WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 295517,
@@ -59,6 +26,15 @@
       {
         "id": 18318842,
         "name": "Abyss Soldier",
+        "desc": "Once per turn: You can discard 1 WATER monster to the Graveyard to target 1 card on the field; return it to the hand.",
+        "race": "Aqua",
+        "atk": 1800,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18318842,
@@ -71,6 +47,15 @@
       {
         "id": 7935043,
         "name": "Aegis of the Ocean Dragon Lord",
+        "desc": "Until the End Phase, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7935043,
@@ -83,6 +68,15 @@
       {
         "id": 7653207,
         "name": "Aqua Jet",
+        "desc": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7653207,
@@ -95,6 +89,15 @@
       {
         "id": 20470500,
         "name": "Armed Sea Hunter",
+        "desc": "After damage calculation, if this card battles an Effect Monster: Negate the effects of that monster (including in the Graveyard). You must control another face-up WATER monster to activate and to resolve this effect. If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.",
+        "race": "Sea Serpent",
+        "atk": 1800,
+        "def": 400,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20470500,
@@ -107,6 +110,15 @@
       {
         "id": 8078366,
         "name": "Atlantean Attack Squad",
+        "desc": "This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8078366,
@@ -119,6 +131,15 @@
       {
         "id": 37104630,
         "name": "Atlantean Heavy Infantry",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 4 or lower Sea Serpent-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 face-up card your opponent controls; destroy that target.",
+        "race": "Sea Serpent",
+        "atk": 0,
+        "def": 1600,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37104630,
@@ -131,6 +152,15 @@
       {
         "id": 706925,
         "name": "Atlantean Marksman",
+        "desc": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 4 or lower \"Atlantean\" Sea Serpent-Type monster from your Deck, except \"Atlantean Marksman\". When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 Set card your opponent controls; destroy that target.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 706925,
@@ -143,6 +173,15 @@
       {
         "id": 26976414,
         "name": "Atlantean Pikeman",
+        "desc": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 0,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26976414,
@@ -155,6 +194,15 @@
       {
         "id": 51562916,
         "name": "Big Wave Small Wave",
+        "desc": "Destroy all face-up WATER monsters you control, then you can Special Summon WATER monsters from your hand, up to the number of monsters destroyed by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51562916,
@@ -167,6 +215,15 @@
       {
         "id": 65496056,
         "name": "Codarus",
+        "desc": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 65496056,
@@ -179,6 +236,15 @@
       {
         "id": 53129443,
         "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53129443,
@@ -191,6 +257,15 @@
       {
         "id": 17559367,
         "name": "Deep Diver",
+        "desc": "At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.",
+        "race": "Aqua",
+        "atk": 1000,
+        "def": 1100,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17559367,
@@ -203,6 +278,15 @@
       {
         "id": 78868119,
         "name": "Deep Sea Diva",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.",
+        "race": "Sea Serpent",
+        "atk": 200,
+        "def": 400,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78868119,
@@ -215,6 +299,15 @@
       {
         "id": 43889633,
         "name": "Forgotten Temple of the Deep",
+        "desc": "While this card is on the field, this card's name becomes \"Umi\". Once per turn: You can target 1 Level 4 or lower Fish, Sea Serpent or Aqua-Type monster you control; banish that target. During your End Phase: Special Summon the monster(s) banished by this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43889633,
@@ -227,6 +320,15 @@
       {
         "id": 93830681,
         "name": "Friller Rabca",
+        "desc": "When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of \"Friller Rabca\" once per turn.",
+        "race": "Fish",
+        "atk": 700,
+        "def": 1500,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93830681,
@@ -239,6 +341,15 @@
       {
         "id": 85742772,
         "name": "Gravity Bind",
+        "desc": "Level 4 or higher monsters cannot attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85742772,
@@ -251,6 +362,15 @@
       {
         "id": 95231062,
         "name": "Lost Blue Breaker",
+        "desc": "If there is another face-up Fish, Sea Serpent, or Aqua monster on the field: You can Tribute this card, then target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95231062,
@@ -263,6 +383,15 @@
       {
         "id": 4252828,
         "name": "Mermaid Archer",
+        "desc": "Once per turn: You can target 1 face-up Level 3 or lower monster you control; equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) While equipped with a monster by this effect, this card gains 800 ATK. If this card would be destroyed, you can destroy the monster equipped to it with this effect, instead.",
+        "race": "Sea Serpent",
+        "atk": 1200,
+        "def": 200,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4252828,
@@ -275,6 +404,15 @@
       {
         "id": 22123627,
         "name": "Moray of Greed",
+        "desc": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22123627,
@@ -287,6 +425,15 @@
       {
         "id": 57839750,
         "name": "Mother Grizzly",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Beast-Warrior",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57839750,
@@ -299,6 +446,15 @@
       {
         "id": 81306586,
         "name": "Nightmare Penguin",
+        "desc": "All face-up WATER monsters you control gain 200 ATK. When this card is flipped face-up: Target 1 card your opponent controls; return that target to the hand.",
+        "race": "Aqua",
+        "atk": 900,
+        "def": 1800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81306586,
@@ -311,6 +467,15 @@
       {
         "id": 93920745,
         "name": "Penguin Soldier",
+        "desc": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+        "race": "Aqua",
+        "atk": 750,
+        "def": 500,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93920745,
@@ -323,6 +488,15 @@
       {
         "id": 25642998,
         "name": "Poseidon Wave",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict 800 damage to your opponent for each Fish, Sea Serpent, or Aqua-Type monster you control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25642998,
@@ -335,6 +509,15 @@
       {
         "id": 30276969,
         "name": "Reese the Ice Mistress",
+        "desc": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+        "race": "Sea Serpent",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30276969,
@@ -347,6 +530,15 @@
       {
         "id": 96947648,
         "name": "Salvage",
+        "desc": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96947648,
@@ -359,6 +551,15 @@
       {
         "id": 27655513,
         "name": "Skreech",
+        "desc": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
+        "race": "Reptile",
+        "atk": 1500,
+        "def": 400,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27655513,
@@ -371,6 +572,15 @@
       {
         "id": 91133740,
         "name": "Snowman Eater",
+        "desc": "If this card is flipped face-up: Target 1 face-up monster on the field; destroy that target.",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 1900,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91133740,
@@ -383,6 +593,15 @@
       {
         "id": 42463414,
         "name": "Spined Gillman",
+        "desc": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
+        "race": "Sea Serpent",
+        "atk": 1300,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 42463414,
@@ -395,6 +614,15 @@
       {
         "id": 6540606,
         "name": "Spiritual Water Art - Aoi",
+        "desc": "Tribute 1 WATER monster; look at your opponent's hand, then send 1 card from their hand to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6540606,
@@ -407,6 +635,15 @@
       {
         "id": 33057951,
         "name": "Surface",
+        "desc": "Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33057951,
@@ -419,6 +656,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -431,6 +677,15 @@
       {
         "id": 18605135,
         "name": "Tornado Wall",
+        "desc": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when \"Umi\" leaves the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18605135,
@@ -443,6 +698,15 @@
       {
         "id": 53582587,
         "name": "Torrential Tribute",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53582587,
@@ -455,6 +719,15 @@
       {
         "id": 43797906,
         "name": "Warrior of Atlantis",
+        "desc": "You can discard this card to the Graveyard; add 1 \"A Legendary Ocean\" from your Deck to your hand.",
+        "race": "Aqua",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43797906,
@@ -467,12 +740,88 @@
       {
         "id": 49669730,
         "name": "Water Hazard",
+        "desc": "Once per turn: You can Special Summon 1 Level 4 or lower WATER monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49669730,
             "image_url": "https://images.ygoprodeck.com/images/cards/49669730.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49669730.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49669730.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 74311226,
+        "name": "Atlantean Dragoons",
+        "desc": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+        "race": "Sea Serpent",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 74311226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74311226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74311226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74311226.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73199638,
+        "name": "Call of the Atlanteans",
+        "desc": "Target 3 Level 3 or lower Sea Serpent-Type monsters in your Graveyard; Special Summon all 3 of them. You cannot Special Summon any other monsters during the turn you activate this card.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 73199638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73199638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73199638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73199638.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 47826112,
+        "name": "Poseidra, the Atlantean Dragon",
+        "desc": "You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.",
+        "race": "Sea Serpent",
+        "atk": 2800,
+        "def": 1600,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 47826112,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47826112.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47826112.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47826112.jpg"
           }
         ]
       }

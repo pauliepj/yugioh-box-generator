@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins Exclusive 2008",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 7391448,
         "name": "Goyo Guardian",
+        "desc": "1 EARTH Tuner + 1 or more non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 7391448,
@@ -17,6 +26,15 @@
       {
         "id": 23303072,
         "name": "Montage Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.",
+        "race": "Dragon",
+        "atk": -1,
+        "def": 0,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 23303072,
@@ -29,6 +47,15 @@
       {
         "id": 18013090,
         "name": "Nitro Warrior",
+        "desc": "\"Nitro Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, if you activate a Spell Card, this card gains 1000 ATK during the next attack this turn involving this card, during damage calculation only. If this attacking card destroys an opponent's monster by battle, after damage calculation: You can target 1 face-up Defense Position monster your opponent controls; change that target to Attack Position, then this card can make a second attack in a row, on that monster.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1800,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 18013090,
@@ -38,10 +65,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

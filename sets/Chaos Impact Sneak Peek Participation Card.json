@@ -1,11 +1,19 @@
 {
   "setName": "Chaos Impact Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 88996322,
         "name": "Gladiator Beast Vespasius",
+        "desc": "At the start of the Damage Step, if your \"Gladiator Beast\" monster battles a monster: You can Special Summon this card from your hand. You can only use this effect of \"Gladiator Beast Vespasius\" once per turn. While you control this card, Special Summoned by the effect of a \"Gladiator Beast\" monster, all monsters you control gain 500 ATK. At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Vespasius\".",
+        "race": "Sea Serpent",
+        "atk": 2300,
+        "def": 0,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 88996322,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

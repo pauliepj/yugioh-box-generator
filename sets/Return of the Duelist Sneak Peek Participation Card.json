@@ -1,11 +1,19 @@
 {
   "setName": "Return of the Duelist Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 19680539,
         "name": "Noble Knight Gawayn",
+        "desc": "If you control a LIGHT Normal Monster, you can Special Summon this card (from your hand) in Defense Position.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 19680539,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

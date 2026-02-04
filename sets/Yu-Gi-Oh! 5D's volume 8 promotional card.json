@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 5D's volume 8 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 8763963,
         "name": "Beelzeus of the Diabolic Dragons",
+        "desc": "1 DARK Tuner + 2+ non-Tuner monsters\r\nCannot be destroyed by battle or card effects. Other monsters you control cannot attack. Once per turn: You can target 1 monster your opponent controls; any battle damage your opponent takes from attacks involving this card this turn is halved, also, change that monster's ATK to 0, and if you do, gain LP equal to its original ATK.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 8763963,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

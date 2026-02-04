@@ -1,11 +1,19 @@
 {
   "setName": "Lightning Overdrive Premiere! promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 70389815,
         "name": "Amazing Time Ticket",
+        "desc": "Pay 800 LP; apply this effect, depending whose turn it is.\r\n● Your turn: Add 1 \"Amazement\" card from your Deck to your hand.\r\n● Your opponent's turn: Set 1 \"Attraction\" Trap directly from your Deck. It can be activated this turn.\r\nYou can only activate 1 \"Amazing Time Ticket\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 70389815,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

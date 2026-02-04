@@ -1,27 +1,19 @@
 {
   "setName": "Dark Legion Starter Deck",
   "rarities": {
-    "secret": [
-      {
-        "id": 56619314,
-        "name": "D/D/D Dragon King Pendragon",
-        "card_images": [
-          {
-            "id": 56619314,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56619314.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56619314.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56619314.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 49881766,
         "name": "Archfiend Soldier",
+        "desc": "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49881766,
@@ -34,6 +26,15 @@
       {
         "id": 84914462,
         "name": "Axe Dragonute",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84914462,
@@ -46,6 +47,15 @@
       {
         "id": 40619825,
         "name": "Axe of Despair",
+        "desc": "(This card is always treated as an \"Archfiend\" card.)\nThe equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40619825,
@@ -58,6 +68,15 @@
       {
         "id": 10012614,
         "name": "Banner of Courage",
+        "desc": "All monsters you control gain 200 ATK during your Battle Phase only.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10012614,
@@ -70,6 +89,15 @@
       {
         "id": 11761845,
         "name": "Beast of Talwar",
+        "desc": "Only the master of the sword among Fiend-Type monsters is permitted to hold the Talwar.\n\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 2150,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11761845,
@@ -82,6 +110,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -94,6 +131,15 @@
       {
         "id": 60082869,
         "name": "Dust Tornado",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60082869,
@@ -106,6 +152,15 @@
       {
         "id": 12235475,
         "name": "Fabled Ashenveil",
+        "desc": "Once per battle, if this card battles, during damage calculation (Quick Effect): You can send 1 card from your hand to the GY; this card gains 600 ATK during that damage calculation only.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12235475,
@@ -118,6 +173,15 @@
       {
         "id": 85306040,
         "name": "Goblin Elite Attack Force",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85306040,
@@ -130,6 +194,15 @@
       {
         "id": 48343627,
         "name": "Grave Squirmer",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48343627,
@@ -142,6 +215,15 @@
       {
         "id": 9391354,
         "name": "Gravi-Crush Dragon",
+        "desc": "You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9391354,
@@ -154,6 +236,15 @@
       {
         "id": 11125718,
         "name": "Lancer Dragonute",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Dragon",
+        "atk": 1500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11125718,
@@ -166,6 +257,15 @@
       {
         "id": 46272804,
         "name": "Lancer Lindwurm",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46272804,
@@ -178,6 +278,15 @@
       {
         "id": 94664694,
         "name": "Mad Archfiend",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Attack Position card is targeted for an attack: Change it to Defense Position.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94664694,
@@ -190,6 +299,15 @@
       {
         "id": 99597615,
         "name": "Malevolent Nuzzler",
+        "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99597615,
@@ -202,6 +320,15 @@
       {
         "id": 57882509,
         "name": "Mask of Weakness",
+        "desc": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57882509,
@@ -214,6 +341,15 @@
       {
         "id": 74848038,
         "name": "Monster Reincarnation",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74848038,
@@ -226,6 +362,15 @@
       {
         "id": 5318639,
         "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5318639,
@@ -238,6 +383,15 @@
       {
         "id": 14315573,
         "name": "Negate Attack",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14315573,
@@ -250,6 +404,15 @@
       {
         "id": 70046172,
         "name": "Rush Recklessly",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70046172,
@@ -262,6 +425,15 @@
       {
         "id": 93346024,
         "name": "The Dragon Dwelling in the Cave",
+        "desc": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
+        "race": "Dragon",
+        "atk": 1300,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93346024,
@@ -274,6 +446,15 @@
       {
         "id": 51838385,
         "name": "Theban Nightmare",
+        "desc": "Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51838385,
@@ -286,12 +467,151 @@
       {
         "id": 4206964,
         "name": "Trap Hole",
+        "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4206964,
             "image_url": "https://images.ygoprodeck.com/images/cards/4206964.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4206964.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
+      {
+        "id": 56619314,
+        "name": "D/D/D Dragon King Pendragon",
+        "desc": "If this card is in your hand: You can Tribute 1 Dragon-Type monster and 1 other Fiend-Type monster from your hand and/or your side of the field; Special Summon this card. Once per turn: You can discard 1 card; this card gains 500 ATK, then you can destroy 1 Spell/Trap Card on the field. This ATK increase lasts until the end of this turn.",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 2400,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 56619314,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56619314.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56619314.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56619314.jpg"
+          }
+        ]
+      }
+    ],
+    "shatterfoil rare": [
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 53129443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53129443.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20586572,
+        "name": "Exploder Dragon",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 0,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 20586572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20586572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20586572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20586572.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 62279055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62279055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62279055.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44095762,
+        "name": "Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 44095762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44095762.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97169186,
+        "name": "Smashing Ground",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 97169186,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97169186.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97169186.jpg"
           }
         ]
       }

@@ -1,10 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! at Home Sweepstakes",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 68007326,
         "name": "Guardian Angel Joan",
+        "desc": "When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard.",
+        "race": "Fairy",
+        "atk": 2800,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 68007326,
@@ -14,10 +23,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

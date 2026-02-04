@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion E",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 7902349,
         "name": "Left Arm of the Forbidden One",
+        "desc": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 7902349,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

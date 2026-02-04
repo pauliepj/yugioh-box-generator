@@ -1,10 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 37993923,
         "name": "Junk Gardna",
+        "desc": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn, you can select 1 monster your opponent controls, and change its battle position. This effect can be activated during either player's turn. If this card is sent from the field to the Graveyard, you can select 1 monster on the field and change its battle position.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 2600,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 37993923,
@@ -17,6 +26,15 @@
       {
         "id": 9433350,
         "name": "Malefic Blue-Eyes White Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Blue-Eyes White Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 9433350,
@@ -29,6 +47,15 @@
       {
         "id": 53063039,
         "name": "Malefic Claw Stream",
+        "desc": "Activate only if you control a face-up \"Malefic\" monster. Select 1 monster your opponent controls, and destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 53063039,
@@ -41,6 +68,15 @@
       {
         "id": 1710476,
         "name": "Malefic Cyber End Dragon",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Cyber End Dragon\" from your Extra Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Machine",
+        "atk": 4000,
+        "def": 2800,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 1710476,
@@ -53,6 +89,15 @@
       {
         "id": 8310162,
         "name": "Malefic Paradox Dragon",
+        "desc": "\"Malefic Parallel Gear\" + 1 non-Tuner \"Malefic\" monster\nWhen this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up \"Malefic Paradox Dragon\" on the field. If \"Malefic World\" is not face-up on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 8310162,
@@ -65,6 +110,15 @@
       {
         "id": 74509280,
         "name": "Malefic Parallel Gear",
+        "desc": "When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 \"Malefic\" monster in your hand.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 74509280,
@@ -77,6 +131,15 @@
       {
         "id": 598988,
         "name": "Malefic Rainbow Dragon",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Rainbow Dragon\" from your hand or Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 598988,
@@ -89,6 +152,15 @@
       {
         "id": 55343236,
         "name": "Malefic Red-Eyes Black Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Red-Eyes Black Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 55343236,
@@ -101,6 +173,15 @@
       {
         "id": 27564031,
         "name": "Malefic World",
+        "desc": "While this card is face-up on the field, you can activate this effect instead of conducting a normal draw during your Draw Phase. Choose 3 \"Malefic\" cards from your Deck and have your opponent pick 1 of them at random to add to your hand. Shuffle the rest back into your Deck.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 27564031,
@@ -110,10 +191,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

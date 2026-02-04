@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2025 B",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 68024506,
         "name": "Magical Musketeer Calamity",
+        "desc": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 1 \"Magical Musket\" monster in your GY; Special Summon it in Defense Position. You can only use this effect of \"Magical Musketeer Calamity\" once per turn.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 68024506,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

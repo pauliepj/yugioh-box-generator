@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2010 Prize Cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 85771019,
         "name": "Darklord Asmodeus",
+        "desc": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle.",
+        "race": "Fairy",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 85771019,
@@ -24,6 +32,15 @@
       {
         "id": 47664723,
         "name": "Darklord Edeh Arae",
+        "desc": "If this card is Special Summoned from the Graveyard, it gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 2000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47664723,
@@ -42,6 +59,15 @@
       {
         "id": 11260714,
         "name": "Darklord Superbia",
+        "desc": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target.",
+        "race": "Fairy",
+        "atk": 2900,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 11260714,
@@ -58,10 +84,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 85771019,
         "name": "Darklord Asmodeus",
+        "desc": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle.",
+        "race": "Fairy",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 85771019,
@@ -80,6 +115,15 @@
       {
         "id": 47664723,
         "name": "Darklord Edeh Arae",
+        "desc": "If this card is Special Summoned from the Graveyard, it gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 2000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 47664723,
@@ -98,6 +142,15 @@
       {
         "id": 11260714,
         "name": "Darklord Superbia",
+        "desc": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target.",
+        "race": "Fairy",
+        "atk": 2900,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 11260714,
@@ -113,8 +166,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2019 prize card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 60025883,
         "name": "Duel Link Dragon, the Duel Dragon",
+        "desc": "2+ monsters, including a Synchro Monster\r\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 60025883,
@@ -22,10 +30,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 60025883,
         "name": "Duel Link Dragon, the Duel Dragon",
+        "desc": "2+ monsters, including a Synchro Monster\r\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 60025883,
@@ -41,8 +58,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

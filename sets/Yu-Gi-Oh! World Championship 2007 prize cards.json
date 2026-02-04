@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! World Championship 2007 prize cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 501000006,
         "name": "Chimaera, the Master of Beasts",
+        "desc": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Beast-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+        "race": "Beast",
+        "atk": 3000,
+        "def": 3000,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 501000006,
@@ -18,6 +26,15 @@
       {
         "id": 501000007,
         "name": "Emperor of Lightning",
+        "desc": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Thunder-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+        "race": "Thunder",
+        "atk": 2600,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 501000007,
@@ -28,12 +45,19 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 111000561,
         "name": "Get Your Game On!",
+        "desc": "You can only play this card if you were present at the 2007 Yu-Gi-Oh! TRADING CARD GAME World Championship. The ATK of all your \"Elemental Hero\" and \"Neo-Spacian\" monsters on the field is doubled.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 111000561,

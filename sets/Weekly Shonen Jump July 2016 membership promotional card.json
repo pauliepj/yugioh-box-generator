@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump July 2016 membership promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 52653092,
         "name": "Number S0: Utopic ZEXAL",
+        "desc": "3 \"Number\" Xyz Monsters with the same Rank\r\n(This card's original Rank is always treated as 1.) You can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Normal Spell Card, then using a \"Utopia\" monster you control as the Xyz Material. (Transfer its Xyz Materials to this card.) This card's Xyz Summon cannot be negated. When Xyz Summoned, your opponent's cards and effects cannot be activated. Gains 1000 ATK and DEF for each Xyz Material attached to it. Once per opponent's turn (Quick Effect): You can detach 1 Xyz Material from this card; your opponent's cards and effects cannot be activated this turn.",
+        "race": "Warrior",
+        "atk": -1,
+        "def": -1,
+        "level": 0,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 52653092,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

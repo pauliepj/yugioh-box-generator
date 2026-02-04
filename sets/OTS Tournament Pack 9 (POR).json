@@ -1,12 +1,19 @@
 {
   "setName": "OTS Tournament Pack 9 (POR)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 72892473,
         "name": "Card Destruction",
+        "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 72892473,
@@ -19,6 +26,15 @@
       {
         "id": 60222582,
         "name": "Galaxy Expedition",
+        "desc": "If you control a Level 5 or higher \"Photon\" or \"Galaxy\" monster: Special Summon 1 Level 5 or higher \"Photon\" or \"Galaxy\" monster from your Deck in Defense Position. You can only activate 1 \"Galaxy Expedition\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 60222582,
@@ -31,6 +47,15 @@
       {
         "id": 98555327,
         "name": "Galaxy Wizard",
+        "desc": "Once per turn: You can increase this card's Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 98555327,
@@ -43,6 +68,15 @@
       {
         "id": 904186,
         "name": "Mecha Phantom Beast Token",
+        "desc": "This card can be used as a \"Mecha Phantom Beast Token\".\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "race": "Machine",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Token",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 904186,
@@ -55,6 +89,15 @@
       {
         "id": 33508719,
         "name": "Morphing Jar",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "race": "Rock",
+        "atk": 700,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 33508719,
@@ -67,6 +110,15 @@
       {
         "id": 53936268,
         "name": "Personal Spoofing",
+        "desc": "Once per turn: You can shuffle 1 \"Altergeist\" card from your hand or face-up from your field into the Main Deck; add 1 \"Altergeist\" monster from your Deck to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 53936268,
@@ -79,6 +131,15 @@
       {
         "id": 34989413,
         "name": "Reprodocus",
+        "desc": "2 monsters\r\nYou can activate 1 of these effects.\r\n● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.\r\n● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.\r\nYou can only use this effect of \"Reprodocus\" once per turn.",
+        "race": "Dinosaur",
+        "atk": 800,
+        "def": null,
+        "level": 0,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 34989413,
@@ -91,6 +152,15 @@
       {
         "id": 24940422,
         "name": "Sekka's Light",
+        "desc": "If you have no Spells/Traps in your GY: Draw 2 cards, also, for the rest of this Duel after you activate this card, you cannot activate Spell/Trap Cards or effects, except \"Sekka's Light\". You can banish this card from your GY; reveal 1 monster in your hand, shuffle it into the Deck, then, draw 1 card. You can only use each effect of \"Sekka's Light\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 24940422,
@@ -103,6 +173,15 @@
       {
         "id": 48130397,
         "name": "Super Polymerization",
+        "desc": "Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as Fusion Material. Neither player can activate cards or effects in response to this card's activation.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 48130397,
@@ -115,6 +194,15 @@
       {
         "id": 20318029,
         "name": "Thunder Dragonmatrix",
+        "desc": "(Quick Effect): You can discard this card, then target 1 Thunder monster you control; it gains 500 ATK. If this card is banished, or sent from the field to the GY: You can add 1 \"Thunder Dragonmatrix\" from your Deck to your hand. You can only use 1 \"Thunder Dragonmatrix\" effect per turn, and only once that turn.",
+        "race": "Thunder",
+        "atk": 0,
+        "def": 2000,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 20318029,
@@ -125,11 +213,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 40418351,
         "name": "Cyberdark Dragon",
+        "desc": "\"Cyberdark Horn\" + \"Cyberdark Edge\" + \"Cyberdark Keel\"\r\nThis monster cannot be Special Summoned except by Fusion Summon. When this monster is Special Summoned, select 1 Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card's ATK. This card gains 100 ATK for each Monster Card in your Graveyard. If this card would be destroyed by battle, the equipped monster is destroyed instead.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40418351,
@@ -142,6 +238,15 @@
       {
         "id": 69884162,
         "name": "Elemental HERO Neos Alius",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69884162,
@@ -154,6 +259,15 @@
       {
         "id": 74335036,
         "name": "Fusion Substitute",
+        "desc": "(This card's name is always treated as \"Polymerization\".)\r\nFusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74335036,
@@ -166,6 +280,15 @@
       {
         "id": 61740673,
         "name": "Imperial Order",
+        "desc": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61740673,
@@ -178,6 +301,15 @@
       {
         "id": 90434657,
         "name": "Imperial Tombs of Necrovalley",
+        "desc": "When a Spell Card, Trap Card, or monster effect is activated, while both a \"Gravekeeper's\" monster and \"Necrovalley\" are on the field: Negate the activation, and if you do, destroy it. You can only activate 1 \"Imperial Tombs of Necrovalley\" per turn.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90434657,
@@ -190,6 +322,15 @@
       {
         "id": 11913700,
         "name": "Instant Neo Space",
+        "desc": "Equip only to a Fusion Monster that lists \"Elemental HERO Neos\" as material. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 \"Elemental HERO Neos\" from your hand, Deck, or GY.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11913700,
@@ -202,6 +343,15 @@
       {
         "id": 9742784,
         "name": "Jet Synchron",
+        "desc": "If this card is sent to the GY as Synchro Material: You can add 1 \"Junk\" monster from your Deck to your hand. If this card is in your GY: You can send 1 card from your hand to the GY; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Jet Synchron\" effect per turn, and only once that turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 0,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9742784,
@@ -214,6 +364,15 @@
       {
         "id": 88177324,
         "name": "Number 107: Galaxy-Eyes Tachyon Dragon",
+        "desc": "2 Level 8 monsters\r\nOnce per Battle Phase, at the start of your Battle Phase: You can detach 1 material from this card; all other face-up monsters currently on the field have their effects negated, also their ATK/DEF become their original ATK/DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88177324,
@@ -226,6 +385,15 @@
       {
         "id": 45815891,
         "name": "Scrap Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45815891,
@@ -238,6 +406,15 @@
       {
         "id": 56746202,
         "name": "Scrap Chimera",
+        "desc": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Scrap\" monster, and all other Synchro Material Monsters must also be \"Scrap\" monsters. When this card is Normal Summoned, you can select 1 \"Scrap\" Tuner monster in your Graveyard and Special Summon it.",
+        "race": "Beast",
+        "atk": 1700,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56746202,
@@ -250,6 +427,15 @@
       {
         "id": 28388296,
         "name": "Scrap Factory",
+        "desc": "All \"Scrap\" monsters gain 200 ATK and DEF. When a face-up \"Scrap\" monster(s) on the field is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon 1 \"Scrap\" monster from your Deck. You can only use this effect of \"Scrap Factory\" once per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28388296,
@@ -262,6 +448,15 @@
       {
         "id": 83135907,
         "name": "Scrap Goblin",
+        "desc": "This card cannot be destroyed by battle. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Goblin\", and add it to your hand.",
+        "race": "Beast-Warrior",
+        "atk": 0,
+        "def": 500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83135907,
@@ -274,6 +469,15 @@
       {
         "id": 82012319,
         "name": "Scrap Golem",
+        "desc": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player's field.",
+        "race": "Rock",
+        "atk": 2300,
+        "def": 1400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82012319,
@@ -286,6 +490,15 @@
       {
         "id": 64550682,
         "name": "Scrap Orthros",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a \"Scrap\" monster. If Summoned this way: Target 1 \"Scrap\" monster you control; destroy that target. If this card is destroyed by the effect of a \"Scrap\" card and sent to the GY: You can target 1 \"Scrap\" monster in your GY, except \"Scrap Orthros\"; add that target to your hand.",
+        "race": "Beast",
+        "atk": 1700,
+        "def": 1100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64550682,
@@ -298,6 +511,15 @@
       {
         "id": 65503206,
         "name": "Scrap Soldier",
+        "desc": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Scrap\" monster. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Soldier\", and add it to your hand.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 700,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 65503206,
@@ -310,6 +532,15 @@
       {
         "id": 48445393,
         "name": "Scrapstorm",
+        "desc": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48445393,
@@ -322,6 +553,15 @@
       {
         "id": 1050684,
         "name": "Scrapyard",
+        "desc": "Add 1 \"Scrap\" Tuner monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1050684,
@@ -334,6 +574,15 @@
       {
         "id": 53778229,
         "name": "Silent Graveyard",
+        "desc": "Discard 1 card; effects that activate in the GY this turn are negated.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53778229,
@@ -346,6 +595,15 @@
       {
         "id": 64910482,
         "name": "T.G. Cyber Magician",
+        "desc": "If this card you control would be used as Synchro Material for a \"T.G.\" monster, \"T.G.\" monsters in your hand can be used as the non-Tuner Synchro Materials. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Cyber Magician\".",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64910482,
@@ -358,6 +616,15 @@
       {
         "id": 36687247,
         "name": "T.G. Rush Rhino",
+        "desc": "If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36687247,
@@ -370,6 +637,15 @@
       {
         "id": 1315120,
         "name": "T.G. Striker",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand). Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Striker\".",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1315120,
@@ -382,6 +658,15 @@
       {
         "id": 293542,
         "name": "T.G. Warwolf",
+        "desc": "When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Warwolf\".",
+        "race": "Beast-Warrior",
+        "atk": 1200,
+        "def": 0,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 293542,
@@ -394,12 +679,86 @@
       {
         "id": 8038143,
         "name": "Tachyon Transmigration",
+        "desc": "If you control a \"Galaxy-Eyes\" monster: Negate the activations of your opponent's Spell/Trap Cards and monster effects activated before this card in this Chain, and if you do, shuffle the negated cards on the field into the Deck. If you control a \"Galaxy-Eyes Tachyon Dragon\" monster, you can activate this card from your hand.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8038143,
             "image_url": "https://images.ygoprodeck.com/images/cards/8038143.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8038143.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8038143.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 40044918,
+        "name": "Elemental HERO Stratos",
+        "desc": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\r\n● Destroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\r\n● Add 1 \"HERO\" monster from your Deck to your hand.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 300,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 40044918,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40044918.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40044918.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40044918.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90673288,
+        "name": "Sky Striker Ace - Shizuku",
+        "desc": "1 non-WATER \"Sky Striker Ace\" monster\r\nMonsters your opponent controls lose 100 ATK/DEF for each Spell in your GY. Once per turn, during the End Phase, if this card was Special Summoned this turn: You can add 1 \"Sky Striker\" Spell from your Deck to your hand, with a name different from the cards in your GY. You can only Special Summon \"Sky Striker Ace - Shizuku(s)\" once per turn.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": null,
+        "level": 0,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 90673288,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90673288.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90673288.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90673288.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35199656,
+        "name": "Trickstar Lycoris",
+        "desc": "(Quick Effect): You can reveal this card in your hand, then target 1 \"Trickstar\" monster you control, except \"Trickstar Lycoris\"; Special Summon this card, and if you do, return that monster to the hand. Each time a card(s) is added to your opponent's hand, inflict 200 damage to them for each.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1200,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 35199656,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35199656.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35199656.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35199656.jpg"
           }
         ]
       }

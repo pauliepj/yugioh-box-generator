@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2020 O",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 29508346,
         "name": "Arrivalrivals",
+        "desc": "During the Battle Phase: Immediately after this effect resolves, Normal Summon 1 monster. You can only activate 1 \"Arrivalrivals\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 29508346,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

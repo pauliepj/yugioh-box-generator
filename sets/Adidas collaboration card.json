@@ -1,10 +1,19 @@
 {
   "setName": "Adidas collaboration card",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 46986421,
         "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 46986421,
@@ -14,10 +23,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

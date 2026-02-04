@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! ZEXAL Volume 4 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 31320433,
         "name": "Number 47: Nightmare Shark",
+        "desc": "2 Level 3 monsters\nWhen this card is Special Summoned: You can attach 1 Level 3 WATER monster from your hand or your side of the field to this card as an Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 WATER monster you control; this turn, that monster can attack your opponent directly, also other monsters cannot attack.",
+        "race": "Sea Serpent",
+        "atk": 2000,
+        "def": 2000,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 31320433,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

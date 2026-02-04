@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 9 participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 90330453,
         "name": "Last Day of Witch",
+        "desc": "Destroy all face-up Spellcaster-Type monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 90330453,
@@ -22,8 +29,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

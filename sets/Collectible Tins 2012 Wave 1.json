@@ -1,37 +1,19 @@
 {
   "setName": "Collectible Tins 2012 Wave 1",
   "rarities": {
-    "secret": [
-      {
-        "id": 42752141,
-        "name": "Evolzar Dolkka",
-        "card_images": [
-          {
-            "id": 42752141,
-            "image_url": "https://images.ygoprodeck.com/images/cards/42752141.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42752141.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42752141.jpg"
-          }
-        ]
-      },
-      {
-        "id": 60645181,
-        "name": "Heroic Champion - Excalibur",
-        "card_images": [
-          {
-            "id": 60645181,
-            "image_url": "https://images.ygoprodeck.com/images/cards/60645181.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60645181.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60645181.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 28348537,
         "name": "Blizzard Princess",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster. After this card was Normal Summoned, your opponent cannot activate Spell/Trap Cards for the rest of that turn.",
+        "race": "Spellcaster",
+        "atk": 2800,
+        "def": 2100,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 28348537,
@@ -44,6 +26,15 @@
       {
         "id": 75326861,
         "name": "Dark Highlander",
+        "desc": "1 Fiend-Type Tuner + 1 or more non-Tuner Fiend-Type monsters\nNeither player can Synchro Summon. Once per turn: You can target 1 monster your opponent controls that is equipped with an Equip Card; destroy all Equip Cards equipped to that monster, and if you do, inflict 400 damage to your opponent for each card destroyed.",
+        "race": "Fiend",
+        "atk": 2800,
+        "def": 2300,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 75326861,
@@ -56,6 +47,15 @@
       {
         "id": 74294676,
         "name": "Evolzar Laggia",
+        "desc": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 74294676,
@@ -68,6 +68,15 @@
       {
         "id": 19182751,
         "name": "Genex Neutron",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 19182751,
@@ -80,6 +89,15 @@
       {
         "id": 76774528,
         "name": "Scrap Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can target 1 card you control and 1 card your opponent controls; destroy them. When this card in your possession is destroyed by your opponent's card and sent to your GY: Target 1 non-Synchro \"Scrap\" monster in your GY; Special Summon that target.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 76774528,
@@ -92,6 +110,15 @@
       {
         "id": 42874792,
         "name": "Wind-Up Rabbit",
+        "desc": "(Quick Effect): You can target 1 \"Wind-Up\" monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.",
+        "race": "Beast-Warrior",
+        "atk": 1400,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 42874792,
@@ -104,6 +131,15 @@
       {
         "id": 78156759,
         "name": "Wind-Up Zenmaines",
+        "desc": "2 Level 3 monsters\r\nIf this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 2100,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78156759,
@@ -114,7 +150,49 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "secret rare": [
+      {
+        "id": 42752141,
+        "name": "Evolzar Dolkka",
+        "desc": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster effect activates: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that monster.",
+        "race": "Dragon",
+        "atk": 2300,
+        "def": 1700,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 42752141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42752141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42752141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42752141.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60645181,
+        "name": "Heroic Champion - Excalibur",
+        "desc": "2 Level 4 Warrior-Type monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 60645181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60645181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60645181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60645181.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

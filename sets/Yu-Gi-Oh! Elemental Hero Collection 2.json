@@ -1,10 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Elemental Hero Collection 2",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 84327329,
         "name": "Elemental HERO Clayman",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 84327329,
@@ -17,6 +26,15 @@
       {
         "id": 20721928,
         "name": "Elemental HERO Sparkman",
+        "desc": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 20721928,
@@ -29,6 +47,15 @@
       {
         "id": 61204971,
         "name": "Elemental HERO Thunder Giant",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1500,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 61204971,
@@ -41,6 +68,15 @@
       {
         "id": 86188410,
         "name": "Elemental HERO Wildheart",
+        "desc": "This card is unaffected by Trap effects.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 86188410,
@@ -50,10 +86,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

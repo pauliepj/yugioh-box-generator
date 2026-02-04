@@ -1,12 +1,19 @@
 {
   "setName": "2015 Mega-Tins",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 82633039,
         "name": "Castel, the Skyblaster Musketeer",
+        "desc": "2 Level 4 monsters\nYou can detach 1 material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 \"Castel, the Skyblaster Musketeer\" effect per turn, and only once that turn.",
+        "race": "Winged Beast",
+        "atk": 2000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 82633039,
@@ -19,6 +26,15 @@
       {
         "id": 17412721,
         "name": "Elder Entity Norden",
+        "desc": "1 Synchro or Xyz Monster + 1 Synchro or Xyz Monster\nWhen this card is Special Summoned: You can target 1 Level 4 or lower monster in your Graveyard; Special Summon it, but its effects are negated, also banish it when this card leaves the field.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": 2200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 17412721,
@@ -31,6 +47,15 @@
       {
         "id": 33746252,
         "name": "Majesty's Fiend",
+        "desc": "Cannot be Special Summoned. Neither player can activate monster effects.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 33746252,
@@ -43,6 +68,15 @@
       {
         "id": 70913714,
         "name": "Old Entity Hastorr",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent's monster by this effect: Take control of the monster this card was equipped to.",
+        "race": "Reptile",
+        "atk": 2300,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 70913714,
@@ -53,7 +87,67 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "platinum secret rare": [
+      {
+        "id": 16195942,
+        "name": "Dark Rebellion Xyz Dragon",
+        "desc": "2 Level 4 monsters\r\nYou can detach 2 materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Platinum Secret Rare",
+        "rarityCanonical": "platinum secret rare",
+        "card_images": [
+          {
+            "id": 16195942,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16195942.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16195942.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16195942.jpg"
+          },
+          {
+            "id": 16195943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16195943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16195943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16195943.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16178681,
+        "name": "Odd-Eyes Pendulum Dragon",
+        "desc": "[ Pendulum Effect ] \nYou can reduce the battle damage you take from an attack involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of \"Odd-Eyes Pendulum Dragon\" once per turn.\n\n[ Monster Effect ] \nIf this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Platinum Secret Rare",
+        "rarityCanonical": "platinum secret rare",
+        "card_images": [
+          {
+            "id": 16178681,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178681.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178681.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178681.jpg"
+          },
+          {
+            "id": 16178682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178682.jpg"
+          },
+          {
+            "id": 16178683,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16178683.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16178683.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16178683.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

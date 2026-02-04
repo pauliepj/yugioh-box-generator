@@ -1,10 +1,1749 @@
 {
   "setName": "Order of Chaos",
   "rarities": {
-    "secret": [
+    "common": [
+      {
+        "id": 69023354,
+        "name": "Air Armor Ninja",
+        "desc": "When this card is Summoned: You can target 1 \"Ninja\" monster you control; reduce its Level by 1.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 69023354,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69023354.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69023354.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69023354.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96427353,
+        "name": "Aqua Armor Ninja",
+        "desc": "When your opponent's monster declares a direct attack, if you have another \"Ninja\" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 96427353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96427353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96427353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96427353.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65150219,
+        "name": "Armor Ninjitsu Art of Freezing",
+        "desc": "When an opponent's monster declares an attack, if you control a \"Ninja\" monster: You can flip this card face-up; negate that attack and end the Battle Phase. While this card is face-up on the field and you control a \"Ninja\" monster, monsters your opponent controls cannot change their battle positions.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 65150219,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65150219.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65150219.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65150219.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95905259,
+        "name": "Chow Len the Prophet",
+        "desc": "Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell & Trap Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 95905259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95905259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95905259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95905259.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30488793,
+        "name": "Counterforce",
+        "desc": "When a monster's attack is negated that targeted a face-up Attack Position monster: Inflict damage to your opponent equal to the difference in ATK between the 2 monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 30488793,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30488793.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30488793.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30488793.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48588176,
+        "name": "Danipon",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1000 or less DEF from your Deck to your hand.",
+        "race": "Insect",
+        "atk": 600,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 48588176,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48588176.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48588176.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48588176.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41722932,
+        "name": "Dark Mambele",
+        "desc": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 41722932,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41722932.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41722932.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41722932.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76202610,
+        "name": "Darklon",
+        "desc": "When this card is Normal Summoned: You can have all face-up monsters you currently control gain 1 Level, also, they become DARK (these effects last until the End Phase).",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 76202610,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76202610.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76202610.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76202610.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37421075,
+        "name": "Degen-Force",
+        "desc": "Tribute 1 Level 4 or higher Dinosaur-Type monster; Special Summon 2 Level 3 or lower Reptile-Type monsters from your hand and/or Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 37421075,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37421075.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37421075.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37421075.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20277376,
+        "name": "Divine Dragon Apocralyph",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Dragon-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 20277376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20277376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20277376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20277376.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44883600,
+        "name": "Double Defender",
+        "desc": "Once per turn, when an opponent's monster declares an attack while you control 2 or more face-up Defense Position monsters: You can target the attacking monster; negate that attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44883600,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44883600.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44883600.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44883600.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22812068,
+        "name": "Earth Armor Ninja",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 22812068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22812068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22812068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22812068.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64815084,
+        "name": "Evo-Branch",
+        "desc": "Target 1 face-up Reptile-Type monster you control; destroy it and Special Summon 1 \"Evoltile\" monster in face-down Defense Position from your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64815084,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64815084.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64815084.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64815084.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23234094,
+        "name": "Evolsaur Elias",
+        "desc": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.",
+        "race": "Dinosaur",
+        "atk": 100,
+        "def": 2400,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 23234094,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23234094.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23234094.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23234094.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69633792,
+        "name": "Evolsaur Terias",
+        "desc": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: This card loses 500 ATK.",
+        "race": "Dinosaur",
+        "atk": 2400,
+        "def": 600,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 69633792,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69633792.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69633792.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69633792.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20855340,
+        "name": "Evoltile Pleuro",
+        "desc": "If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 \"Evolsaur\" monster from your hand.",
+        "race": "Reptile",
+        "atk": 200,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 20855340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20855340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20855340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20855340.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21390858,
+        "name": "Familiar-Possessed - Dharc",
+        "desc": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Dharc the Dark Charmer\" you control and 1 face-up DARK monster you control to the Graveyard. When you do: You can add 1 Level 3 or 4 LIGHT Spellcaster-Type monster from your Deck to your hand. If this card was Special Summoned by this effect and attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+        "race": "Spellcaster",
+        "atk": 1850,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 21390858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21390858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21390858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21390858.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33034646,
+        "name": "Flame Armor Ninja",
+        "desc": "When this card is Summoned: You can target 1 \"Ninja\" monster you control; increase its Level by 1.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 33034646,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33034646.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33034646.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33034646.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81000306,
+        "name": "Full-Force Strike",
+        "desc": "Target 1 face-up monster you control; this turn, it cannot be destroyed by battle, players take no battle damage from its attacks, and if it attacks an opponent's monster, destroy that opponent's monster after damage calculation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 81000306,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81000306.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81000306.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81000306.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80887714,
+        "name": "Galaxy Storm",
+        "desc": "Target 1 face-up Xyz Monster on the field that has no Xyz Material; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 80887714,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80887714.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80887714.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80887714.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77098449,
+        "name": "Galaxy Wave",
+        "desc": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 77098449,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77098449.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77098449.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77098449.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25206027,
+        "name": "Interplanetarypurplythorny Dragon",
+        "desc": "If a monster you control is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon this card from your hand.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1100,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 25206027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25206027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25206027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25206027.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95395761,
+        "name": "Inzektor Ant",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. If the equipped monster would be destroyed, you can destroy this Equip Card instead.",
+        "race": "Insect",
+        "atk": 200,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 95395761,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95395761.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95395761.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95395761.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21790410,
+        "name": "Inzektor Centipede",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can add 1 \"Inzektor\" card from your Deck to your hand. While this card is equipped to a monster, that monster's Level is increased by 3.",
+        "race": "Insect",
+        "atk": 1600,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 21790410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21790410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21790410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21790410.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21977828,
+        "name": "Inzektor Giga-Weevil",
+        "desc": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster's original DEF becomes 2600. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard; Special Summon that target. This effect of \"Inzektor Giga-Weevil\" can only be used once per turn.",
+        "race": "Insect",
+        "atk": 0,
+        "def": 2600,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 21977828,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21977828.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21977828.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21977828.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7243511,
+        "name": "Koalo-Koala",
+        "desc": "\"Sea Koala\" + \"Tree Otter\"\nYou can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.",
+        "race": "Beast",
+        "atk": 2800,
+        "def": 200,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 7243511,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7243511.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7243511.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7243511.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40817915,
+        "name": "Kurivolt",
+        "desc": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
+        "race": "Thunder",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 40817915,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40817915.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40817915.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40817915.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22512406,
+        "name": "Masked Ninja Ebisu",
+        "desc": "Once per turn, if you control a face-up \"Ninja\" monster other than \"Masked Ninja Ebisu\", you can activate this effect: Return a number of your opponent's Spell/Trap Cards to the hand, equal to the number of \"Ninja\" monsters you control, also every face-up \"Goe Goe the Gallant Ninja\" you control can attack your opponent directly this turn.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 22512406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22512406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22512406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22512406.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64145892,
+        "name": "Photon Circle",
+        "desc": "Any Battle Damage you take from battles involving this card is halved.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64145892,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64145892.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64145892.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64145892.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1362589,
+        "name": "Photon Crusher",
+        "desc": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 1362589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1362589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1362589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1362589.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38757297,
+        "name": "Photon Leo",
+        "desc": "When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.",
+        "race": "Beast",
+        "atk": 2100,
+        "def": 1100,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 38757297,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38757297.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38757297.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38757297.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51589188,
+        "name": "Photon Trident",
+        "desc": "Target 1 face-up \"Photon\" monster you control; until the End Phase, it gains 700 ATK, and if it attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When it inflicts Battle Damage to your opponent this turn: You can target 1 Spell/Trap Card on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 51589188,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51589188.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51589188.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51589188.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78933589,
+        "name": "Primordial Soup",
+        "desc": "Once per turn, during your Main Phase: You can shuffle up to 2 \"Evolsaur\" monsters from your hand into the Deck, then draw the same number of cards. You can only control 1 face-up \"Primordial Soup\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 78933589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78933589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78933589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78933589.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52971944,
+        "name": "Sealing Ceremony of Katon",
+        "desc": "Once per turn: You can banish 1 FIRE monster from your Graveyard to target 1 card in your opponent's Graveyard; banish that target.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 52971944,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52971944.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52971944.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52971944.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2584136,
+        "name": "Shocktopus",
+        "desc": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
+        "race": "Fish",
+        "atk": 1600,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 2584136,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2584136.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2584136.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2584136.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39765115,
+        "name": "Splash Capture",
+        "desc": "When your opponent Xyz Summons: Banish 2 Fish-Type monsters from your Graveyard to target that face-up Xyz Monster; take control of that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 39765115,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39765115.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39765115.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39765115.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43661068,
+        "name": "Star Light, Star Bright",
+        "desc": "Target 1 face-up monster you control; all face-up monsters you currently control with an ATK or DEF equal to that monster's become the same Level as that monster, until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 43661068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43661068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43661068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43661068.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74983881,
+        "name": "Sweet Corn",
+        "desc": "Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).",
+        "race": "Plant",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 74983881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74983881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74983881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74983881.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58911105,
+        "name": "Upstart Golden Ninja",
+        "desc": "Once per turn: You can send 1 Trap from your hand to the GY; Special Summon 1 Level 4 or lower \"Ninja\" monster from your Deck in face-up Defense Position or face-down Defense Position.",
+        "race": "Warrior",
+        "atk": 500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 58911105,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58911105.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58911105.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58911105.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1371589,
+        "name": "Vampiric Koala",
+        "desc": "If this card inflicts battle damage to your opponent by battle with a monster: Gain LP equal to the battle damage inflicted.",
+        "race": "Beast",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 1371589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1371589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1371589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1371589.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64038662,
+        "name": "Variable Form",
+        "desc": "Once per turn, you can activate 1 of these effects.\n● Target 2 face-up \"Inzektor\" monsters you control; equip one to the other.\n● Target 1 \"Inzektor\" monster you control that is an Equip Card; Special Summon that target in face-up Defense Position.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 64038662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64038662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64038662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64038662.jpg"
+          }
+        ]
+      },
+      {
+        "id": 93451636,
+        "name": "Wind-Up Honeybee",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck.",
+        "race": "Insect",
+        "atk": 100,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 93451636,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93451636.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93451636.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93451636.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30600344,
+        "name": "Xyz Burst",
+        "desc": "If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 30600344,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30600344.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30600344.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30600344.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91422370,
+        "name": "Zenmailstrom",
+        "desc": "Tribute 1 \"Wind-Up\" monster with 1500 or more ATK; Special Summon 1 \"Wind-Up\" monster from your hand, then you can Special Summon 1 \"Wind-Up\" monster from your Deck with the same ATK as the monster Special Summoned by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 91422370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91422370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91422370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91422370.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 79155167,
+        "name": "Armor Blast",
+        "desc": "Target 1 face-up \"Inzektor\" card you control and 2 face-up cards your opponent controls; destroy them.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 79155167,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79155167.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79155167.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79155167.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16272453,
+        "name": "Armor Ninjitsu Art of Alchemy",
+        "desc": "If you control a \"Ninjitsu Art\" card: Destroy as many other \"Ninjitsu Art\" cards you control as possible, then draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 16272453,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16272453.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16272453.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16272453.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2148918,
+        "name": "Armor Ninjitsu Art of Rust Mist",
+        "desc": "When a monster(s) is Special Summoned to your opponent's field, if you control a \"Ninja\" monster: Halve the current ATK of that Special Summoned monster(s).",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 2148918,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2148918.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2148918.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2148918.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82944432,
+        "name": "Blade Armor Ninja",
+        "desc": "2 Level 4 Warrior-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 \"Ninja\" monster you control; it can make a second attack during each Battle Phase this turn.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 82944432,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82944432.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82944432.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82944432.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78811937,
+        "name": "Creeping Darkness",
+        "desc": "Banish 2 DARK monsters from your GY; add 1 Level 4 DARK monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 78811937,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78811937.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78811937.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78811937.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31919988,
+        "name": "Dark Diviner",
+        "desc": "1 DARK Tuner + 1 non-Tuner Insect-Type monster\nThis card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 31919988,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31919988.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31919988.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31919988.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57662975,
+        "name": "Darkstorm Dragon",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can send 1 face-up Spell/Trap Card you control to the Graveyard; destroy all Spell and Trap Cards on the field.",
+        "race": "Dragon",
+        "atk": 2700,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Gemini Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 57662975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57662975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57662975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57662975.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5338223,
+        "name": "Evo-Force",
+        "desc": "Tribute 1 \"Evoltile\" monster; Special Summon 1 \"Evolsaur\" monster from your Deck. It is treated as if it was Special Summoned by the effect of an \"Evoltile\" monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 5338223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5338223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5338223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5338223.jpg"
+          }
+        ]
+      },
+      {
+        "id": 88095331,
+        "name": "Evoltile Najasho",
+        "desc": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
+        "race": "Reptile",
+        "atk": 100,
+        "def": 2000,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 88095331,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88095331.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88095331.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88095331.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87973893,
+        "name": "Inzektor Axe - Zektahawk",
+        "desc": "Equip only to an \"Inzektor\" monster. It gains 1000 ATK. When the equipped monster declares an attack, your opponent cannot activate Spell/Trap Cards.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 87973893,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87973893.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87973893.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87973893.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69207766,
+        "name": "Inzektor Hornet",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. While this card is equipped to a monster: You can send this Equip Card to the Graveyard to target 1 card on the field; destroy that target.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 69207766,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69207766.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69207766.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69207766.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90200789,
+        "name": "Ninjitsu Art of Super-Transformation",
+        "desc": "Activate this card by targeting 1 \"Ninja\" monster you control and 1 face-up monster your opponent controls; send them to the GY, then Special Summon 1 Dragon, Dinosaur, or Sea Serpent monster from your Deck whose Level is less than or equal to the combined original Levels of the sent monster(s). When this card leaves the field, banish that monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 90200789,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90200789.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90200789.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90200789.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57962537,
+        "name": "Wind-Up Rat",
+        "desc": "During your Main Phase: You can target 1 \"Wind-Up\" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and Special Summon that target in face-up Defense Position. This effect can only be used once while this card is face-up on the field.",
+        "race": "Beast",
+        "atk": 600,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 57962537,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57962537.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57962537.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57962537.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25484449,
+        "name": "Wind-Up Shark",
+        "desc": "When a \"Wind-Up\" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.\n● Increase this card's Level by 1, until the End Phase.\n● Reduce this card's Level by 1, until the End Phase.",
+        "race": "Fish",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 25484449,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25484449.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25484449.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25484449.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 57784563,
+        "name": "Dark Blade the Captain of the Evil World",
+        "desc": "Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 Level 4 or lower LIGHT monster your opponent controls; equip it to this card. (You can only equip 1 monster at a time to this card with this effect.) If this card on the field would be destroyed, the monster equipped to it with this effect is destroyed, instead.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 57784563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57784563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57784563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57784563.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67904682,
+        "name": "Dark Flattop",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner Machine-Type monsters\nOnce per turn: You can target 1 \"Reactor\" monster or \"Flying Fortress SKY FIRE\" in your Graveyard; Special Summon that target, ignoring its Summoning conditions. If this card is destroyed and sent to the Graveyard: You can Special Summon 1 Level 5 or lower Machine-Type monster from your hand.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 67904682,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67904682.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67904682.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67904682.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24362891,
+        "name": "Evo-Instant",
+        "desc": "Tribute 1 Reptile-Type monster; Special Summon 1 \"Evolsaur\" monster from your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 24362891,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24362891.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24362891.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24362891.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56240989,
+        "name": "Evoltile Casinerio",
+        "desc": "At the end of the Battle Phase, if this card destroyed an opponent's monster by battle: You can Tribute this card; Special Summon 2 Level 6 or lower FIRE Dinosaur-Type monsters with the same name from your Deck. Their effects are negated and they are banished during the End Phase.",
+        "race": "Reptile",
+        "atk": 1600,
+        "def": 400,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 56240989,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56240989.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56240989.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56240989.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17494901,
+        "name": "Gagagabolt",
+        "desc": "If you control a \"Gagaga\" monster: Target 1 card on the field; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 17494901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17494901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17494901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17494901.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76972801,
+        "name": "Gagagaguard",
+        "desc": "If you control 2 or more face-up \"Gagaga\" monsters: This turn, monsters you control cannot be destroyed by battle or by card effects.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 76972801,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76972801.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76972801.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76972801.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39695323,
+        "name": "Gogogo Giant",
+        "desc": "When this card is Normal Summoned: You can target 1 \"Gogogo\" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.",
+        "race": "Rock",
+        "atk": 2000,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 39695323,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39695323.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39695323.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39695323.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68184115,
+        "name": "Inzektor Dragonfly",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 1800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 68184115,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68184115.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68184115.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68184115.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52601736,
+        "name": "Inzektor Hopper",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 4. While this card is equipped to a monster: You can send this Equip Card to the Graveyard; the monster it was equipped to can attack your opponent directly this turn. Other monsters cannot attack the turn you activate this effect.",
+        "race": "Insect",
+        "atk": 1700,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 52601736,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52601736.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52601736.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52601736.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38643567,
+        "name": "Inzektor Orb",
+        "desc": "Target 1 face-up \"Inzektor\" monster you control; equip this card to that target. It gains 500 ATK and DEF. When exactly 1 \"Inzektor\" monster you control is targeted by a card effect (except during the Damage Step): You can send this Equip Card to the Graveyard; negate that effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 38643567,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38643567.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38643567.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38643567.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50766506,
+        "name": "Ninjitsu Art of Duplication",
+        "desc": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 50766506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50766506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50766506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50766506.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63193536,
+        "name": "Over Capacity",
+        "desc": "When your opponent Special Summons a monster: Banish all face-up Level 2 or lower monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 63193536,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63193536.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63193536.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63193536.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38973775,
+        "name": "Photon Lizard",
+        "desc": "You can Tribute this card; add 1 Level 4 or lower \"Photon\" monster from your Deck to your hand. You can only use this effect of \"Photon Lizard\" once per turn.",
+        "race": "Dragon",
+        "atk": 900,
+        "def": 1200,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 38973775,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38973775.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38973775.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38973775.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65367484,
+        "name": "Photon Thrasher",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 65367484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65367484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65367484.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90640901,
+        "name": "Reverse Buster",
+        "desc": "This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 90640901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90640901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90640901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90640901.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26586849,
+        "name": "Royal Prison",
+        "desc": "Monsters cannot be Special Summoned from the Graveyard.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 26586849,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26586849.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26586849.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26586849.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4215636,
+        "name": "Shrine of Mist Valley",
+        "desc": "Once per turn, when a WIND monster(s) is destroyed by a card effect and sent to your Graveyard (except during the Damage Step): You can Special Summon 1 Level 3 or lower WIND monster from your hand or Deck. Its effects are negated.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 4215636,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4215636.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4215636.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4215636.jpg"
+          }
+        ]
+      },
+      {
+        "id": 42548470,
+        "name": "Weights & Zenmaisures",
+        "desc": "Target 2 face-up \"Wind-Up\" monsters you control with different Levels; your opponent chooses 1 of them, and the Level of the other monster becomes the same as the chosen monster's, until the End Phase. Then, if your opponent chose the monster with a lower Level, you can draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 42548470,
+            "image_url": "https://images.ygoprodeck.com/images/cards/42548470.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42548470.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42548470.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20193924,
+        "name": "White Night Queen",
+        "desc": "Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.",
+        "race": "Fairy",
+        "atk": 2100,
+        "def": 800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 20193924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20193924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20193924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20193924.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76080032,
+        "name": "ZW - Unicorn Spear",
+        "desc": "You can target 1 \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1900 ATK. If the equipped monster battles an opponent's monster, the opponent's monster's effect is negated during the Battle Phase only. You can only control 1 \"ZW - Unicorn Spear\".",
+        "race": "Beast",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 76080032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76080032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76080032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76080032.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 3493058,
+        "name": "Dicephoon",
+        "desc": "Roll a six-sided die and apply the result.\n● 2, 3, or 4: Destroy 1 Spell/Trap on the field.\n● 5: Destroy 2 Spells/Traps on the field.\n● 1 or 6: You take 1000 damage.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 3493058,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3493058.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3493058.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3493058.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83061014,
+        "name": "Numen erat Testudo",
+        "desc": "Neither player can Special Summon monsters with 1800 or less ATK.",
+        "race": "Aqua",
+        "atk": 1800,
+        "def": 0,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 83061014,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83061014.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83061014.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83061014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99188141,
+        "name": "The Huge Revolution is Over",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated that would destroy 2 or more cards on the field: Negate the activation, and if you do, banish it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 99188141,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99188141.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99188141.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99188141.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94283662,
+        "name": "Trance Archfiend",
+        "desc": "Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 94283662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94283662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94283662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94283662.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
       {
         "id": 93353691,
         "name": "Driven Daredevil",
+        "desc": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters\nThis card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 2100,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 93353691,
@@ -17,6 +1756,15 @@
       {
         "id": 3606728,
         "name": "Gagaga Girl",
+        "desc": "You can target 1 \"Gagaga Magician\" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other \"Gagaga\" monsters as Xyz Material gains this effect.\n● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 3606728,
@@ -29,6 +1777,15 @@
       {
         "id": 44505297,
         "name": "Inzektor Exa-Beetle",
+        "desc": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 monster in either player's Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster equipped by this effect. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card on each side of the field; send those targets to the Graveyard.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44505297,
@@ -41,6 +1798,15 @@
       {
         "id": 4423206,
         "name": "M-X-Saber Invoker",
+        "desc": "2 Level 3 monsters\r\nOnce per turn: You can detach 1 material from this card; Special Summon 1 Level 4 EARTH Warrior or Beast-Warrior monster from your Deck, in Defense Position, but destroy it during the End Phase.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 4423206,
@@ -53,6 +1819,15 @@
       {
         "id": 52823314,
         "name": "Tour Bus From the Underworld",
+        "desc": "When this card is sent to the Graveyard: Target 1 monster in either player's Graveyard, except \"Tour Bus From the Underworld\"; shuffle that target into the Deck.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 52823314,
@@ -65,6 +1840,15 @@
       {
         "id": 99212922,
         "name": "White Dragon Ninja",
+        "desc": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card's effect. Spells/Traps you control cannot be destroyed by card effects.",
+        "race": "Dragon",
+        "atk": 2700,
+        "def": 1200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 99212922,
@@ -77,6 +1861,15 @@
       {
         "id": 77334267,
         "name": "Wind-Up Arsenal Zenmaioh",
+        "desc": "2 Level 5 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 2 Set cards on the field; destroy them.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 1900,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 77334267,
@@ -89,6 +1882,15 @@
       {
         "id": 26708437,
         "name": "Xyz Reborn",
+        "desc": "Target 1 Xyz Monster in your Graveyard; Special Summon it, and if you do, attach this card to it as an Xyz Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 26708437,
@@ -99,10 +1901,19 @@
         ]
       }
     ],
-    "ultra": [
+    "ultimate rare": [
       {
         "id": 18511599,
         "name": "Evolzar Solda",
+        "desc": "2 Level 6 Dinosaur-Type monsters\nThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 1000,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 18511599,
@@ -121,6 +1932,15 @@
       {
         "id": 94573223,
         "name": "Inzektor Giga-Mantis",
+        "desc": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster's original ATK becomes 2400. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard except \"Inzektor Giga-Mantis\"; Special Summon that target. This effect of \"Inzektor Giga-Mantis\" can only be used once per turn.",
+        "race": "Insect",
+        "atk": 2400,
+        "def": 0,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 94573223,
@@ -139,6 +1959,15 @@
       {
         "id": 16550875,
         "name": "Inzektor Sword - Zektkaliber",
+        "desc": "Equip only to an \"Inzektor\" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 \"Inzektor\" monster in your Graveyard; add that target to your hand.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 16550875,
@@ -157,6 +1986,15 @@
       {
         "id": 95027497,
         "name": "Ninja Grandmaster Hanzo",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 95027497,
@@ -175,6 +2013,15 @@
       {
         "id": 19333131,
         "name": "Number 12: Crimson Shadow Armor Ninja",
+        "desc": "2 Level 5 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; this turn, face-up \"Ninja\" monsters you control cannot be destroyed by battle or by card effects.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1700,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 19333131,
@@ -193,6 +2040,15 @@
       {
         "id": 55727845,
         "name": "Number 96: Dark Mist",
+        "desc": "3 Level 2 monsters\nOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 1000,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 55727845,
@@ -211,6 +2067,15 @@
       {
         "id": 56840427,
         "name": "Number C39: Utopia Ray",
+        "desc": "3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 56840427,
@@ -235,6 +2100,15 @@
       {
         "id": 29455728,
         "name": "Twin Photon Lizard",
+        "desc": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 29455728,
@@ -253,6 +2127,15 @@
       {
         "id": 81122844,
         "name": "Wind-Up Carrier Zenmaity",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Wind-Up\" monster from your hand or Deck. When a face-up \"Wind-Up\" monster on the field is destroyed and sent to your Graveyard (except during the Damage Step): You can detach 1 Xyz Material from this card to target that monster; return that target to the hand.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 81122844,
@@ -271,6 +2154,15 @@
       {
         "id": 2371506,
         "name": "Xyz Reflect",
+        "desc": "When a Spell Card, Trap Card, or monster effect is activated that targets a face-up Xyz Monster(s) on the field: Negate the activation, and if you do, destroy it, then inflict 800 damage to your opponent.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 2371506,
@@ -287,944 +2179,315 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
-        "id": 79155167,
-        "name": "Armor Blast",
+        "id": 18511599,
+        "name": "Evolzar Solda",
+        "desc": "2 Level 6 Dinosaur-Type monsters\nThis card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 1000,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 79155167,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79155167.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79155167.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79155167.jpg"
+            "id": 18511599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18511599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18511599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18511599.jpg"
+          },
+          {
+            "id": 18511599,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18511599.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18511599.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18511599.jpg"
           }
         ]
       },
       {
-        "id": 16272453,
-        "name": "Armor Ninjitsu Art of Alchemy",
+        "id": 94573223,
+        "name": "Inzektor Giga-Mantis",
+        "desc": "You can target 1 face-up \"Inzektor\" monster you control; equip this card from your hand to that target. While this card is equipped to a monster, that monster's original ATK becomes 2400. If this card is sent to the Graveyard while equipped to a monster: You can target 1 \"Inzektor\" monster in your Graveyard except \"Inzektor Giga-Mantis\"; Special Summon that target. This effect of \"Inzektor Giga-Mantis\" can only be used once per turn.",
+        "race": "Insect",
+        "atk": 2400,
+        "def": 0,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 16272453,
-            "image_url": "https://images.ygoprodeck.com/images/cards/16272453.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16272453.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16272453.jpg"
+            "id": 94573223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94573223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94573223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94573223.jpg"
+          },
+          {
+            "id": 94573223,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94573223.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94573223.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94573223.jpg"
           }
         ]
       },
       {
-        "id": 2148918,
-        "name": "Armor Ninjitsu Art of Rust Mist",
+        "id": 16550875,
+        "name": "Inzektor Sword - Zektkaliber",
+        "desc": "Equip only to an \"Inzektor\" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 \"Inzektor\" monster in your Graveyard; add that target to your hand.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 2148918,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2148918.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2148918.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2148918.jpg"
+            "id": 16550875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16550875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16550875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16550875.jpg"
+          },
+          {
+            "id": 16550875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16550875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16550875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16550875.jpg"
           }
         ]
       },
       {
-        "id": 82944432,
-        "name": "Blade Armor Ninja",
+        "id": 95027497,
+        "name": "Ninja Grandmaster Hanzo",
+        "desc": "When this card is Normal Summoned: You can add 1 \"Ninjitsu Art\" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 \"Ninja\" monster from your Deck to your hand, except \"Ninja Grandmaster Hanzo\".",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 82944432,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82944432.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82944432.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82944432.jpg"
+            "id": 95027497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95027497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95027497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95027497.jpg"
+          },
+          {
+            "id": 95027497,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95027497.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95027497.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95027497.jpg"
           }
         ]
       },
       {
-        "id": 78811937,
-        "name": "Creeping Darkness",
+        "id": 19333131,
+        "name": "Number 12: Crimson Shadow Armor Ninja",
+        "desc": "2 Level 5 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; this turn, face-up \"Ninja\" monsters you control cannot be destroyed by battle or by card effects.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1700,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 78811937,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78811937.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78811937.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78811937.jpg"
+            "id": 19333131,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19333131.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19333131.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19333131.jpg"
+          },
+          {
+            "id": 19333131,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19333131.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19333131.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19333131.jpg"
           }
         ]
       },
       {
-        "id": 31919988,
-        "name": "Dark Diviner",
+        "id": 55727845,
+        "name": "Number 96: Dark Mist",
+        "desc": "3 Level 2 monsters\nOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 1000,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 31919988,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31919988.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31919988.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31919988.jpg"
+            "id": 55727845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55727845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55727845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55727845.jpg"
+          },
+          {
+            "id": 55727845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55727845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55727845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55727845.jpg"
           }
         ]
       },
       {
-        "id": 57662975,
-        "name": "Darkstorm Dragon",
+        "id": 56840427,
+        "name": "Number C39: Utopia Ray",
+        "desc": "3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 57662975,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57662975.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57662975.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57662975.jpg"
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
+          },
+          {
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
+          },
+          {
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
           }
         ]
       },
       {
-        "id": 5338223,
-        "name": "Evo-Force",
+        "id": 29455728,
+        "name": "Twin Photon Lizard",
+        "desc": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 5338223,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5338223.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5338223.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5338223.jpg"
+            "id": 29455728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29455728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29455728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29455728.jpg"
+          },
+          {
+            "id": 29455728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29455728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29455728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29455728.jpg"
           }
         ]
       },
       {
-        "id": 88095331,
-        "name": "Evoltile Najasho",
+        "id": 81122844,
+        "name": "Wind-Up Carrier Zenmaity",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; Special Summon 1 \"Wind-Up\" monster from your hand or Deck. When a face-up \"Wind-Up\" monster on the field is destroyed and sent to your Graveyard (except during the Damage Step): You can detach 1 Xyz Material from this card to target that monster; return that target to the hand.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 88095331,
-            "image_url": "https://images.ygoprodeck.com/images/cards/88095331.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88095331.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88095331.jpg"
+            "id": 81122844,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81122844.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81122844.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81122844.jpg"
+          },
+          {
+            "id": 81122844,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81122844.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81122844.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81122844.jpg"
           }
         ]
       },
       {
-        "id": 87973893,
-        "name": "Inzektor Axe - Zektahawk",
+        "id": 2371506,
+        "name": "Xyz Reflect",
+        "desc": "When a Spell Card, Trap Card, or monster effect is activated that targets a face-up Xyz Monster(s) on the field: Negate the activation, and if you do, destroy it, then inflict 800 damage to your opponent.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 87973893,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87973893.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87973893.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87973893.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69207766,
-        "name": "Inzektor Hornet",
-        "card_images": [
+            "id": 2371506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2371506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2371506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2371506.jpg"
+          },
           {
-            "id": 69207766,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69207766.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69207766.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69207766.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90200789,
-        "name": "Ninjitsu Art of Super-Transformation",
-        "card_images": [
-          {
-            "id": 90200789,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90200789.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90200789.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90200789.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57962537,
-        "name": "Wind-Up Rat",
-        "card_images": [
-          {
-            "id": 57962537,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57962537.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57962537.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57962537.jpg"
-          }
-        ]
-      },
-      {
-        "id": 25484449,
-        "name": "Wind-Up Shark",
-        "card_images": [
-          {
-            "id": 25484449,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25484449.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25484449.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25484449.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [
-      {
-        "id": 57784563,
-        "name": "Dark Blade the Captain of the Evil World",
-        "card_images": [
-          {
-            "id": 57784563,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57784563.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57784563.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57784563.jpg"
-          }
-        ]
-      },
-      {
-        "id": 67904682,
-        "name": "Dark Flattop",
-        "card_images": [
-          {
-            "id": 67904682,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67904682.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67904682.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67904682.jpg"
-          }
-        ]
-      },
-      {
-        "id": 24362891,
-        "name": "Evo-Instant",
-        "card_images": [
-          {
-            "id": 24362891,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24362891.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24362891.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24362891.jpg"
-          }
-        ]
-      },
-      {
-        "id": 56240989,
-        "name": "Evoltile Casinerio",
-        "card_images": [
-          {
-            "id": 56240989,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56240989.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56240989.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56240989.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17494901,
-        "name": "Gagagabolt",
-        "card_images": [
-          {
-            "id": 17494901,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17494901.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17494901.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17494901.jpg"
-          }
-        ]
-      },
-      {
-        "id": 76972801,
-        "name": "Gagagaguard",
-        "card_images": [
-          {
-            "id": 76972801,
-            "image_url": "https://images.ygoprodeck.com/images/cards/76972801.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76972801.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76972801.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39695323,
-        "name": "Gogogo Giant",
-        "card_images": [
-          {
-            "id": 39695323,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39695323.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39695323.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39695323.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68184115,
-        "name": "Inzektor Dragonfly",
-        "card_images": [
-          {
-            "id": 68184115,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68184115.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68184115.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68184115.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52601736,
-        "name": "Inzektor Hopper",
-        "card_images": [
-          {
-            "id": 52601736,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52601736.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52601736.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52601736.jpg"
-          }
-        ]
-      },
-      {
-        "id": 38643567,
-        "name": "Inzektor Orb",
-        "card_images": [
-          {
-            "id": 38643567,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38643567.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38643567.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38643567.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50766506,
-        "name": "Ninjitsu Art of Duplication",
-        "card_images": [
-          {
-            "id": 50766506,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50766506.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50766506.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50766506.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63193536,
-        "name": "Over Capacity",
-        "card_images": [
-          {
-            "id": 63193536,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63193536.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63193536.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63193536.jpg"
-          }
-        ]
-      },
-      {
-        "id": 38973775,
-        "name": "Photon Lizard",
-        "card_images": [
-          {
-            "id": 38973775,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38973775.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38973775.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38973775.jpg"
-          }
-        ]
-      },
-      {
-        "id": 65367484,
-        "name": "Photon Thrasher",
-        "card_images": [
-          {
-            "id": 65367484,
-            "image_url": "https://images.ygoprodeck.com/images/cards/65367484.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65367484.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90640901,
-        "name": "Reverse Buster",
-        "card_images": [
-          {
-            "id": 90640901,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90640901.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90640901.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90640901.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26586849,
-        "name": "Royal Prison",
-        "card_images": [
-          {
-            "id": 26586849,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26586849.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26586849.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26586849.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4215636,
-        "name": "Shrine of Mist Valley",
-        "card_images": [
-          {
-            "id": 4215636,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4215636.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4215636.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4215636.jpg"
-          }
-        ]
-      },
-      {
-        "id": 42548470,
-        "name": "Weights & Zenmaisures",
-        "card_images": [
-          {
-            "id": 42548470,
-            "image_url": "https://images.ygoprodeck.com/images/cards/42548470.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/42548470.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/42548470.jpg"
-          }
-        ]
-      },
-      {
-        "id": 20193924,
-        "name": "White Night Queen",
-        "card_images": [
-          {
-            "id": 20193924,
-            "image_url": "https://images.ygoprodeck.com/images/cards/20193924.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20193924.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20193924.jpg"
-          }
-        ]
-      },
-      {
-        "id": 76080032,
-        "name": "ZW - Unicorn Spear",
-        "card_images": [
-          {
-            "id": 76080032,
-            "image_url": "https://images.ygoprodeck.com/images/cards/76080032.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76080032.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76080032.jpg"
+            "id": 2371506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2371506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2371506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2371506.jpg"
           }
         ]
       }
     ],
-    "common": [
+    "ghost rare": [
       {
-        "id": 69023354,
-        "name": "Air Armor Ninja",
+        "id": 56840427,
+        "name": "Number C39: Utopia Ray",
+        "desc": "3 Level 4 LIGHT monsters\nYou can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ghost Rare",
+        "rarityCanonical": "ghost rare",
         "card_images": [
           {
-            "id": 69023354,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69023354.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69023354.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69023354.jpg"
-          }
-        ]
-      },
-      {
-        "id": 96427353,
-        "name": "Aqua Armor Ninja",
-        "card_images": [
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
+          },
           {
-            "id": 96427353,
-            "image_url": "https://images.ygoprodeck.com/images/cards/96427353.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96427353.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96427353.jpg"
-          }
-        ]
-      },
-      {
-        "id": 65150219,
-        "name": "Armor Ninjitsu Art of Freezing",
-        "card_images": [
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
+          },
           {
-            "id": 65150219,
-            "image_url": "https://images.ygoprodeck.com/images/cards/65150219.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65150219.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65150219.jpg"
-          }
-        ]
-      },
-      {
-        "id": 95905259,
-        "name": "Chow Len the Prophet",
-        "card_images": [
-          {
-            "id": 95905259,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95905259.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95905259.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95905259.jpg"
-          }
-        ]
-      },
-      {
-        "id": 30488793,
-        "name": "Counterforce",
-        "card_images": [
-          {
-            "id": 30488793,
-            "image_url": "https://images.ygoprodeck.com/images/cards/30488793.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30488793.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30488793.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48588176,
-        "name": "Danipon",
-        "card_images": [
-          {
-            "id": 48588176,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48588176.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48588176.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48588176.jpg"
-          }
-        ]
-      },
-      {
-        "id": 41722932,
-        "name": "Dark Mambele",
-        "card_images": [
-          {
-            "id": 41722932,
-            "image_url": "https://images.ygoprodeck.com/images/cards/41722932.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41722932.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41722932.jpg"
-          }
-        ]
-      },
-      {
-        "id": 76202610,
-        "name": "Darklon",
-        "card_images": [
-          {
-            "id": 76202610,
-            "image_url": "https://images.ygoprodeck.com/images/cards/76202610.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76202610.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76202610.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37421075,
-        "name": "Degen-Force",
-        "card_images": [
-          {
-            "id": 37421075,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37421075.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37421075.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37421075.jpg"
-          }
-        ]
-      },
-      {
-        "id": 20277376,
-        "name": "Divine Dragon Apocralyph",
-        "card_images": [
-          {
-            "id": 20277376,
-            "image_url": "https://images.ygoprodeck.com/images/cards/20277376.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20277376.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20277376.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44883600,
-        "name": "Double Defender",
-        "card_images": [
-          {
-            "id": 44883600,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44883600.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44883600.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44883600.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22812068,
-        "name": "Earth Armor Ninja",
-        "card_images": [
-          {
-            "id": 22812068,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22812068.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22812068.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22812068.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64815084,
-        "name": "Evo-Branch",
-        "card_images": [
-          {
-            "id": 64815084,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64815084.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64815084.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64815084.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23234094,
-        "name": "Evolsaur Elias",
-        "card_images": [
-          {
-            "id": 23234094,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23234094.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23234094.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23234094.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69633792,
-        "name": "Evolsaur Terias",
-        "card_images": [
-          {
-            "id": 69633792,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69633792.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69633792.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69633792.jpg"
-          }
-        ]
-      },
-      {
-        "id": 20855340,
-        "name": "Evoltile Pleuro",
-        "card_images": [
-          {
-            "id": 20855340,
-            "image_url": "https://images.ygoprodeck.com/images/cards/20855340.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20855340.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20855340.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21390858,
-        "name": "Familiar-Possessed - Dharc",
-        "card_images": [
-          {
-            "id": 21390858,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21390858.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21390858.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21390858.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33034646,
-        "name": "Flame Armor Ninja",
-        "card_images": [
-          {
-            "id": 33034646,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33034646.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33034646.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33034646.jpg"
-          }
-        ]
-      },
-      {
-        "id": 81000306,
-        "name": "Full-Force Strike",
-        "card_images": [
-          {
-            "id": 81000306,
-            "image_url": "https://images.ygoprodeck.com/images/cards/81000306.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81000306.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81000306.jpg"
-          }
-        ]
-      },
-      {
-        "id": 80887714,
-        "name": "Galaxy Storm",
-        "card_images": [
-          {
-            "id": 80887714,
-            "image_url": "https://images.ygoprodeck.com/images/cards/80887714.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80887714.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80887714.jpg"
-          }
-        ]
-      },
-      {
-        "id": 77098449,
-        "name": "Galaxy Wave",
-        "card_images": [
-          {
-            "id": 77098449,
-            "image_url": "https://images.ygoprodeck.com/images/cards/77098449.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77098449.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77098449.jpg"
-          }
-        ]
-      },
-      {
-        "id": 25206027,
-        "name": "Interplanetarypurplythorny Dragon",
-        "card_images": [
-          {
-            "id": 25206027,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25206027.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25206027.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25206027.jpg"
-          }
-        ]
-      },
-      {
-        "id": 95395761,
-        "name": "Inzektor Ant",
-        "card_images": [
-          {
-            "id": 95395761,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95395761.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95395761.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95395761.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21790410,
-        "name": "Inzektor Centipede",
-        "card_images": [
-          {
-            "id": 21790410,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21790410.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21790410.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21790410.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21977828,
-        "name": "Inzektor Giga-Weevil",
-        "card_images": [
-          {
-            "id": 21977828,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21977828.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21977828.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21977828.jpg"
-          }
-        ]
-      },
-      {
-        "id": 7243511,
-        "name": "Koalo-Koala",
-        "card_images": [
-          {
-            "id": 7243511,
-            "image_url": "https://images.ygoprodeck.com/images/cards/7243511.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7243511.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7243511.jpg"
-          }
-        ]
-      },
-      {
-        "id": 40817915,
-        "name": "Kurivolt",
-        "card_images": [
-          {
-            "id": 40817915,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40817915.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40817915.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40817915.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22512406,
-        "name": "Masked Ninja Ebisu",
-        "card_images": [
-          {
-            "id": 22512406,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22512406.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22512406.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22512406.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64145892,
-        "name": "Photon Circle",
-        "card_images": [
-          {
-            "id": 64145892,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64145892.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64145892.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64145892.jpg"
-          }
-        ]
-      },
-      {
-        "id": 1362589,
-        "name": "Photon Crusher",
-        "card_images": [
-          {
-            "id": 1362589,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1362589.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1362589.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1362589.jpg"
-          }
-        ]
-      },
-      {
-        "id": 38757297,
-        "name": "Photon Leo",
-        "card_images": [
-          {
-            "id": 38757297,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38757297.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38757297.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38757297.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51589188,
-        "name": "Photon Trident",
-        "card_images": [
-          {
-            "id": 51589188,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51589188.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51589188.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51589188.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78933589,
-        "name": "Primordial Soup",
-        "card_images": [
-          {
-            "id": 78933589,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78933589.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78933589.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78933589.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52971944,
-        "name": "Sealing Ceremony of Katon",
-        "card_images": [
-          {
-            "id": 52971944,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52971944.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52971944.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52971944.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2584136,
-        "name": "Shocktopus",
-        "card_images": [
-          {
-            "id": 2584136,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2584136.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2584136.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2584136.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39765115,
-        "name": "Splash Capture",
-        "card_images": [
-          {
-            "id": 39765115,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39765115.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39765115.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39765115.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43661068,
-        "name": "Star Light, Star Bright",
-        "card_images": [
-          {
-            "id": 43661068,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43661068.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43661068.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43661068.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74983881,
-        "name": "Sweet Corn",
-        "card_images": [
-          {
-            "id": 74983881,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74983881.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74983881.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74983881.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58911105,
-        "name": "Upstart Golden Ninja",
-        "card_images": [
-          {
-            "id": 58911105,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58911105.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58911105.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58911105.jpg"
-          }
-        ]
-      },
-      {
-        "id": 1371589,
-        "name": "Vampiric Koala",
-        "card_images": [
-          {
-            "id": 1371589,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1371589.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1371589.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1371589.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64038662,
-        "name": "Variable Form",
-        "card_images": [
-          {
-            "id": 64038662,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64038662.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64038662.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64038662.jpg"
-          }
-        ]
-      },
-      {
-        "id": 93451636,
-        "name": "Wind-Up Honeybee",
-        "card_images": [
-          {
-            "id": 93451636,
-            "image_url": "https://images.ygoprodeck.com/images/cards/93451636.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93451636.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93451636.jpg"
-          }
-        ]
-      },
-      {
-        "id": 30600344,
-        "name": "Xyz Burst",
-        "card_images": [
-          {
-            "id": 30600344,
-            "image_url": "https://images.ygoprodeck.com/images/cards/30600344.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30600344.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30600344.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91422370,
-        "name": "Zenmailstrom",
-        "card_images": [
-          {
-            "id": 91422370,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91422370.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91422370.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91422370.jpg"
+            "id": 56840427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56840427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56840427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56840427.jpg"
           }
         ]
       }

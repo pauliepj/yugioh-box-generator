@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2014 Prize Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 37910722,
         "name": "Ascension Sky Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card and sent to your GY, if all of the monsters that were used for the Synchro Summon of this card are in your GY: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": -1,
+        "def": 3000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37910722,
@@ -22,10 +30,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 37910722,
         "name": "Ascension Sky Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card and sent to your GY, if all of the monsters that were used for the Synchro Summon of this card are in your GY: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": -1,
+        "def": 3000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 37910722,
@@ -41,8 +58,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

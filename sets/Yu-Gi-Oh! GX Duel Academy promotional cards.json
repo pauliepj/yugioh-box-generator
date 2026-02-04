@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Duel Academy promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 89252153,
         "name": "Elemental HERO Necroshade",
+        "desc": "Once, while this card is in the Graveyard, 1 Level 5 or higher \"Elemental HERO\" monster you Normal Summon can be Summoned without Tributing.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 89252153,
@@ -19,6 +26,15 @@
       {
         "id": 26647858,
         "name": "Hero Ring",
+        "desc": "Target 1 Warrior-Type monster with 1500 or less ATK; equip this card to that target. Monsters your opponent controls with 1900 or more ATK cannot attack that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 26647858,
@@ -31,6 +47,15 @@
       {
         "id": 57116033,
         "name": "Winged Kuriboh",
+        "desc": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 57116033,
@@ -46,8 +71,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

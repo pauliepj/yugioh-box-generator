@@ -1,11 +1,19 @@
 {
   "setName": "Crossed Souls Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 82114013,
         "name": "Sea Dragoons of Draconia",
+        "desc": "[ Pendulum Effect ] \nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n\n[ Monster Effect ] \n''Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.''",
+        "race": "Sea Serpent",
+        "atk": 200,
+        "def": 2100,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Pendulum Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 82114013,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

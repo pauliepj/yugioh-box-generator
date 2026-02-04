@@ -1,10 +1,1875 @@
 {
   "setName": "Shining Victories",
   "rarities": {
-    "secret": [
+    "super rare": [
+      {
+        "id": 98287529,
+        "name": "Amorphactor Pain, the Imagination Dracoverlord",
+        "desc": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+        "race": "Dragon",
+        "atk": 2950,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 98287529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98287529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98287529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98287529.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69072185,
+        "name": "Amorphage Goliath",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, any card sent to the GY is banished instead, except \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nNeither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 2750,
+        "def": 0,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 69072185,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69072185.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69072185.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69072185.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50554729,
+        "name": "Amorphage Infection",
+        "desc": "All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 50554729,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50554729.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50554729.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50554729.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23338098,
+        "name": "Assault Blackwing - Chidori the Rain Sprinkling",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner monster while face-up on the field. This card gains 300 ATK for each \"Blackwing\" monster in your Graveyard. When this card is destroyed and sent to the Graveyard: You can target 1 Winged Beast-Type Synchro Monster in your Graveyard, except \"Assault Blackwing - Chidori the Rain Sprinkling\"; Special Summon it.",
+        "race": "Winged Beast",
+        "atk": 2600,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 23338098,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23338098.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23338098.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23338098.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50619462,
+        "name": "Cattle Call",
+        "desc": "Send 1 face-up monster you control to the Graveyard, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 50619462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50619462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50619462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50619462.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85004150,
+        "name": "Digital Bug Rhinosebus",
+        "desc": "2 or more Level 7 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 5 or 6 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy the face-up monster(s) your opponent controls with the highest DEF (all, if tied).",
+        "race": "Insect",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 85004150,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85004150.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85004150.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85004150.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59496924,
+        "name": "Kozmo Landwalker",
+        "desc": "If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 59496924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59496924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59496924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59496924.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86013171,
+        "name": "Kozmo Scaredy Lion",
+        "desc": "During either player's turn: You can banish this card; Special Summon 1 Level 3 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmo Scaredy Lion\" once per turn. Once per turn: You can pay 500 LP, then target 3 of your banished \"Kozmo\" monsters; return them to the Graveyard, and if you do, inflict 500 damage to your opponent.",
+        "race": "Psychic",
+        "atk": 1200,
+        "def": 500,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 86013171,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86013171.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86013171.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86013171.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24550676,
+        "name": "Lunalight Leo Dancer",
+        "desc": "\"Lunalight Panther Dancer\" + 2 \"Lunalight\" monsters\nMust be Fusion Summoned with the above Fusion Materials. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. This card can make a second attack during each Battle Phase. Once per turn, at the end of the Damage Step, if this card attacked a monster: You can destroy all Special Summoned monsters your opponent controls.",
+        "race": "Beast-Warrior",
+        "atk": 3500,
+        "def": 3000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 24550676,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24550676.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24550676.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24550676.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13048472,
+        "name": "Pre-Preparation of Rites",
+        "desc": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 13048472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13048472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13048472.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36734924,
+        "name": "Priestess with Eyes of Blue",
+        "desc": "When a card or effect is activated that targets this card (Quick Effect): You can send 1 Effect Monster you control to the GY, and if you do, add up to 2 \"Blue-Eyes\" monsters with different names from your Deck to your hand. If this card is in your GY: You can target 1 \"Blue-Eyes\" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 \"Priestess with Eyes of Blue\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 36734924,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36734924.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36734924.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36734924.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86221741,
+        "name": "Raidraptor - Ultimate Falcon",
+        "desc": "3 Level 10 Winged Beast-Type monsters\nUnaffected by other cards' effects. You can detach 1 Xyz Material from this card; for the rest of this turn, all monsters your opponent controls will lose 1000 ATK, also your opponent's cards and effects cannot be activated. If this card has a \"Raidraptor\" monster as Xyz Material, it gains this effect.\n● Once per turn, during the End Phase: You can make all monsters your opponent controls lose 1000 ATK. If your opponent controls no face-up monsters, inflict 1000 damage to your opponent.",
+        "race": "Winged Beast",
+        "atk": 3500,
+        "def": 2000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 86221741,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86221741.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86221741.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86221741.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31733941,
+        "name": "Red-Eyes Toon Dragon",
+        "desc": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except \"Red-Eyes Toon Dragon\", ignoring its Summoning conditions.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Toon Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 31733941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31733941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31733941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31733941.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85821180,
+        "name": "Tuner's High",
+        "desc": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 85821180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85821180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85821180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85821180.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 33300669,
+        "name": "Amorphage Envy",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2050,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 33300669,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33300669.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33300669.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33300669.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34522216,
+        "name": "Amorphage Gluttony",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, monsters cannot activate their effects, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 1850,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 34522216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34522216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34522216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34522216.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7305060,
+        "name": "Amorphage Greed",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can activate Trap Cards or their effects, except for \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 1950,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 7305060,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7305060.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7305060.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7305060.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47598941,
+        "name": "Amorphage Lysis",
+        "desc": "All monsters on the field, except \"Amorphage\" monsters, lose 100 ATK and DEF for each \"Amorphage\" card on the field. If a card(s) in your Pendulum Zone is destroyed (except during the Damage Step): You can place 1 \"Amorphage\" Pendulum Monster from your Deck in your Pendulum Zone. You can only use this effect of \"Amorphage Lysis\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 47598941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47598941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47598941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47598941.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24672164,
+        "name": "Bloom Prima the Melodious Choir",
+        "desc": "1 \"Melodious Maestra\" monster + 1 or more \"Melodious\" monsters\nThis card gains 300 ATK for each Fusion Material used for its Fusion Summon. This card can make a second attack during each Battle Phase. If this Fusion Summoned card is sent to the Graveyard: You can target 1 \"Melodious\" monster in your Graveyard; add it to your hand.",
+        "race": "Fairy",
+        "atk": 1900,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 24672164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24672164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24672164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24672164.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59432181,
+        "name": "Fusion Tag",
+        "desc": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used for a Fusion Summon this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 59432181,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59432181.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59432181.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59432181.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86943389,
+        "name": "Hi-Speedroid Puzzle",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nAt the start of the Damage Step, if this card battles a Special Summoned monster: You can make this card's ATK become double its current ATK until the end of the Damage Step. Once per turn, during the End Phase, if this card is in the Graveyard because this Synchro Summoned card was sent there from the field this turn: You can target 1 \"Speedroid\" monster in your Graveyard, except \"Hi-Speedroid Puzzle\"; add it to your hand.",
+        "race": "Machine",
+        "atk": 1300,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 86943389,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86943389.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86943389.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86943389.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11439455,
+        "name": "Lunalight Blue Cat",
+        "desc": "If this card is Special Summoned: You can target 1 \"Lunalight\" monster you control, except \"Lunalight Blue Cat\"; its ATK becomes double its original ATK until the end of this turn. You can only use this effect of \"Lunalight Blue Cat\" once per turn. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Lunalight\" monster from your Deck.",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 11439455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11439455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11439455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11439455.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51777272,
+        "name": "Lunalight Cat Dancer",
+        "desc": "2 \"Lunalight\" monsters\nCannot be destroyed by battle. Once per turn, during your Main Phase 1: You can Tribute 1 other \"Lunalight\" monster; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card declares an attack: Inflict 100 damage to your opponent.",
+        "race": "Beast-Warrior",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 51777272,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51777272.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51777272.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51777272.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23220863,
+        "name": "Magical Cavalry of Cxulub",
+        "desc": "This card is unaffected by monsters' activated effects, except Pendulum Monsters'.",
+        "race": "Dinosaur",
+        "atk": 1500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 23220863,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23220863.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23220863.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23220863.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24382602,
+        "name": "Mausoleum of White",
+        "desc": "During your Main Phase, you can Normal Summon 1 Level 1 LIGHT Tuner in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 1 face-up monster you control; send 1 Normal Monster from your hand or Deck to the GY, and if you do, the targeted monster gains ATK/DEF equal to the Level of the monster sent to the GY x 100, until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Burst Stream of Destruction\" from your Deck to your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 24382602,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24382602.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24382602.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24382602.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59762399,
+        "name": "Performapal Odd-Eyes Light Phoenix",
+        "desc": "[ Pendulum Effect ] \nWhen an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.\n\n[ Monster Effect ] \n(Quick Effect): You can Tribute this card, then target 1 \"Performapal\" monster you control; it gains 1000 ATK until the end of this turn.",
+        "race": "Winged Beast",
+        "atk": 2000,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 59762399,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59762399.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59762399.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59762399.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86157908,
+        "name": "Performapal Odd-Eyes Unicorn",
+        "desc": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, when your \"Odd-Eyes\" monster declares an attack: You can target 1 other \"Performapal\" monster you control; that attacking monster gains ATK equal to the original ATK of the targeted monster on the field, until the end of the Battle Phase (even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is Normal or Special Summoned: You can target 1 \"Performapal\" monster in your GY; gain LP equal to its ATK.",
+        "race": "Beast",
+        "atk": 100,
+        "def": 600,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 86157908,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86157908.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86157908.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86157908.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58988903,
+        "name": "Rank-Up-Magic Skip Force",
+        "desc": "Target 1 \"Raidraptor\" Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Raidraptor\" monster that is 2 Ranks higher than that target, by using that target as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.) During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card and 1 \"Raidraptor\" monster from your Graveyard, then target 1 \"Raidraptor\" Xyz Monster in your Graveyard; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 58988903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58988903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58988903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58988903.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59640711,
+        "name": "Speedroid Den-Den Daiko Duke",
+        "desc": "You can banish this card from your Graveyard; Special Summon 1 \"Speedroid\" Tuner monster from your hand or Graveyard, except \"Speedroid Den-Den Daiko Duke\". You can only use this effect of \"Speedroid Den-Den Daiko Duke\" once per turn.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 59640711,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59640711.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59640711.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59640711.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85034450,
+        "name": "Speedroid Pachingo-Kart",
+        "desc": "Once per turn: You can discard 1 Machine-Type monster, then target 1 monster on the field; destroy it.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 85034450,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85034450.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85034450.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85034450.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26517393,
+        "name": "Spirit of the Fall Wind",
+        "desc": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 900,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 26517393,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26517393.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26517393.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26517393.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84769941,
+        "name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while your opponent controls a \"Kaiju\" monster. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; equip 1 \"Kaiju\" monster from your hand or Graveyard to this card. This card gains ATK equal to the combined original ATK of the \"Kaiju\" monsters equipped to it by this effect.",
+        "race": "Machine",
+        "atk": -1,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 84769941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84769941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84769941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84769941.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90122655,
+        "name": "Tenmataitei",
+        "desc": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1000,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 90122655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90122655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90122655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90122655.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48770333,
+        "name": "Thunder King, the Lightningstrike Kaiju",
+        "desc": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; your opponent's cards and effects cannot be activated for the rest of this turn, also this card can make up to 3 attacks on monsters during each Battle Phase this turn.",
+        "race": "Thunder",
+        "atk": 3300,
+        "def": 2100,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 48770333,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48770333.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48770333.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48770333.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 70917315,
+        "name": "Amorphage Lechery",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can activate Spell Cards or their effects, except for \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 1350,
+        "def": 0,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 70917315,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70917315.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70917315.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70917315.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23160024,
+        "name": "Amorphous Persona",
+        "desc": "All \"Amorphage\" monsters on the field gain 300 ATK and DEF. Up to twice per turn, if an \"Amorphage\" monster(s) you control is Tributed, draw 1 card. You can banish this card from your Graveyard; Tribute Pendulum Monsters from your hand or field whose total Levels exactly equal 8, then Ritual Summon 1 \"Amorphactor Pain, the Imagination Dracoverlord\" from your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 23160024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23160024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23160024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23160024.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45467446,
+        "name": "Dragon Spirit of White",
+        "desc": "(This card is always treated as a \"Blue-Eyes\" card.)\r\nThis card is treated as a Normal Monster while in the hand or GY. When this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; banish it. If your opponent controls a monster (Quick Effect): You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 45467446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45467446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45467446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45467446.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62242678,
+        "name": "Hot Red Dragon Archfiend King Calamity",
+        "desc": "2 Tuners + 1 non-Tuner DARK Dragon Synchro Monster\r\nWhen this card is Synchro Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 8 or lower DARK Dragon Synchro Monster in your GY; Special Summon it.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 3500,
+        "level": 12,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 62242678,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62242678.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62242678.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62242678.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7127502,
+        "name": "Lector Pendulum, the Dracoverlord",
+        "desc": "[ Pendulum Effect ] \nNegate the effects of face-up Pendulum Monsters while your opponent controls them.\n\n[ Monster Effect ] \nAt the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.",
+        "race": "Dragon",
+        "atk": 1950,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 7127502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7127502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7127502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7127502.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97165977,
+        "name": "Lunalight Panther Dancer",
+        "desc": "\"Lunalight Cat Dancer\" + 1 \"Lunalight\" monster\nMust first be Fusion Summoned with the above Fusion Materials. Cannot be destroyed by your opponent's card effects. Once per turn, during your Main Phase 1: You can activate this effect; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card destroys an opponent's monster by battle: This card gains 200 ATK until the end of the Battle Phase.",
+        "race": "Beast-Warrior",
+        "atk": 2800,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 97165977,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97165977.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97165977.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97165977.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8240199,
+        "name": "Sage with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can add 1 Level 1 LIGHT Tuner from your Deck to your hand, except \"Sage with Eyes of Blue\". You can discard this card, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can only use this effect of \"Sage with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 1500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 8240199,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8240199.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8240199.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8240199.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26268488,
+        "name": "Stardust Sifr Divine Dragon",
+        "desc": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned and cannot be Special Summoned by other ways. The first time each card you control would be destroyed each turn, by battle or card effect, it is not destroyed. Once per turn, during either player's turn, when your opponent activates a monster effect: You can negate that effect, and if you do, destroy 1 card on the field. You can banish this card from your Graveyard, then target 1 Level 8 or lower \"Stardust\" monster in your Graveyard; Special Summon it.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 26268488,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26268488.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26268488.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26268488.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71039903,
+        "name": "The White Stone of Ancients",
+        "desc": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can banish this card from your GY, then target 1 \"Blue-Eyes\" monster in your GY; add it to your hand. You can only use this effect of \"The White Stone of Ancients\" once per turn.",
+        "race": "Dragon",
+        "atk": 600,
+        "def": 500,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 71039903,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71039903.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71039903.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71039903.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72648810,
+        "name": "Unwavering Bond",
+        "desc": "When your opponent activates a Pendulum Monster's effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 72648810,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72648810.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72648810.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72648810.jpg"
+          }
+        ]
+      }
+    ],
+    "common": [
+      {
+        "id": 6283472,
+        "name": "Amorphage Pride",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player takes any effect damage. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 1750,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 6283472,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6283472.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6283472.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6283472.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79794767,
+        "name": "Amorphage Wrath",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can Tribute monsters, except \"Amorphage\" monsters. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 1650,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 79794767,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79794767.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79794767.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79794767.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46253216,
+        "name": "Bad Aim",
+        "desc": "When your opponent's card or effect is activated: Target 1 card on the field (other than that card); destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46253216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46253216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46253216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46253216.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50371210,
+        "name": "Beacon of White",
+        "desc": "If you do not control another \"Beacon of White\", and you have 3 or more \"Blue-Eyes\" monsters in your GY: Target 1 of them; Special Summon it, but it has its effects negated, also equip it with this card. When this card leaves the field, banish the equipped monster. Other monsters you control cannot attack, also if you have any number of \"Blue-Eyes\" monster(s) in your GY, the equipped monster can attack up to that number of times during each Battle Phase.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 50371210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50371210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50371210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50371210.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19462747,
+        "name": "Blackwing - Decay the Ill Wind",
+        "desc": "Once per turn, during the End Phase, if this card is in the Graveyard because it was sent there this turn: Take 1000 damage. When this card is Normal or Special Summoned: You can target 1 \"Blackwing\" monster you control, then activate 1 of these effects;\n● Increase its Level by 1.\n● Reduce its Level by 1.\nYou can only use this effect of \"Blackwing - Decay the Ill Wind\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19462747,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19462747.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19462747.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19462747.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10971759,
+        "name": "Bug Emergency",
+        "desc": "Target 2 Level 3 Insect-Type monsters in your Graveyard; Special Summon them, but their effects are negated. You can banish this card and 1 Xyz Monster from your Graveyard; the Levels of all Level 3 Insect-Type monsters you currently control become equal to the banished monster's Rank until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except Insect-Type monsters. You can only activate 1 \"Bug Emergency\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10971759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10971759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10971759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10971759.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86643777,
+        "name": "Bug Matrix",
+        "desc": "All Insect-Type monsters you control gain 300 ATK and DEF. You can target 1 Insect-Type Xyz Monster you control; attach 1 Insect-Type monster from your hand to that monster as Xyz Material. You can only use this effect of \"Bug Matrix\" once per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 86643777,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86643777.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86643777.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86643777.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17530001,
+        "name": "Cuben",
+        "desc": "Once per turn: You can roll a six-sided die, and while this monster is face-up on the field, neither player can Normal or Special Summon monsters with the same Level as the result.",
+        "race": "Thunder",
+        "atk": 600,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17530001,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17530001.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17530001.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17530001.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25494711,
+        "name": "Deskbot 009",
+        "desc": "Once per turn, during your Main Phase 1: You can make this card gain ATK equal to the combined ATK of all \"Deskbot\" monsters you currently control, except \"Deskbot 009\", until the end of your opponent's turn. Only this card can attack the turn this effect is activated. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this card would be destroyed by battle or card effect, you can destroy 1 \"Deskbot\" card you control instead.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 25494711,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25494711.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25494711.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25494711.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12215894,
+        "name": "Deskbot Base",
+        "desc": "All \"Deskbot\" monsters on the field gain 500 ATK and DEF. Once per turn: You can reveal any number of \"Deskbot\" cards in your hand and shuffle them into the Deck, then draw the same number of cards. You can banish 9 \"Deskbot\" cards with different names from your field and/or Graveyard, except \"Deskbot Base\"; shuffle all cards from your opponent's hand, field and Graveyard into the Deck.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12215894,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12215894.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12215894.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12215894.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68950538,
+        "name": "Digital Bug Centibit",
+        "desc": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, when this face-up card is changed from Attack Position to Defense Position: You can Special Summon 1 Level 3 Insect-Type monster from your Deck in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● This card can attack all Defense Position monsters your opponent controls once each.",
+        "race": "Insect",
+        "atk": 1500,
+        "def": 500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 68950538,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68950538.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68950538.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68950538.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32465539,
+        "name": "Digital Bug Cocoondenser",
+        "desc": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, if this card is in Attack Position: You can target 1 Level 3 Insect-Type monster in your Graveyard; change this card to Defense Position, and if you do, Special Summon that monster in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\r\n● If this card attacks a Defense Position monster, your opponent's cards and effects cannot be activated until the end of the Damage Step.",
+        "race": "Insect",
+        "atk": 0,
+        "def": 2000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 32465539,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32465539.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32465539.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32465539.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58600555,
+        "name": "Digital Bug Corebage",
+        "desc": "2 or more Level 5 LIGHT Insect-Type monsters\nYou can also Xyz Summon this card by detaching 2 Xyz Materials from a Rank 3 or 4 Insect-Type Xyz Monster you control, then using that Xyz Monster as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster your opponent controls; shuffle it into the Deck. Once per turn, if the battle position of a monster(s) on the field is changed (except during the Damage Step): You can attach 1 Insect-Type monster from your Graveyard to this card as Xyz Material.",
+        "race": "Insect",
+        "atk": 2200,
+        "def": 1800,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 58600555,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58600555.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58600555.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58600555.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12615446,
+        "name": "Digital Bug Scaradiator",
+        "desc": "2 or more Level 3 LIGHT Insect-Type monsters\nOnce per turn, during either player's turn: You can detach 2 Xyz Materials from this card, then target 1 monster your opponent controls; change its battle position, and if you do, it has its effects negated until the end of this turn. Once per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can attach that destroyed monster to this card as Xyz Material.",
+        "race": "Insect",
+        "atk": 1800,
+        "def": 1400,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12615446,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12615446.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12615446.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12615446.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94344242,
+        "name": "Digital Bug Websolder",
+        "desc": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn: You can target 1 face-up Attack Position monster you control; change it to Defense Position, and if you do, Special Summon 1 Level 3 Insect-Type monster from your hand in Defense Position. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: The DEF of all face-up monsters your opponent controls become 0, also change them to Defense Position.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 94344242,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94344242.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94344242.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94344242.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74582050,
+        "name": "Dinomist Eruption",
+        "desc": "If a \"Dinomist\" monster(s) you control is destroyed by battle or card effect: Target 1 card your opponent controls; destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 74582050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74582050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74582050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74582050.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5067884,
+        "name": "Dinomist Spinos",
+        "desc": "[ Pendulum Effect ] \nIf another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n\n[ Monster Effect ] \nYou can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\r\n● This card can attack your opponent directly this turn.\r\n● This card can make a second attack during each Battle Phase this turn.",
+        "race": "Machine",
+        "atk": 2500,
+        "def": 1800,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 5067884,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5067884.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5067884.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5067884.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67310848,
+        "name": "Dwarf Star Dragon Planeter",
+        "desc": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Level 7 LIGHT or DARK monster from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 67310848,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67310848.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67310848.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67310848.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57554544,
+        "name": "Fire King Island",
+        "desc": "If this face-up card in the Field Zone is sent to the Graveyard or banished: Destroy all monsters you control. You can only use 1 of the following effects of \"Fire King Island\" per turn, and only once that turn.\n● During your Main Phase: You can destroy 1 monster in your hand or you control, and if you do, add 1 \"Fire King\" monster from your Deck to your hand.\n● If you control no monsters: You can Special Summon 1 FIRE Winged Beast-Type monster from your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57554544,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57554544.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57554544.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57554544.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87765315,
+        "name": "Forge of the True Dracos",
+        "desc": "If a \"Dracoslayer\" monster, that is not a Pendulum Monster, and a \"Dracoverlord\" monster are on the field: Shuffle as many cards on the field as possible into the Deck, then you can Special Summon 1 \"Dracoslayer\" or \"Dracoverlord\" monster from your Deck, ignoring its Summoning conditions.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 87765315,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87765315.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87765315.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87765315.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11493868,
+        "name": "Fortissimo",
+        "desc": "Once per turn: You can target 1 \"Melodious\" monster you control; it gains 800 ATK until your next Standby Phase (even if this card leaves the field). You can send this card to the Graveyard; Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11493868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11493868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11493868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11493868.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29087919,
+        "name": "Geargia Change",
+        "desc": "Target 2 or more \"Geargiano\" monsters with different names in your Graveyard; Special Summon them. Immediately after this card resolves, Xyz Summon 1 Xyz Monster using all the Summoned monsters (but no other monsters) as Materials. You can only activate 1 \"Geargia Change\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 29087919,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29087919.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29087919.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29087919.jpg"
+          }
+        ]
+      },
+      {
+        "id": 92693205,
+        "name": "Geargianchor",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. If this card is flipped face-up: You can destroy monsters on the field, up to the number of other \"Geargia\" monsters you currently control.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 92693205,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92693205.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92693205.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92693205.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99000107,
+        "name": "Gendo the Ascetic Monk",
+        "desc": "Face-up Attack Position monsters on the field cannot activate their effects. This Defense Position card cannot be targeted, or destroyed, by card effects.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 1800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 99000107,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99000107.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99000107.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99000107.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12385638,
+        "name": "Kozmourning",
+        "desc": "Monsters destroyed by battle with \"Kozmo\" monsters you control are shuffled into the Deck instead of going to the Graveyard. You can banish this card from your Graveyard; the first time you would take battle damage from a battle involving a \"Kozmo\" monster you control this turn, gain that much LP, instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12385638,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12385638.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12385638.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12385638.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11317977,
+        "name": "Lunalight Black Sheep",
+        "desc": "You can discard this card, then activate 1 of these effects;\n● Add 1 \"Lunalight\" monster from your Graveyard to your hand, except \"Lunalight Black Sheep\".\n● Add 1 \"Polymerization\" from your Deck to your hand.\nIf this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can add to your hand, 1 face-up \"Lunalight\" Pendulum Monster from your Extra Deck or 1 \"Lunalight\" monster from your Graveyard, except \"Lunalight Black Sheep\".",
+        "race": "Beast-Warrior",
+        "atk": 100,
+        "def": 600,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11317977,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11317977.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11317977.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11317977.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48427163,
+        "name": "Lunalight Purple Butterfly",
+        "desc": "You can send this card from your hand or field to the Graveyard, then target 1 \"Lunalight\" monster you control; it gains 1000 ATK until the end of this turn. You can banish this card from your Graveyard; Special Summon 1 \"Lunalight\" monster from your hand. You can only use this effect of \"Lunalight Purple Butterfly\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 48427163,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48427163.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48427163.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48427163.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11193246,
+        "name": "Lunalight Reincarnation Dance",
+        "desc": "If a monster(s) you control is destroyed by battle or card effect: Add up to 2 \"Lunalight\" monsters from your Deck to your hand. You can only activate 1 \"Lunalight Reincarnation Dance\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11193246,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11193246.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11193246.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11193246.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83190280,
+        "name": "Lunalight Tiger",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.\n\n[ Monster Effect ] \nIf this card on the field is destroyed by battle or card effect: You can target 1 \"Lunalight\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Lunalight Tiger\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 83190280,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83190280.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83190280.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83190280.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84812868,
+        "name": "Lunalight White Rabbit",
+        "desc": "When this card is Normal Summoned: You can target 1 \"Lunalight\" monster in your Graveyard, except \"Lunalight White Rabbit\"; Special Summon it in Defense Position. Once per turn: You can target Spell/Trap Cards your opponent controls, up to the number of other \"Lunalight\" cards you control; return them to the hand.",
+        "race": "Beast-Warrior",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 84812868,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84812868.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84812868.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84812868.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47705572,
+        "name": "Lunalight Wolf",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Lunalight\" monsters. This effect cannot be negated. Once per turn: You can Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.\n\n[ Monster Effect ] \nIf a \"Lunalight\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 1800,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 47705572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47705572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47705572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47705572.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45644898,
+        "name": "Master with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 1 LIGHT Tuner in your GY; add it to your hand. You can shuffle this card from your GY into the Deck, then target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your GY, other than the sent monster. You can only use this effect of \"Master with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 1200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 45644898,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45644898.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45644898.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45644898.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12255007,
+        "name": "Performapal Fireflux",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.\n\n[ Monster Effect ] \nIf a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+        "race": "Insect",
+        "atk": 1200,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 12255007,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12255007.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12255007.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12255007.jpg"
+          }
+        ]
+      },
+      {
+        "id": 23377694,
+        "name": "Performapal Sellshell Crab",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, when a \"Performapal\" monster you control is destroyed by battle: You can target 1 \"Performapal\" or \"Odd-Eyes\" card in your Pendulum Zone; Special Summon it.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 Pendulum Monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control, until the end of this turn.",
+        "race": "Aqua",
+        "atk": 500,
+        "def": 2500,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 23377694,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23377694.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23377694.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23377694.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72855441,
+        "name": "Protector with Eyes of Blue",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 1 LIGHT Tuner from your hand. You can target 1 Effect Monster you control; send it to the GY, and if you do, Special Summon 1 \"Blue-Eyes\" monster from your hand. You can only use this effect of \"Protector with Eyes of Blue\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 72855441,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72855441.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72855441.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72855441.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10194329,
+        "name": "Raidraptor - Avenge Vulture",
+        "desc": "If you take damage: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Raidraptor\" monsters.",
+        "race": "Winged Beast",
+        "atk": 1700,
+        "def": 100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10194329,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10194329.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10194329.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10194329.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73977033,
+        "name": "Raidraptor - Booster Strix",
+        "desc": "When a \"Raidraptor\" monster you control is targeted for an attack by an opponent's monster: You can banish this card from your hand; destroy the attacking monster.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 73977033,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73977033.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73977033.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73977033.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46589034,
+        "name": "Raidraptor - Pain Lanius",
+        "desc": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Winged Beast-Type monster. If this card is in your hand: You can target 1 \"Raidraptor\" monster you control that has a Level; take damage equal to its ATK or DEF (whichever is lower, but your choice if tied), and if you do, Special Summon this card, and if you do that, this card's Level becomes the current Level of the targeted monster. You can only use this effect of \"Raidraptor - Pain Lanius\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 46589034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46589034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46589034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46589034.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85704698,
+        "name": "Re-dyce-cle",
+        "desc": "Target 1 \"Speedroid\" Tuner monster in your Graveyard; Special Summon it, but its effects are negated, also roll a six-sided die, and its Level becomes the result until the end of this turn. You can banish this card from your Graveyard; immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster, using monsters you control including a \"Speedroid\" Tuner monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 85704698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85704698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85704698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85704698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19254117,
+        "name": "Rise to Full Height",
+        "desc": "Target 1 face-up monster on the field; double its DEF, but its DEF becomes 0 at the end of this turn. You can banish this card from your GY, then target 1 monster you control; your opponent's monsters cannot attack for the rest of this turn, except to attack that monster. You can only activate 1 \"Rise to Full Height\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19254117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19254117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19254117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19254117.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63737050,
+        "name": "Ryu Okami",
+        "desc": "If your opponent Special Summons a monster(s): Your opponent sends 1 card from their Extra Deck to the Graveyard.",
+        "race": "Wyrm",
+        "atk": 2900,
+        "def": 1200,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 63737050,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63737050.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63737050.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63737050.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11163040,
+        "name": "The Kaiju Files",
+        "desc": "Each time a \"Kaiju\" monster(s) is Special Summoned from the hand and/or GY, place 1 Kaiju Counter on this card (max. 5). Once per turn: You can target 1 \"Kaiju\" monster on the field; destroy that monster, then Special Summon 1 \"Kaiju\" monster with a different original name from your Deck to its controller's field. You can send this card with 3 or more Kaiju Counters to the GY; add 1 \"Kaiju\" Spell/Trap from your Deck to your hand, except \"The Kaiju Files\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11163040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11163040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11163040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11163040.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73860462,
+        "name": "Wonder Xyz",
+        "desc": "Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control as Materials.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 73860462,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73860462.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73860462.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73860462.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44928016,
+        "name": "World Carrotweight Champion",
+        "desc": "If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except \"World Carrotweight Champion\"; Special Summon this card. You can only use this effect of \"World Carrotweight Champion\" once per turn.",
+        "race": "Plant",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44928016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44928016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44928016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44928016.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
       {
         "id": 32687071,
         "name": "Amorphage Sloth",
+        "desc": "[ Pendulum Effect ] \nWhile you control an \"Amorphage\" monster, neither player can add cards from their Deck to their hand except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n[ Monster Effect ] \nNeither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+        "race": "Dragon",
+        "atk": 2250,
+        "def": 0,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 32687071,
@@ -17,6 +1882,15 @@
       {
         "id": 59822133,
         "name": "Blue-Eyes Spirit Dragon",
+        "desc": "1 Tuner + 1 or more non-Tuner \"Blue-Eyes\" monsters\r\nNeither player can Special Summon 2 or more monsters at the same time. Once per turn, during either player's turn, when an effect of a card in the Graveyard is activated: You can negate the activation. During either player's turn: You can Tribute this Synchro Summoned card; Special Summon 1 LIGHT Dragon-Type Synchro Monster from your Extra Deck in Defense Position, except \"Blue-Eyes Spirit Dragon\", but destroy it during the End Phase of this turn.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 3000,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 59822133,
@@ -29,6 +1903,15 @@
       {
         "id": 2129638,
         "name": "Blue-Eyes Twin Burst Dragon",
+        "desc": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\r\nMust be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use \"Polymerization\"). Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 2129638,
@@ -41,6 +1924,15 @@
       {
         "id": 50954680,
         "name": "Crystal Wing Synchro Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner Synchro Monsters\r\nOnce per turn, when another monster's effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn. If this card battles an opponent's Level 5 or higher monster, during damage calculation: This card gains ATK equal to the current ATK of the opponent's monster it is battling during that damage calculation only.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 50954680,
@@ -53,6 +1945,15 @@
       {
         "id": 47475363,
         "name": "Drowning Mirror Force",
+        "desc": "When an opponent's monster declares a direct attack: Shuffle all your opponent's Attack Position monsters into the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 47475363,
@@ -65,6 +1966,15 @@
       {
         "id": 62015408,
         "name": "Ghost Reaper & Winter Cherries",
+        "desc": "If your opponent controls more monsters than you do (Quick Effect): You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper & Winter Cherries\" once per turn.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 1800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 62015408,
@@ -83,6 +1993,15 @@
       {
         "id": 85991529,
         "name": "Kozmo Dark Planet",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing \"Kozmo\" monsters from your hand whose total Levels equal 10 or more, and cannot be Special Summoned by other ways. Cannot be targeted by an opponent's card effects. During either player's turn, when a Spell Card is activated: You can banish 1 \"Kozmo\" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 9 or lower \"Kozmo\" monster from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 85991529,
@@ -95,6 +2014,15 @@
       {
         "id": 12408276,
         "name": "Kozmoll Dark Lady",
+        "desc": "During either player's turn: You can banish this card; Special Summon 1 Level 6 or higher \"Kozmo\" monster from your hand. You can only use this effect of \"Kozmoll Dark Lady\" once per turn. Once per turn, during either player's turn, when another monster's effect is activated: You can pay 1000 LP; negate the activation, and if you do, destroy that monster.",
+        "race": "Psychic",
+        "atk": 2200,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 12408276,
@@ -105,1066 +2033,88 @@
         ]
       }
     ],
-    "ultra": [
+    "short print": [
       {
-        "id": 70917315,
-        "name": "Amorphage Lechery",
+        "id": 87979586,
+        "name": "Angel Trumpeter",
+        "desc": "This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.",
+        "race": "Plant",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 70917315,
-            "image_url": "https://images.ygoprodeck.com/images/cards/70917315.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70917315.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70917315.jpg"
+            "id": 87979586,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87979586.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87979586.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87979586.jpg"
           }
         ]
       },
       {
-        "id": 23160024,
-        "name": "Amorphous Persona",
+        "id": 62893810,
+        "name": "Dicelops",
+        "desc": "Once per turn: You can roll a six-sided die, then apply the result.\n● 1: Look at your opponent's hand, also discard 1 card from their hand.\n● 2, 3, 4, 5: Discard 1 card.\n● 6: Discard your entire hand.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 23160024,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23160024.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23160024.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23160024.jpg"
+            "id": 62893810,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62893810.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62893810.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62893810.jpg"
           }
         ]
       },
       {
-        "id": 45467446,
-        "name": "Dragon Spirit of White",
+        "id": 48310593,
+        "name": "Finite Cards",
+        "desc": "The hand size limit of each player becomes 3.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 45467446,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45467446.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45467446.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45467446.jpg"
+            "id": 48310593,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48310593.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48310593.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48310593.jpg"
           }
         ]
       },
       {
-        "id": 62242678,
-        "name": "Hot Red Dragon Archfiend King Calamity",
+        "id": 9032529,
+        "name": "Graceful Tear",
+        "desc": "Add 1 card from your hand to your opponent's hand, then gain 2000 LP.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 62242678,
-            "image_url": "https://images.ygoprodeck.com/images/cards/62242678.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62242678.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62242678.jpg"
-          }
-        ]
-      },
-      {
-        "id": 7127502,
-        "name": "Lector Pendulum, the Dracoverlord",
-        "card_images": [
-          {
-            "id": 7127502,
-            "image_url": "https://images.ygoprodeck.com/images/cards/7127502.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7127502.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7127502.jpg"
-          }
-        ]
-      },
-      {
-        "id": 97165977,
-        "name": "Lunalight Panther Dancer",
-        "card_images": [
-          {
-            "id": 97165977,
-            "image_url": "https://images.ygoprodeck.com/images/cards/97165977.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97165977.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97165977.jpg"
-          }
-        ]
-      },
-      {
-        "id": 8240199,
-        "name": "Sage with Eyes of Blue",
-        "card_images": [
-          {
-            "id": 8240199,
-            "image_url": "https://images.ygoprodeck.com/images/cards/8240199.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8240199.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8240199.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26268488,
-        "name": "Stardust Sifr Divine Dragon",
-        "card_images": [
-          {
-            "id": 26268488,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26268488.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26268488.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26268488.jpg"
-          }
-        ]
-      },
-      {
-        "id": 71039903,
-        "name": "The White Stone of Ancients",
-        "card_images": [
-          {
-            "id": 71039903,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71039903.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71039903.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71039903.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72648810,
-        "name": "Unwavering Bond",
-        "card_images": [
-          {
-            "id": 72648810,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72648810.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72648810.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72648810.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 98287529,
-        "name": "Amorphactor Pain, the Imagination Dracoverlord",
-        "card_images": [
-          {
-            "id": 98287529,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98287529.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98287529.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98287529.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69072185,
-        "name": "Amorphage Goliath",
-        "card_images": [
-          {
-            "id": 69072185,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69072185.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69072185.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69072185.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50554729,
-        "name": "Amorphage Infection",
-        "card_images": [
-          {
-            "id": 50554729,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50554729.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50554729.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50554729.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23338098,
-        "name": "Assault Blackwing - Chidori the Rain Sprinkling",
-        "card_images": [
-          {
-            "id": 23338098,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23338098.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23338098.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23338098.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50619462,
-        "name": "Cattle Call",
-        "card_images": [
-          {
-            "id": 50619462,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50619462.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50619462.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50619462.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85004150,
-        "name": "Digital Bug Rhinosebus",
-        "card_images": [
-          {
-            "id": 85004150,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85004150.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85004150.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85004150.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59496924,
-        "name": "Kozmo Landwalker",
-        "card_images": [
-          {
-            "id": 59496924,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59496924.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59496924.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59496924.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86013171,
-        "name": "Kozmo Scaredy Lion",
-        "card_images": [
-          {
-            "id": 86013171,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86013171.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86013171.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86013171.jpg"
-          }
-        ]
-      },
-      {
-        "id": 24550676,
-        "name": "Lunalight Leo Dancer",
-        "card_images": [
-          {
-            "id": 24550676,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24550676.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24550676.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24550676.jpg"
-          }
-        ]
-      },
-      {
-        "id": 13048472,
-        "name": "Pre-Preparation of Rites",
-        "card_images": [
-          {
-            "id": 13048472,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13048472.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13048472.jpg"
-          }
-        ]
-      },
-      {
-        "id": 36734924,
-        "name": "Priestess with Eyes of Blue",
-        "card_images": [
-          {
-            "id": 36734924,
-            "image_url": "https://images.ygoprodeck.com/images/cards/36734924.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36734924.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36734924.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86221741,
-        "name": "Raidraptor - Ultimate Falcon",
-        "card_images": [
-          {
-            "id": 86221741,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86221741.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86221741.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86221741.jpg"
-          }
-        ]
-      },
-      {
-        "id": 31733941,
-        "name": "Red-Eyes Toon Dragon",
-        "card_images": [
-          {
-            "id": 31733941,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31733941.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31733941.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31733941.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85821180,
-        "name": "Tuner's High",
-        "card_images": [
-          {
-            "id": 85821180,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85821180.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85821180.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85821180.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [
-      {
-        "id": 33300669,
-        "name": "Amorphage Envy",
-        "card_images": [
-          {
-            "id": 33300669,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33300669.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33300669.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33300669.jpg"
-          }
-        ]
-      },
-      {
-        "id": 34522216,
-        "name": "Amorphage Gluttony",
-        "card_images": [
-          {
-            "id": 34522216,
-            "image_url": "https://images.ygoprodeck.com/images/cards/34522216.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34522216.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34522216.jpg"
-          }
-        ]
-      },
-      {
-        "id": 7305060,
-        "name": "Amorphage Greed",
-        "card_images": [
-          {
-            "id": 7305060,
-            "image_url": "https://images.ygoprodeck.com/images/cards/7305060.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7305060.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7305060.jpg"
-          }
-        ]
-      },
-      {
-        "id": 47598941,
-        "name": "Amorphage Lysis",
-        "card_images": [
-          {
-            "id": 47598941,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47598941.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47598941.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47598941.jpg"
-          }
-        ]
-      },
-      {
-        "id": 24672164,
-        "name": "Bloom Prima the Melodious Choir",
-        "card_images": [
-          {
-            "id": 24672164,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24672164.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24672164.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24672164.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59432181,
-        "name": "Fusion Tag",
-        "card_images": [
-          {
-            "id": 59432181,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59432181.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59432181.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59432181.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86943389,
-        "name": "Hi-Speedroid Puzzle",
-        "card_images": [
-          {
-            "id": 86943389,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86943389.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86943389.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86943389.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11439455,
-        "name": "Lunalight Blue Cat",
-        "card_images": [
-          {
-            "id": 11439455,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11439455.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11439455.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11439455.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51777272,
-        "name": "Lunalight Cat Dancer",
-        "card_images": [
-          {
-            "id": 51777272,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51777272.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51777272.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51777272.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23220863,
-        "name": "Magical Cavalry of Cxulub",
-        "card_images": [
-          {
-            "id": 23220863,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23220863.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23220863.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23220863.jpg"
-          }
-        ]
-      },
-      {
-        "id": 24382602,
-        "name": "Mausoleum of White",
-        "card_images": [
-          {
-            "id": 24382602,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24382602.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24382602.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24382602.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59762399,
-        "name": "Performapal Odd-Eyes Light Phoenix",
-        "card_images": [
-          {
-            "id": 59762399,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59762399.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59762399.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59762399.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86157908,
-        "name": "Performapal Odd-Eyes Unicorn",
-        "card_images": [
-          {
-            "id": 86157908,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86157908.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86157908.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86157908.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58988903,
-        "name": "Rank-Up-Magic Skip Force",
-        "card_images": [
-          {
-            "id": 58988903,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58988903.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58988903.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58988903.jpg"
-          }
-        ]
-      },
-      {
-        "id": 59640711,
-        "name": "Speedroid Den-Den Daiko Duke",
-        "card_images": [
-          {
-            "id": 59640711,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59640711.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59640711.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59640711.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85034450,
-        "name": "Speedroid Pachingo-Kart",
-        "card_images": [
-          {
-            "id": 85034450,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85034450.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85034450.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85034450.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26517393,
-        "name": "Spirit of the Fall Wind",
-        "card_images": [
-          {
-            "id": 26517393,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26517393.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26517393.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26517393.jpg"
-          }
-        ]
-      },
-      {
-        "id": 84769941,
-        "name": "Super Anti-Kaiju War Machine Mecha-Dogoran",
-        "card_images": [
-          {
-            "id": 84769941,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84769941.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84769941.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84769941.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90122655,
-        "name": "Tenmataitei",
-        "card_images": [
-          {
-            "id": 90122655,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90122655.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90122655.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90122655.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48770333,
-        "name": "Thunder King, the Lightningstrike Kaiju",
-        "card_images": [
-          {
-            "id": 48770333,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48770333.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48770333.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48770333.jpg"
-          }
-        ]
-      }
-    ],
-    "common": [
-      {
-        "id": 6283472,
-        "name": "Amorphage Pride",
-        "card_images": [
-          {
-            "id": 6283472,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6283472.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6283472.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6283472.jpg"
-          }
-        ]
-      },
-      {
-        "id": 79794767,
-        "name": "Amorphage Wrath",
-        "card_images": [
-          {
-            "id": 79794767,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79794767.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79794767.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79794767.jpg"
-          }
-        ]
-      },
-      {
-        "id": 46253216,
-        "name": "Bad Aim",
-        "card_images": [
-          {
-            "id": 46253216,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46253216.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46253216.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46253216.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50371210,
-        "name": "Beacon of White",
-        "card_images": [
-          {
-            "id": 50371210,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50371210.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50371210.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50371210.jpg"
-          }
-        ]
-      },
-      {
-        "id": 19462747,
-        "name": "Blackwing - Decay the Ill Wind",
-        "card_images": [
-          {
-            "id": 19462747,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19462747.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19462747.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19462747.jpg"
-          }
-        ]
-      },
-      {
-        "id": 10971759,
-        "name": "Bug Emergency",
-        "card_images": [
-          {
-            "id": 10971759,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10971759.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10971759.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10971759.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86643777,
-        "name": "Bug Matrix",
-        "card_images": [
-          {
-            "id": 86643777,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86643777.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86643777.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86643777.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17530001,
-        "name": "Cuben",
-        "card_images": [
-          {
-            "id": 17530001,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17530001.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17530001.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17530001.jpg"
-          }
-        ]
-      },
-      {
-        "id": 25494711,
-        "name": "Deskbot 009",
-        "card_images": [
-          {
-            "id": 25494711,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25494711.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25494711.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25494711.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12215894,
-        "name": "Deskbot Base",
-        "card_images": [
-          {
-            "id": 12215894,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12215894.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12215894.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12215894.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68950538,
-        "name": "Digital Bug Centibit",
-        "card_images": [
-          {
-            "id": 68950538,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68950538.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68950538.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68950538.jpg"
-          }
-        ]
-      },
-      {
-        "id": 32465539,
-        "name": "Digital Bug Cocoondenser",
-        "card_images": [
-          {
-            "id": 32465539,
-            "image_url": "https://images.ygoprodeck.com/images/cards/32465539.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32465539.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32465539.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58600555,
-        "name": "Digital Bug Corebage",
-        "card_images": [
-          {
-            "id": 58600555,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58600555.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58600555.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58600555.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12615446,
-        "name": "Digital Bug Scaradiator",
-        "card_images": [
-          {
-            "id": 12615446,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12615446.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12615446.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12615446.jpg"
-          }
-        ]
-      },
-      {
-        "id": 94344242,
-        "name": "Digital Bug Websolder",
-        "card_images": [
-          {
-            "id": 94344242,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94344242.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94344242.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94344242.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74582050,
-        "name": "Dinomist Eruption",
-        "card_images": [
-          {
-            "id": 74582050,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74582050.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74582050.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74582050.jpg"
-          }
-        ]
-      },
-      {
-        "id": 5067884,
-        "name": "Dinomist Spinos",
-        "card_images": [
-          {
-            "id": 5067884,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5067884.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5067884.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5067884.jpg"
-          }
-        ]
-      },
-      {
-        "id": 67310848,
-        "name": "Dwarf Star Dragon Planeter",
-        "card_images": [
-          {
-            "id": 67310848,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67310848.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67310848.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67310848.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57554544,
-        "name": "Fire King Island",
-        "card_images": [
-          {
-            "id": 57554544,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57554544.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57554544.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57554544.jpg"
-          }
-        ]
-      },
-      {
-        "id": 87765315,
-        "name": "Forge of the True Dracos",
-        "card_images": [
-          {
-            "id": 87765315,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87765315.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87765315.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87765315.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11493868,
-        "name": "Fortissimo",
-        "card_images": [
-          {
-            "id": 11493868,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11493868.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11493868.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11493868.jpg"
-          }
-        ]
-      },
-      {
-        "id": 29087919,
-        "name": "Geargia Change",
-        "card_images": [
-          {
-            "id": 29087919,
-            "image_url": "https://images.ygoprodeck.com/images/cards/29087919.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29087919.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29087919.jpg"
-          }
-        ]
-      },
-      {
-        "id": 92693205,
-        "name": "Geargianchor",
-        "card_images": [
-          {
-            "id": 92693205,
-            "image_url": "https://images.ygoprodeck.com/images/cards/92693205.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92693205.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92693205.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99000107,
-        "name": "Gendo the Ascetic Monk",
-        "card_images": [
-          {
-            "id": 99000107,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99000107.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99000107.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99000107.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12385638,
-        "name": "Kozmourning",
-        "card_images": [
-          {
-            "id": 12385638,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12385638.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12385638.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12385638.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11317977,
-        "name": "Lunalight Black Sheep",
-        "card_images": [
-          {
-            "id": 11317977,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11317977.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11317977.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11317977.jpg"
-          }
-        ]
-      },
-      {
-        "id": 48427163,
-        "name": "Lunalight Purple Butterfly",
-        "card_images": [
-          {
-            "id": 48427163,
-            "image_url": "https://images.ygoprodeck.com/images/cards/48427163.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48427163.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48427163.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11193246,
-        "name": "Lunalight Reincarnation Dance",
-        "card_images": [
-          {
-            "id": 11193246,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11193246.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11193246.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11193246.jpg"
-          }
-        ]
-      },
-      {
-        "id": 83190280,
-        "name": "Lunalight Tiger",
-        "card_images": [
-          {
-            "id": 83190280,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83190280.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83190280.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83190280.jpg"
-          }
-        ]
-      },
-      {
-        "id": 84812868,
-        "name": "Lunalight White Rabbit",
-        "card_images": [
-          {
-            "id": 84812868,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84812868.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84812868.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84812868.jpg"
-          }
-        ]
-      },
-      {
-        "id": 47705572,
-        "name": "Lunalight Wolf",
-        "card_images": [
-          {
-            "id": 47705572,
-            "image_url": "https://images.ygoprodeck.com/images/cards/47705572.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47705572.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47705572.jpg"
-          }
-        ]
-      },
-      {
-        "id": 45644898,
-        "name": "Master with Eyes of Blue",
-        "card_images": [
-          {
-            "id": 45644898,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45644898.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45644898.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45644898.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12255007,
-        "name": "Performapal Fireflux",
-        "card_images": [
-          {
-            "id": 12255007,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12255007.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12255007.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12255007.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23377694,
-        "name": "Performapal Sellshell Crab",
-        "card_images": [
-          {
-            "id": 23377694,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23377694.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23377694.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23377694.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72855441,
-        "name": "Protector with Eyes of Blue",
-        "card_images": [
-          {
-            "id": 72855441,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72855441.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72855441.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72855441.jpg"
-          }
-        ]
-      },
-      {
-        "id": 10194329,
-        "name": "Raidraptor - Avenge Vulture",
-        "card_images": [
-          {
-            "id": 10194329,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10194329.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10194329.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10194329.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73977033,
-        "name": "Raidraptor - Booster Strix",
-        "card_images": [
-          {
-            "id": 73977033,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73977033.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73977033.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73977033.jpg"
-          }
-        ]
-      },
-      {
-        "id": 46589034,
-        "name": "Raidraptor - Pain Lanius",
-        "card_images": [
-          {
-            "id": 46589034,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46589034.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46589034.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46589034.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85704698,
-        "name": "Re-dyce-cle",
-        "card_images": [
-          {
-            "id": 85704698,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85704698.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85704698.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85704698.jpg"
-          }
-        ]
-      },
-      {
-        "id": 19254117,
-        "name": "Rise to Full Height",
-        "card_images": [
-          {
-            "id": 19254117,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19254117.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19254117.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19254117.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63737050,
-        "name": "Ryu Okami",
-        "card_images": [
-          {
-            "id": 63737050,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63737050.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63737050.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63737050.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11163040,
-        "name": "The Kaiju Files",
-        "card_images": [
-          {
-            "id": 11163040,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11163040.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11163040.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11163040.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73860462,
-        "name": "Wonder Xyz",
-        "card_images": [
-          {
-            "id": 73860462,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73860462.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73860462.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73860462.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44928016,
-        "name": "World Carrotweight Champion",
-        "card_images": [
-          {
-            "id": 44928016,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44928016.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44928016.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44928016.jpg"
+            "id": 9032529,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9032529.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9032529.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9032529.jpg"
           }
         ]
       }

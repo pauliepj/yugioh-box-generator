@@ -1,11 +1,19 @@
 {
   "setName": "Zexal Collection Tin",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 34838437,
         "name": "Accellight",
+        "desc": "If you control no monsters: Special Summon 1 Level 4 or lower \"Photon\" or \"Galaxy\" monster from your Deck. You can only activate 1 \"Accellight\" per turn. You cannot Normal Summon/Set during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 34838437,
@@ -18,6 +26,15 @@
       {
         "id": 18446701,
         "name": "Gagagashield",
+        "desc": "Target 1 Spellcaster monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 18446701,
@@ -30,6 +47,15 @@
       {
         "id": 60222582,
         "name": "Galaxy Expedition",
+        "desc": "If you control a Level 5 or higher \"Photon\" or \"Galaxy\" monster: Special Summon 1 Level 5 or higher \"Photon\" or \"Galaxy\" monster from your Deck in Defense Position. You can only activate 1 \"Galaxy Expedition\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 60222582,
@@ -42,6 +68,15 @@
       {
         "id": 35950025,
         "name": "Galaxy Knight",
+        "desc": "If you control a \"Photon\" or \"Galaxy\" monster, you can Normal Summon this card without Tributing. If Summoned this way: Target 1 \"Galaxy-Eyes Photon Dragon\" in your GY (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in Defense Position. This ATK decrease lasts until the end of this turn.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35950025,
@@ -54,6 +89,15 @@
       {
         "id": 98555327,
         "name": "Galaxy Wizard",
+        "desc": "Once per turn: You can increase this card's Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 98555327,
@@ -66,6 +110,15 @@
       {
         "id": 35112613,
         "name": "Kuriphoton",
+        "desc": "(Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 \"Photon\" monster from your hand to the GY, except \"Kuriphoton\"; add this card from your GY to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35112613,
@@ -78,6 +131,15 @@
       {
         "id": 55067058,
         "name": "Number 19: Freezadon",
+        "desc": "2 Level 5 monsters\nOnce per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.",
+        "race": "Dinosaur",
+        "atk": 2000,
+        "def": 2500,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 55067058,
@@ -90,6 +152,15 @@
       {
         "id": 29669359,
         "name": "Number 61: Volcasaurus",
+        "desc": "2 Level 5 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. This card cannot attack your opponent directly during the turn you activate this effect.",
+        "race": "Dinosaur",
+        "atk": 2500,
+        "def": 1000,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 29669359,
@@ -102,6 +173,15 @@
       {
         "id": 61344030,
         "name": "Starliege Paladynamo",
+        "desc": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, it has its effects negated. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: Draw 1 card.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 61344030,
@@ -112,10 +192,19 @@
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 83021423,
         "name": "Chachaka Archer",
+        "desc": "Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1800,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 83021423,
@@ -128,6 +217,15 @@
       {
         "id": 62107612,
         "name": "Dimension Wanderer",
+        "desc": "When a monster is banished by the effect of \"Galaxy-Eyes Photon Dragon\": You can send this card from your hand to the Graveyard; inflict 3000 damage to your opponent. You can only use the effect of \"Dimension Wanderer\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 62107612,
@@ -140,6 +238,15 @@
       {
         "id": 83274244,
         "name": "Dododo Warrior",
+        "desc": "You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent's Graveyard, until the end of the Damage Step.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 900,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 83274244,
@@ -152,6 +259,15 @@
       {
         "id": 82052602,
         "name": "Gagagaback",
+        "desc": "During the turn a \"Gagaga\" monster you control was destroyed by battle and sent to the Graveyard: Special Summon from your Graveyard as many monsters as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 \"Gagagaback\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 82052602,
@@ -164,6 +280,15 @@
       {
         "id": 97617181,
         "name": "Galaxy Zero",
+        "desc": "Target 1 \"Photon\" or \"Galaxy\" monster in your Graveyard; Special Summon it in face-up Attack Position and equip it with this card. It cannot attack or activate its effects. If it would be destroyed during the Battle Phase, you can destroy this card instead. When this card leaves the field: The equipped monster's ATK becomes 0. You can only activate 1 \"Galaxy Zero\" per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 97617181,
@@ -176,6 +301,15 @@
       {
         "id": 97433739,
         "name": "Message in a Bottle",
+        "desc": "Target 3 monsters with different Levels in your Graveyard; Special Summon all 3 of them. Their ATK's become 0, also their effects are negated. If you do not Xyz Summon this turn after Summoning those 3 monsters, you lose 4000 Life Points during the End Phase. You cannot Special Summon any other monsters, except by Xyz Summon, during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 97433739,
@@ -188,6 +322,15 @@
       {
         "id": 55935416,
         "name": "Number 56: Gold Rat",
+        "desc": "3 Level 1 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; draw 1 card, then shuffle 1 card from your hand into the Deck.",
+        "race": "Beast",
+        "atk": 500,
+        "def": 600,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 55935416,
@@ -200,6 +343,15 @@
       {
         "id": 36834155,
         "name": "Photon Pirate",
+        "desc": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 36834155,
@@ -212,6 +364,15 @@
       {
         "id": 63223260,
         "name": "Photon Satellite",
+        "desc": "Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63223260,
@@ -224,6 +385,15 @@
       {
         "id": 9718968,
         "name": "Photon Slasher",
+        "desc": "If a face-up Xyz Monster is on the field, you can Special Summon this card (from your hand) in face-up Defense Position.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9718968,
@@ -236,6 +406,15 @@
       {
         "id": 34796454,
         "name": "Triple Star Trion",
+        "desc": "During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from your Graveyard.",
+        "race": "Warrior",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 34796454,
@@ -248,6 +427,15 @@
       {
         "id": 57036718,
         "name": "Zubaba Buster",
+        "desc": "If this card inflicts battle damage to your opponent, at the end of that Damage Step: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, this card loses 800 ATK.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 57036718,
@@ -258,7 +446,70 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "ultimate rare": [
+      {
+        "id": 26082117,
+        "name": "Gagaga Magician",
+        "desc": "Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 \"Gagaga Magician\". This card cannot be used as a Synchro Material Monster.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 26082117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26082117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26082117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26082117.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17494901,
+        "name": "Gagagabolt",
+        "desc": "If you control a \"Gagaga\" monster: Target 1 card on the field; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 17494901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17494901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17494901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17494901.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47805931,
+        "name": "Number 20: Giga-Brilliant",
+        "desc": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.",
+        "race": "Insect",
+        "atk": 1800,
+        "def": 1800,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 47805931,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47805931.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47805931.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47805931.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

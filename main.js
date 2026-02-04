@@ -6,8 +6,8 @@ const { generateBox, exportYDK } = require("./generateBox");
 
 function createWindow() {
   const win = new BrowserWindow({
-    width: 450,
-    height: 800,
+    width: 800,
+    height: 900,
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false, // so ipcRenderer works

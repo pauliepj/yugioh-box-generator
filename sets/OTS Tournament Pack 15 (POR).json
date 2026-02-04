@@ -1,135 +1,19 @@
 {
   "setName": "OTS Tournament Pack 15 (POR)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 13117073,
-        "name": "Barricadeborg Blocker",
-        "card_images": [
-          {
-            "id": 13117073,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
-          }
-        ]
-      },
-      {
-        "id": 53241226,
-        "name": "Cross Over",
-        "card_images": [
-          {
-            "id": 53241226,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53241226.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53241226.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53241226.jpg"
-          }
-        ]
-      },
-      {
-        "id": 82956214,
-        "name": "Dogmatika Punishment",
-        "card_images": [
-          {
-            "id": 82956214,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82956214.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82956214.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82956214.jpg"
-          }
-        ]
-      },
-      {
-        "id": 40251688,
-        "name": "Infernoble Knight Captain Roland",
-        "card_images": [
-          {
-            "id": 40251688,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40251688.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40251688.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40251688.jpg"
-          }
-        ]
-      },
-      {
-        "id": 76833149,
-        "name": "Melffy Mommy",
-        "card_images": [
-          {
-            "id": 76833149,
-            "image_url": "https://images.ygoprodeck.com/images/cards/76833149.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76833149.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76833149.jpg"
-          }
-        ]
-      },
-      {
-        "id": 70333910,
-        "name": "Noctovision Dragon",
-        "card_images": [
-          {
-            "id": 70333910,
-            "image_url": "https://images.ygoprodeck.com/images/cards/70333910.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70333910.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70333910.jpg"
-          }
-        ]
-      },
-      {
-        "id": 12450071,
-        "name": "Proxy F Magician",
-        "card_images": [
-          {
-            "id": 12450071,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12450071.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12450071.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12450071.jpg"
-          }
-        ]
-      },
-      {
-        "id": 77723643,
-        "name": "Shaddoll Dragon",
-        "card_images": [
-          {
-            "id": 77723643,
-            "image_url": "https://images.ygoprodeck.com/images/cards/77723643.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77723643.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77723643.jpg"
-          }
-        ]
-      },
-      {
-        "id": 46647145,
-        "name": "World Legacy Token",
-        "card_images": [
-          {
-            "id": 46647145,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46647145.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46647145.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46647145.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74393852,
-        "name": "Zoodiac Boarbow",
-        "card_images": [
-          {
-            "id": 74393852,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74393852.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74393852.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74393852.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 98287529,
         "name": "Amorphactor Pain, the Imagination Dracoverlord",
+        "desc": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+        "race": "Dragon",
+        "atk": 2950,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98287529,
@@ -142,6 +26,15 @@
       {
         "id": 23160024,
         "name": "Amorphous Persona",
+        "desc": "All \"Amorphage\" monsters on the field gain 300 ATK and DEF. Up to twice per turn, if an \"Amorphage\" monster(s) you control is Tributed, draw 1 card. You can banish this card from your Graveyard; Tribute Pendulum Monsters from your hand or field whose total Levels exactly equal 8, then Ritual Summon 1 \"Amorphactor Pain, the Imagination Dracoverlord\" from your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23160024,
@@ -154,6 +47,15 @@
       {
         "id": 980973,
         "name": "Armed Dragon LV3",
+        "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+        "race": "Dragon",
+        "atk": 1200,
+        "def": 900,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 980973,
@@ -166,6 +68,15 @@
       {
         "id": 46384672,
         "name": "Armed Dragon LV5",
+        "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1700,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46384672,
@@ -178,6 +89,15 @@
       {
         "id": 73879377,
         "name": "Armed Dragon LV7",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73879377,
@@ -190,6 +110,15 @@
       {
         "id": 9622164,
         "name": "D.D.R. - Different Dimension Reincarnation",
+        "desc": "Discard 1 card, then target 1 of your banished monsters; Special Summon it in Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9622164,
@@ -202,6 +131,15 @@
       {
         "id": 24040093,
         "name": "Fabled Grimro",
+        "desc": "If you control a \"Fabled\" monster: You can send this card from your hand to the GY; add 1 \"Fabled\" monster from your Deck to your hand, except \"Fabled Grimro\".",
+        "race": "Fiend",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24040093,
@@ -214,6 +152,15 @@
       {
         "id": 19439119,
         "name": "Fabled Krus",
+        "desc": "If this card is discarded to the GY: Target 1 other Level 4 or lower \"Fabled\" monster in your GY; Special Summon that target.",
+        "race": "Fiend",
+        "atk": 1000,
+        "def": 800,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19439119,
@@ -226,6 +173,15 @@
       {
         "id": 47395382,
         "name": "Fabled Ragin",
+        "desc": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can draw until you have 2 cards in your hand.",
+        "race": "Fiend",
+        "atk": 2300,
+        "def": 1800,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47395382,
@@ -238,6 +194,15 @@
       {
         "id": 55608151,
         "name": "Gryphon Wing",
+        "desc": "When your opponent activates \"Harpie's Feather Duster\": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55608151,
@@ -250,6 +215,15 @@
       {
         "id": 66976526,
         "name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+        "desc": "1 Tuner + 1 or more non-Tuner Machine-Type monsters\nWhen this card is Synchro Summoned: You can Special Summon 1 \"Karakuri\" monster from your Deck. Once per turn, when the battle position of a face-up \"Karakuri\" monster you control is changed (and remains face-up): Draw 1 card.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 1700,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66976526,
@@ -262,6 +236,15 @@
       {
         "id": 60470713,
         "name": "Madolche Ticket",
+        "desc": "When a \"Madolche\" card(s) is returned from your side of the field or Graveyard to your hand or Main Deck by a card effect: Add 1 \"Madolche\" monster from your Deck to your hand. If you control a face-up Fairy-Type \"Madolche\" monster, you can Special Summon the monster from your Deck in face-up Attack Position instead of adding it to your hand. You can only use the effect of \"Madolche Ticket\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60470713,
@@ -274,6 +257,15 @@
       {
         "id": 545781,
         "name": "Mahaama the Fairy Dragon",
+        "desc": "During your opponent's turn, when either player takes battle damage: You can Special Summon this card from your hand, then apply 1 of these effects.\r\n● Gain LP equal to that battle damage.\r\n● Inflict damage to your opponent equal to that battle damage.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 545781,
@@ -286,6 +278,15 @@
       {
         "id": 40391316,
         "name": "Ojama Knight",
+        "desc": "1 \"Ojama\" monster + 1 \"Ojama\" monster\r\nSelect up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 2500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40391316,
@@ -298,6 +299,15 @@
       {
         "id": 98259197,
         "name": "Ojamuscle",
+        "desc": "(This card is always treated as a \"Ojama\" card.)\r\nSelect 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98259197,
@@ -310,6 +320,15 @@
       {
         "id": 57734012,
         "name": "Rank-Up-Magic - The Seventh One",
+        "desc": "To activate this card, you must draw it for your normal draw in your Draw Phase, reveal it, and keep it revealed until the start of Main Phase 1. At the start of your Main Phase 1 that same turn, you can: Special Summon, from your Extra Deck or Graveyard, 1 monster that has a number between \"Number 101\" and \"Number 107\" in its name, except \"Number C\" monsters, then Xyz Summon, from your Extra Deck, 1 \"Number C\" monster with the same number in its name as the first monster, by using it as the Xyz Material. You can only apply the effect of \"Rank-Up-Magic - The Seventh One\" once per Duel.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57734012,
@@ -322,6 +341,15 @@
       {
         "id": 10118318,
         "name": "Reinforce Truth",
+        "desc": "Special Summon 1 Level 2 or lower Warrior-Type monster from your Deck. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10118318,
@@ -334,6 +362,15 @@
       {
         "id": 14212201,
         "name": "Shadow Vampire",
+        "desc": "Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a DARK monster. When this card is Normal Summoned: You can Special Summon 1 DARK \"Vampire\" monster from your hand or Deck, except \"Shadow Vampire\", but monsters you control cannot attack for the rest of this turn, except that Special Summoned monster.",
+        "race": "Zombie",
+        "atk": 2000,
+        "def": 0,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14212201,
@@ -346,6 +383,15 @@
       {
         "id": 29905795,
         "name": "The Fabled Chawa",
+        "desc": "During your Main Phase: You can activate this effect; discard 1 \"Fabled\" monster, and if you do, Special Summon this card from your hand.",
+        "race": "Beast",
+        "atk": 200,
+        "def": 100,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29905795,
@@ -358,6 +404,15 @@
       {
         "id": 96383838,
         "name": "Tri-Wight",
+        "desc": "Target 3 Level 2 or lower Normal Monsters in your Graveyard; Special Summon them from the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96383838,
@@ -370,6 +425,15 @@
       {
         "id": 5795882,
         "name": "Vampire's Domain",
+        "desc": "Once per turn: You can pay 500 LP; during your Main Phase this turn, you can Normal Summon 1 \"Vampire\" monster in addition to your Normal Summon/Set. (Even if this card leaves the field. You can only gain this effect once per turn.) Each time your \"Vampire\" monster inflicts battle damage to your opponent: Gain the same amount of LP.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5795882,
@@ -382,6 +446,15 @@
       {
         "id": 98024118,
         "name": "White Potan",
+        "desc": "If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster you control is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+        "race": "Fairy",
+        "atk": 100,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98024118,
@@ -394,12 +467,298 @@
       {
         "id": 43722862,
         "name": "Windwitch - Ice Bell",
+        "desc": "If you control no monsters: You can Special Summon this card from your hand, then you can Special Summon 1 \"Windwitch\" monster from your Deck, but it cannot be Tributed. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Level 5 or higher WIND monsters. If this card is Normal or Special Summoned: You can inflict 500 damage to your opponent. You can only use each effect of \"Windwitch - Ice Bell\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43722862,
             "image_url": "https://images.ygoprodeck.com/images/cards/43722862.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43722862.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43722862.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 59464593,
+        "name": "Armed Dragon LV10",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 59464593,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59464593.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59464593.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50588353,
+        "name": "Crystron Halqifibrax",
+        "desc": "2 monsters, including a Tuner\r\nIf this card is Link Summoned: You can Special Summon 1 Level 3 or lower Tuner from your hand or Deck in Defense Position, but it cannot activate its effects this turn. During your opponent's Main Phase or Battle Phase (Quick Effect): You can banish this card you control; Special Summon 1 Tuner Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.) You can only use each effect of \"Crystron Halqifibrax\" once per turn.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": null,
+        "level": 0,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 50588353,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50588353.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50588353.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50588353.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1621413,
+        "name": "Dark Requiem Xyz Dragon",
+        "desc": "3 Level 5 monsters\nIf this card has \"Dark Rebellion Xyz Dragon\" as material, it gains these effects.\n● Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, this card gains ATK equal to that monster's original ATK.\n● When your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card, then you can Special Summon 1 Xyz Monster from your GY.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 1621413,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1621413.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1621413.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1621413.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 13117073,
+        "name": "Barricadeborg Blocker",
+        "desc": "2 monsters with different names\r\nIf this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of \"Barricadeborg Blocker\" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 13117073,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13117073.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13117073.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13117073.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53241226,
+        "name": "Cross Over",
+        "desc": "Target 1 face-up monster your opponent controls and 1 Warrior monster you control; equip that opponent's face-up monster to your monster as an Equip Spell, and if you do, until the end of this turn, your opponent takes no damage from battles involving that monster you control. You can only activate 1 \"Cross Over\" per turn. While equipped, if the equipped monster would be destroyed by battle or card effect, destroy the monster equipped to it by this effect, instead.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 53241226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53241226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53241226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53241226.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82956214,
+        "name": "Dogmatika Punishment",
+        "desc": "Target 1 face-up monster your opponent controls; send 1 monster with an equal or higher ATK from your Extra Deck to the GY, and if you do, destroy that monster. Until the end of your next turn after this card resolves, you cannot Special Summon monsters from the Extra Deck. You can only activate 1 \"Dogmatika Punishment\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 82956214,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82956214.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82956214.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82956214.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40251688,
+        "name": "Infernoble Knight Captain Roland",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can activate this effect; during the End Phase of this turn, send 1 Equip Spell from your Deck to the GY, then add 1 Warrior monster from your Deck to your hand. During the Main Phase, if this card is in your GY (Quick Effect): You can target 1 Warrior monster you control; equip this card to that monster you control as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Infernoble Knight Captain Roland\" once per turn.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 500,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 40251688,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40251688.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40251688.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40251688.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76833149,
+        "name": "Melffy Mommy",
+        "desc": "2+ Level 2 Beast monsters\r\nOnce per turn (Quick Effect): You can attach 1 Beast monster from your hand or face-up field to this card as material. This card gains effects based on the number of materials attached to it.\r\n● 3+: Cannot be destroyed by battle.\r\n● 4+: You take no damage from battles involving this card.\r\n● 5+: When an attack is declared involving this card and an Attack Position monster: You can inflict damage to your opponent equal to that Attack Position monster's ATK.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 1000,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 76833149,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76833149.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76833149.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76833149.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70333910,
+        "name": "Noctovision Dragon",
+        "desc": "When your opponent activates a card or effect that targets a face-down card(s) you control (Quick Effect): You can banish this card from your GY; negate that effect, also your opponent cannot target that face-down card(s) with card effects for the rest of this turn. You can only use each of the following effects of \"Noctovision Dragon\" once per turn.\r\n● If a DARK Dragon monster(s) is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand.\r\n● If this card is sent to the GY as Link Material: You can draw 1 card.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 70333910,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70333910.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70333910.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70333910.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12450071,
+        "name": "Proxy F Magician",
+        "desc": "2 Effect Monsters\r\nDuring your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your field as Fusion Material. If a Fusion Monster(s) is Fusion Summoned to a zone(s) this card points to: You can Special Summon 1 monster with 1000 or less ATK from your hand. You can only use each effect of \"Proxy F Magician\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1400,
+        "def": null,
+        "level": null,
+        "attribute": "FIRE",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 12450071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12450071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12450071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12450071.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77723643,
+        "name": "Shaddoll Dragon",
+        "desc": "FLIP: You can target 1 card your opponent controls; return it to the hand.\r\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 77723643,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77723643.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77723643.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77723643.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46647145,
+        "name": "World Legacy Token",
+        "desc": "This card can be used as a \"World Legacy Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "race": "Machine",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Token",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 46647145,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46647145.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46647145.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46647145.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74393852,
+        "name": "Zoodiac Boarbow",
+        "desc": "5 Level 4 monsters\r\nOnce per turn, you can also Xyz Summon \"Zoodiac Boarbow\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. This card can attack your opponent directly. When this card inflicts battle damage to your opponent while it has 12 or more Xyz Materials: You can send as many cards as possible from your opponent's hand and field to the Graveyard, then change this card to Defense Position.",
+        "race": "Beast-Warrior",
+        "atk": -1,
+        "def": -1,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 74393852,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74393852.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74393852.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74393852.jpg"
           }
         ]
       }

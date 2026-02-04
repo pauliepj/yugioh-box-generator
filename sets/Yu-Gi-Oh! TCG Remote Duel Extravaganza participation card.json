@@ -1,14 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! TCG Remote Duel Extravaganza participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 2139640,
         "name": "Amabie",
+        "desc": "At the start of your Main Phase 1: You can reveal this card in your hand; each player gains 300 LP.",
+        "race": "Fairy",
+        "atk": 0,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2139640,

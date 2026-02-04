@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2008 Wave 1",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 70902743,
         "name": "Red Dragon Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 70902743,
@@ -17,6 +26,15 @@
       {
         "id": 44508094,
         "name": "Stardust Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44508094,
@@ -32,10 +50,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,12 +1,19 @@
 {
   "setName": "Chaos Impact Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 38960450,
         "name": "Armory Call",
+        "desc": "Add 1 Equip Spell from your Deck to your hand, then you can equip it to 1 appropriate monster you control. You can only activate 1 \"Armory Call\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 38960450,
@@ -19,6 +26,15 @@
       {
         "id": 74752631,
         "name": "Battle Shogun of the Six Samurai",
+        "desc": "2 Warrior monsters, including a \"Six Samurai\" monster\r\nIf this card is Link Summoned: You can discard 1 card; add 1 card from your Deck to your hand that has an effect that places a Bushido Counter(s). You can only use this effect of \"Battle Shogun of the Six Samurai\" once per turn. Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, place 1 Bushido Counter on this card. Gains 100 ATK for each Bushido Counter on your field.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 74752631,
@@ -31,6 +47,15 @@
       {
         "id": 15754711,
         "name": "Dragonmaid Send-Off",
+        "desc": "Target 1 \"Dragonmaid\" monster you control; Special Summon 1 \"Dragonmaid\" monster with a different name from your hand, in Defense Position, and if you do, return that targeted monster to the hand. The Special Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only activate 1 \"Dragonmaid Send-Off\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 15754711,
@@ -43,6 +68,15 @@
       {
         "id": 47363932,
         "name": "Scrap Wyvern",
+        "desc": "2 monsters, including a \"Scrap\" monster\r\nYou can target 1 \"Scrap\" monster in your GY; Special Summon it, then destroy 1 card you control. If another face-up \"Scrap\" monster is destroyed by card effect, while you control this monster (except during the Damage Step): You can Special Summon 1 \"Scrap\" monster from your Deck, then destroy 1 card on the field. You can only use each effect of \"Scrap Wyvern\" once per turn.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47363932,
@@ -52,8 +86,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

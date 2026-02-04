@@ -1,76 +1,19 @@
 {
   "setName": "Machine Reactor Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 18486927,
-        "name": "Ancient Gear Gadget",
-        "card_images": [
-          {
-            "id": 18486927,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18486927.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18486927.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18486927.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44874522,
-        "name": "Ancient Gear Reactor Dragon",
-        "card_images": [
-          {
-            "id": 44874522,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44874522.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44874522.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44874522.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 44052074,
-        "name": "Ancient Gear Catapult",
-        "card_images": [
-          {
-            "id": 44052074,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44052074.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44052074.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44052074.jpg"
-          }
-        ]
-      },
-      {
-        "id": 81269231,
-        "name": "Ancient Gear Hydra",
-        "card_images": [
-          {
-            "id": 81269231,
-            "image_url": "https://images.ygoprodeck.com/images/cards/81269231.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81269231.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81269231.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17663375,
-        "name": "Ancient Gear Wyvern",
-        "card_images": [
-          {
-            "id": 17663375,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17663375.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17663375.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17663375.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 10509340,
         "name": "Ancient Gear Beast",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+        "race": "Machine",
+        "atk": 2000,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10509340,
@@ -83,6 +26,15 @@
       {
         "id": 60953949,
         "name": "Ancient Gear Box",
+        "desc": "If this card is added from the Deck or Graveyard to your hand, except by drawing it: You can add 1 EARTH Machine-Type monster with 500 ATK and/or DEF from your Deck to your hand, except \"Ancient Gear Box\". You can only use this effect of \"Ancient Gear Box\" once per turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60953949,
@@ -95,6 +47,15 @@
       {
         "id": 92001300,
         "name": "Ancient Gear Castle",
+        "desc": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92001300,
@@ -107,6 +68,15 @@
       {
         "id": 1953925,
         "name": "Ancient Gear Engineer",
+        "desc": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1500,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1953925,
@@ -119,6 +89,15 @@
       {
         "id": 70147689,
         "name": "Ancient Gear Fortress",
+        "desc": "During the turn they were Normal or Special Summoned, your opponent cannot target \"Ancient Gear\" monsters you control with card effects, and they cannot be destroyed by your opponent's card effects. Your opponent cannot activate cards or effects in response to the activation of \"Ancient Gear\" cards and effects. If this card is destroyed in the Spell & Trap Zone: You can Special Summon 1 \"Ancient Gear\" monster from your hand or Graveyard, also you cannot Special Summon monsters for the rest of this turn, except \"Ancient Gear\" monsters.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70147689,
@@ -131,6 +110,15 @@
       {
         "id": 86321248,
         "name": "Ancient Gear Gadjiltron Chimera",
+        "desc": "This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: This card gains 300 ATK.\n● Red Gadget: If this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.\n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 700 damage to your opponent.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1300,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 86321248,
@@ -143,6 +131,15 @@
       {
         "id": 50933533,
         "name": "Ancient Gear Gadjiltron Dragon",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n● Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50933533,
@@ -155,6 +152,15 @@
       {
         "id": 83104731,
         "name": "Ancient Gear Golem",
+        "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83104731,
@@ -167,6 +173,15 @@
       {
         "id": 39303359,
         "name": "Ancient Gear Knight",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39303359,
@@ -179,6 +194,15 @@
       {
         "id": 56094445,
         "name": "Ancient Gear Soldier",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+        "race": "Machine",
+        "atk": 1300,
+        "def": 1300,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56094445,
@@ -191,6 +215,15 @@
       {
         "id": 44052075,
         "name": "Ancient Gear Token",
+        "desc": "This card can be used as an \"Ancient Gear Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "race": "Machine",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Token",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44052075,
@@ -203,6 +236,15 @@
       {
         "id": 59811955,
         "name": "Ancient Gear Workshop",
+        "desc": "Target 1 \"Ancient Gear\" monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59811955,
@@ -215,6 +257,15 @@
       {
         "id": 61156777,
         "name": "BOXer",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can place 1 counter on this card. You can send this card with 2 or more counters to the Graveyard; Special Summon 1 EARTH monster from your Deck. If this card would be destroyed by battle or card effect, you can remove 1 counter from this card instead.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61156777,
@@ -227,6 +278,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -239,6 +299,15 @@
       {
         "id": 85087012,
         "name": "Card Trooper",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85087012,
@@ -251,6 +320,15 @@
       {
         "id": 50078509,
         "name": "Fiendish Chain",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50078509,
@@ -263,6 +341,15 @@
       {
         "id": 5133471,
         "name": "Galaxy Cyclone",
+        "desc": "Target 1 Set Spell/Trap on the field; destroy it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Spell/Trap on the field; destroy it. You can only use this effect of \"Galaxy Cyclone\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5133471,
@@ -275,6 +362,15 @@
       {
         "id": 47687766,
         "name": "Geargiauger",
+        "desc": "When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except \"Geargiauger\", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47687766,
@@ -287,6 +383,15 @@
       {
         "id": 37694547,
         "name": "Geartown",
+        "desc": "Both players can Normal Summon \"Ancient Gear\" monsters for 1 less Tribute. When this card is destroyed and sent to the Graveyard: You can Special Summon 1 \"Ancient Gear\" monster from your hand, Deck, or Graveyard.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37694547,
@@ -299,6 +404,15 @@
       {
         "id": 47606319,
         "name": "Gigantes",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field.",
+        "race": "Rock",
+        "atk": 1900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47606319,
@@ -311,6 +425,15 @@
       {
         "id": 68473226,
         "name": "Hardened Armed Dragon",
+        "desc": "(This card is not treated as an \"Armed Dragon\" card.)\r\nYou can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.",
+        "race": "Dragon",
+        "atk": 1500,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68473226,
@@ -323,6 +446,15 @@
       {
         "id": 12247206,
         "name": "Inferno Reckless Summon",
+        "desc": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12247206,
@@ -335,6 +467,15 @@
       {
         "id": 98954106,
         "name": "Jar of Avarice",
+        "desc": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98954106,
@@ -347,6 +488,15 @@
       {
         "id": 23171610,
         "name": "Limiter Removal",
+        "desc": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23171610,
@@ -359,6 +509,15 @@
       {
         "id": 63995093,
         "name": "Machine Duplication",
+        "desc": "Target 1 Machine monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that face-up monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63995093,
@@ -371,6 +530,15 @@
       {
         "id": 70406920,
         "name": "Machine King - 3000 B.C.",
+        "desc": "Special Summon this card as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 1000/DEF 1000). (This card is also still a Trap Card.) You cannot Normal or Special Summon other monsters the turn you activate this card. Once per turn, during your Main Phase: You can Tribute 1 Machine-Type monster; this card gains ATK equal to the ATK the Tributed monster had on the field, until the end of this turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70406920,
@@ -383,6 +551,15 @@
       {
         "id": 80921533,
         "name": "Mausoleum of the Emperor",
+        "desc": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80921533,
@@ -395,6 +572,15 @@
       {
         "id": 23434538,
         "name": "Maxx \"C\"",
+        "desc": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 200,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23434538,
@@ -407,6 +593,15 @@
       {
         "id": 24419823,
         "name": "Minefieldriller",
+        "desc": "When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24419823,
@@ -419,6 +614,15 @@
       {
         "id": 164710,
         "name": "Mischief of the Gnomes",
+        "desc": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 164710,
@@ -431,6 +635,15 @@
       {
         "id": 97526666,
         "name": "Planet Pathfinder",
+        "desc": "You can Tribute this card; add 1 Field Spell Card from your Deck to your hand.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97526666,
@@ -443,6 +656,15 @@
       {
         "id": 77584012,
         "name": "Pseudo Space",
+        "desc": "Once per turn: You can banish 1 Field Spell Card from your Graveyard; until the End Phase, this card's name becomes that card's original name, and replace this effect with that card's original effects.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77584012,
@@ -455,6 +677,15 @@
       {
         "id": 93187568,
         "name": "Spell Striker",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+        "race": "Warrior",
+        "atk": 600,
+        "def": 200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93187568,
@@ -467,6 +698,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -479,12 +719,130 @@
       {
         "id": 99188141,
         "name": "The Huge Revolution is Over",
+        "desc": "When a Spell/Trap Card, or monster effect, is activated that would destroy 2 or more cards on the field: Negate the activation, and if you do, banish it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99188141,
             "image_url": "https://images.ygoprodeck.com/images/cards/99188141.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99188141.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99188141.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 44052074,
+        "name": "Ancient Gear Catapult",
+        "desc": "While you control no monsters: Target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear\" monster from your Deck, ignoring its Summoning conditions. You can banish this card from your Graveyard, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear Token\" (Machine-Type/EARTH/Level 1/ATK 0/DEF 0). You can only use 1 \"Ancient Gear Catapult\" effect per turn, and only once that turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 44052074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44052074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44052074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44052074.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81269231,
+        "name": "Ancient Gear Hydra",
+        "desc": "At the end of the Damage Step, when this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster battles an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can attack all monsters your opponent controls, once each. If an \"Ancient Gear\" monster you control attacks, your opponent's Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step.",
+        "race": "Machine",
+        "atk": 2700,
+        "def": 1700,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 81269231,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81269231.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81269231.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81269231.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17663375,
+        "name": "Ancient Gear Wyvern",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"Ancient Gear\" card from your Deck to your hand, except \"Ancient Gear Wyvern\", also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Wyvern\" once per turn. If this card attacks, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
+        "race": "Machine",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 17663375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17663375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17663375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17663375.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 18486927,
+        "name": "Ancient Gear Gadget",
+        "desc": "If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); this turn, if a monster you control attacks, your opponent's Spell Cards, Trap Cards, or monster effects (whichever was declared) cannot be activated until the end of the Damage Step. Once per turn: You can declare 1 \"Gadget\" monster's card name; until the End Phase, this card's name becomes that name.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 18486927,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18486927.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18486927.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18486927.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44874522,
+        "name": "Ancient Gear Reactor Dragon",
+        "desc": "If this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can make a second attack during each Battle Phase. If this card attacks, your opponent's Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step. At the end of the Damage Step, if this card attacked: You can destroy 1 Spell/Trap Card on the field.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 3000,
+        "level": 9,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 44874522,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44874522.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44874522.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44874522.jpg"
           }
         ]
       }

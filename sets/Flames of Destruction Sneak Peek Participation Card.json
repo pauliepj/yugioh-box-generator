@@ -1,11 +1,19 @@
 {
   "setName": "Flames of Destruction Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 50213848,
         "name": "Monster Reborn Reborn",
+        "desc": "Target 3 monsters in your GY; your opponent chooses 1, you Special Summon it, and if you do, banish the rest. You can only activate 1 \"Monster Reborn Reborn\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 50213848,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

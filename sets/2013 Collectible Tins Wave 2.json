@@ -1,37 +1,19 @@
 {
   "setName": "2013 Collectible Tins Wave 2",
   "rarities": {
-    "secret": [
-      {
-        "id": 90411554,
-        "name": "Redox, Dragon Ruler of Boulders",
-        "card_images": [
-          {
-            "id": 90411554,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90411554.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90411554.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90411554.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89399912,
-        "name": "Tempest, Dragon Ruler of Storms",
-        "card_images": [
-          {
-            "id": 89399912,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89399912.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89399912.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89399912.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 95169481,
         "name": "Diamond Dire Wolf",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Beast, Beast-Warrior, or Winged Beast-Type monster you control and 1 other card on the field; destroy them.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95169481,
@@ -44,6 +26,15 @@
       {
         "id": 28912357,
         "name": "Gear Gigant X",
+        "desc": "2 Level 4 Machine-Type monsters\nOnce per turn: You can detach 1 Xyz Material from this card; add 1 Level 4 or lower Machine-Type monster from your Deck or Graveyard to your hand. When this card leaves the field: You can target 1 Level 3 or lower \"Geargia\" monster in your Graveyard; Special Summon that target.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 28912357,
@@ -56,6 +47,15 @@
       {
         "id": 51735257,
         "name": "Number 50: Blackship of Corn",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
+        "race": "Plant",
+        "atk": 2100,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51735257,
@@ -68,6 +68,15 @@
       {
         "id": 48995978,
         "name": "Number 88: Gimmick Puppet of Leo",
+        "desc": "3 Level 8 monsters\nOnce per turn, if you have no cards in your Spell & Trap Card Zone: You can detach 1 Xyz Material from this card, and if you do, place 1 Destiny Counter on this card. You cannot conduct your Battle Phase the turn you activate this effect. When 3 Destiny Counters are on this card, you win the Duel.",
+        "race": "Machine",
+        "atk": 3200,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 48995978,
@@ -80,6 +89,15 @@
       {
         "id": 47660516,
         "name": "Rank-Up-Magic Barian's Force",
+        "desc": "Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster with the same Type as that monster you control but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if possible, detach 1 Xyz Material from a monster your opponent controls and attach it to the Summoned monster as an Xyz Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 47660516,
@@ -92,6 +110,15 @@
       {
         "id": 56981417,
         "name": "Spellbook of the Master",
+        "desc": "If you control a Spellcaster-Type monster: You can reveal 1 other \"Spellbook\" card in your hand, then target 1 \"Spellbook\" Normal Spell Card in your Graveyard, except \"Spellbook of the Master\"; this card's effect becomes that target's effect. You can only activate 1 \"Spellbook of the Master\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 56981417,
@@ -104,6 +131,15 @@
       {
         "id": 48049769,
         "name": "Thunder Sea Horse",
+        "desc": "You can discard this card; add 2 Level 4 LIGHT Thunder-Type monsters of the same name with 1600 or less ATK from your Deck to your hand. You can only use the effect of \"Thunder Sea Horse\" once per turn. You cannot Special Summon during the turn you activate this effect.",
+        "race": "Thunder",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 48049769,
@@ -114,7 +150,49 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "secret rare": [
+      {
+        "id": 90411554,
+        "name": "Redox, Dragon Ruler of Boulders",
+        "desc": "If this card is in your hand or Graveyard: You can banish a total of 2 EARTH and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 EARTH monster to the Graveyard, then target 1 monster in your Graveyard; Special Summon that target. If this card is banished: You can add 1 EARTH Dragon-Type monster from your Deck to your hand. You can only use 1 \"Redox, Dragon Ruler of Boulders\" effect per turn, and only once that turn.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 3000,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 90411554,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90411554.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90411554.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90411554.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89399912,
+        "name": "Tempest, Dragon Ruler of Storms",
+        "desc": "You can discard this card and 1 WIND monster to the GY; add 1 Dragon monster from your Deck to your hand. You can banish a total of 2 WIND and/or Dragon monsters from your hand and/or GY; Special Summon this card from your hand or GY. During your opponent's End Phase, if you control this Special Summoned card: Return it to the hand. If this card is banished: You can add 1 WIND Dragon monster from your Deck to your hand. You can only use 1 \"Tempest, Dragon Ruler of Storms\" effect per turn, and only once that turn.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2200,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 89399912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89399912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89399912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89399912.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

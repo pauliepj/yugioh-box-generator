@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 1 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 81480460,
         "name": "Barrel Dragon",
+        "desc": "Once per turn: You can target 1 monster your opponent controls; toss a coin 3 times and destroy it if at least 2 of the results are heads.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 81480460,
@@ -25,6 +32,15 @@
       {
         "id": 78193831,
         "name": "Buster Blader",
+        "desc": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78193831,
@@ -43,6 +59,15 @@
       {
         "id": 63519819,
         "name": "Thousand-Eyes Restrict",
+        "desc": "\"Relinquished\" + \"Thousand-Eyes Idol\"\r\nOther monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63519819,
@@ -55,6 +80,15 @@
       {
         "id": 71625222,
         "name": "Time Wizard",
+        "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 71625222,
@@ -64,8 +98,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2024 A",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 95440946,
         "name": "Eldlich the Golden Lord",
+        "desc": "You can send this card and 1 Spell/Trap from your hand to the GY, then target 1 card on the field; send it to the GY. If this card is in your GY: You can send 1 Spell/Trap you control to the GY; add this card to your hand, then you can Special Summon 1 Zombie monster from your hand, and if you do, until the end of your opponent's turn, it gains 1000 ATK/DEF and cannot be destroyed by card effects. You can only use each effect of \"Eldlich the Golden Lord\" once per turn.",
+        "race": "Zombie",
+        "atk": 2500,
+        "def": 2800,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 95440946,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

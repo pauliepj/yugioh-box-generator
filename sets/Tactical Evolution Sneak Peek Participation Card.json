@@ -1,12 +1,19 @@
 {
   "setName": "Tactical Evolution Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 19041767,
         "name": "Gemini Summoner",
+        "desc": "Once per turn, during your opponent's End Phase: You can pay 500 LP; Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 0,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 19041767,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

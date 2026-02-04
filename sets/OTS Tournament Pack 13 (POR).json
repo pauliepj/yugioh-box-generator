@@ -1,12 +1,19 @@
 {
   "setName": "OTS Tournament Pack 13 (POR)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 1561110,
         "name": "ABC-Dragon Buster",
+        "desc": "\"A-Assault Core\" + \"B-Buster Drake\" + \"C-Crush Wyvern\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY. (You do not use \"Polymerization\".) Once per turn (Quick Effect): You can discard 1 card, then target 1 card on the field; banish it. During your opponent's turn (Quick Effect): You can Tribute this card, then target 3 of your banished LIGHT Machine Union monsters with different names; Special Summon them.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 1561110,
@@ -19,6 +26,15 @@
       {
         "id": 440556,
         "name": "Bahamut Shark",
+        "desc": "2 Level 4 WATER monsters\nOnce per turn: You can detach 1 material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.",
+        "race": "Sea Serpent",
+        "atk": 2600,
+        "def": 2100,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 440556,
@@ -31,6 +47,15 @@
       {
         "id": 50954680,
         "name": "Crystal Wing Synchro Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner Synchro Monsters\r\nOnce per turn, when another monster's effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn. If this card battles an opponent's Level 5 or higher monster, during damage calculation: This card gains ATK equal to the current ATK of the opponent's monster it is battling during that damage calculation only.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 50954680,
@@ -43,6 +68,15 @@
       {
         "id": 78868119,
         "name": "Deep Sea Diva",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.",
+        "race": "Sea Serpent",
+        "atk": 200,
+        "def": 400,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78868119,
@@ -55,6 +89,15 @@
       {
         "id": 77075360,
         "name": "Junk Speeder",
+        "desc": "1 \"Synchron\" Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon as many \"Synchron\" Tuners as possible with different Levels from your Deck, in Defense Position. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, the turn you activate this effect. When an attack is declared involving this card that was Synchro Summoned this turn and another monster: You can make this card's ATK become double its original ATK until the end of this turn. You can only use each effect of \"Junk Speeder\" once per turn.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 77075360,
@@ -67,6 +110,15 @@
       {
         "id": 82012319,
         "name": "Scrap Golem",
+        "desc": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player's field.",
+        "race": "Rock",
+        "atk": 2300,
+        "def": 1400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 82012319,
@@ -79,6 +131,15 @@
       {
         "id": 4474060,
         "name": "SPYRAL GEAR - Drone",
+        "desc": "If this card is Normal or Special Summoned: You can look at the top 3 cards of your opponent's Deck, and if you do, place them on top of their Deck in any order. (Quick Effect): You can Tribute this card, then target 1 \"SPYRAL\" monster you control; it gains 500 ATK for each card your opponent controls. You can banish this card and 1 \"SPYRAL\" card from your GY, then target 1 \"SPYRAL Super Agent\" in your GY; add it to your hand.",
+        "race": "Machine",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 4474060,
@@ -91,6 +152,15 @@
       {
         "id": 9212051,
         "name": "SPYRAL MISSION - Rescue",
+        "desc": "Destroy this card during your 3rd End Phase after activation. Once per turn: You can target 1 \"SPYRAL\" monster in your GY; add it to your hand. You can banish this card from your GY, then target 1 \"SPYRAL\" monster in your GY; Special Summon it. You can only control 1 \"SPYRAL MISSION - Rescue\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9212051,
@@ -103,6 +173,15 @@
       {
         "id": 51405049,
         "name": "Where Arf Thou?",
+        "desc": "If you control a face-up Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51405049,
@@ -113,11 +192,84 @@
         ]
       }
     ],
-    "rare": [],
+    "ultimate rare": [
+      {
+        "id": 21044178,
+        "name": "Abyss Dweller",
+        "desc": "2 Level 4 monsters\nWhile this card has a material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn (Quick Effect): You can detach 1 material from this card; your opponent cannot activate any card effects in their GY this turn.",
+        "race": "Sea Serpent",
+        "atk": 1700,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 21044178,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21044178.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21044178.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21044178.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14087893,
+        "name": "Book of Moon",
+        "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 14087893,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14087893.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14087893.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6511113,
+        "name": "Traptrix Rafflesia",
+        "desc": "2 Level 4 monsters\nThis card is unaffected by Trap effects while it has Xyz Material. \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", cannot be destroyed by battle or card effects. Your opponent cannot target \"Traptrix\" monsters you control, except \"Traptrix Rafflesia\", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 \"Hole\" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.",
+        "race": "Plant",
+        "atk": 300,
+        "def": 2500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 6511113,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6511113.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6511113.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6511113.jpg"
+          }
+        ]
+      }
+    ],
     "common": [
       {
         "id": 29401950,
         "name": "Bottomless Trap Hole",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29401950,
@@ -130,6 +282,15 @@
       {
         "id": 19327348,
         "name": "Dharc the Dark Charmer",
+        "desc": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19327348,
@@ -142,6 +303,15 @@
       {
         "id": 1596508,
         "name": "Dimension Fortress Weapon",
+        "desc": "Cards cannot be sent from the Deck to the Graveyard.",
+        "race": "Machine",
+        "atk": 1700,
+        "def": 200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1596508,
@@ -154,6 +324,15 @@
       {
         "id": 70342110,
         "name": "Dimensional Prison",
+        "desc": "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70342110,
@@ -166,6 +345,15 @@
       {
         "id": 69599136,
         "name": "Floodgate Trap Hole",
+        "desc": "When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69599136,
@@ -178,6 +366,15 @@
       {
         "id": 50091196,
         "name": "Formula Synchron",
+        "desc": "1 Tuner + 1 non-Tuner monster\nWhen this card is Synchro Summoned: You can draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+        "race": "Machine",
+        "atk": 200,
+        "def": 1500,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50091196,
@@ -190,6 +387,15 @@
       {
         "id": 18590133,
         "name": "Goblin King",
+        "desc": "While you control another Fiend-Type monster, this card cannot be attacked. The ATK and DEF of this card are each equal to the number of Fiend-Type monsters on the field (excluding this card) x 1000.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18590133,
@@ -202,6 +408,15 @@
       {
         "id": 58901502,
         "name": "Goyo Defender",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nOnce per turn, if all monsters you control are EARTH Warrior-Type Synchro Monsters (min. 1): You can Special Summon \"Goyo Defender\" from your Extra Deck. When this card is targeted for an attack: You can make this card gain 1000 ATK for each EARTH Warrior-Type Synchro Monster you control (other than this card), until the end of the Damage Step.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58901502,
@@ -214,6 +429,15 @@
       {
         "id": 7811875,
         "name": "Gravity Collapse",
+        "desc": "Activate by sending 1 face-up Synchro Monster you control to the Graveyard when your opponent Summons a monster. Negate the Summon and destroy that card. Your opponent cannot Summon a monster until the End Phase of this turn.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7811875,
@@ -226,6 +450,15 @@
       {
         "id": 73318863,
         "name": "Lyna the Light Charmer",
+        "desc": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 1500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73318863,
@@ -238,6 +471,15 @@
       {
         "id": 9433350,
         "name": "Malefic Blue-Eyes White Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Blue-Eyes White Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9433350,
@@ -250,6 +492,15 @@
       {
         "id": 1710476,
         "name": "Malefic Cyber End Dragon",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Cyber End Dragon\" from your Extra Deck. There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Machine",
+        "atk": 4000,
+        "def": 2800,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1710476,
@@ -262,6 +513,15 @@
       {
         "id": 74509280,
         "name": "Malefic Parallel Gear",
+        "desc": "When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 \"Malefic\" monster in your hand.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74509280,
@@ -274,6 +534,15 @@
       {
         "id": 36521459,
         "name": "Malefic Stardust Dragon",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 1 \"Stardust Dragon\" from your Extra Deck, and cannot be Special Summoned by other ways. There can only be 1 face-up \"Malefic\" monster on the field. Face-up Field Spell Cards cannot be destroyed by effects. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36521459,
@@ -286,6 +555,15 @@
       {
         "id": 27564031,
         "name": "Malefic World",
+        "desc": "While this card is face-up on the field, you can activate this effect instead of conducting a normal draw during your Draw Phase. Choose 3 \"Malefic\" cards from your Deck and have your opponent pick 1 of them at random to add to your hand. Shuffle the rest back into your Deck.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27564031,
@@ -298,6 +576,15 @@
       {
         "id": 84040113,
         "name": "Muddy Mudragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nThis card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. During your Main Phase, if you control this Synchro Summoned card: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material, including this card. You can only use this effect of \"Muddy Mudragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 2200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84040113,
@@ -310,6 +597,15 @@
       {
         "id": 90011152,
         "name": "Ojama Country",
+        "desc": "Once per turn, you can send 1 \"Ojama\" card from your hand to the Graveyard to Special Summon 1 \"Ojama\" monster from your Graveyard. While you control a face-up \"Ojama\" monster, switch the original ATK and DEF of all monsters on the field. (\"Ojama\" can include \"Ojamuscle\".)",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90011152,
@@ -322,6 +618,15 @@
       {
         "id": 11747708,
         "name": "Spore",
+        "desc": "If this card is in your Graveyard: You can banish 1 other Plant-Type monster from your Graveyard; Special Summon this card from your Graveyard and increase its Level by the Level of that banished monster. Each player can only activate the effect of \"Spore\" once per Duel.",
+        "race": "Plant",
+        "atk": 400,
+        "def": 800,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11747708,
@@ -334,6 +639,15 @@
       {
         "id": 98049038,
         "name": "Stealthroid",
+        "desc": "If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another \"roid\" monster.",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98049038,
@@ -346,6 +660,15 @@
       {
         "id": 40991587,
         "name": "The Lady in Wight",
+        "desc": "Face-up Level 3 or lower Zombie-Type monsters on the field, except \"The Lady in Wight\", cannot be destroyed by battle and are unaffected by Spell/Trap effects. This card's name becomes \"Skull Servant\" while it is in the Graveyard.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 2200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40991587,
@@ -358,6 +681,15 @@
       {
         "id": 1686814,
         "name": "Ultimaya Tzolkin",
+        "desc": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the Graveyard (1 Tuner and 1 non-Tuner), and cannot be Special Summoned by other ways. Once per turn, when a Spell/Trap Card(s) is Set on your side of the field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon-Type Synchro Monster from your Extra Deck. Cannot be targeted for attacks or by card effects, while you control another Synchro Monster.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 0,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1686814,
@@ -370,6 +702,15 @@
       {
         "id": 13032689,
         "name": "Xyz Unit",
+        "desc": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank x 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13032689,

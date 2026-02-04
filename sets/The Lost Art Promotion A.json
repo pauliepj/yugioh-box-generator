@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion A",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 83764718,
         "name": "Monster Reborn",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 83764718,
@@ -21,9 +29,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

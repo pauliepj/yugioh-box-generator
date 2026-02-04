@@ -1,76 +1,19 @@
 {
   "setName": "HERO Strike Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 23204029,
-        "name": "Contrast HERO Chaos",
-        "card_images": [
-          {
-            "id": 23204029,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23204029.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23204029.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23204029.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 50720316,
-        "name": "Elemental HERO Shadow Mist",
-        "card_images": [
-          {
-            "id": 50720316,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50720316.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50720316.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50720316.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58481572,
-        "name": "Masked HERO Dark Law",
-        "card_images": [
-          {
-            "id": 58481572,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58481572.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58481572.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58481572.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22093873,
-        "name": "Masked HERO Divine Wind",
-        "card_images": [
-          {
-            "id": 22093873,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22093873.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22093873.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22093873.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50608164,
-        "name": "Masked HERO Koga",
-        "card_images": [
-          {
-            "id": 50608164,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50608164.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50608164.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50608164.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 8949584,
         "name": "A Hero Lives",
+        "desc": "If you control no face-up monsters: Pay half your LP; Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8949584,
@@ -83,6 +26,15 @@
       {
         "id": 78621186,
         "name": "Battleguard Howling",
+        "desc": "When a Warrior monster you control is targeted for an attack, or by an opponent's monster effect: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the original ATK of the face-up monster you targeted with this card, and if you do, return it to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78621186,
@@ -95,6 +47,15 @@
       {
         "id": 29401950,
         "name": "Bottomless Trap Hole",
+        "desc": "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29401950,
@@ -107,6 +68,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -119,6 +89,15 @@
       {
         "id": 85087012,
         "name": "Card Trooper",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85087012,
@@ -131,6 +110,15 @@
       {
         "id": 94192409,
         "name": "Compulsory Evacuation Device",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94192409,
@@ -143,6 +131,15 @@
       {
         "id": 213326,
         "name": "E - Emergency Call",
+        "desc": "Add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 213326,
@@ -155,6 +152,15 @@
       {
         "id": 21844577,
         "name": "Elemental HERO Avian",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21844577,
@@ -173,6 +179,15 @@
       {
         "id": 59793705,
         "name": "Elemental HERO Bladedge",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59793705,
@@ -185,6 +200,15 @@
       {
         "id": 79979666,
         "name": "Elemental HERO Bubbleman",
+        "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79979666,
@@ -197,6 +221,15 @@
       {
         "id": 3642509,
         "name": "Elemental HERO Great Tornado",
+        "desc": "1 \"Elemental HERO\" monster + 1 WIND monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent currently controls.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3642509,
@@ -209,6 +242,15 @@
       {
         "id": 98266377,
         "name": "Elemental HERO Heat",
+        "desc": "This card gains 200 ATK for each \"Elemental HERO\" monster you control.",
+        "race": "Pyro",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98266377,
@@ -221,6 +263,15 @@
       {
         "id": 89252153,
         "name": "Elemental HERO Necroshade",
+        "desc": "Once, while this card is in the Graveyard, 1 Level 5 or higher \"Elemental HERO\" monster you Normal Summon can be Summoned without Tributing.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89252153,
@@ -233,6 +284,15 @@
       {
         "id": 89943724,
         "name": "Elemental HERO Neos",
+        "desc": "''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89943724,
@@ -251,6 +311,15 @@
       {
         "id": 69884162,
         "name": "Elemental HERO Neos Alius",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n● This card's name becomes \"Elemental HERO Neos\" while on the field.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69884162,
@@ -263,6 +332,15 @@
       {
         "id": 37195861,
         "name": "Elemental HERO Ocean",
+        "desc": "Once per turn, during your Standby Phase: You can target 1 \"HERO\" monster you control or in your Graveyard; return that target to the hand.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37195861,
@@ -275,6 +353,15 @@
       {
         "id": 9327502,
         "name": "Elemental HERO Voltic",
+        "desc": "When this card inflicts battle damage to your opponent: You can target 1 of your banished \"Elemental HERO\" monsters; Special Summon that target.",
+        "race": "Thunder",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9327502,
@@ -287,6 +374,15 @@
       {
         "id": 86188410,
         "name": "Elemental HERO Wildheart",
+        "desc": "This card is unaffected by Trap effects.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 86188410,
@@ -299,6 +395,15 @@
       {
         "id": 75434695,
         "name": "Elemental HERO Woodsman",
+        "desc": "Once per turn, during your Standby Phase: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75434695,
@@ -311,6 +416,15 @@
       {
         "id": 84536654,
         "name": "Form Change",
+        "desc": "Target 1 \"HERO\" Fusion Monster you control; return it to the Extra Deck, then Special Summon from your Extra Deck, 1 \"Masked HERO\" monster with the same Level as that monster's original Level, but with a different name. (This Special Summon is treated as a Special Summon with \"Mask Change\".)",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84536654,
@@ -323,6 +437,15 @@
       {
         "id": 74825788,
         "name": "H - Heated Heart",
+        "desc": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74825788,
@@ -335,6 +458,15 @@
       {
         "id": 37412656,
         "name": "Hero Blast",
+        "desc": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; add that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37412656,
@@ -347,6 +479,15 @@
       {
         "id": 75141056,
         "name": "Hero Mask",
+        "desc": "Target 1 face-up monster you control; send 1 \"Elemental HERO\" monster from your Deck to the Graveyard, and if you do, that target's name becomes the sent monster's name, until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75141056,
@@ -359,6 +500,15 @@
       {
         "id": 22020907,
         "name": "Hero Signal",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22020907,
@@ -371,6 +521,15 @@
       {
         "id": 40410110,
         "name": "Homunculus the Alchemic Being",
+        "desc": "Once per turn: You can change the Attribute of this card.",
+        "race": "Plant",
+        "atk": 1800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40410110,
@@ -383,6 +542,15 @@
       {
         "id": 37742478,
         "name": "Honest",
+        "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "race": "Fairy",
+        "atk": 1100,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37742478,
@@ -395,6 +563,15 @@
       {
         "id": 21143940,
         "name": "Mask Change",
+        "desc": "Target 1 \"HERO\" monster you control; send it to the GY, also, after that, if it left the field by this effect, Special Summon 1 \"Masked HERO\" monster from your Extra Deck with the same Attribute that the sent monster had when it was on the field (its original Attribute, if face-down).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21143940,
@@ -407,6 +584,15 @@
       {
         "id": 93600443,
         "name": "Mask Change II",
+        "desc": "Discard 1 card, then target 1 face-up monster you control that has a Level; send it to the Graveyard, also, after that, if it left the field by this effect, Special Summon from your Extra Deck, 1 \"Masked HERO\" monster with the same Attribute, but a higher Level than, the Attribute/Level the monster had when it was on the field (its original Attribute/Level, if face-down. This Special Summon is treated as a Special Summon with \"Mask Change\"). You can only activate 1 \"Mask Change II\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93600443,
@@ -419,6 +605,15 @@
       {
         "id": 87819421,
         "name": "Mask Charge",
+        "desc": "Target 1 \"HERO\" monster and 1 \"Change\" Quick-Play Spell Card in your Graveyard; add them to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87819421,
@@ -431,6 +626,15 @@
       {
         "id": 45906428,
         "name": "Miracle Fusion",
+        "desc": "Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or your GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45906428,
@@ -443,6 +647,15 @@
       {
         "id": 80344569,
         "name": "Neo-Spacian Grand Mole",
+        "desc": "At the start of the Damage Step, if this card battles an opponent's monster: You can return both the opponent's monster and this card to the hand.",
+        "race": "Rock",
+        "atk": 900,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80344569,
@@ -455,6 +668,15 @@
       {
         "id": 63703130,
         "name": "O - Oversoul",
+        "desc": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; Special Summon that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63703130,
@@ -467,6 +689,15 @@
       {
         "id": 54283059,
         "name": "Parallel World Fusion",
+        "desc": "Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54283059,
@@ -479,6 +710,15 @@
       {
         "id": 27847700,
         "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27847700,
@@ -497,6 +737,15 @@
       {
         "id": 98645731,
         "name": "Pot of Duality",
+        "desc": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98645731,
@@ -509,6 +758,15 @@
       {
         "id": 37318031,
         "name": "R - Righteous Justice",
+        "desc": "Destroy Spell/Trap Cards equal to the number of \"Elemental HERO\" cards you control.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37318031,
@@ -521,6 +779,15 @@
       {
         "id": 32807846,
         "name": "Reinforcement of the Army",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32807846,
@@ -533,6 +800,15 @@
       {
         "id": 423585,
         "name": "Summoner Monk",
+        "desc": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 423585,
@@ -545,6 +821,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -557,6 +842,15 @@
       {
         "id": 57116034,
         "name": "Winged Kuriboh",
+        "desc": "If this card on the field is destroyed and sent to the Graveyard: For the rest of this turn, you take no battle damage.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57116034,
@@ -569,6 +863,115 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/57116033.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57116033.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57116033.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 23204029,
+        "name": "Contrast HERO Chaos",
+        "desc": "2 \"Masked HERO\" monsters\n(This card is always treated as an \"Elemental HERO\" card.)\nMust be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. Once per turn, during either player's turn: You can target 1 face-up card on the field; negate that target's effects until the end of this turn.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2600,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 23204029,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23204029.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23204029.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23204029.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 50720316,
+        "name": "Elemental HERO Shadow Mist",
+        "desc": "If this card is Special Summoned: You can add 1 \"Change\" Quick-Play Spell Card from your Deck to your hand. If this card is sent to the GY: You can add 1 \"HERO\" monster from your Deck to your hand, except \"Elemental HERO Shadow Mist\". You can only use 1 \"Elemental HERO Shadow Mist\" effect per turn, and only once that turn.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 50720316,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50720316.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50720316.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50720316.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58481572,
+        "name": "Masked HERO Dark Law",
+        "desc": "Must be Special Summoned by \"Mask Change\". Any card sent to your opponent's GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 58481572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58481572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58481572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58481572.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22093873,
+        "name": "Masked HERO Divine Wind",
+        "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. Cannot be destroyed by battle. Your opponent can attack with only 1 monster during each Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can draw 1 card.",
+        "race": "Warrior",
+        "atk": 2700,
+        "def": 1900,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22093873,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22093873.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22093873.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22093873.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50608164,
+        "name": "Masked HERO Koga",
+        "desc": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 \"HERO\" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 50608164,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50608164.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50608164.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50608164.jpg"
           }
         ]
       }

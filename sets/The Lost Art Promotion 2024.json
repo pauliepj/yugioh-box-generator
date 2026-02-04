@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2024",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 51976476,
         "name": "Double Trap Hole",
+        "desc": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51976476,
@@ -18,6 +26,15 @@
       {
         "id": 12600382,
         "name": "Exodia Necross",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Contract with Exodia\", and cannot be Special Summoned by other ways. Cannot be destroyed by battle or Spell/Trap effect. Once per turn, during your Standby Phase: This card gains 500 ATK. Destroy this card unless all 5 of these cards are in your Graveyard - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" and \"Left Leg of the Forbidden One\".",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 12600382,
@@ -30,6 +47,15 @@
       {
         "id": 92418590,
         "name": "Gimmick Puppet Dreary Doll",
+        "desc": "If this card is in your GY: You can banish 1 other \"Gimmick Puppet\" monster from your GY; Special Summon this card. You can only use this effect of \"Gimmick Puppet Dreary Doll\" once per turn. Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a \"Gimmick Puppet\" monster.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 92418590,
@@ -42,6 +68,15 @@
       {
         "id": 80604092,
         "name": "Ultimate Offering",
+        "desc": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 80604092,
@@ -54,6 +89,15 @@
       {
         "id": 76823930,
         "name": "Ultimeat Offering",
+        "desc": "During your Main Phase: You can pay 1000 LP; you can conduct up to 3 Normal Summons/Sets this turn, not just 1. During your opponent's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 monster. You can only use each effect of \"Ultimeat Offering\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 76823930,
@@ -63,9 +107,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

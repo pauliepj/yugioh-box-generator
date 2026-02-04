@@ -1,11 +1,19 @@
 {
   "setName": "Duelist Alliance Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 21970285,
         "name": "Dragon Horn Hunter",
+        "desc": "[ Pendulum Effect ] \nAll Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n\n[ Monster Effect ] \n''The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.''",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Pendulum Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 21970285,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

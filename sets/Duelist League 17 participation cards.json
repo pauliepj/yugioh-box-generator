@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League 17 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 75498415,
         "name": "Blackwing - Sirocco the Dawn",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Normal Summon/Set this card without Tributing. Once per turn, during your Main Phase 1: You can target 1 \"Blackwing\" monster you control; until the end of this turn, it gains ATK equal to the total ATK of all \"Blackwing\" monsters currently on the field, except itself. Monsters other than the targeted monster cannot attack during the turn you activate this effect.",
+        "race": "Winged Beast",
+        "atk": 2000,
+        "def": 900,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 75498415,
@@ -20,6 +26,15 @@
       {
         "id": 2204140,
         "name": "Book of Life",
+        "desc": "Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 2204140,
@@ -32,6 +47,15 @@
       {
         "id": 4861205,
         "name": "Call of the Mummy",
+        "desc": "Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 4861205,
@@ -44,6 +68,15 @@
       {
         "id": 1546124,
         "name": "Cyber End Dragon",
+        "desc": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "race": "Machine",
+        "atk": 4000,
+        "def": 2800,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 1546124,
@@ -62,6 +95,15 @@
       {
         "id": 85718645,
         "name": "Delg the Dark Monarch",
+        "desc": "When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.",
+        "race": "Spellcaster",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 85718645,
@@ -74,6 +116,15 @@
       {
         "id": 59839761,
         "name": "Delta Crow - Anti Reverse",
+        "desc": "If you control a \"Blackwing\" monster: Destroy all face-down Spells and Traps your opponent controls. If you control exactly 3 \"Blackwing\" monsters, you can activate this card from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 59839761,
@@ -86,6 +137,15 @@
       {
         "id": 43422537,
         "name": "Double Summon",
+        "desc": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 43422537,
@@ -98,6 +158,15 @@
       {
         "id": 20188127,
         "name": "Fairy of the Spring",
+        "desc": "Target 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20188127,
@@ -110,6 +179,15 @@
       {
         "id": 9053187,
         "name": "Gagagigo the Risen",
+        "desc": "3 Level 4 monsters",
+        "race": "Reptile",
+        "atk": 2950,
+        "def": 2800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 9053187,
@@ -122,6 +200,15 @@
       {
         "id": 97204936,
         "name": "Gaia Knight, the Force of Earth",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 800,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97204936,
@@ -134,6 +221,15 @@
       {
         "id": 48229808,
         "name": "Horus the Black Flame Dragon LV8",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 1800,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 48229808,
@@ -146,6 +242,15 @@
       {
         "id": 40348946,
         "name": "Hyper Synchron",
+        "desc": "If this card is sent to the Graveyard for the Synchro Summon of a Dragon-Type monster: That monster gains 800 ATK, also banish that face-up monster during the End Phase.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 40348946,
@@ -158,6 +263,15 @@
       {
         "id": 17985575,
         "name": "Lord of D.",
+        "desc": "Neither player can target Dragon monsters on the field with card effects.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 17985575,
@@ -170,6 +284,15 @@
       {
         "id": 92826944,
         "name": "Mezuki",
+        "desc": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 92826944,
@@ -182,6 +305,15 @@
       {
         "id": 20932152,
         "name": "Quickdraw Synchron",
+        "desc": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a \"Synchron\" Tuner as material.",
+        "race": "Machine",
+        "atk": 700,
+        "def": 1400,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20932152,
@@ -194,6 +326,15 @@
       {
         "id": 37267041,
         "name": "Silent Swordsman LV7",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 37267041,
@@ -206,6 +347,15 @@
       {
         "id": 58120309,
         "name": "Starlight Road",
+        "desc": "When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 \"Stardust Dragon\" from your Extra Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58120309,
@@ -218,6 +368,15 @@
       {
         "id": 23516703,
         "name": "Summon Limit",
+        "desc": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23516703,
@@ -230,6 +389,15 @@
       {
         "id": 6849042,
         "name": "Super-Ancient Dinobeast",
+        "desc": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur monster. When a Dinosaur monster(s) is Special Summoned from your GY while this monster is on the field (except during the Damage Step): You can draw 1 card.",
+        "race": "Dinosaur",
+        "atk": 2700,
+        "def": 1400,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6849042,
@@ -242,6 +410,15 @@
       {
         "id": 43973174,
         "name": "The Flute of Summoning Dragon",
+        "desc": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 43973174,
@@ -251,7 +428,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

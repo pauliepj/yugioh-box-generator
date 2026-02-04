@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 2 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 31829185,
         "name": "Dark Necrofear",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.",
+        "race": "Fiend",
+        "atk": 2200,
+        "def": 2800,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 31829185,
@@ -25,6 +32,15 @@
       {
         "id": 49064413,
         "name": "The Masked Beast",
+        "desc": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
+        "race": "Fiend",
+        "atk": 3200,
+        "def": 1800,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 49064413,
@@ -40,8 +56,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

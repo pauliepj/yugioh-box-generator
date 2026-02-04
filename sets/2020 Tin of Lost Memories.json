@@ -1,11 +1,19 @@
 {
   "setName": "2020 Tin of Lost Memories",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 4280259,
         "name": "Apollousa, Bow of the Goddess",
+        "desc": "2+ monsters with different names, except Tokens\r\nYou can only control 1 \"Apollousa, Bow of the Goddess\". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.",
+        "race": "Fairy",
+        "atk": -1,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 4280259,
@@ -18,6 +26,15 @@
       {
         "id": 22634473,
         "name": "Destined Rivals",
+        "desc": "If you control \"Blue-Eyes White Dragon\" or \"Dark Magician\": Negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. You can only activate 1 \"Destined Rivals\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 22634473,
@@ -30,6 +47,15 @@
       {
         "id": 96239878,
         "name": "Strength in Unity",
+        "desc": "If you Ritual or Fusion Summon using \"Blue-Eyes White Dragon\" or \"Dark Magician\": You can target 1 card your opponent controls or in their GY; banish it. You can send this face-up card from the field to the GY, then target 1 Level 7 or higher Normal Monster in your GY; add it to your hand or shuffle it into the Deck. You can only use each effect of \"Strength in Unity\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 96239878,
@@ -42,6 +68,15 @@
       {
         "id": 69145169,
         "name": "Successor Soul",
+        "desc": "Tribute 1 Effect Monster, then target 1 Effect Monster your opponent controls; send it to the GY, then Special Summon 1 Level 7 or higher Normal Monster from your hand or Deck. You can only activate 1 \"Successor Soul\" per turn. You can only attack with 1 monster during the turn you activate this card.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 69145169,
@@ -52,10 +87,19 @@
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 78661339,
         "name": "Fantastical Dragon Phantazmay",
+        "desc": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1800,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78661339,
@@ -66,7 +110,28 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "prismatic secret rare": [
+      {
+        "id": 65741787,
+        "name": "I:P Masquerena",
+        "desc": "2 non-Link Monsters\r\nDuring your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of \"I:P Masquerena\" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.",
+        "race": "Cyberse",
+        "atk": 800,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Prismatic Secret Rare",
+        "rarityCanonical": "prismatic secret rare",
+        "card_images": [
+          {
+            "id": 65741787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65741787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65741787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65741787.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

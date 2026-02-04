@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League 2 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 85215458,
         "name": "Blackwing - Kalut the Moon Shadow",
+        "desc": "During either player's Damage Step, when a \"Blackwing\" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 85215458,
@@ -20,6 +26,15 @@
       {
         "id": 46986414,
         "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 46986414,
@@ -80,6 +95,15 @@
       {
         "id": 33396948,
         "name": "Exodia the Forbidden One",
+        "desc": "If you have \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" and \"Left Arm of the Forbidden One\" in addition to this card in your hand, you win the Duel.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 33396948,
@@ -92,6 +116,15 @@
       {
         "id": 21598948,
         "name": "Fairy Box",
+        "desc": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 21598948,
@@ -104,6 +137,15 @@
       {
         "id": 33550694,
         "name": "Fusion Gate",
+        "desc": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 33550694,
@@ -116,6 +158,15 @@
       {
         "id": 24317029,
         "name": "Gravekeeper's Spy",
+        "desc": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 24317029,
@@ -128,6 +179,15 @@
       {
         "id": 20450925,
         "name": "Hanewata",
+        "desc": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+        "race": "Fairy",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20450925,
@@ -140,6 +200,15 @@
       {
         "id": 53567095,
         "name": "Icarus Attack",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 53567095,
@@ -152,6 +221,15 @@
       {
         "id": 39703254,
         "name": "Inmato",
+        "desc": "When 1 other face-up Plant-Type monster is targeted by the effect of a Spell or Trap Card your opponent controls, you can Tribute this card to draw 2 cards.",
+        "race": "Plant",
+        "atk": 1400,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 39703254,
@@ -164,6 +242,15 @@
       {
         "id": 7902349,
         "name": "Left Arm of the Forbidden One",
+        "desc": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 7902349,
@@ -176,6 +263,15 @@
       {
         "id": 44519536,
         "name": "Left Leg of the Forbidden One",
+        "desc": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 44519536,
@@ -188,6 +284,15 @@
       {
         "id": 4929256,
         "name": "Mobius the Frost Monarch",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Aqua",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 4929256,
@@ -200,6 +305,15 @@
       {
         "id": 33508719,
         "name": "Morphing Jar",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "race": "Rock",
+        "atk": 700,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 33508719,
@@ -212,6 +326,15 @@
       {
         "id": 57839750,
         "name": "Mother Grizzly",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Beast-Warrior",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 57839750,
@@ -224,6 +347,15 @@
       {
         "id": 17449108,
         "name": "Nobleman of Extermination",
+        "desc": "Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 17449108,
@@ -236,6 +368,15 @@
       {
         "id": 77044671,
         "name": "Pyramid Turtle",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.",
+        "race": "Zombie",
+        "atk": 1200,
+        "def": 1400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 77044671,
@@ -248,6 +389,15 @@
       {
         "id": 70903634,
         "name": "Right Arm of the Forbidden One",
+        "desc": "A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 70903634,
@@ -260,6 +410,15 @@
       {
         "id": 8124921,
         "name": "Right Leg of the Forbidden One",
+        "desc": "A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 8124921,
@@ -272,6 +431,15 @@
       {
         "id": 30450531,
         "name": "Rite of Spirit",
+        "desc": "Target 1 \"Gravekeeper's\" monster in your GY; Special Summon that target. This card's activation and effect are unaffected by \"Necrovalley\".",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 30450531,
@@ -284,6 +452,15 @@
       {
         "id": 72405967,
         "name": "Royal Tribute",
+        "desc": "If you control \"Necrovalley\": Both players discard any monsters in their hands.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 72405967,
@@ -296,6 +473,15 @@
       {
         "id": 70780151,
         "name": "Thought Ruler Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys a monster by battle and sends it to the Graveyard: Gain LP equal to that monster's original ATK in the Graveyard. During either player's turn, when a Spell/Trap Card is activated that targets exactly 1 Psychic-Type monster (and no other cards): You can pay 1000 LP; negate the activation, and if you do, destroy it.",
+        "race": "Psychic",
+        "atk": 2700,
+        "def": 2300,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 70780151,
@@ -305,7 +491,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

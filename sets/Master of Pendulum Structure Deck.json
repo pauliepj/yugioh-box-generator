@@ -1,76 +1,19 @@
 {
   "setName": "Master of Pendulum Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 16691074,
-        "name": "Odd-Eyes Absolute Dragon",
-        "card_images": [
-          {
-            "id": 16691074,
-            "image_url": "https://images.ygoprodeck.com/images/cards/16691074.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16691074.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16691074.jpg"
-          }
-        ]
-      },
-      {
-        "id": 80696379,
-        "name": "Odd-Eyes Meteorburst Dragon",
-        "card_images": [
-          {
-            "id": 80696379,
-            "image_url": "https://images.ygoprodeck.com/images/cards/80696379.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80696379.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80696379.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 88935103,
-        "name": "Nobledragon Magician",
-        "card_images": [
-          {
-            "id": 88935103,
-            "image_url": "https://images.ygoprodeck.com/images/cards/88935103.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88935103.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88935103.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14920218,
-        "name": "Oafdragon Magician",
-        "card_images": [
-          {
-            "id": 14920218,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14920218.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14920218.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14920218.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72714461,
-        "name": "Wisdom-Eye Magician",
-        "card_images": [
-          {
-            "id": 72714461,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72714461.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72714461.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72714461.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 97940434,
         "name": "Chaos Hunter",
+        "desc": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1600,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97940434,
@@ -83,6 +26,15 @@
       {
         "id": 51531505,
         "name": "Dragonpit Magician",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.\n\n[ Monster Effect ] \n''This gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.''",
+        "race": "Spellcaster",
+        "atk": 900,
+        "def": 2700,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Pendulum Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51531505,
@@ -95,6 +47,15 @@
       {
         "id": 15146890,
         "name": "Dragonpulse Magician",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 face-up monster on the field; destroy it.\n\n[ Monster Effect ] \n''This boy magician has the gift of seeing the natural lines of energy that run through the earth, which his people call the Pulse of the Dragon. His exuberance and skill put him in high regard with his mentor, the \"Dragonpit Magician\".''",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15146890,
@@ -107,6 +68,15 @@
       {
         "id": 54974237,
         "name": "Eradicator Epidemic Virus",
+        "desc": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54974237,
@@ -119,6 +89,15 @@
       {
         "id": 97396380,
         "name": "Fencing Fire Ferret",
+        "desc": "If this card is destroyed and sent to the GY: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.",
+        "race": "Beast",
+        "atk": 1700,
+        "def": 600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97396380,
@@ -131,6 +110,15 @@
       {
         "id": 96864811,
         "name": "Forbidden Dress",
+        "desc": "Target 1 face-up monster on the field; until the end of this turn, that target loses 600 ATK, but cannot be targeted or destroyed by other card effects.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96864811,
@@ -143,6 +131,15 @@
       {
         "id": 51632798,
         "name": "Fusilier Dragon, the Dual-Mode Beast",
+        "desc": "You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51632798,
@@ -155,6 +152,15 @@
       {
         "id": 25259669,
         "name": "Goblindbergh",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25259669,
@@ -167,6 +173,15 @@
       {
         "id": 62953041,
         "name": "Inari Fire",
+        "desc": "You can only control 1 \"Inari Fire\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your next Standby Phase after this face-up card on the field was destroyed by a card effect and sent to the Graveyard: Special Summon it from your Graveyard.",
+        "race": "Pyro",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62953041,
@@ -179,6 +194,15 @@
       {
         "id": 40894584,
         "name": "Jigabyte",
+        "desc": "You can only control 1 \"Jigabyte\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). When this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster with 1500 ATK and 200 DEF from your Deck, except \"Jigabyte\".",
+        "race": "Reptile",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40894584,
@@ -191,6 +215,15 @@
       {
         "id": 22624373,
         "name": "Lyla, Lightsworn Sorceress",
+        "desc": "You can target 1 Spell/Trap your opponent controls; this card's battle position cannot be changed until the end of your next turn, also change this card you control from face-up Attack Position to face-up Defense Position, and if you do, destroy that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.",
+        "race": "Spellcaster",
+        "atk": 1700,
+        "def": 200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22624373,
@@ -203,6 +236,15 @@
       {
         "id": 36750412,
         "name": "Magna Drago",
+        "desc": "If this card inflicts battle damage to your opponent: It gains 200 ATK.",
+        "race": "Dragon",
+        "atk": 1400,
+        "def": 600,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36750412,
@@ -215,6 +257,15 @@
       {
         "id": 89189982,
         "name": "Metaphys Armed Dragon",
+        "desc": "Usually visible despite its phantom existence.",
+        "race": "Wyrm",
+        "atk": 2800,
+        "def": 1000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89189982,
@@ -227,6 +278,15 @@
       {
         "id": 5318639,
         "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5318639,
@@ -239,6 +299,15 @@
       {
         "id": 60666820,
         "name": "Nefarious Archfiend Eater of Nefariousness",
+        "desc": "You can only control 1 \"Nefarious Archfiend Eater of Nefariousness\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your opponent's End Phase, if this card is in your Graveyard: You can target 1 face-up monster you control; destroy it, and if you do, Special Summon this card.",
+        "race": "Beast",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60666820,
@@ -251,6 +320,15 @@
       {
         "id": 16178681,
         "name": "Odd-Eyes Pendulum Dragon",
+        "desc": "[ Pendulum Effect ] \nYou can reduce the battle damage you take from an attack involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of \"Odd-Eyes Pendulum Dragon\" once per turn.\n\n[ Monster Effect ] \nIf this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16178681,
@@ -275,6 +353,15 @@
       {
         "id": 76660409,
         "name": "Pendulum Back",
+        "desc": "If you have 2 cards in your Pendulum Zones: Target 2 monsters in your Graveyard, each with a Level between (exclusive) the Pendulum Scales of the cards in your Pendulum Zones; add them to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 76660409,
@@ -287,6 +374,15 @@
       {
         "id": 53208660,
         "name": "Pendulum Call",
+        "desc": "Discard 1 card; add 2 \"Magician\" Pendulum Monsters with different names from your Deck to your hand, also, until the end of your opponent's next turn after this card resolves, \"Magician\" cards in your Pendulum Zones cannot be destroyed by card effects. You can only activate 1 \"Pendulum Call\" per turn. You cannot activate this card if you activated a \"Magician\" monster's Pendulum Effect this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53208660,
@@ -299,6 +395,15 @@
       {
         "id": 74926274,
         "name": "Pendulum Rising",
+        "desc": "Send 1 monster you control to the Graveyard; Special Summon from your Deck, 1 Pendulum Monster with the same Level as the sent monster's original Level, but destroy it during the End Phase. You can only activate 1 \"Pendulum Rising\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74926274,
@@ -311,6 +416,15 @@
       {
         "id": 69982329,
         "name": "Pendulum Shift",
+        "desc": "Target 1 card in either player's Pendulum Zone and declare a Pendulum Scale from 1 to 10; this turn, that card becomes that Pendulum Scale.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69982329,
@@ -323,6 +437,15 @@
       {
         "id": 44364077,
         "name": "Performapal Salutiger",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 \"Performapal\" Pendulum Monster from your Deck to your hand. You can only use this effect of \"Performapal Salutiger\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44364077,
@@ -335,6 +458,15 @@
       {
         "id": 26270847,
         "name": "Performapal Silver Claw",
+        "desc": "[ Pendulum Effect ] \nAll \"Performapal\" monsters you control gain 300 ATK.\n\n[ Monster Effect ] \nWhen this card declares an attack: All \"Performapal\" monsters you currently control gain 300 ATK, until the end of the Battle Phase.",
+        "race": "Beast",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26270847,
@@ -347,6 +479,15 @@
       {
         "id": 40318957,
         "name": "Performapal Skullcrobat Joker",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40318957,
@@ -359,6 +500,15 @@
       {
         "id": 91584698,
         "name": "Performapal Trump Witch",
+        "desc": "[ Pendulum Effect ] \nOnce per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\n\n[ Monster Effect ] \nYou can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+        "race": "Spellcaster",
+        "atk": 100,
+        "def": 100,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91584698,
@@ -371,6 +521,15 @@
       {
         "id": 27847700,
         "name": "Polymerization",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27847700,
@@ -389,6 +548,15 @@
       {
         "id": 84298614,
         "name": "Powerful Rebirth",
+        "desc": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84298614,
@@ -401,6 +569,15 @@
       {
         "id": 58695102,
         "name": "Re-Cover",
+        "desc": "If this card is in the Graveyard and your opponent has 5 or more cards in their Extra Deck than you do: You can pay 2000 LP; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Re-Cover\" once per turn.",
+        "race": "Psychic",
+        "atk": 700,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58695102,
@@ -413,6 +590,15 @@
       {
         "id": 1516510,
         "name": "Rune-Eyes Pendulum Dragon",
+        "desc": "\"Odd-Eyes Pendulum Dragon\" + 1 Spellcaster-Type monster\r\nIf this card was Fusion Summoned using a Pendulum Summoned monster(s) on the field as Fusion Material, it is unaffected by your opponent's card effects this turn. Apply the appropriate effect, depending on the original Level of the monster used as Fusion Material that was not \"Odd-Eyes Pendulum Dragon\".\r\n● Level 4 or lower: This card can make up to 2 attacks on monsters during each Battle Phase.\r\n● Level 5 or higher: This card can make up to 3 attacks on monsters during each Battle Phase.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1516510,
@@ -425,6 +611,15 @@
       {
         "id": 45725480,
         "name": "Sacred Sword of Seven Stars",
+        "desc": "Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45725480,
@@ -437,6 +632,15 @@
       {
         "id": 73915051,
         "name": "Scapegoat",
+        "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73915051,
@@ -449,6 +653,15 @@
       {
         "id": 27813661,
         "name": "Sky Iris",
+        "desc": "Your opponent cannot target \"Magician\", \"Performapal\", or \"Odd-Eyes\" cards in your Pendulum Zones with card effects. You can target 1 other face-up card you control; destroy it, and if you do, add 1 \"Odd-Eyes\" card from your Deck to your hand. You can only use this effect of \"Sky Iris\" once per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27813661,
@@ -461,6 +674,15 @@
       {
         "id": 94415058,
         "name": "Stargazer Magician",
+        "desc": "[ Pendulum Effect ] \nIf a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nOnce per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 2400,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94415058,
@@ -473,6 +695,15 @@
       {
         "id": 79816536,
         "name": "Summoner's Art",
+        "desc": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79816536,
@@ -485,6 +716,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -497,6 +737,15 @@
       {
         "id": 20409757,
         "name": "Timegazer Magician",
+        "desc": "[ Pendulum Effect ] \nYou must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nEach turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+        "race": "Spellcaster",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20409757,
@@ -509,6 +758,15 @@
       {
         "id": 53582587,
         "name": "Torrential Tribute",
+        "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53582587,
@@ -521,6 +779,15 @@
       {
         "id": 29616929,
         "name": "Traptrix Trap Hole Nightmare",
+        "desc": "When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29616929,
@@ -533,12 +800,130 @@
       {
         "id": 90508760,
         "name": "X-Saber Airbellum",
+        "desc": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90508760,
             "image_url": "https://images.ygoprodeck.com/images/cards/90508760.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90508760.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90508760.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 88935103,
+        "name": "Nobledragon Magician",
+        "desc": "[ Pendulum Effect ] \nUnless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.\n\n[ Monster Effect ] \nCannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster. If this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck. If this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
+        "race": "Spellcaster",
+        "atk": 700,
+        "def": 1400,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Pendulum Tuner Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 88935103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/88935103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88935103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88935103.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14920218,
+        "name": "Oafdragon Magician",
+        "desc": "[ Pendulum Effect ] \nIf you have a \"Magician\" card in your other Pendulum Zone: You can add 1 face-up \"Magician\" or \"Odd-Eyes\" Pendulum Monster from your Extra Deck to your hand, except \"Oafdragon Magician\". You can only use this effect of \"Oafdragon Magician\" once per turn.\n\n[ Monster Effect ] \nIf this card is Normal or Special Summoned: You can target 1 \"Magician\" Pendulum Monster or \"Odd-Eyes\" monster in your Graveyard, except \"Oafdragon Magician\"; add it to your hand. You can only use this effect of \"Oafdragon Magician\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 2100,
+        "def": 1400,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14920218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14920218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14920218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14920218.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72714461,
+        "name": "Wisdom-Eye Magician",
+        "desc": "[ Pendulum Effect ] \nIf you have a \"Magician\" or \"Performapal\" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 \"Magician\" Pendulum Monster from your Deck in your Pendulum Zone, except \"Wisdom-Eye Magician\".\n\n[ Monster Effect ] \nYou can discard this card, then target 1 card in your Pendulum Zone, whose current Pendulum Scale is different from its original Pendulum Scale; its Pendulum Scale becomes its original Pendulum Scale until the end of this turn.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 72714461,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72714461.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72714461.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72714461.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 16691074,
+        "name": "Odd-Eyes Absolute Dragon",
+        "desc": "2 Level 7 monsters\r\nWhen any player's monster declares an attack: You can detach 1 material from this card; negate the attack, then you can Special Summon 1 \"Odd-Eyes\" monster from your hand or GY. If this Xyz Summoned card is sent to the GY: You can Special Summon 1 \"Odd-Eyes\" monster from your Extra Deck, except \"Odd-Eyes Absolute Dragon\". You can only use each effect of \"Odd-Eyes Absolute Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2500,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 16691074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16691074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16691074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16691074.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80696379,
+        "name": "Odd-Eyes Meteorburst Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of \"Odd-Eyes Meteorburst Dragon\" once per turn. Monsters in your opponent's possession cannot activate their effects during the Battle Phase.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 80696379,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80696379.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80696379.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80696379.jpg"
           }
         ]
       }

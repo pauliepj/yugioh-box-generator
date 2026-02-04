@@ -1,135 +1,19 @@
 {
   "setName": "Astral Pack Three",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 32919136,
-        "name": "Falling Down",
-        "card_images": [
-          {
-            "id": 32919136,
-            "image_url": "https://images.ygoprodeck.com/images/cards/32919136.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32919136.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32919136.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69293721,
-        "name": "Mermail Abyssgunde",
-        "card_images": [
-          {
-            "id": 69293721,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69293721.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69293721.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69293721.jpg"
-          }
-        ]
-      },
-      {
-        "id": 44887817,
-        "name": "Miracle Fertilizer",
-        "card_images": [
-          {
-            "id": 44887817,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44887817.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44887817.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44887817.jpg"
-          }
-        ]
-      },
-      {
-        "id": 83438826,
-        "name": "Noble Arms - Arfeudutyr",
-        "card_images": [
-          {
-            "id": 83438826,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83438826.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83438826.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83438826.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14745409,
-        "name": "Noble Arms - Gallatin",
-        "card_images": [
-          {
-            "id": 14745409,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14745409.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14745409.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14745409.jpg"
-          }
-        ]
-      },
-      {
-        "id": 91078716,
-        "name": "Pollinosis",
-        "card_images": [
-          {
-            "id": 91078716,
-            "image_url": "https://images.ygoprodeck.com/images/cards/91078716.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91078716.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91078716.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98358303,
-        "name": "Serene Psychic Witch",
-        "card_images": [
-          {
-            "id": 98358303,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98358303.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98358303.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98358303.jpg"
-          }
-        ]
-      },
-      {
-        "id": 40230018,
-        "name": "Spellbook Library of the Crescent",
-        "card_images": [
-          {
-            "id": 40230018,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40230018.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40230018.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40230018.jpg"
-          }
-        ]
-      },
-      {
-        "id": 56321639,
-        "name": "Spellbook Star Hall",
-        "card_images": [
-          {
-            "id": 56321639,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56321639.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56321639.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56321639.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2779999,
-        "name": "Wall of Thorns",
-        "card_images": [
-          {
-            "id": 2779999,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2779999.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2779999.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2779999.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 56246017,
         "name": "Archfiend's Roar",
+        "desc": "Pay 500 Life Points, then target 1 \"Archfiend\" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56246017,
@@ -142,6 +26,15 @@
       {
         "id": 1149109,
         "name": "Deck Lockdown",
+        "desc": "Neither player can add cards from the Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1149109,
@@ -154,6 +47,15 @@
       {
         "id": 2326738,
         "name": "Des Lacooda",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
+        "race": "Zombie",
+        "atk": 500,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2326738,
@@ -166,6 +68,15 @@
       {
         "id": 8730435,
         "name": "Gladiator Beast's Battle Archfiend Shield",
+        "desc": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8730435,
@@ -178,6 +89,15 @@
       {
         "id": 52417194,
         "name": "Heavy Slump",
+        "desc": "If your opponent has 8 or more cards in their hand: They shuffle their entire hand into the Deck, then draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52417194,
@@ -190,6 +110,15 @@
       {
         "id": 52248570,
         "name": "Imprisoned Queen Archfiend",
+        "desc": "During each of your Standby Phases, you must pay 1000 Life Points (this is not optional), or this card is destroyed. During your Standby Phase: Target 1 Level 4 or lower Fiend-Type monster on the field; that target gains 1000 ATK until the End Phase. \"Pandemonium\" must be on the field and this card must be in your Graveyard to activate and to resolve this effect.",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 1700,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52248570,
@@ -202,6 +131,15 @@
       {
         "id": 41855169,
         "name": "Jowgen the Spiritualist",
+        "desc": "You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 1300,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41855169,
@@ -214,6 +152,15 @@
       {
         "id": 28529976,
         "name": "Super Solar Nutrient",
+        "desc": "Activate this card by Tributing 1 Level 2 or lower Plant-Type monster; Special Summon 1 Plant-Type monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28529976,
@@ -226,6 +173,15 @@
       {
         "id": 41872150,
         "name": "Swarm of Locusts",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41872150,
@@ -238,6 +194,15 @@
       {
         "id": 15383415,
         "name": "Swarm of Scarabs",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15383415,
@@ -250,12 +215,342 @@
       {
         "id": 36352429,
         "name": "Vampire Dragon",
+        "desc": "When this Tribute Summoned card is sent from the field to the Graveyard: You can add 1 Level 4 or lower monster from your Deck to your hand.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 0,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36352429,
             "image_url": "https://images.ygoprodeck.com/images/cards/36352429.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36352429.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36352429.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 706925,
+        "name": "Atlantean Marksman",
+        "desc": "When this card inflicts battle damage to your opponent: You can Special Summon 1 Level 4 or lower \"Atlantean\" Sea Serpent-Type monster from your Deck, except \"Atlantean Marksman\". When this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 Set card your opponent controls; destroy that target.",
+        "race": "Sea Serpent",
+        "atk": 1400,
+        "def": 0,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 706925,
+            "image_url": "https://images.ygoprodeck.com/images/cards/706925.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/706925.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/706925.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57103969,
+        "name": "Fire Formation - Tenki",
+        "desc": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 57103969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25341652,
+        "name": "Maestroke the Symphony Djinn",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls; change it to face-down Defense Position. If a \"Djinn\" Xyz Monster you control would be destroyed, you can detach 1 Xyz Material from that monster instead.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 2300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 25341652,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25341652.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25341652.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25341652.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 22026707,
+        "name": "Curtain of the Dark Ones",
+        "desc": "A curtain that a spellcaster made, it is said to raise a dark power.",
+        "race": "Spellcaster",
+        "atk": 600,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 22026707,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22026707.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22026707.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22026707.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41544074,
+        "name": "Kamionwizard",
+        "desc": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+        "race": "Spellcaster",
+        "atk": 1300,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 41544074,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41544074.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41544074.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41544074.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 32919136,
+        "name": "Falling Down",
+        "desc": "Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an \"Archfiend\" card. During each of your opponent's Standby Phases: You take 800 damage.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 32919136,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32919136.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32919136.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32919136.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69293721,
+        "name": "Mermail Abyssgunde",
+        "desc": "If this card is discarded to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abyssgunde\"; Special Summon that target. You can only use the effect of \"Mermail Abyssgunde\" once per turn.",
+        "race": "Aqua",
+        "atk": 1400,
+        "def": 800,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 69293721,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69293721.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69293721.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69293721.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44887817,
+        "name": "Miracle Fertilizer",
+        "desc": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 44887817,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44887817.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44887817.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44887817.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83438826,
+        "name": "Noble Arms - Arfeudutyr",
+        "desc": "You can only control 1 \"Noble Arms - Arfeudutyr\". Equip only to a Warrior-Type monster. Once per turn: You can target 1 Set card your opponent controls; the equipped monster loses exactly 500 ATK, and if it does, destroy that target. (This ATK loss remains even if this card leaves the field or the monster becomes unaffected by card effects.) If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Arfeudutyr\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 83438826,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83438826.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83438826.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83438826.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14745409,
+        "name": "Noble Arms - Gallatin",
+        "desc": "You can only control 1 \"Noble Arms - Gallatin\". Equip only to a Warrior-Type monster. It gains 1000 ATK. During each of your Standby Phases, it loses 200 ATK. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Gallatin\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14745409,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14745409.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14745409.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14745409.jpg"
+          }
+        ]
+      },
+      {
+        "id": 91078716,
+        "name": "Pollinosis",
+        "desc": "When a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Plant monster; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 91078716,
+            "image_url": "https://images.ygoprodeck.com/images/cards/91078716.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91078716.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91078716.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98358303,
+        "name": "Serene Psychic Witch",
+        "desc": "When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.",
+        "race": "Psychic",
+        "atk": 1400,
+        "def": 1200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 98358303,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98358303.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98358303.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98358303.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40230018,
+        "name": "Spellbook Library of the Crescent",
+        "desc": "If you have no \"Spellbook\" Spell Cards in your Graveyard: Reveal 3 \"Spellbook\" Spell Cards with different names from your Deck, your opponent randomly adds 1 of them to your hand, and shuffle the rest back into your Deck. You can only activate 1 \"Spellbook Library of the Crescent\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 40230018,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40230018.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40230018.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40230018.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56321639,
+        "name": "Spellbook Star Hall",
+        "desc": "Each time a \"Spellbook\" Spell Card is activated, place 1 Spell Counter on this card. All Spellcaster-Type monsters you control gain 100 ATK for each Spell Counter on this card. When this card with Spell Counter(s) is destroyed and sent to the Graveyard: You can add 1 Spellcaster-Type monster from your Deck to your hand, whose Level is less than or equal to the number of Spell Counters that were on this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 56321639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56321639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56321639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56321639.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2779999,
+        "name": "Wall of Thorns",
+        "desc": "When a Plant-Type monster you control is targeted for an attack: Destroy all Attack Position monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 2779999,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2779999.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2779999.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2779999.jpg"
           }
         ]
       }

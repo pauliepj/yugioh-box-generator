@@ -1,123 +1,19 @@
 {
   "setName": "OTS Tournament Pack 21",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 52645235,
-        "name": "Epurrely Happiness",
-        "card_images": [
-          {
-            "id": 52645235,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52645235.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52645235.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52645235.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72554664,
-        "name": "Light of the Branded",
-        "card_images": [
-          {
-            "id": 72554664,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72554664.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72554664.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72554664.jpg"
-          }
-        ]
-      },
-      {
-        "id": 54191698,
-        "name": "Number 29: Mannequin Cat",
-        "card_images": [
-          {
-            "id": 54191698,
-            "image_url": "https://images.ygoprodeck.com/images/cards/54191698.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54191698.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54191698.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63899465,
-        "name": "Rescue-ACE HQ",
-        "card_images": [
-          {
-            "id": 63899465,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63899465.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63899465.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63899465.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78534861,
-        "name": "Scareclaw Kashtira",
-        "card_images": [
-          {
-            "id": 78534861,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78534861.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78534861.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78534861.jpg"
-          }
-        ]
-      },
-      {
-        "id": 75922381,
-        "name": "Spright Red",
-        "card_images": [
-          {
-            "id": 75922381,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75922381.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75922381.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75922381.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37961969,
-        "name": "Tearlaments Havnis",
-        "card_images": [
-          {
-            "id": 37961969,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37961969.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37961969.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37961969.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74078255,
-        "name": "Tearlaments Merrli",
-        "card_images": [
-          {
-            "id": 74078255,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74078255.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74078255.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74078255.jpg"
-          }
-        ]
-      },
-      {
-        "id": 31887806,
-        "name": "Tobari the Sky Ninja",
-        "card_images": [
-          {
-            "id": 31887806,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31887806.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31887806.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31887806.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 44179224,
         "name": "Abyss Actor - Curtain Raiser",
+        "desc": "[ Pendulum Effect ] \nIf you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Curtain Raiser\" once per Duel.\n\n[ Monster Effect ] \nGains 1100 ATK if you control no other monsters. Once per turn: You can send 1 \"Abyss Script\" Spell from your Deck to the GY; add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",
+        "race": "Fiend",
+        "atk": 1100,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44179224,
@@ -130,6 +26,15 @@
       {
         "id": 29867611,
         "name": "Amaze Attraction Majestic Merry-Go-Round",
+        "desc": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\r\n● You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\r\n● Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29867611,
@@ -142,6 +47,15 @@
       {
         "id": 10925955,
         "name": "Contact with the Aquamirror",
+        "desc": "If you control a face-up WATER monster, activate 1 of these effects. If you control a face-up WATER Ritual Monster, you can activate both of these effects:\n● Look at all Set cards in your opponent's Spell & Trap Card Zones.\n● Look at the 2 top cards of either player's Deck and return them to the top of the Deck in any order.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 10925955,
@@ -154,6 +68,15 @@
       {
         "id": 60222582,
         "name": "Galaxy Expedition",
+        "desc": "If you control a Level 5 or higher \"Photon\" or \"Galaxy\" monster: Special Summon 1 Level 5 or higher \"Photon\" or \"Galaxy\" monster from your Deck in Defense Position. You can only activate 1 \"Galaxy Expedition\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60222582,
@@ -166,6 +89,15 @@
       {
         "id": 46159582,
         "name": "Gishki Aquamirror",
+        "desc": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also Tribute monsters from the field or your hand whose total Levels equal the Level of the Ritual Monster you Ritual Summon. You can shuffle this card from the Graveyard into the Deck to target 1 \"Gishki\" Ritual Monster in your Graveyard; return that target to the hand.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 46159582,
@@ -178,6 +110,15 @@
       {
         "id": 164710,
         "name": "Mischief of the Gnomes",
+        "desc": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 164710,
@@ -190,6 +131,15 @@
       {
         "id": 54757758,
         "name": "Mudragon of the Swamp",
+        "desc": "2 monsters with the same Attribute but different Types\r\nYour opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.",
+        "race": "Wyrm",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54757758,
@@ -202,6 +152,15 @@
       {
         "id": 54098121,
         "name": "Mysterious Puppeteer",
+        "desc": "Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54098121,
@@ -214,6 +173,15 @@
       {
         "id": 84640866,
         "name": "Network Trap Hole",
+        "desc": "When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84640866,
@@ -226,6 +194,15 @@
       {
         "id": 17418744,
         "name": "Photon Sanctuary",
+        "desc": "Special Summon 2 \"Photon Tokens\" (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) in Defense Position. These Tokens cannot attack or be used as Synchro Material Monsters. You cannot Summon other monsters the turn you activate this card, except for LIGHT monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17418744,
@@ -238,6 +215,15 @@
       {
         "id": 45725480,
         "name": "Sacred Sword of Seven Stars",
+        "desc": "Banish 1 Level 7 monster from your hand or face-up from your side of the field; draw 2 cards. You can only activate 1 \"Sacred Sword of Seven Stars\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 45725480,
@@ -250,6 +236,15 @@
       {
         "id": 74952447,
         "name": "Testudo erat Numen",
+        "desc": "Neither player can Special Summon monsters with 1800 or more ATK.",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 1800,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74952447,
@@ -262,6 +257,15 @@
       {
         "id": 2055403,
         "name": "Time-Space Trap Hole",
+        "desc": "When your opponent Special Summons a monster(s) from the hand or Extra Deck: Shuffle that monster(s) into the Deck, then you lose 1000 LP for each returned monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2055403,
@@ -274,12 +278,277 @@
       {
         "id": 75902998,
         "name": "Trap Hole of Spikes",
+        "desc": "When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75902998,
             "image_url": "https://images.ygoprodeck.com/images/cards/75902998.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75902998.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75902998.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 52645235,
+        "name": "Epurrely Happiness",
+        "desc": "2 Level 2 monsters\r\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can return 1 Spell/Trap your opponent controls to the hand.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": 100,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 52645235,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52645235.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52645235.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52645235.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72554664,
+        "name": "Light of the Branded",
+        "desc": "Target 1 Fusion Monster on the field or in either GY; return it to the Extra Deck, then you can Special Summon 1 \"Fallen of Albaz\" from your GY to your field and 1 monster from your opponent's GY to their field. You can only activate 1 \"Light of the Branded\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 72554664,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72554664.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72554664.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72554664.jpg"
+          }
+        ]
+      },
+      {
+        "id": 54191698,
+        "name": "Number 29: Mannequin Cat",
+        "desc": "2 Level 2 monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 monster in your opponent's GY; Special Summon it to your opponent's field. If a monster(s) is Special Summoned to your opponent's field, while you control this monster (except during the Damage Step): You can target 1 face-up monster your opponent controls; Special Summon 1 monster with the same Type or Attribute from your hand, Deck, or GY. You can only use this effect of \"Number 29: Mannequin Cat\" once per turn.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 900,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 54191698,
+            "image_url": "https://images.ygoprodeck.com/images/cards/54191698.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54191698.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54191698.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63899465,
+        "name": "Rescue-ACE HQ",
+        "desc": "While your opponent controls a monster, all \"Rescue-ACE\" monsters you control gain 500 ATK/DEF. During your Main Phase, you can Normal Summon 1 \"Rescue-ACE\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Once per turn: You can target 4 of your \"Rescue-ACE\" cards that are banished and/or in your GY; shuffle them into the Deck, then draw 1 card.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 63899465,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63899465.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63899465.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63899465.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78534861,
+        "name": "Scareclaw Kashtira",
+        "desc": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Scareclaw\" card from your hand or GY. You can only use this effect of \"Scareclaw Kashtira\" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If your \"Kashtira\" or \"Scareclaw\" monster battles an opponent's monster, that opponent's monster's effects are negated until the end of this turn.",
+        "race": "Psychic",
+        "atk": 0,
+        "def": 2600,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 78534861,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78534861.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78534861.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78534861.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75922381,
+        "name": "Spright Red",
+        "desc": "If you control a Level/Link 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Red\" once per turn this way. When your opponent activates a monster effect (Quick Effect): You can Tribute 1 other Level/Rank/Link 2 monster; negate that effect, then if you Tributed a Rank/Link 2 monster to activate this effect, you can destroy that monster. You can only use this effect of \"Spright Red\" once per turn.",
+        "race": "Thunder",
+        "atk": 1200,
+        "def": 1800,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 75922381,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75922381.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75922381.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75922381.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37961969,
+        "name": "Tearlaments Havnis",
+        "desc": "When your opponent activates a monster effect on the field (Quick Effect): You can Special Summon this card from your hand, and if you do, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Havnis\" once per turn.",
+        "race": "Aqua",
+        "atk": 1600,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 37961969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37961969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37961969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37961969.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74078255,
+        "name": "Tearlaments Merrli",
+        "desc": "If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of \"Tearlaments Merrli\" once per turn.",
+        "race": "Aqua",
+        "atk": 800,
+        "def": 2000,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 74078255,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74078255.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74078255.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74078255.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31887806,
+        "name": "Tobari the Sky Ninja",
+        "desc": "This card cannot be destroyed by battle or card effect the turn it was Special Summoned or flipped face-up. You can only use each of the following effects of \"Tobari the Sky Ninja\" once per turn. You can send this card from your hand to the GY; Special Summon 1 \"Ninja\" monster from your hand in face-up or face-down Defense Position. During your opponent's Main or Battle Phase (Quick Effect): You can Fusion Summon 1 \"Ninja\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
+        "race": "Winged Beast",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 31887806,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31887806.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31887806.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31887806.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 32909498,
+        "name": "Kashtira Fenrir",
+        "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Kashtira Fenrir\" once per turn. During your Main Phase: You can add 1 \"Kashtira\" monster from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can target 1 face-up card your opponent controls; banish it, face-down.",
+        "race": "Psychic",
+        "atk": 2400,
+        "def": 2400,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 32909498,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32909498.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32909498.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32909498.jpg"
+          }
+        ]
+      },
+      {
+        "id": 76145933,
+        "name": "Spright Blue",
+        "desc": "If you control a Level/Rank 2 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Spright Blue\" once per turn this way. If this card is Special Summoned: You can add 1 \"Spright\" monster from your Deck to your hand, except \"Spright Blue\". You can only use this effect of \"Spright Blue\" once per turn.",
+        "race": "Thunder",
+        "atk": 1100,
+        "def": 1000,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 76145933,
+            "image_url": "https://images.ygoprodeck.com/images/cards/76145933.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76145933.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76145933.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73956664,
+        "name": "Tearlaments Reinoheart",
+        "desc": "If this card is Normal or Special Summoned: You can send 1 \"Tearlaments\" monster from your Deck to the GY, except \"Tearlaments Reinoheart\". If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field), and if you do, send 1 \"Tearlaments\" card from your hand to the GY. You can only use each effect of \"Tearlaments Reinoheart\" once per turn.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 2100,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 73956664,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73956664.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73956664.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73956664.jpg"
           }
         ]
       }

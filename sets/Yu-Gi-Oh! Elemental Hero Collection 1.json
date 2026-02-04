@@ -1,10 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Elemental Hero Collection 1",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 21844576,
         "name": "Elemental HERO Avian",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 21844576,
@@ -17,6 +26,15 @@
       {
         "id": 79979666,
         "name": "Elemental HERO Bubbleman",
+        "desc": "If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 79979666,
@@ -29,6 +47,15 @@
       {
         "id": 58932615,
         "name": "Elemental HERO Burstinatrix",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 58932615,
@@ -41,6 +68,15 @@
       {
         "id": 35809262,
         "name": "Elemental HERO Flame Wingman",
+        "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1200,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 35809262,
@@ -50,10 +86,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

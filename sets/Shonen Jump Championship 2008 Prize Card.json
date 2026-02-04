@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Championship 2008 Prize Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 78700060,
         "name": "Doomcaliber Knight",
+        "desc": "Cannot be Special Summoned. If a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 78700060,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

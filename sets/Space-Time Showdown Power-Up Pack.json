@@ -1,39 +1,19 @@
 {
   "setName": "Space-Time Showdown Power-Up Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 53129443,
-        "name": "Dark Hole",
-        "card_images": [
-          {
-            "id": 53129443,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53129443.jpg"
-          }
-        ]
-      },
-      {
-        "id": 53025096,
-        "name": "Odd-Eyes Dragon",
-        "card_images": [
-          {
-            "id": 53025096,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53025096.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53025096.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53025096.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 53162898,
         "name": "Amazoness Sage",
+        "desc": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 700,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53162898,
@@ -46,6 +26,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -58,6 +47,15 @@
       {
         "id": 7572887,
         "name": "D.D. Warrior Lady",
+        "desc": "After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7572887,
@@ -70,6 +68,15 @@
       {
         "id": 81059524,
         "name": "Des Volstgalph",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81059524,
@@ -82,6 +89,15 @@
       {
         "id": 49010598,
         "name": "Divine Wrath",
+        "desc": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49010598,
@@ -94,6 +110,15 @@
       {
         "id": 79575620,
         "name": "Injection Fairy Lily",
+        "desc": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
+        "race": "Spellcaster",
+        "atk": 400,
+        "def": 1500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79575620,
@@ -106,6 +131,15 @@
       {
         "id": 57666212,
         "name": "Kuraz the Light Monarch",
+        "desc": "When this card is Normal or Special Summoned: You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of the cards they controlled that was destroyed by this effect. This card cannot attack during the turn it is Normal or Special Summoned.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57666212,
@@ -118,6 +152,15 @@
       {
         "id": 62279055,
         "name": "Magic Cylinder",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62279055,
@@ -130,6 +173,15 @@
       {
         "id": 44095762,
         "name": "Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44095762,
@@ -142,6 +194,15 @@
       {
         "id": 32807846,
         "name": "Reinforcement of the Army",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32807846,
@@ -154,6 +215,15 @@
       {
         "id": 30914564,
         "name": "Sacred Crane",
+        "desc": "If this card is Special Summoned: Draw 1 card.",
+        "race": "Winged Beast",
+        "atk": 1600,
+        "def": 400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30914564,
@@ -166,6 +236,15 @@
       {
         "id": 72302403,
         "name": "Swords of Revealing Light",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72302403,
@@ -178,12 +257,65 @@
       {
         "id": 403847,
         "name": "The A. Forces",
+        "desc": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 403847,
             "image_url": "https://images.ygoprodeck.com/images/cards/403847.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/403847.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/403847.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 53129443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53129443.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53025096,
+        "name": "Odd-Eyes Dragon",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 53025096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53025096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53025096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53025096.jpg"
           }
         ]
       }

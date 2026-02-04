@@ -1,123 +1,19 @@
 {
   "setName": "OTS Tournament Pack 11 (POR)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 92998610,
-        "name": "Aloof Lupine",
-        "card_images": [
-          {
-            "id": 92998610,
-            "image_url": "https://images.ygoprodeck.com/images/cards/92998610.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92998610.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92998610.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52927340,
-        "name": "Altergeist Kunquery",
-        "card_images": [
-          {
-            "id": 52927340,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52927340.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52927340.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52927340.jpg"
-          }
-        ]
-      },
-      {
-        "id": 34471458,
-        "name": "Fortune Lady Light",
-        "card_images": [
-          {
-            "id": 34471458,
-            "image_url": "https://images.ygoprodeck.com/images/cards/34471458.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34471458.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34471458.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68663748,
-        "name": "Fortune's Future",
-        "card_images": [
-          {
-            "id": 68663748,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68663748.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68663748.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68663748.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89208725,
-        "name": "Metaverse",
-        "card_images": [
-          {
-            "id": 89208725,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89208725.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89208725.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89208725.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57835716,
-        "name": "Orcust Harp Horror",
-        "card_images": [
-          {
-            "id": 57835716,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57835716.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57835716.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57835716.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4055337,
-        "name": "Orcust Knightmare",
-        "card_images": [
-          {
-            "id": 4055337,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4055337.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4055337.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4055337.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37261776,
-        "name": "Salamangreat Violet Chimera",
-        "card_images": [
-          {
-            "id": 37261776,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37261776.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37261776.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37261776.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39581190,
-        "name": "Subterror Nemesis Archer",
-        "card_images": [
-          {
-            "id": 39581190,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39581190.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39581190.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39581190.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 30834988,
         "name": "All-Out Attacks",
+        "desc": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster to face-up Attack Position, and must attack, if able, during the turn they are Special Summoned.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30834988,
@@ -130,6 +26,15 @@
       {
         "id": 94662235,
         "name": "Bending Destiny",
+        "desc": "Activate only if all face-up monsters you control are \"Fortune Lady\" monsters. Negate the activation of a Spell or Trap Card, or the Normal Summon of a monster, and remove that card from play. The card removed from play by this effect is returned to its owner's hand during the End Phase.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94662235,
@@ -142,6 +47,15 @@
       {
         "id": 13316346,
         "name": "Boot-Up Soldier - Dread Dynamo",
+        "desc": "While you control a \"Gadget\" monster, this card gains 2000 ATK.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13316346,
@@ -154,6 +68,15 @@
       {
         "id": 70095155,
         "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70095155,
@@ -172,6 +95,15 @@
       {
         "id": 54059040,
         "name": "Eisbahn",
+        "desc": "If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54059040,
@@ -184,6 +116,15 @@
       {
         "id": 55586621,
         "name": "Fortune Lady Dark",
+        "desc": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When a face-up \"Fortune Lady\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard, you can select and Special Summon 1 \"Fortune Lady\" monster from your Graveyard.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55586621,
@@ -196,6 +137,15 @@
       {
         "id": 82971335,
         "name": "Fortune Lady Earth",
+        "desc": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82971335,
@@ -208,6 +158,15 @@
       {
         "id": 71870152,
         "name": "Fortune Lady Fire",
+        "desc": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this card is Special Summoned in Attack Position by the effect of a \"Fortune Lady\" card: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71870152,
@@ -220,6 +179,15 @@
       {
         "id": 29088922,
         "name": "Fortune Lady Water",
+        "desc": "This card's ATK/DEF become its Level x 300. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). If this card is Special Summoned while you control a \"Fortune Lady\" monster except \"Fortune Lady Water\": Draw 2 cards.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29088922,
@@ -232,6 +200,15 @@
       {
         "id": 82693917,
         "name": "Fortune Lady Wind",
+        "desc": "This card's ATK and DEF are equal to its Level x 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up \"Fortune Lady\" monsters you control.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82693917,
@@ -244,6 +221,15 @@
       {
         "id": 87902575,
         "name": "Future Visions",
+        "desc": "Each time a monster is Normal Summoned: Target that monster; banish it. During the next Standby Phase of the player who controlled that monster: Return it to the field in face-up Attack Position.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87902575,
@@ -256,6 +242,15 @@
       {
         "id": 23171610,
         "name": "Limiter Removal",
+        "desc": "Double the ATK of all Machine monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23171610,
@@ -268,6 +263,15 @@
       {
         "id": 22123627,
         "name": "Moray of Greed",
+        "desc": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22123627,
@@ -280,6 +284,15 @@
       {
         "id": 13955608,
         "name": "Stronghold the Moving Fortress",
+        "desc": "Special Summon this card in Defense Position as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap.) While you control \"Green Gadget\", \"Red Gadget\", and \"Yellow Gadget\", this card gains 3000 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13955608,
@@ -292,6 +305,15 @@
       {
         "id": 14507213,
         "name": "Synchro Material",
+        "desc": "Target 1 face-up monster your opponent controls; you can use that monster as Synchro Material this turn, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14507213,
@@ -304,6 +326,15 @@
       {
         "id": 94068856,
         "name": "Time Passage",
+        "desc": "Increase the Level of 1 face-up \"Fortune Lady\" monster you control by 3, until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94068856,
@@ -316,6 +347,15 @@
       {
         "id": 49430782,
         "name": "True Draco Heritage",
+        "desc": "During your Main Phase: You can draw cards equal to the number of \"True Draco\" and \"True King\" card types (Monster, Spell, and Trap) sent from the field to the GY this turn. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up. If this card is sent from the Spell & Trap Zone to the GY: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of \"True Draco Heritage\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49430782,
@@ -328,12 +368,277 @@
       {
         "id": 35125879,
         "name": "True King's Return",
+        "desc": "If this card is sent from the Spell & Trap Zone to the GY: You can target 1 monster on the field; destroy it. You cannot activate the following effects of \"True King's Return\" in the same Chain.\r\n● You can target 1 \"True Draco\" or \"True King\" monster in your GY; Special Summon it in Defense Position, also for the rest of this turn, you cannot Special Summon.\r\n● During your opponent's Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up.\r\nYou can only use each effect of \"True King's Return\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35125879,
             "image_url": "https://images.ygoprodeck.com/images/cards/35125879.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35125879.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35125879.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 92998610,
+        "name": "Aloof Lupine",
+        "desc": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+        "race": "Beast",
+        "atk": 1700,
+        "def": 300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 92998610,
+            "image_url": "https://images.ygoprodeck.com/images/cards/92998610.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92998610.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92998610.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52927340,
+        "name": "Altergeist Kunquery",
+        "desc": "When an opponent's monster declares an attack, if you control an \"Altergeist\" card: You can Special Summon this card from your hand, and if you do, negate that attack. If this card is Special Summoned: You can target 1 face-up card your opponent controls; negate the effects of that card while it and this monster are face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 2400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 52927340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52927340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52927340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52927340.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34471458,
+        "name": "Fortune Lady Light",
+        "desc": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": -1,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 34471458,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34471458.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34471458.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34471458.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68663748,
+        "name": "Fortune's Future",
+        "desc": "Target 1 of your banished \"Fortune Lady\" monsters; return it to the GY, then draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 68663748,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68663748.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68663748.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68663748.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89208725,
+        "name": "Metaverse",
+        "desc": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 89208725,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89208725.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89208725.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89208725.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57835716,
+        "name": "Orcust Harp Horror",
+        "desc": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your Deck, except \"Orcust Harp Horror\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Harp Horror\" once per turn.",
+        "race": "Machine",
+        "atk": 1700,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 57835716,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57835716.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57835716.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57835716.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4055337,
+        "name": "Orcust Knightmare",
+        "desc": "Cannot be destroyed by battle with a Link Monster. You can banish this card from your GY, then target 1 face-up monster on the field; you cannot Special Summon monsters, except DARK monsters, for the rest of this turn, also send 1 DARK Machine monster from your Deck to the GY, except \"Orcust Knightmare\", and if you do, the targeted monster gains ATK equal to the Level of the monster sent to the GY x 100, until the end of this turn. You can only use this effect of \"Orcust Knightmare\" once per turn.",
+        "race": "Machine",
+        "atk": 100,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 4055337,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4055337.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4055337.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4055337.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37261776,
+        "name": "Salamangreat Violet Chimera",
+        "desc": "1 \"Salamangreat\" monster + 1 Link Monster\r\nIf this card is Fusion Summoned: You can make this card gain ATK equal to half the combined original ATK of the materials used to Summon it, until the end of this turn. Once per battle, during damage calculation, if this monster battles a monster whose current ATK is different from its original ATK (Quick Effect): You can double this card's ATK during damage calculation only. If this card that was Fusion Summoned using \"Salamangreat Violet Chimera\" as material battles a monster, that monster's ATK becomes 0 during damage calculation only.",
+        "race": "Cyberse",
+        "atk": 2800,
+        "def": 2000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 37261776,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37261776.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37261776.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37261776.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39581190,
+        "name": "Subterror Nemesis Archer",
+        "desc": "At the start of the Damage Step, if this card attacks an opponent's face-down Defense Position monster, and you control another \"Subterror\" monster: You can shuffle that opponent's monster into the Deck. If this card on the field is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 \"Subterror\" monster from your Deck in face-up or face-down Defense Position. You can only use each effect of \"Subterror Nemesis Archer\" once per turn.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 39581190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39581190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39581190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39581190.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 93854893,
+        "name": "Dingirsu, the Orcust of the Evening Star",
+        "desc": "2 Level 8 monsters\r\nYou can only Special Summon \"Dingirsu, the Orcust of the Evening Star(s)\" once per turn. You can also Xyz Summon this card by using an \"Orcust\" Link Monster you control as material. If a card(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. If this card is Special Summoned: You can activate 1 of these effects;\r\n● Send 1 card your opponent controls to the GY.\r\n● Attach 1 of your banished Machine monsters to this card as material.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 2100,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 93854893,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93854893.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93854893.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93854893.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35261759,
+        "name": "Pot of Desires",
+        "desc": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 35261759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35261759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35261759.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12421694,
+        "name": "Sky Striker Ace - Kaina",
+        "desc": "1 non-EARTH \"Sky Striker Ace\" monster\r\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a \"Sky Striker\" Spell Card, or its effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon \"Sky Striker Ace - Kaina(s)\" once per turn.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 12421694,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12421694.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12421694.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12421694.jpg"
           }
         ]
       }

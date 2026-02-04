@@ -1,135 +1,19 @@
 {
   "setName": "OTS Tournament Pack 6",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 93969023,
-        "name": "Black Metal Dragon",
-        "card_images": [
-          {
-            "id": 93969023,
-            "image_url": "https://images.ygoprodeck.com/images/cards/93969023.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93969023.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93969023.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52022648,
-        "name": "Fairy Tail - Rella",
-        "card_images": [
-          {
-            "id": 52022648,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52022648.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52022648.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52022648.jpg"
-          }
-        ]
-      },
-      {
-        "id": 3659803,
-        "name": "Overload Fusion",
-        "card_images": [
-          {
-            "id": 3659803,
-            "image_url": "https://images.ygoprodeck.com/images/cards/3659803.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3659803.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3659803.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98414735,
-        "name": "Paleozoic Canadia",
-        "card_images": [
-          {
-            "id": 98414735,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98414735.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98414735.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98414735.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2376209,
-        "name": "Paleozoic Eldonia",
-        "card_images": [
-          {
-            "id": 2376209,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2376209.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2376209.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2376209.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61420130,
-        "name": "Paleozoic Hallucigenia",
-        "card_images": [
-          {
-            "id": 61420130,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61420130.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61420130.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61420130.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4388680,
-        "name": "Revendread Slayer",
-        "card_images": [
-          {
-            "id": 4388680,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4388680.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4388680.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4388680.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73468603,
-        "name": "Set Rotation",
-        "card_images": [
-          {
-            "id": 73468603,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73468603.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73468603.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73468603.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98700941,
-        "name": "Trickstar Lilybell",
-        "card_images": [
-          {
-            "id": 98700941,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98700941.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98700941.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98700941.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14577226,
-        "name": "Windwitch - Winter Bell",
-        "card_images": [
-          {
-            "id": 14577226,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14577226.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14577226.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14577226.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 15951532,
         "name": "Amazoness Queen",
+        "desc": "\"Amazoness\" monsters you control cannot be destroyed by battle.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15951532,
@@ -142,6 +26,15 @@
       {
         "id": 77561728,
         "name": "Disturbance Strategy",
+        "desc": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77561728,
@@ -154,6 +47,15 @@
       {
         "id": 41620959,
         "name": "Dragon Shrine",
+        "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41620959,
@@ -166,6 +68,15 @@
       {
         "id": 38280762,
         "name": "Enishi, Shien's Chancellor",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 \"Six Samurai\" monsters from your GY. Once per turn: You can target 1 face-up monster; destroy that target. This card cannot attack the turn this effect is activated.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1200,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38280762,
@@ -178,6 +89,15 @@
       {
         "id": 91731841,
         "name": "Gem-Knight Garnet",
+        "desc": "The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.",
+        "race": "Pyro",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91731841,
@@ -190,6 +110,15 @@
       {
         "id": 3113836,
         "name": "Gem-Knight Seraphinite",
+        "desc": "1 \"Gem-Knight\" monster + 1 LIGHT monster\r\nMust first be Fusion Summoned with the above Fusion Materials. During your Main Phase, you can Normal Summon/Set 1 monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+        "race": "Fairy",
+        "atk": 2300,
+        "def": 1400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3113836,
@@ -202,6 +131,15 @@
       {
         "id": 52467217,
         "name": "Gozuki",
+        "desc": "During your Main Phase: You can send 1 Zombie monster from your Deck to the GY. If this card is sent to the GY: You can banish 1 Zombie monster from your GY, except \"Gozuki\"; Special Summon 1 Zombie monster from your hand. You can only use each effect of \"Gozuki\" once per turn.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52467217,
@@ -214,6 +152,15 @@
       {
         "id": 27407330,
         "name": "Lightray Grepher",
+        "desc": "You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher LIGHT monster. Once per turn: You can discard 1 LIGHT monster; banish 1 LIGHT monster from your Deck.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27407330,
@@ -226,6 +173,15 @@
       {
         "id": 64627453,
         "name": "Ojama Blue",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can add 2 \"Ojama\" cards from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 1000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64627453,
@@ -238,6 +194,15 @@
       {
         "id": 12958919,
         "name": "Phantom Skyblaster",
+        "desc": "When this card is Normal or Flip Summoned: You can Special Summon any number of \"Skyblaster Tokens\" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each \"Skyblaster\" monster you control. \"Skyblaster\" monsters you control cannot declare an attack during the turn you activate this effect.",
+        "race": "Fiend",
+        "atk": 1100,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 12958919,
@@ -250,6 +215,15 @@
       {
         "id": 35272499,
         "name": "Predaplant Ophrys Scorpio",
+        "desc": "If this card is Normal or Special Summoned: You can send 1 monster from your hand to the GY; Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Ophrys Scorpio\". You can only use this effect of \"Predaplant Ophrys Scorpio\" once per turn.",
+        "race": "Plant",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35272499,
@@ -262,6 +236,15 @@
       {
         "id": 81191584,
         "name": "Recurring Nightmare",
+        "desc": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81191584,
@@ -274,12 +257,304 @@
       {
         "id": 99423156,
         "name": "Shiranui Spiritmaster",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Shiranui\" monster from your hand or GY, except \"Shiranui Spiritmaster\", but banish it when it leaves the field. If this card is banished: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Shiranui Spiritmaster\" once per turn.",
+        "race": "Zombie",
+        "atk": 1500,
+        "def": 0,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99423156,
             "image_url": "https://images.ygoprodeck.com/images/cards/99423156.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99423156.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99423156.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 93969023,
+        "name": "Black Metal Dragon",
+        "desc": "You can target 1 \"Red-Eyes\" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 \"Red-Eyes\" card from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 600,
+        "def": 600,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 93969023,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93969023.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93969023.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93969023.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52022648,
+        "name": "Fairy Tail - Rella",
+        "desc": "Neither player can target monsters on the field with Spell Cards or effects, except this one. Once per turn: You can discard 1 Spell; equip 1 Equip Spell from your hand, Deck, or GY to this card, but return that Equip Spell to the hand during the End Phase.",
+        "race": "Spellcaster",
+        "atk": 1850,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 52022648,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52022648.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52022648.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52022648.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3659803,
+        "name": "Overload Fusion",
+        "desc": "Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 3659803,
+            "image_url": "https://images.ygoprodeck.com/images/cards/3659803.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3659803.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3659803.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98414735,
+        "name": "Paleozoic Canadia",
+        "desc": "Target 1 face-up monster your opponent controls; change it to face-down Defense Position. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 98414735,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98414735.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98414735.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98414735.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2376209,
+        "name": "Paleozoic Eldonia",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK/DEF until the end of this turn. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 2376209,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2376209.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2376209.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2376209.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61420130,
+        "name": "Paleozoic Hallucigenia",
+        "desc": "Target 1 face-up monster on the field; its ATK/DEF become half its current ATK/DEF until the end of this turn. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 61420130,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61420130.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61420130.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61420130.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4388680,
+        "name": "Revendread Slayer",
+        "desc": "You can Ritual Summon this card with any \"Vendread\" Ritual Spell. Once per battle, if this card battles an opponent's monster, during damage calculation (Quick Effect): You can banish 1 Zombie monster from your GY; this card gains 300 ATK. If this Ritual Summoned card is sent to the GY: You can add 1 Ritual Spell from your Deck to your hand, and if you do, send 1 \"Vendread\" monster from your Deck to the GY. You can only use this effect of \"Revendread Slayer\" once per turn.",
+        "race": "Zombie",
+        "atk": 2400,
+        "def": 0,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 4388680,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4388680.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4388680.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4388680.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73468603,
+        "name": "Set Rotation",
+        "desc": "Set 2 Field Spells with different names from your Deck on the field (1 on your field, and 1 on your opponent's field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spells.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 73468603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73468603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73468603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73468603.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98700941,
+        "name": "Trickstar Lilybell",
+        "desc": "If this card is added to your hand, except by drawing it: You can Special Summon it from your hand. You can only use this effect of \"Trickstar Lilybell\" once per turn. This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 \"Trickstar\" monster in your GY; add it to your hand.",
+        "race": "Fairy",
+        "atk": 800,
+        "def": 2000,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 98700941,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98700941.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98700941.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98700941.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14577226,
+        "name": "Windwitch - Winter Bell",
+        "desc": "1 Tuner + 1+ non-Tuner WIND monsters\nYou can target 1 \"Windwitch\" monster in your GY; inflict damage to your opponent equal to that target's Level x 200. During the Battle Phase (Quick Effect): You can target 1 \"Windwitch\" monster you control; Special Summon 1 monster from your hand with a Level less than or equal to that monster, but it cannot attack this turn. You can only use each effect of \"Windwitch - Winter Bell\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14577226,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14577226.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14577226.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14577226.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 7394770,
+        "name": "Brilliant Fusion",
+        "desc": "When this card is activated: Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, using monsters from your Deck as Fusion Material, but change its ATK/DEF to 0. If this card leaves the field, destroy that monster. Once per turn: You can discard 1 Spell; the monster Special Summoned by this card's effect gains ATK/DEF equal to its original ATK/DEF, until the end of your opponent's turn. You can only activate 1 \"Brilliant Fusion\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 7394770,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7394770.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7394770.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7394770.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1861630,
+        "name": "Decode Talker",
+        "desc": "2+ Effect Monsters\r\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+        "race": "Cyberse",
+        "atk": 2300,
+        "def": null,
+        "level": 0,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 1861630,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1861630.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1861630.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1861630.jpg"
+          },
+          {
+            "id": 1861629,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1861629.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1861629.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1861629.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74063034,
+        "name": "Invocation",
+        "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Material. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player's GY as Fusion Material. If this card is in your GY: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that card to your hand. You can only use this effect of \"Invocation\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 74063034,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74063034.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74063034.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74063034.jpg"
           }
         ]
       }

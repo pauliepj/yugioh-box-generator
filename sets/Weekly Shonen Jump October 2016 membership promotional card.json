@@ -1,11 +1,19 @@
 {
   "setName": "Weekly Shonen Jump October 2016 membership promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 89870349,
         "name": "Masked HERO Blast",
+        "desc": "Must be Special Summoned with \"Mask Change\". If this card is Special Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK. Once per turn (Quick Effect): You can pay 500 LP, then target 1 Spell/Trap your opponent controls; return it to the hand.",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1800,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89870349,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

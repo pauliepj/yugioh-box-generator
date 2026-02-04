@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2020 N",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 85696777,
         "name": "Harpie Conductor",
+        "desc": "2 WIND monsters\r\nThis card's name becomes \"Harpie Lady\" while on the field or in the GY. You can only use each of the following effects of \"Harpie Conductor\" once per turn.\r\n● If a \"Harpie\" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.\r\n● If another face-up \"Harpie\" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.",
+        "race": "Winged Beast",
+        "atk": 1900,
+        "def": null,
+        "level": null,
+        "attribute": "WIND",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 85696777,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

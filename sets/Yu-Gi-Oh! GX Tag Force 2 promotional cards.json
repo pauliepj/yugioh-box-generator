@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 4923662,
         "name": "Chaos Burst",
+        "desc": "When your opponent's monster declares an attack: Tribute 1 monster, then target the attacking monster; destroy that target, then inflict 1000 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 4923662,
@@ -19,6 +26,15 @@
       {
         "id": 77538567,
         "name": "Dark Bribe",
+        "desc": "When your opponent activates a Spell/Trap Card: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 77538567,
@@ -31,6 +47,15 @@
       {
         "id": 31034919,
         "name": "Mad Reloader",
+        "desc": "If this card is destroyed by battle and sent to the GY: Send 2 cards from your hand to the GY, and if you do, draw 2 cards.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 31034919,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

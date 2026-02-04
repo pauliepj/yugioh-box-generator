@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2025 C",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 76913983,
         "name": "Blackwing Armed Wing",
+        "desc": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.",
+        "race": "Winged Beast",
+        "atk": 2300,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 76913983,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

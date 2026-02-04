@@ -1,10 +1,28 @@
 {
   "setName": "Primal Origin Plus",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "starfoil rare": [
+      {
+        "id": 47741109,
+        "name": "Sylvan Snapdrassinagon",
+        "desc": "If this card is sent from the field or the hand to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck.",
+        "race": "Plant",
+        "atk": 900,
+        "def": 400,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Starfoil Rare",
+        "rarityCanonical": "starfoil rare",
+        "card_images": [
+          {
+            "id": 47741109,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47741109.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47741109.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47741109.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

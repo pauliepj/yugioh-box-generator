@@ -1,10 +1,49 @@
 {
   "setName": "Duel Terminal 5",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    "duel terminal normal parallel rare": [
+      {
+        "id": 52786469,
+        "name": "Laval Warrior",
+        "desc": "When this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to the original ATK of the destroyed monster. You must have 4 or more \"Laval\" monsters with different names in your Graveyard to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 500,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 52786469,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52786469.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52786469.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52786469.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13220032,
+        "name": "Vylon Charger",
+        "desc": "All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.",
+        "race": "Fairy",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Duel Terminal Normal Parallel Rare",
+        "rarityCanonical": "duel terminal normal parallel rare",
+        "card_images": [
+          {
+            "id": 13220032,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13220032.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13220032.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13220032.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

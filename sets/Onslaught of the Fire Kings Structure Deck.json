@@ -1,52 +1,19 @@
 {
   "setName": "Onslaught of the Fire Kings Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 23015896,
-        "name": "Fire King High Avatar Garunix",
-        "card_images": [
-          {
-            "id": 23015896,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23015896.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23015896.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23015896.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 59388357,
-        "name": "Circle of the Fire Kings",
-        "card_images": [
-          {
-            "id": 59388357,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59388357.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59388357.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59388357.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22993208,
-        "name": "Onslaught of the Fire Kings",
-        "card_images": [
-          {
-            "id": 22993208,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22993208.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22993208.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22993208.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 82705573,
         "name": "Backfire",
+        "desc": "If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 82705573,
@@ -59,6 +26,15 @@
       {
         "id": 98239899,
         "name": "Blast with Chain",
+        "desc": "Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK. If this card is destroyed by a card effect while equipped: Target 1 card on the field; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98239899,
@@ -71,6 +47,15 @@
       {
         "id": 69537999,
         "name": "Blaze Accelerator",
+        "desc": "You can target 1 monster your opponent controls; send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard, and if you do, destroy that target. You cannot declare an attack during the turn you activate this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69537999,
@@ -83,6 +68,15 @@
       {
         "id": 44947065,
         "name": "Burden of the Mighty",
+        "desc": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44947065,
@@ -95,6 +89,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -107,6 +110,15 @@
       {
         "id": 31036355,
         "name": "Creature Swap",
+        "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31036355,
@@ -119,6 +131,15 @@
       {
         "id": 69000994,
         "name": "Fire King Avatar Barong",
+        "desc": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 \"Fire King\" card from your Deck to your hand, except \"Fire King Avatar Barong\".",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69000994,
@@ -131,6 +152,15 @@
       {
         "id": 96594609,
         "name": "Fire King Avatar Kirin",
+        "desc": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can send 1 FIRE monster from your Deck to the Graveyard.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96594609,
@@ -143,6 +173,15 @@
       {
         "id": 66499018,
         "name": "Flame Tiger",
+        "desc": "During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.",
+        "race": "Beast",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66499018,
@@ -155,6 +194,15 @@
       {
         "id": 60718396,
         "name": "Flamvell Counter",
+        "desc": "When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your Graveyard; negate the activation, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60718396,
@@ -167,6 +215,15 @@
       {
         "id": 23297235,
         "name": "Flamvell Firedog",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
+        "race": "Beast",
+        "atk": 1900,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23297235,
@@ -179,6 +236,15 @@
       {
         "id": 28332833,
         "name": "Flamvell Poun",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.",
+        "race": "Pyro",
+        "atk": 200,
+        "def": 200,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28332833,
@@ -191,6 +257,15 @@
       {
         "id": 88753985,
         "name": "Fox Fire",
+        "desc": "During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn and was face-up at the start of the Damage Step: Special Summon this card from the Graveyard. This face-up card cannot be Tributed for a Tribute Summon.",
+        "race": "Pyro",
+        "atk": 300,
+        "def": 200,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88753985,
@@ -203,6 +278,15 @@
       {
         "id": 23116808,
         "name": "Goka, the Pyre of Malice",
+        "desc": "If you control a FIRE monster, you can Special Summon this card (from your hand). When you do: Target 1 FIRE monster you control; destroy that target. During each of your Standby Phases: Special Summon 1 \"Fireball Token\" (Pyro-Type/FIRE/Level 1/ATK 100/DEF 100) in Defense Position. You can Tribute 1 other FIRE monster; this card gains 500 ATK until the End Phase.",
+        "race": "Zombie",
+        "atk": 2200,
+        "def": 1900,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23116808,
@@ -215,6 +299,15 @@
       {
         "id": 74519184,
         "name": "Hand Destruction",
+        "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74519184,
@@ -227,6 +320,15 @@
       {
         "id": 31303283,
         "name": "Hazy Flame Hyppogrif",
+        "desc": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
+        "race": "Pyro",
+        "atk": 2100,
+        "def": 200,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31303283,
@@ -239,6 +341,15 @@
       {
         "id": 21350571,
         "name": "Horn of the Phantom Beast",
+        "desc": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21350571,
@@ -251,6 +362,15 @@
       {
         "id": 123709,
         "name": "Laval Lancelord",
+        "desc": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard. When this card on the field is destroyed and sent to the Graveyard: You can target 1 of your banished FIRE monsters; add that target to your hand.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 200,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 123709,
@@ -263,6 +383,15 @@
       {
         "id": 68658728,
         "name": "Little Chimera",
+        "desc": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
+        "race": "Beast",
+        "atk": 600,
+        "def": 550,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68658728,
@@ -275,6 +404,15 @@
       {
         "id": 77121851,
         "name": "Manticore of Darkness",
+        "desc": "During the End Phase of the turn this card was sent to the Graveyard: You can send to the Graveyard 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or your side of the field; Special Summon this card from your Graveyard.",
+        "race": "Beast-Warrior",
+        "atk": 2300,
+        "def": 1000,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77121851,
@@ -287,6 +425,15 @@
       {
         "id": 4732017,
         "name": "Molten Zombie",
+        "desc": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
+        "race": "Pyro",
+        "atk": 1600,
+        "def": 400,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4732017,
@@ -299,6 +446,15 @@
       {
         "id": 91554542,
         "name": "Neo Flamvell Sabre",
+        "desc": "While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.",
+        "race": "Pyro",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91554542,
@@ -311,6 +467,15 @@
       {
         "id": 54704216,
         "name": "Nightmare Wheel",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54704216,
@@ -323,6 +488,15 @@
       {
         "id": 63356631,
         "name": "Phoenix Wing Wind Blast",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63356631,
@@ -335,6 +509,15 @@
       {
         "id": 98645731,
         "name": "Pot of Duality",
+        "desc": "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98645731,
@@ -347,6 +530,15 @@
       {
         "id": 90810762,
         "name": "Raging Flame Sprite",
+        "desc": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: This card gains 1000 ATK.",
+        "race": "Pyro",
+        "atk": 100,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90810762,
@@ -359,6 +551,15 @@
       {
         "id": 79544790,
         "name": "Regretful Rebirth",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Target that monster; Special Summon it in face-up Defense Position, but it is destroyed during your End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79544790,
@@ -371,6 +572,15 @@
       {
         "id": 74845897,
         "name": "Rekindling",
+        "desc": "Special Summon from your GY as many FIRE monsters as possible with 200 DEF, but banish them during the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74845897,
@@ -383,6 +593,15 @@
       {
         "id": 54040221,
         "name": "Royal Firestorm Guards",
+        "desc": "If this card is Normal Summoned: Target 4 Pyro-Type monsters in your Graveyard; shuffle all 4 into the Deck, then draw 2 cards.",
+        "race": "Pyro",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54040221,
@@ -395,6 +614,15 @@
       {
         "id": 61441708,
         "name": "Sacred Phoenix of Nephthys",
+        "desc": "Once per turn, during your next Standby Phase after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
+        "race": "Winged Beast",
+        "atk": 2400,
+        "def": 1600,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61441708,
@@ -407,6 +635,15 @@
       {
         "id": 13522325,
         "name": "Spirit of Flames",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your Graveyard. This card gains 300 ATK during your Battle Phase only.",
+        "race": "Pyro",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13522325,
@@ -419,6 +656,15 @@
       {
         "id": 42945701,
         "name": "Spiritual Fire Art - Kurenai",
+        "desc": "Tribute 1 FIRE monster; inflict damage to your opponent equal to that monster's original ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 42945701,
@@ -431,6 +677,15 @@
       {
         "id": 60806437,
         "name": "UFO Turtle",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60806437,
@@ -443,6 +698,15 @@
       {
         "id": 66436257,
         "name": "Volcanic Counter",
+        "desc": "When you take battle damage while this card is in your Graveyard: Banish it from your Graveyard, then if there is a FIRE monster other than \"Volcanic Counter\" in your Graveyard, inflict damage to your opponent equal to the amount of battle damage you took.",
+        "race": "Pyro",
+        "atk": 300,
+        "def": 1300,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66436257,
@@ -455,6 +719,15 @@
       {
         "id": 76459806,
         "name": "Volcanic Rocket",
+        "desc": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+        "race": "Pyro",
+        "atk": 1900,
+        "def": 1400,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 76459806,
@@ -467,12 +740,88 @@
       {
         "id": 61166988,
         "name": "Wild Nature's Release",
+        "desc": "Target 1 Beast or Beast-Warrior-Type monster; it gains ATK equal to its current DEF until the End Phase. During the End Phase, destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61166988,
             "image_url": "https://images.ygoprodeck.com/images/cards/61166988.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61166988.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61166988.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 59388357,
+        "name": "Circle of the Fire Kings",
+        "desc": "Target 1 FIRE monster you control and 1 FIRE monster in your GY; destroy that monster you control, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Circle of the Fire Kings\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 59388357,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59388357.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59388357.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59388357.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22993208,
+        "name": "Onslaught of the Fire Kings",
+        "desc": "If your opponent controls a monster and you control no monsters: Special Summon 1 FIRE Beast, Beast-Warrior, or Winged Beast monster from your Deck. Its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Onslaught of the Fire Kings\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22993208,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22993208.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22993208.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22993208.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 23015896,
+        "name": "Fire King High Avatar Garunix",
+        "desc": "During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all other monsters on the field. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Fire King\" monster from your Deck, except \"Fire King High Avatar Garunix\".",
+        "race": "Winged Beast",
+        "atk": 2700,
+        "def": 1700,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 23015896,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23015896.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23015896.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23015896.jpg"
           }
         ]
       }

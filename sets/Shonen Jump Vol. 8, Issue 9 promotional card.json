@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 8, Issue 9 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 36521459,
         "name": "Malefic Stardust Dragon",
+        "desc": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 1 \"Stardust Dragon\" from your Extra Deck, and cannot be Special Summoned by other ways. There can only be 1 face-up \"Malefic\" monster on the field. Face-up Field Spell Cards cannot be destroyed by effects. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 36521459,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

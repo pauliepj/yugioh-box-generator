@@ -1,11 +1,19 @@
 {
   "setName": "Shining Victories Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 23220863,
         "name": "Magical Cavalry of Cxulub",
+        "desc": "This card is unaffected by monsters' activated effects, except Pendulum Monsters'.",
+        "race": "Dinosaur",
+        "atk": 1500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23220863,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

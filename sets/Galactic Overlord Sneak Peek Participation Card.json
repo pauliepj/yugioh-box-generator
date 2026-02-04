@@ -1,11 +1,19 @@
 {
   "setName": "Galactic Overlord Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 92125819,
         "name": "Noble Knight Artorigus",
+        "desc": "No one shall ever know the truth behind\nThat fateful day. Artorigus went forth\nTo where the brilliant sword didst lay.\n‘Twas the first of many feats so great,\nA legend through and through. We sing of him,\nArtorigus, the Noble and the brave.\n-From the Tales of the Noble Knights",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 92125819,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

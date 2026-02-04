@@ -1,14 +1,19 @@
 {
   "setName": "Speed Duel Demo Deck 2020",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 88819587,
         "name": "Baby Dragon",
+        "desc": "Much more than just a child, this dragon is gifted with untapped power.",
+        "race": "Dragon",
+        "atk": 1200,
+        "def": 700,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88819587,
@@ -21,6 +26,15 @@
       {
         "id": 89091579,
         "name": "Basic Insect",
+        "desc": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 700,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89091579,
@@ -33,6 +47,15 @@
       {
         "id": 5053103,
         "name": "Battle Ox",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5053103,
@@ -45,6 +68,15 @@
       {
         "id": 25880422,
         "name": "Block Attack",
+        "desc": "Target 1 face-up Attack Position monster your opponent controls; change that target to face-up Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25880422,
@@ -57,6 +89,15 @@
       {
         "id": 26376390,
         "name": "Copycat",
+        "desc": "If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 26376390,
@@ -69,6 +110,15 @@
       {
         "id": 99261403,
         "name": "Dark Rabbit",
+        "desc": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+        "race": "Beast",
+        "atk": 1100,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99261403,
@@ -81,6 +131,15 @@
       {
         "id": 66672569,
         "name": "Dragon Zombie",
+        "desc": "A dragon revived by sorcery. Its breath is highly corrosive.",
+        "race": "Zombie",
+        "atk": 1600,
+        "def": 0,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66672569,
@@ -93,6 +152,15 @@
       {
         "id": 41392891,
         "name": "Feral Imp",
+        "desc": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+        "race": "Fiend",
+        "atk": 1300,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41392891,
@@ -105,6 +173,15 @@
       {
         "id": 63695531,
         "name": "Gravekeeper's Spear Soldier",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 63695531,
@@ -117,6 +194,15 @@
       {
         "id": 90876561,
         "name": "Jack's Knight",
+        "desc": "A strong master swordsman. His loyalty is to justice, his duty to protect the weak.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90876561,
@@ -129,6 +215,15 @@
       {
         "id": 64271667,
         "name": "Meteor Dragon",
+        "desc": "This dragon appeared from the sky and crashed to the earth.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64271667,
@@ -141,6 +236,15 @@
       {
         "id": 300302021,
         "name": "Power Up!",
+        "desc": "Activate this Skill during your Main Phase.\r\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
+        "race": "Yami Yugi",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Skill Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 300302021,
@@ -153,6 +257,15 @@
       {
         "id": 25652259,
         "name": "Queen's Knight",
+        "desc": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25652259,
@@ -165,6 +278,15 @@
       {
         "id": 17814387,
         "name": "Reinforcements",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17814387,
@@ -177,6 +299,15 @@
       {
         "id": 34016756,
         "name": "Riryoku",
+        "desc": "Target 2 face-up monsters on the field; halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster. These effects last until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 34016756,
@@ -189,6 +320,15 @@
       {
         "id": 52097679,
         "name": "Shield & Sword",
+        "desc": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52097679,
@@ -201,6 +341,15 @@
       {
         "id": 98495314,
         "name": "Sword of Deep-Seated",
+        "desc": "The equipped monster gains 500 ATK/DEF. If this card is sent to your GY: Place it on top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98495314,
@@ -213,6 +362,15 @@
       {
         "id": 59383041,
         "name": "Toon Alligator",
+        "desc": "An alligator monster straight from the cartoons.",
+        "race": "Reptile",
+        "atk": 800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59383041,
@@ -225,6 +383,15 @@
       {
         "id": 94119974,
         "name": "Two-Headed King Rex",
+        "desc": "A powerful monster whose two heads attack as one.",
+        "race": "Dinosaur",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94119974,
@@ -237,6 +404,15 @@
       {
         "id": 59744639,
         "name": "Windstorm of Etaqua",
+        "desc": "Change the battle positions of all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59744639,
@@ -249,6 +425,15 @@
       {
         "id": 51534754,
         "name": "Yomi Ship",
+        "desc": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+        "race": "Aqua",
+        "atk": 800,
+        "def": 1400,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51534754,

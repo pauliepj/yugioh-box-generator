@@ -1,11 +1,19 @@
 {
   "setName": "Raging Tempest Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 22829942,
         "name": "Fusion Recycling Plant",
+        "desc": "Once per turn: You can discard 1 card; add 1 \"Polymerization\" from your Deck or GY to your hand. Once per turn, during the End Phase: You can target 1 monster in your GY that was used as a Fusion Material for a Fusion Summon this turn; add it to your hand.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 22829942,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

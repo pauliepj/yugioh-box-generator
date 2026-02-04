@@ -1,13 +1,19 @@
 {
   "setName": "World Championship 2010 Card Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 64428736,
         "name": "Alligator's Sword",
+        "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+        "race": "Beast",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 64428736,
@@ -20,6 +26,15 @@
       {
         "id": 3366982,
         "name": "Alligator's Sword Dragon",
+        "desc": "\"Baby Dragon\" + \"Alligator's Sword\"\nThis card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1500,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 3366982,
@@ -32,6 +47,15 @@
       {
         "id": 50933533,
         "name": "Ancient Gear Gadjiltron Dragon",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n● Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 50933533,
@@ -50,6 +74,15 @@
       {
         "id": 29436665,
         "name": "Dark Eradicator Warlock",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 29436665,
@@ -68,6 +101,15 @@
       {
         "id": 97973387,
         "name": "Droll Bird",
+        "desc": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+        "race": "Winged Beast",
+        "atk": 600,
+        "def": 500,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 97973387,
@@ -80,6 +122,15 @@
       {
         "id": 55737443,
         "name": "Exxod, Master of The Guard",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"sphinx\" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.",
+        "race": "Rock",
+        "atk": 0,
+        "def": 4000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 55737443,
@@ -98,6 +149,15 @@
       {
         "id": 69933858,
         "name": "Gilford the Legend",
+        "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 69933858,
@@ -116,6 +176,15 @@
       {
         "id": 55691901,
         "name": "Great Bill",
+        "desc": "Nothing escapes from this beast's massive mouth.",
+        "race": "Beast",
+        "atk": 1250,
+        "def": 1300,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 55691901,
@@ -128,6 +197,15 @@
       {
         "id": 19847532,
         "name": "Infernal Flame Emperor",
+        "desc": "This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.",
+        "race": "Pyro",
+        "atk": 2700,
+        "def": 1600,
+        "level": 9,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 19847532,
@@ -146,6 +224,15 @@
       {
         "id": 1929294,
         "name": "Key Mace",
+        "desc": "Enemies' hearts will melt at the sight of this small fairy's cuteness.",
+        "race": "Fairy",
+        "atk": 400,
+        "def": 300,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 1929294,
@@ -158,6 +245,15 @@
       {
         "id": 20541432,
         "name": "Key Mace #2",
+        "desc": "This fiend brings out the worst in everyone.",
+        "race": "Fiend",
+        "atk": 1050,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20541432,
@@ -170,6 +266,15 @@
       {
         "id": 84133008,
         "name": "Monster Eye",
+        "desc": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+        "race": "Fiend",
+        "atk": 250,
+        "def": 350,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 84133008,
@@ -182,6 +287,15 @@
       {
         "id": 58074572,
         "name": "Mooyan Curry",
+        "desc": "Choose 1 player; that player gains 200 Life Points.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58074572,
@@ -194,6 +308,15 @@
       {
         "id": 56713552,
         "name": "Obese Marmot of Nefariousness",
+        "desc": "An ill-mannered field varmint that will sink its teeth into anything.",
+        "race": "Beast",
+        "atk": 750,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 56713552,
@@ -206,6 +329,15 @@
       {
         "id": 10485110,
         "name": "Ocean Dragon Lord - Neo-Daedalus",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
+        "race": "Sea Serpent",
+        "atk": 2900,
+        "def": 1600,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10485110,
@@ -224,6 +356,15 @@
       {
         "id": 96561011,
         "name": "Red-Eyes Darkness Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes B. Dragon\" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 96561011,
@@ -242,6 +383,15 @@
       {
         "id": 14989021,
         "name": "Simorgh, Bird of Divinity",
+        "desc": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+        "race": "Winged Beast",
+        "atk": 2700,
+        "def": 1000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 14989021,
@@ -260,6 +410,15 @@
       {
         "id": 85520851,
         "name": "Super Conductor Tyranno",
+        "desc": "Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn this effect is activated.",
+        "race": "Dinosaur",
+        "atk": 3300,
+        "def": 1400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 85520851,
@@ -278,6 +437,15 @@
       {
         "id": 22056710,
         "name": "Vampire Genesis",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Vampire Lord\" you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 3000,
+        "def": 2100,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 22056710,
@@ -296,6 +464,15 @@
       {
         "id": 92391084,
         "name": "Wilmee",
+        "desc": "A rabid rabbit that shears through opposition with its sharp skewers.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 92391084,
@@ -306,6 +483,277 @@
         ]
       }
     ],
-    "common": []
+    "reprint": [
+      {
+        "id": 50933533,
+        "name": "Ancient Gear Gadjiltron Dragon",
+        "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\n● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \n● Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \n● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 50933533,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50933533.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50933533.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50933533.jpg"
+          },
+          {
+            "id": 50933533,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50933533.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50933533.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50933533.jpg"
+          }
+        ]
+      },
+      {
+        "id": 29436665,
+        "name": "Dark Eradicator Warlock",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 29436665,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29436665.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29436665.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29436665.jpg"
+          },
+          {
+            "id": 29436665,
+            "image_url": "https://images.ygoprodeck.com/images/cards/29436665.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29436665.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29436665.jpg"
+          }
+        ]
+      },
+      {
+        "id": 55737443,
+        "name": "Exxod, Master of The Guard",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"sphinx\" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.",
+        "race": "Rock",
+        "atk": 0,
+        "def": 4000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 55737443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55737443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55737443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55737443.jpg"
+          },
+          {
+            "id": 55737443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55737443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55737443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55737443.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69933858,
+        "name": "Gilford the Legend",
+        "desc": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 69933858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69933858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69933858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69933858.jpg"
+          },
+          {
+            "id": 69933858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69933858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69933858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69933858.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19847532,
+        "name": "Infernal Flame Emperor",
+        "desc": "This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.",
+        "race": "Pyro",
+        "atk": 2700,
+        "def": 1600,
+        "level": 9,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 19847532,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19847532.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19847532.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19847532.jpg"
+          },
+          {
+            "id": 19847532,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19847532.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19847532.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19847532.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10485110,
+        "name": "Ocean Dragon Lord - Neo-Daedalus",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
+        "race": "Sea Serpent",
+        "atk": 2900,
+        "def": 1600,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 10485110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10485110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10485110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10485110.jpg"
+          },
+          {
+            "id": 10485110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10485110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10485110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10485110.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96561011,
+        "name": "Red-Eyes Darkness Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes B. Dragon\" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 96561011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96561011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96561011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96561011.jpg"
+          },
+          {
+            "id": 96561011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96561011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96561011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96561011.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14989021,
+        "name": "Simorgh, Bird of Divinity",
+        "desc": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+        "race": "Winged Beast",
+        "atk": 2700,
+        "def": 1000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 14989021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14989021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14989021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14989021.jpg"
+          },
+          {
+            "id": 14989021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14989021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14989021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14989021.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85520851,
+        "name": "Super Conductor Tyranno",
+        "desc": "Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn this effect is activated.",
+        "race": "Dinosaur",
+        "atk": 3300,
+        "def": 1400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 85520851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85520851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85520851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85520851.jpg"
+          },
+          {
+            "id": 85520851,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85520851.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85520851.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85520851.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22056710,
+        "name": "Vampire Genesis",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Vampire Lord\" you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 3000,
+        "def": 2100,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 22056710,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22056710.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22056710.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22056710.jpg"
+          },
+          {
+            "id": 22056710,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22056710.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22056710.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22056710.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "setName": "San Diego Comic-Con promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 73915052,
         "name": "Sheep Token",
+        "desc": "This card can be used as a \"Sheep Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "race": "Beast",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Token",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73915052,

@@ -1,11 +1,19 @@
 {
   "setName": "McDonald's Promotional Cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 38999506,
         "name": "Cosmo Queen",
+        "desc": "Queen of the galaxies and mistress of the stars.",
+        "race": "Spellcaster",
+        "atk": 2900,
+        "def": 2450,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 38999506,
@@ -18,6 +26,15 @@
       {
         "id": 32012841,
         "name": "Millennium Shield",
+        "desc": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 3000,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 32012841,
@@ -34,10 +51,19 @@
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 45895206,
         "name": "Dark-Piercing Light",
+        "desc": "Flip all face-down monsters on your opponent's side of the field face-up.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 45895206,
@@ -50,6 +76,15 @@
       {
         "id": 67959180,
         "name": "Goddess of Whim",
+        "desc": "Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card's ATK during this turn. If you call it wrong, halve its ATK during this turn.",
+        "race": "Fairy",
+        "atk": 950,
+        "def": 700,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 67959180,
@@ -62,6 +97,15 @@
       {
         "id": 44073668,
         "name": "Takriminos",
+        "desc": "A member of a race of sea serpents that freely travels through the sea.",
+        "race": "Sea Serpent",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 44073668,
@@ -72,11 +116,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 68401546,
         "name": "Fairy's Gift",
+        "desc": "This flying monster is known for delivering happiness to all.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68401546,
@@ -89,6 +141,15 @@
       {
         "id": 5628232,
         "name": "Flying Penguin",
+        "desc": "A very rare penguin that takes to the air with ears shaped like wings.",
+        "race": "Aqua",
+        "atk": 1200,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5628232,
@@ -101,6 +162,15 @@
       {
         "id": 7562372,
         "name": "Megasonic Eye",
+        "desc": "Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7562372,
@@ -113,6 +183,15 @@
       {
         "id": 68638985,
         "name": "Slime Toad",
+        "desc": "A slime with the head of a frog, it attacks by croaking terribly.",
+        "race": "Aqua",
+        "atk": 700,
+        "def": 500,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68638985,
@@ -125,6 +204,15 @@
       {
         "id": 71068263,
         "name": "Stuffed Animal",
+        "desc": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71068263,
@@ -137,6 +225,15 @@
       {
         "id": 33734439,
         "name": "Three-Legged Zombies",
+        "desc": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
+        "race": "Zombie",
+        "atk": 1100,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33734439,
@@ -149,6 +246,15 @@
       {
         "id": 72929454,
         "name": "Turtle Bird",
+        "desc": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
+        "race": "Aqua",
+        "atk": 1900,
+        "def": 1700,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 72929454,
@@ -161,6 +267,15 @@
       {
         "id": 48649353,
         "name": "Ushi Oni",
+        "desc": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
+        "race": "Fiend",
+        "atk": 2150,
+        "def": 1950,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48649353,
@@ -173,6 +288,15 @@
       {
         "id": 70345785,
         "name": "Yamadron",
+        "desc": "This monster has three fire-breathing heads and can form a sea of blazing flames.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 1800,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70345785,
@@ -185,6 +309,15 @@
       {
         "id": 71280811,
         "name": "Yaranzo",
+        "desc": "A treasure box containing a monster that attacks any unwary bandit.",
+        "race": "Zombie",
+        "atk": 1300,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 71280811,

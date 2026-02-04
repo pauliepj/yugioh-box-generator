@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2007 Wave 2",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 60493189,
         "name": "Elemental HERO Plasma Vice",
+        "desc": "\"Elemental HERO Sparkman\" + \"Elemental HERO Bladedge\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. You can discard 1 card to target 1 Attack Position monster your opponent controls; destroy that target.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2300,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 60493189,
@@ -17,6 +26,15 @@
       {
         "id": 79856792,
         "name": "Rainbow Dragon",
+        "desc": "(This card is always treated as an \"Ultimate Crystal\" card.)\r\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all face-up \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 0,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 79856792,
@@ -29,6 +47,15 @@
       {
         "id": 32543380,
         "name": "Volcanic Doomfire",
+        "desc": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up \"Tri-Blaze Accelerator\" you control to the Graveyard. During your opponent's Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.",
+        "race": "Pyro",
+        "atk": 3000,
+        "def": 1800,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 32543380,
@@ -38,10 +65,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

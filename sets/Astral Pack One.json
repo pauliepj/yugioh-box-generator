@@ -1,135 +1,19 @@
 {
   "setName": "Astral Pack One",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 23297235,
-        "name": "Flamvell Firedog",
-        "card_images": [
-          {
-            "id": 23297235,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23297235.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23297235.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23297235.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4904812,
-        "name": "Genex Undine",
-        "card_images": [
-          {
-            "id": 4904812,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52105192,
-        "name": "Hidden Armory",
-        "card_images": [
-          {
-            "id": 52105192,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52105192.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52105192.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52105192.jpg"
-          }
-        ]
-      },
-      {
-        "id": 77901552,
-        "name": "Hieratic Dragon of Tefnuit",
-        "card_images": [
-          {
-            "id": 77901552,
-            "image_url": "https://images.ygoprodeck.com/images/cards/77901552.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77901552.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77901552.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21790410,
-        "name": "Inzektor Centipede",
-        "card_images": [
-          {
-            "id": 21790410,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21790410.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21790410.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21790410.jpg"
-          }
-        ]
-      },
-      {
-        "id": 1498130,
-        "name": "Kagemusha of the Six Samurai",
-        "card_images": [
-          {
-            "id": 1498130,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1498130.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1498130.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1498130.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21143940,
-        "name": "Mask Change",
-        "card_images": [
-          {
-            "id": 21143940,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21143940.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21143940.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21143940.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22123627,
-        "name": "Moray of Greed",
-        "card_images": [
-          {
-            "id": 22123627,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22123627.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22123627.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22123627.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73628505,
-        "name": "Terraforming",
-        "card_images": [
-          {
-            "id": 73628505,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73628505.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73628505.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33017655,
-        "name": "The Gates of Dark World",
-        "card_images": [
-          {
-            "id": 33017655,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33017655.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33017655.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33017655.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 37053871,
         "name": "Astral Barrier",
+        "desc": "If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 37053871,
@@ -142,6 +26,15 @@
       {
         "id": 78082039,
         "name": "Closed Forest",
+        "desc": "All Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard. Field Spell Cards cannot be activated. Field Spell Cards cannot be activated during the turn this card is destroyed.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78082039,
@@ -154,6 +47,15 @@
       {
         "id": 32393580,
         "name": "Cyber Shark",
+        "desc": "If you control a WATER monster, you can Normal Summon this card without Tributing.",
+        "race": "Fish",
+        "atk": 2100,
+        "def": 2000,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32393580,
@@ -166,6 +68,15 @@
       {
         "id": 64262809,
         "name": "Dragon Ice",
+        "desc": "When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand or Graveyard. There can only be 1 \"Dragon Ice\" on the field.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 2200,
+        "level": 5,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64262809,
@@ -178,6 +89,15 @@
       {
         "id": 41077745,
         "name": "Elemental HERO Ice Edge",
+        "desc": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 Set card in your opponent's Spell & Trap Card Zone; destroy that target. Once per turn, during your Main Phase 1: You can discard 1 card; this card can attack your opponent directly this turn.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 900,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41077745,
@@ -190,6 +110,15 @@
       {
         "id": 1781310,
         "name": "Fuh-Rin-Ka-Zan",
+        "desc": "When there are face-up WIND, WATER, FIRE and EARTH monster(s) on the field: Apply 1 of these effects.\n● Destroy all monsters your opponent controls.\n● Destroy all Spell and Trap Cards your opponent controls.\n● Discard 2 random cards from your opponent's hand.\n● Draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1781310,
@@ -202,6 +131,15 @@
       {
         "id": 22873798,
         "name": "Hyena",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Hyenas\" from your Deck.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22873798,
@@ -214,6 +152,15 @@
       {
         "id": 4215636,
         "name": "Shrine of Mist Valley",
+        "desc": "Once per turn, when a WIND monster(s) is destroyed by a card effect and sent to your Graveyard (except during the Damage Step): You can Special Summon 1 Level 3 or lower WIND monster from your hand or Deck. Its effects are negated.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4215636,
@@ -226,6 +173,15 @@
       {
         "id": 69112325,
         "name": "Spiritual Forest",
+        "desc": "Each turn, the first face-up Beast, Beast-Warrior, or Plant-Type monster you control that would be destroyed by battle, is not destroyed.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69112325,
@@ -238,6 +194,15 @@
       {
         "id": 18964575,
         "name": "Swift Scarecrow",
+        "desc": "When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18964575,
@@ -250,12 +215,321 @@
       {
         "id": 91781589,
         "name": "Thunder of Ruler",
+        "desc": "During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 91781589,
             "image_url": "https://images.ygoprodeck.com/images/cards/91781589.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/91781589.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/91781589.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 14943837,
+        "name": "Debris Dragon",
+        "desc": "When this card is Normal Summoned: You can target 1 monster with 500 or less ATK in your GY; Special Summon that target in Attack Position, but negate its effects. Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon monster. The other Synchro Material(s) cannot be Level 4.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 14943837,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14943837.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14943837.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14943837.jpg"
+          }
+        ]
+      },
+      {
+        "id": 65367484,
+        "name": "Photon Thrasher",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 0,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 65367484,
+            "image_url": "https://images.ygoprodeck.com/images/cards/65367484.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65367484.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65367484.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34853266,
+        "name": "Tsukuyomi",
+        "desc": "Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+        "race": "Spellcaster",
+        "atk": 1100,
+        "def": 1400,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Spirit Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 34853266,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34853266.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34853266.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34853266.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 23297235,
+        "name": "Flamvell Firedog",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
+        "race": "Beast",
+        "atk": 1900,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 23297235,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23297235.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23297235.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23297235.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4904812,
+        "name": "Genex Undine",
+        "desc": "When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 \"Genex Controller\" from your Deck to your hand.",
+        "race": "Aqua",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 4904812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4904812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4904812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4904812.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52105192,
+        "name": "Hidden Armory",
+        "desc": "Send the top card of your Deck to the GY; add 1 Equip Spell from your Deck or GY to your hand. You cannot Normal Summon/Set the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 52105192,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52105192.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52105192.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52105192.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77901552,
+        "name": "Hieratic Dragon of Tefnuit",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK/DEF 0.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 1400,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 77901552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77901552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77901552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77901552.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21790410,
+        "name": "Inzektor Centipede",
+        "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can add 1 \"Inzektor\" card from your Deck to your hand. While this card is equipped to a monster, that monster's Level is increased by 3.",
+        "race": "Insect",
+        "atk": 1600,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 21790410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21790410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21790410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21790410.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1498130,
+        "name": "Kagemusha of the Six Samurai",
+        "desc": "During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.",
+        "race": "Warrior",
+        "atk": 400,
+        "def": 1800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 1498130,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1498130.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1498130.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1498130.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21143940,
+        "name": "Mask Change",
+        "desc": "Target 1 \"HERO\" monster you control; send it to the GY, also, after that, if it left the field by this effect, Special Summon 1 \"Masked HERO\" monster from your Extra Deck with the same Attribute that the sent monster had when it was on the field (its original Attribute, if face-down).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 21143940,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21143940.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21143940.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21143940.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22123627,
+        "name": "Moray of Greed",
+        "desc": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22123627,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22123627.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22123627.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22123627.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73628505,
+        "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 73628505,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73628505.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73628505.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73628505.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33017655,
+        "name": "The Gates of Dark World",
+        "desc": "All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 33017655,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33017655.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33017655.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33017655.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 32751480,
+        "name": "Mystical Sand",
+        "desc": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
+        "race": "Rock",
+        "atk": 2100,
+        "def": 1700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 32751480,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32751480.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32751480.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32751480.jpg"
           }
         ]
       }

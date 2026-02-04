@@ -1,141 +1,19 @@
 {
   "setName": "OTS Tournament Pack 1",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 58921041,
-        "name": "Anti-Spell Fragrance",
-        "card_images": [
-          {
-            "id": 58921041,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58921041.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58921041.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58921041.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22638495,
-        "name": "Dinoster Power, the Mighty Dracoslayer",
-        "card_images": [
-          {
-            "id": 22638495,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22638495.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22638495.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22638495.jpg"
-          }
-        ]
-      },
-      {
-        "id": 94145022,
-        "name": "Droll & Lock Bird",
-        "card_images": [
-          {
-            "id": 94145022,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94145022.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94145022.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94145022.jpg"
-          },
-          {
-            "id": 94145021,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94145021.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94145021.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94145021.jpg"
-          }
-        ]
-      },
-      {
-        "id": 30459350,
-        "name": "Imperial Iron Wall",
-        "card_images": [
-          {
-            "id": 30459350,
-            "image_url": "https://images.ygoprodeck.com/images/cards/30459350.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30459350.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30459350.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89423971,
-        "name": "Infernoid Patrulea",
-        "card_images": [
-          {
-            "id": 89423971,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89423971.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89423971.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89423971.jpg"
-          }
-        ]
-      },
-      {
-        "id": 53724621,
-        "name": "Performapal Guitartle",
-        "card_images": [
-          {
-            "id": 53724621,
-            "image_url": "https://images.ygoprodeck.com/images/cards/53724621.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53724621.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53724621.jpg"
-          }
-        ]
-      },
-      {
-        "id": 73130445,
-        "name": "Performapal Lizardraw",
-        "card_images": [
-          {
-            "id": 73130445,
-            "image_url": "https://images.ygoprodeck.com/images/cards/73130445.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73130445.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73130445.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17330916,
-        "name": "Performapal Monkeyboard",
-        "card_images": [
-          {
-            "id": 17330916,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17330916.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17330916.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17330916.jpg"
-          }
-        ]
-      },
-      {
-        "id": 40318957,
-        "name": "Performapal Skullcrobat Joker",
-        "card_images": [
-          {
-            "id": 40318957,
-            "image_url": "https://images.ygoprodeck.com/images/cards/40318957.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40318957.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40318957.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14883228,
-        "name": "Typhoon",
-        "card_images": [
-          {
-            "id": 14883228,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14883228.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14883228.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14883228.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 76224717,
         "name": "Advance Zone",
+        "desc": "Once per turn, during the End Phase of any turn in which you Tribute Summoned a monster(s): You can apply these effects, in sequence, based on the number of monsters you Tributed for Tribute Summons this turn.\n● 1 or more: Destroy 1 Set card your opponent controls.\n● 2 or more: Draw 1 card.\n● 3 or more: Add 1 monster from your Graveyard to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 76224717,
@@ -148,6 +26,15 @@
       {
         "id": 1475311,
         "name": "Allure of Darkness",
+        "desc": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1475311,
@@ -160,6 +47,15 @@
       {
         "id": 58069384,
         "name": "Cyber Dragon Nova",
+        "desc": "2 Level 5 Machine monsters\r\nOnce per turn: You can detach 1 material from this card, then target 1 \"Cyber Dragon\" in your GY; Special Summon that target. Once per turn (Quick Effect): You can banish 1 \"Cyber Dragon\" from your hand or face-up from your Monster Zone; this card gains 2100 ATK until the end of this turn. If this card in your possession is sent to your GY by your opponent's card effect: You can Special Summon 1 Machine Fusion Monster from your Extra Deck.",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58069384,
@@ -172,6 +68,15 @@
       {
         "id": 80978111,
         "name": "Flying \"C\"",
+        "desc": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to the opponent's field in Defense Position. The controller of this card cannot Xyz Summon.",
+        "race": "Insect",
+        "atk": 700,
+        "def": 700,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80978111,
@@ -184,6 +89,15 @@
       {
         "id": 83746708,
         "name": "Mage Power",
+        "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83746708,
@@ -196,6 +110,15 @@
       {
         "id": 92826944,
         "name": "Mezuki",
+        "desc": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+        "race": "Zombie",
+        "atk": 1700,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92826944,
@@ -208,6 +131,15 @@
       {
         "id": 4779823,
         "name": "Michael, the Arch-Lightsworn",
+        "desc": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nOnce per turn: You can pay 1000 LP, then target 1 card on the field; banish that target. When this card is destroyed: You can target any number of other \"Lightsworn\" monsters in your Graveyard; shuffle them into the Deck, and if you do, you gain 300 LP for each returned card. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4779823,
@@ -220,6 +152,15 @@
       {
         "id": 43040603,
         "name": "Monster Gate",
+        "desc": "Tribute 1 monster; excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set. Special Summon it, also send the other excavated cards to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43040603,
@@ -232,6 +173,15 @@
       {
         "id": 19230408,
         "name": "Offerings to the Doomed",
+        "desc": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19230408,
@@ -250,6 +200,15 @@
       {
         "id": 61650133,
         "name": "Summoning Curse",
+        "desc": "If a monster(s) is Special Summoned: The current controller of that monster(s) banishes 1 card from their hand. Once per turn, during your End Phase, pay 500 LP or destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61650133,
@@ -262,12 +221,369 @@
       {
         "id": 79814787,
         "name": "The White Stone of Legend",
+        "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 300,
+        "def": 250,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79814787,
             "image_url": "https://images.ygoprodeck.com/images/cards/79814787.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79814787.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 58921041,
+        "name": "Anti-Spell Fragrance",
+        "desc": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 58921041,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58921041.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58921041.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58921041.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22638495,
+        "name": "Dinoster Power, the Mighty Dracoslayer",
+        "desc": "1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nMust first be Special Summoned (from your Extra Deck) by Tributing the above cards. (You do not use \"Polymerization\".) Pendulum Monster Cards in your Monster Zones and Pendulum Zones cannot be destroyed by battle or your opponent's card effects. Once per turn: You can Special Summon 1 \"Dracoslayer\" Pendulum Monster from your hand or Graveyard, but it cannot be used as a Fusion Material.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 2950,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22638495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22638495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22638495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22638495.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94145022,
+        "name": "Droll & Lock Bird",
+        "desc": "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 94145022,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94145022.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94145022.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94145022.jpg"
+          },
+          {
+            "id": 94145021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94145021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94145021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94145021.jpg"
+          }
+        ]
+      },
+      {
+        "id": 30459350,
+        "name": "Imperial Iron Wall",
+        "desc": "Neither player can banish cards.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 30459350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30459350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30459350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30459350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89423971,
+        "name": "Infernoid Patrulea",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Infernoid\" monster from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Spell/Trap Card on the field; destroy it. This card cannot attack the turn you activate this effect. Once per turn, during your opponent's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it (this is a Quick Effect).",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 89423971,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89423971.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89423971.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89423971.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53724621,
+        "name": "Performapal Guitartle",
+        "desc": "[ Pendulum Effect ] \nIf a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.",
+        "race": "Aqua",
+        "atk": 300,
+        "def": 400,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 53724621,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53724621.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53724621.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53724621.jpg"
+          }
+        ]
+      },
+      {
+        "id": 73130445,
+        "name": "Performapal Lizardraw",
+        "desc": "[ Pendulum Effect ] \nIf you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.\n\n[ Monster Effect ] \nIf another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of \"Performapal\" monsters you currently control. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+        "race": "Reptile",
+        "atk": 1200,
+        "def": 600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 73130445,
+            "image_url": "https://images.ygoprodeck.com/images/cards/73130445.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73130445.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73130445.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17330916,
+        "name": "Performapal Monkeyboard",
+        "desc": "[ Pendulum Effect ] \nUnless you have a \"Performapal\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. During your Main Phase, if this card was activated this turn: You can add 1 Level 4 or lower \"Performapal\" monster from your Deck to your hand. You can only use this effect of \"Performapal Monkeyboard\" once per turn.\n\n[ Monster Effect ] \nYou can discard this card; reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set).",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 2400,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 17330916,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17330916.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17330916.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17330916.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40318957,
+        "name": "Performapal Skullcrobat Joker",
+        "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 40318957,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40318957.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40318957.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40318957.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14883228,
+        "name": "Typhoon",
+        "desc": "Target 1 face-up Spell/Trap on the field; destroy it. If your opponent controls 2 or more Spells/Traps and you control no Spells/Traps, you can activate this card from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14883228,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14883228.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14883228.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14883228.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 55550921,
+        "name": "Battle Warrior",
+        "desc": "A warrior that fights with his bare hands!!!",
+        "race": "Warrior",
+        "atk": 700,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 55550921,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55550921.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55550921.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55550921.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32274490,
+        "name": "Skull Servant",
+        "desc": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
+        "race": "Zombie",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 32274490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32274490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32274490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32274490.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31339260,
+        "name": "Zombie Warrior",
+        "desc": "\"Skull Servant\" + \"Battle Warrior\"",
+        "race": "Zombie",
+        "atk": 1200,
+        "def": 900,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 31339260,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31339260.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31339260.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31339260.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 32296881,
+        "name": "Bountiful Artemis",
+        "desc": "Each time a Counter Trap Card is activated, immediately after it resolves, draw 1 card.",
+        "race": "Fairy",
+        "atk": 1600,
+        "def": 1700,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 32296881,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32296881.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32296881.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32296881.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58481572,
+        "name": "Masked HERO Dark Law",
+        "desc": "Must be Special Summoned by \"Mask Change\". Any card sent to your opponent's GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 58481572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58481572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58481572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58481572.jpg"
+          }
+        ]
+      },
+      {
+        "id": 47084486,
+        "name": "Vanity's Fiend",
+        "desc": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+        "race": "Fiend",
+        "atk": 2400,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 47084486,
+            "image_url": "https://images.ygoprodeck.com/images/cards/47084486.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47084486.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47084486.jpg"
           }
         ]
       }

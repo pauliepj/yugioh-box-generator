@@ -1,108 +1,945 @@
 {
   "setName": "Cosmo Blazer",
   "rarities": {
-    "secret": [
+    "common": [
       {
-        "id": 59834564,
-        "name": "Bonfire Colossus",
+        "id": 19596712,
+        "name": "Abyss-scale of Cetus",
+        "desc": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Trap effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 59834564,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59834564.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59834564.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59834564.jpg"
+            "id": 19596712,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19596712.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19596712.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19596712.jpg"
           }
         ]
       },
       {
-        "id": 95169481,
-        "name": "Diamond Dire Wolf",
+        "id": 79206750,
+        "name": "Abyss-scorn",
+        "desc": "Target 1 \"Mermail\" monster you control; it gains 1000 ATK until the End Phase. When this Set card is sent to the Graveyard: Target 1 monster your opponent controls; send that target to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 95169481,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95169481.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95169481.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95169481.jpg"
+            "id": 79206750,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79206750.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79206750.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79206750.jpg"
           }
         ]
       },
       {
-        "id": 11501629,
-        "name": "Kickfire",
+        "id": 82263578,
+        "name": "After the Storm",
+        "desc": "If there are no other cards on the field: Target 1 WATER or WIND monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 11501629,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11501629.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11501629.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11501629.jpg"
+            "id": 82263578,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82263578.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82263578.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82263578.jpg"
           }
         ]
       },
       {
-        "id": 37781520,
-        "name": "Mermail Abyssleed",
+        "id": 18988391,
+        "name": "Amarylease",
+        "desc": "During your Main Phase: You can banish this card from your Graveyard; you can Normal Summon 1 monster this turn for 1 less Tribute. You can only use the effect of \"Amarylease\" once per turn.",
+        "race": "Plant",
+        "atk": 100,
+        "def": 200,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 37781520,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37781520.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37781520.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37781520.jpg"
+            "id": 18988391,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18988391.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18988391.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18988391.jpg"
           }
         ]
       },
       {
-        "id": 85239662,
-        "name": "Mystical Fairy Elfuria",
+        "id": 82593786,
+        "name": "Bacon Saver",
+        "desc": "During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of \"Bacon Saver\" once per Duel.",
+        "race": "Zombie",
+        "atk": 700,
+        "def": 600,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 85239662,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85239662.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85239662.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85239662.jpg"
+            "id": 82593786,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82593786.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82593786.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82593786.jpg"
           }
         ]
       },
       {
-        "id": 59057152,
-        "name": "Noble Knight Medraut",
+        "id": 17475251,
+        "name": "Brotherhood of the Fire Fist - Hawk",
+        "desc": "If this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can Set 1 \"Fire Formation\" Spell Card directly from your Deck. While you control a \"Fire Formation\" Spell/Trap Card, all \"Fire Fist\" monsters you control gain 500 ATK and DEF.",
+        "race": "Beast-Warrior",
+        "atk": 200,
+        "def": 1500,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 59057152,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59057152.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59057152.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59057152.jpg"
+            "id": 17475251,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17475251.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17475251.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17475251.jpg"
           }
         ]
       },
       {
-        "id": 35842855,
-        "name": "Pyrorex the Elemental Lord",
+        "id": 44860890,
+        "name": "Brotherhood of the Fire Fist - Raven",
+        "desc": "If this card is sent from the field to the GY: You can Set 1 \"Fire Formation\" Spell directly from your Deck. \"Fire Formation\" Spells/Traps you control cannot be destroyed by your opponent's card effects.",
+        "race": "Beast-Warrior",
+        "atk": 200,
+        "def": 1800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 35842855,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35842855.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35842855.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35842855.jpg"
+            "id": 44860890,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44860890.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44860890.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44860890.jpg"
           }
         ]
       },
       {
-        "id": 56981417,
-        "name": "Spellbook of the Master",
+        "id": 46696593,
+        "name": "Crimson Sunbird",
+        "desc": "\"Faith Bird\" + \"Skull Red Bird\"",
+        "race": "Winged Beast",
+        "atk": 2300,
+        "def": 1800,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
-            "id": 56981417,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56981417.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56981417.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56981417.jpg"
+            "id": 46696593,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46696593.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46696593.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46696593.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44046281,
+        "name": "Dimension Gate",
+        "desc": "Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44046281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44046281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44046281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44046281.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19700943,
+        "name": "Dododo Bot",
+        "desc": "Cannot be Normal Summoned (but can be Normal Set). If this card attacks, it is unaffected by other card effects until the end of the Damage Step.",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1900,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19700943,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19700943.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19700943.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19700943.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17643265,
+        "name": "Double Shark",
+        "desc": "When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.",
+        "race": "Fish",
+        "atk": 1200,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17643265,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17643265.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17643265.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17643265.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70329348,
+        "name": "Fire Formation - Tenken",
+        "desc": "Activate only during Main Phase 1. When this card is activated: Target 1 Beast-Warrior-Type monster you control; during this phase, its effects are negated, also it is unaffected by the effects of cards other than this card. (This applies even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 70329348,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70329348.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70329348.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70329348.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57103969,
+        "name": "Fire Formation - Tenki",
+        "desc": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57103969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44920699,
+        "name": "Fire Formation - Tensen",
+        "desc": "When this card is activated: Target 1 Beast-Warrior-Type monster you control; it gains 700 ATK until the end of this turn. (This ATK gain remains even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44920699,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44920699.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44920699.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44920699.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10719350,
+        "name": "Fire Formation - Tensu",
+        "desc": "During your Main Phase, you can Normal Summon 1 Beast-Warrior monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior monsters you control gain 100 ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10719350,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10719350.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10719350.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10719350.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44682448,
+        "name": "Garbage Lord",
+        "desc": "You can Special Summon this card (from your hand) by paying 2000 Life Points. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 2400,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 44682448,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44682448.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44682448.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44682448.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18698739,
+        "name": "Garbage Ogre",
+        "desc": "You can send this card from your hand to the Graveyard; add 1 \"Garbage Lord\" from your Deck to your hand. You can only use the effect of \"Garbage Ogre\" once per turn.",
+        "race": "Fiend",
+        "atk": 800,
+        "def": 1300,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 18698739,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18698739.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18698739.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18698739.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56105047,
+        "name": "Gogogo Ghost",
+        "desc": "If this card is Special Summoned: You can target 1 \"Gogogo Golem\" in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of \"Gogogo Ghost\" once per turn.",
+        "race": "Zombie",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 56105047,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56105047.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56105047.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56105047.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38525760,
+        "name": "Hazy Flame Cerbereus",
+        "desc": "You can Normal Summon this card without Tributing, but its original ATK becomes 1000. Your opponent cannot target this card with card effects. When this card is destroyed and sent to the Graveyard: You can add 1 \"Hazy\" card from your Deck to your hand.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 200,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 38525760,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38525760.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38525760.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38525760.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74010769,
+        "name": "Hazy Flame Griffin",
+        "desc": "If your opponent controls a monster, and all the monsters (if any) on your side of the field and in your Graveyard are FIRE (and only FIRE), you can Special Summon this card (from your hand). Your opponent cannot target this card with card effects.",
+        "race": "Winged Beast",
+        "atk": 200,
+        "def": 2100,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 74010769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74010769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74010769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74010769.jpg"
+          }
+        ]
+      },
+      {
+        "id": 1409474,
+        "name": "Hazy Flame Sphynx",
+        "desc": "Your opponent cannot target this card with card effects. You can declare 1 card type (Monster, Spell, or Trap); send the top card of your Deck to the Graveyard, then if it was the declared card type, you can Special Summon 1 FIRE monster from your hand or Graveyard. You can only use this effect of \"Hazy Flame Sphynx\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1900,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 1409474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1409474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1409474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1409474.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43708041,
+        "name": "Hazy Glory",
+        "desc": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. You can send this face-up card from the field to the Graveyard to target 1 \"Hazy\" card in your Graveyard, except \"Hazy Glory\"; add that target to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 43708041,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43708041.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43708041.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43708041.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83108603,
+        "name": "Hazy Pillar",
+        "desc": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. Once per turn: You can target 1 face-up Xyz Monster you control; attach 1 \"Hazy Flame\" monster from your hand or your side of the field to that Xyz Monster as an Xyz Material.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 83108603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83108603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83108603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83108603.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56921677,
+        "name": "Heraldic Beast Basilisk",
+        "desc": "After damage calculation: Destroy any opponent's monster that battles this card.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 1400,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 56921677,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56921677.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56921677.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56921677.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82315772,
+        "name": "Heraldic Beast Eale",
+        "desc": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 82315772,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82315772.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82315772.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82315772.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45705025,
+        "name": "Heraldic Beast Unicorn",
+        "desc": "You can banish this card from your Graveyard to target 1 Psychic-Type Xyz Monster in your Graveyard; Special Summon it. Its effects are negated. You can only use the effect of \"Heraldic Beast Unicorn\" once per turn.",
+        "race": "Beast",
+        "atk": 1100,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 45705025,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45705025.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45705025.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45705025.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17536995,
+        "name": "Heraldry Change",
+        "desc": "When an opponent's monster declares an attack: Special Summon 1 \"Heraldic Beast\" monster from your hand, then end the Battle Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17536995,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17536995.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17536995.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17536995.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10365322,
+        "name": "Ignition Beast Volcannon",
+        "desc": "1 Machine-Type monster + 1 Pyro-Type monster\nWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.",
+        "race": "Machine",
+        "atk": 2300,
+        "def": 1600,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 10365322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10365322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10365322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10365322.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62953041,
+        "name": "Inari Fire",
+        "desc": "You can only control 1 \"Inari Fire\". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). Once per turn, during your next Standby Phase after this face-up card on the field was destroyed by a card effect and sent to the Graveyard: Special Summon it from your Graveyard.",
+        "race": "Pyro",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 62953041,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62953041.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62953041.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62953041.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5479217,
+        "name": "Jurrac Impact",
+        "desc": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 5479217,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5479217.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5479217.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5479217.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98225108,
+        "name": "Leotaur",
+        "desc": "If this card battles a non-Normal Monster, this card gains 500 ATK during the Damage Step only.",
+        "race": "Beast-Warrior",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 98225108,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98225108.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98225108.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98225108.jpg"
+          }
+        ]
+      },
+      {
+        "id": 19870120,
+        "name": "March of the Monarchs",
+        "desc": "Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from the Extra Deck.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 19870120,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19870120.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19870120.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19870120.jpg"
+          }
+        ]
+      },
+      {
+        "id": 282886,
+        "name": "Mermail Abyssnose",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.",
+        "race": "Fish",
+        "atk": 1500,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 282886,
+            "image_url": "https://images.ygoprodeck.com/images/cards/282886.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/282886.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/282886.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61231400,
+        "name": "Pyrotech Mech - Shiryu",
+        "desc": "You can Tribute Summon this card with 1 Tribute. If Summoned this way, during each End Phase: You take 1000 damage. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Pyro",
+        "atk": 2900,
+        "def": 1800,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 61231400,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61231400.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61231400.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61231400.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70655556,
+        "name": "Spear Shark",
+        "desc": "When this card is Normal Summoned: You can increase the Levels of all Level 3 Fish-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Fish",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 70655556,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70655556.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70655556.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70655556.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84117021,
+        "name": "Spell Wall",
+        "desc": "Activate 1 of these effects. Your opponent takes no further damage this turn.\n● During this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects.\n● Target 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 84117021,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84117021.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84117021.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84117021.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6691855,
+        "name": "Spikeshield with Chain",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 500 ATK. If the equipped monster attacks or is attacked while in Defense Position, it gains DEF equal to its ATK during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 6691855,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6691855.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6691855.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6691855.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82386016,
+        "name": "The Big Cattle Drive",
+        "desc": "If you control a Beast, Beast-Warrior, or Winged Beast-Type monster: Draw 1 card for each of those Monster Types you control. You cannot activate other Spell/Trap Cards or effects during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 82386016,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82386016.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82386016.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82386016.jpg"
+          }
+        ]
+      },
+      {
+        "id": 71541986,
+        "name": "Xyz Dimension Splash",
+        "desc": "If this Set card is banished: You can Special Summon 2 Level 8 WATER monsters from your Deck. Their effects are negated, also they cannot declare an attack or be Tributed.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 71541986,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71541986.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71541986.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71541986.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57836546,
+        "name": "Xyz Double Back",
+        "desc": "During the turn a face-up Xyz Monster you control was destroyed, if you control no monsters: Target 1 Xyz Monster in your Graveyard that was destroyed this turn and 1 monster in your Graveyard with ATK less than or equal to that Xyz Monster's; Special Summon these targets, but they are destroyed during the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57836546,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57836546.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57836546.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57836546.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43138260,
+        "name": "Xyz Remora",
+        "desc": "You can Special Summon this card (from your hand) by detaching 2 Xyz Materials from monster(s) you control. When you do: You can target 2 Level 4 Fish-Type monsters in your Graveyard; Special Summon those targets in face-up Defense Position. Their effects are negated, they cannot attack or change their battle positions, and cannot be used as Xyz Material for an Xyz Summon, except for the Xyz Summon of a WATER monster.",
+        "race": "Fish",
+        "atk": 800,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 43138260,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43138260.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43138260.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43138260.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32086564,
+        "name": "Xyz Tribalrivals",
+        "desc": "Face-up Xyz Monsters on the field with 2 or more Xyz Materials cannot be destroyed by card effects. After damage calculation, if an Xyz Monster you control battles an opponent's monster: Destroy that opponent's monster. That Xyz Monster must have 2 or more Xyz Materials attached to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 32086564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32086564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32086564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32086564.jpg"
+          }
+        ]
+      },
+      {
+        "id": 85446833,
+        "name": "Zerozerock",
+        "desc": "Your opponent cannot target face-up Attack Position monsters with 0 ATK for attacks.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 85446833,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85446833.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85446833.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85446833.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18865703,
+        "name": "ZW - Ultimate Shield",
+        "desc": "When this card is Normal or Special Summoned: You can target 1 of your banished Xyz Monsters; Special Summon that target in face-up Defense Position. You can target 1 \"Utopia\" monster you control; equip this monster on the field to that target. It gains 2000 DEF. You can only control 1 face-up \"ZW - Ultimate Shield\".",
+        "race": "Aqua",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 18865703,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18865703.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18865703.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18865703.jpg"
           }
         ]
       }
     ],
-    "ultra": [
+    "ultimate rare": [
       {
         "id": 21223277,
         "name": "Artorigus, King of the Noble Knights",
+        "desc": "2 Level 4 \"Noble Knight\" monsters\nWhen this card is Xyz Summoned: You can target up to 3 \"Noble Arms\" Equip Spell Cards with different names in your Graveyard; equip those targets to this card. Once per turn: You can detach 1 Xyz Material from this card; destroy any number of Spell/Trap Cards on the field, up to the number of \"Noble Arms\" Equip Spell Cards you control.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 21223277,
@@ -121,6 +958,15 @@
       {
         "id": 78474168,
         "name": "Breakthrough Skill",
+        "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 78474168,
@@ -139,6 +985,15 @@
       {
         "id": 6353603,
         "name": "Brotherhood of the Fire Fist - Bear",
+        "desc": "Once per turn, when this card inflicts battle damage to your opponent: You can Set 1 \"Fire Formation\" Spell directly from your Deck. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster on the field; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 6353603,
@@ -157,6 +1012,15 @@
       {
         "id": 96381979,
         "name": "Brotherhood of the Fire Fist - Tiger King",
+        "desc": "2 Level 4 Beast-Warrior monsters\r\nWhen this card is Xyz Summoned: You can Set 1 \"Fire Formation\" Spell/Trap directly from your Deck. Once per turn: You can detach 1 material from this card; negate the effects of all face-up Effect Monsters currently on the field, except Beast-Warriors, until the end of your opponent's turn. When this card is sent from the field to the GY: You can send 3 \"Fire Formation\" Spells/Traps you control to the GY; Special Summon 2 Level 4 or lower Beast-Warrior monsters with the same ATK from your Deck, in face-up Defense Position.",
+        "race": "Beast-Warrior",
+        "atk": 2200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 96381979,
@@ -175,6 +1039,15 @@
       {
         "id": 22653490,
         "name": "Lightning Chidori",
+        "desc": "2 Level 4 WIND monsters\nIf this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up card your opponent controls; return that target to the top of the Deck.",
+        "race": "Thunder",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 22653490,
@@ -193,6 +1066,15 @@
       {
         "id": 22446869,
         "name": "Mermail Abyssteus",
+        "desc": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+        "race": "Aqua",
+        "atk": 1700,
+        "def": 2400,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 22446869,
@@ -211,6 +1093,15 @@
       {
         "id": 23998625,
         "name": "Number 53: Heart-eartH",
+        "desc": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 100,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 23998625,
@@ -229,6 +1120,15 @@
       {
         "id": 97403510,
         "name": "Number 92: Heart-eartH Dragon",
+        "desc": "3 Level 9 monsters\nThis card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 97403510,
@@ -253,6 +1153,15 @@
       {
         "id": 45869829,
         "name": "Quick Booster",
+        "desc": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 45869829,
@@ -271,6 +1180,15 @@
       {
         "id": 60992364,
         "name": "ZW - Leo Arms",
+        "desc": "2 Level 5 monsters\nThis card cannot attack your opponent directly. Once per turn: You can detach 1 Xyz Material from this card; add 1 \"ZW -\" monster from your Deck to your hand. You can target 1 \"Utopia\" monster you control; equip this monster on the field to that target. It gains 3000 ATK. During your Battle Phase, if a monster attacked this turn while equipped with this card: You can send this Equip Card to the Graveyard; the monster that was equipped with this card can make a second attack, on an opponent's monster, during this Battle Phase.",
+        "race": "Beast",
+        "atk": 3000,
+        "def": 1200,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 60992364,
@@ -287,172 +1205,280 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
-        "id": 43748308,
-        "name": "Brotherhood of the Fire Fist - Dragon",
+        "id": 21223277,
+        "name": "Artorigus, King of the Noble Knights",
+        "desc": "2 Level 4 \"Noble Knight\" monsters\nWhen this card is Xyz Summoned: You can target up to 3 \"Noble Arms\" Equip Spell Cards with different names in your Graveyard; equip those targets to this card. Once per turn: You can detach 1 Xyz Material from this card; destroy any number of Spell/Trap Cards on the field, up to the number of \"Noble Arms\" Equip Spell Cards you control.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 43748308,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43748308.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43748308.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43748308.jpg"
+            "id": 21223277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21223277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21223277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21223277.jpg"
+          },
+          {
+            "id": 21223277,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21223277.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21223277.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21223277.jpg"
           }
         ]
       },
       {
-        "id": 74168099,
-        "name": "Brotherhood of the Fire Fist - Horse Prince",
+        "id": 78474168,
+        "name": "Breakthrough Skill",
+        "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 74168099,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74168099.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74168099.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74168099.jpg"
+            "id": 78474168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78474168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78474168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78474168.jpg"
+          },
+          {
+            "id": 78474168,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78474168.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78474168.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78474168.jpg"
           }
         ]
       },
       {
-        "id": 37057743,
-        "name": "Brotherhood of the Fire Fist - Lion Emperor",
+        "id": 6353603,
+        "name": "Brotherhood of the Fire Fist - Bear",
+        "desc": "Once per turn, when this card inflicts battle damage to your opponent: You can Set 1 \"Fire Formation\" Spell directly from your Deck. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 monster on the field; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 37057743,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37057743.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37057743.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37057743.jpg"
+            "id": 6353603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6353603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6353603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6353603.jpg"
+          },
+          {
+            "id": 6353603,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6353603.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6353603.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6353603.jpg"
           }
         ]
       },
       {
-        "id": 75132317,
-        "name": "Brotherhood of the Fire Fist - Snake",
+        "id": 96381979,
+        "name": "Brotherhood of the Fire Fist - Tiger King",
+        "desc": "2 Level 4 Beast-Warrior monsters\r\nWhen this card is Xyz Summoned: You can Set 1 \"Fire Formation\" Spell/Trap directly from your Deck. Once per turn: You can detach 1 material from this card; negate the effects of all face-up Effect Monsters currently on the field, except Beast-Warriors, until the end of your opponent's turn. When this card is sent from the field to the GY: You can send 3 \"Fire Formation\" Spells/Traps you control to the GY; Special Summon 2 Level 4 or lower Beast-Warrior monsters with the same ATK from your Deck, in face-up Defense Position.",
+        "race": "Beast-Warrior",
+        "atk": 2200,
+        "def": 1800,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 75132317,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75132317.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75132317.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75132317.jpg"
+            "id": 96381979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96381979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96381979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96381979.jpg"
+          },
+          {
+            "id": 96381979,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96381979.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96381979.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96381979.jpg"
           }
         ]
       },
       {
-        "id": 2521011,
-        "name": "Brotherhood of the Fire Fist - Swallow",
+        "id": 22653490,
+        "name": "Lightning Chidori",
+        "desc": "2 Level 4 WIND monsters\nIf this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up card your opponent controls; return that target to the top of the Deck.",
+        "race": "Thunder",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 2521011,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2521011.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2521011.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2521011.jpg"
+            "id": 22653490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22653490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22653490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22653490.jpg"
+          },
+          {
+            "id": 22653490,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22653490.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22653490.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22653490.jpg"
           }
         ]
       },
       {
-        "id": 63175639,
-        "name": "Fool of Prophecy",
+        "id": 22446869,
+        "name": "Mermail Abyssteus",
+        "desc": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+        "race": "Aqua",
+        "atk": 1700,
+        "def": 2400,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 63175639,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63175639.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63175639.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63175639.jpg"
+            "id": 22446869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22446869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22446869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22446869.jpg"
+          },
+          {
+            "id": 22446869,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22446869.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22446869.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22446869.jpg"
           }
         ]
       },
       {
-        "id": 44250812,
-        "name": "Gagaga Clerk",
+        "id": 23998625,
+        "name": "Number 53: Heart-eartH",
+        "desc": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
+        "race": "Fiend",
+        "atk": 100,
+        "def": 100,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 44250812,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44250812.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44250812.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44250812.jpg"
+            "id": 23998625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23998625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23998625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23998625.jpg"
+          },
+          {
+            "id": 23998625,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23998625.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23998625.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23998625.jpg"
           }
         ]
       },
       {
-        "id": 21831848,
-        "name": "Gagagadraw",
+        "id": 97403510,
+        "name": "Number 92: Heart-eartH Dragon",
+        "desc": "3 Level 9 monsters\nThis card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 21831848,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21831848.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21831848.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21831848.jpg"
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
+          },
+          {
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
+          },
+          {
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
           }
         ]
       },
       {
-        "id": 74298287,
-        "name": "Mermail Abyssdine",
+        "id": 45869829,
+        "name": "Quick Booster",
+        "desc": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 74298287,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74298287.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74298287.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74298287.jpg"
+            "id": 45869829,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45869829.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45869829.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45869829.jpg"
+          },
+          {
+            "id": 45869829,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45869829.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45869829.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45869829.jpg"
           }
         ]
       },
       {
-        "id": 59170782,
-        "name": "Mermail Abysstrite",
+        "id": 60992364,
+        "name": "ZW - Leo Arms",
+        "desc": "2 Level 5 monsters\nThis card cannot attack your opponent directly. Once per turn: You can detach 1 Xyz Material from this card; add 1 \"ZW -\" monster from your Deck to your hand. You can target 1 \"Utopia\" monster you control; equip this monster on the field to that target. It gains 3000 ATK. During your Battle Phase, if a monster attacked this turn while equipped with this card: You can send this Equip Card to the Graveyard; the monster that was equipped with this card can make a second attack, on an opponent's monster, during this Battle Phase.",
+        "race": "Beast",
+        "atk": 3000,
+        "def": 1200,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
-            "id": 59170782,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59170782.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59170782.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59170782.jpg"
-          }
-        ]
-      },
-      {
-        "id": 23562407,
-        "name": "Noble Arms - Caliburn",
-        "card_images": [
+            "id": 60992364,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60992364.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60992364.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60992364.jpg"
+          },
           {
-            "id": 23562407,
-            "image_url": "https://images.ygoprodeck.com/images/cards/23562407.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23562407.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23562407.jpg"
-          }
-        ]
-      },
-      {
-        "id": 71071546,
-        "name": "Orbital 7",
-        "card_images": [
-          {
-            "id": 71071546,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71071546.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71071546.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71071546.jpg"
-          }
-        ]
-      },
-      {
-        "id": 9560338,
-        "name": "Reaper of Prophecy",
-        "card_images": [
-          {
-            "id": 9560338,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9560338.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9560338.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9560338.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99348756,
-        "name": "Valkyrian Knight",
-        "card_images": [
-          {
-            "id": 99348756,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99348756.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99348756.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99348756.jpg"
+            "id": 60992364,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60992364.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60992364.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60992364.jpg"
           }
         ]
       }
@@ -461,6 +1487,15 @@
       {
         "id": 58131925,
         "name": "Blackwing - Damascus the Polar Night",
+        "desc": "During either player's turn: You can discard this card to target 1 \"Blackwing\" monster you control; it gains 500 ATK until the End Phase.",
+        "race": "Winged Beast",
+        "atk": 1300,
+        "def": 700,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58131925,
@@ -473,6 +1508,15 @@
       {
         "id": 28190303,
         "name": "Blackwing - Gladius the Midnight Sun",
+        "desc": "If the only face-up monster you control is 1 \"Blackwing\" monster other than \"Blackwing - Gladius the Midnight Sun\", you can Special Summon this card (from your hand). Once per turn, this card cannot be destroyed by battle.",
+        "race": "Winged Beast",
+        "atk": 800,
+        "def": 1500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 28190303,
@@ -485,6 +1529,15 @@
       {
         "id": 70355994,
         "name": "Brotherhood of the Fire Fist - Gorilla",
+        "desc": "Once per turn, when this card destroys an opponent's monster by battle and sends it to the GY: You can Set 1 \"Fire Formation\" Spell directly from your Deck. Once per turn: You can send 1 face-up \"Fire Formation\" Spell/Trap you control to the GY, then target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 70355994,
@@ -497,6 +1550,15 @@
       {
         "id": 1662004,
         "name": "Brotherhood of the Fire Fist - Spirit",
+        "desc": "Cannot be used as Synchro Material, except for the Synchro Summon of a Beast-Warrior monster. When this card is Normal Summoned: You can target 1 Level 3 FIRE monster with 200 or less DEF in your GY; Special Summon that target in Defense Position, and if you do, monsters you control cannot attack for the rest of this turn, except Beast-Warrior monsters. You can only use this effect of \"Brotherhood of the Fire Fist - Spirit\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 500,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Tuner Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 1662004,
@@ -509,6 +1571,15 @@
       {
         "id": 36569343,
         "name": "Brushfire Knight",
+        "desc": "When a FIRE monster is destroyed and sent to your Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. When this card is destroyed and sent to the Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. You can only use 1 \"Brushfire Knight\" effect per turn, and only once that turn.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 36569343,
@@ -521,6 +1592,15 @@
       {
         "id": 80321197,
         "name": "Crimson Blader",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nIf this card destroys an opponent's monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 80321197,
@@ -533,6 +1613,15 @@
       {
         "id": 23776077,
         "name": "Hazy Flame Basiltrice",
+        "desc": "2 or more (max. 5) Level 6 FIRE monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or is in their Graveyard; banish that target. This card gains effects based on the number of Xyz Materials attached to it.\n● 3 or more: This card gains 200 ATK and DEF for each Xyz Material attached to it.\n● 4 or more: This card cannot be targeted by your opponent's card effects.\n● 5: This card cannot be destroyed by card effects.",
+        "race": "Pyro",
+        "atk": 2500,
+        "def": 1800,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23776077,
@@ -545,6 +1634,15 @@
       {
         "id": 96051150,
         "name": "Hazy Flame Mantikor",
+        "desc": "Your opponent cannot target this card with card effects. Once per turn, during either player's turn: You can send 1 FIRE monster, except this card, from your hand or face-up from your side of the field to the Graveyard; this card cannot be destroyed by card effects this turn.",
+        "race": "Winged Beast",
+        "atk": 2200,
+        "def": 300,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 96051150,
@@ -557,6 +1655,15 @@
       {
         "id": 37803172,
         "name": "Hazy Flame Peryton",
+        "desc": "Cannot be Special Summoned, except by a \"Hazy Flame\" monster's effect. Your opponent cannot target this card with card effects. You can send 1 FIRE monster from your hand to the Graveyard and Tribute this card; Special Summon 2 \"Hazy Flame\" monsters from your Deck. You can only use this effect of \"Hazy Flame Peryton\" once per turn.",
+        "race": "Pyro",
+        "atk": 1600,
+        "def": 1700,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 37803172,
@@ -569,6 +1676,15 @@
       {
         "id": 82293134,
         "name": "Heraldic Beast Leo",
+        "desc": "During the End Phase of the turn this card was Normal Summoned: Destroy this card. When this card is sent to the Graveyard: Add 1 \"Heraldic Beast\" monster from your Deck to your hand, except \"Heraldic Beast Leo\". You can only use this effect of \"Heraldic Beast Leo\" once per turn.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 82293134,
@@ -581,6 +1697,15 @@
       {
         "id": 19310321,
         "name": "Heraldic Beast Twin-Headed Eagle",
+        "desc": "You can banish this card from your Graveyard to target 1 face-up Xyz Monster you control with no Xyz Materials and 2 \"Heraldic Beast\" monsters in your Graveyard; attach those monsters from the Graveyard to that face-up Xyz Monster, as Xyz Materials. You can only use the effect of \"Heraldic Beast Twin-Headed Eagle\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 1200,
+        "def": 1400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 19310321,
@@ -593,6 +1718,15 @@
       {
         "id": 84220251,
         "name": "Heraldry Reborn",
+        "desc": "Target 1 \"Heraldic Beast\" monster in your Graveyard; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 84220251,
@@ -605,6 +1739,15 @@
       {
         "id": 10532969,
         "name": "Hyper-Ancient Shark Megalodon",
+        "desc": "When this card inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy that target.",
+        "race": "Fish",
+        "atk": 2900,
+        "def": 1300,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10532969,
@@ -617,6 +1760,15 @@
       {
         "id": 58712976,
         "name": "Infernal Flame Vixen",
+        "desc": "2 Pyro-Type Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK until your opponent's End Phase. When this card with 2500 or more ATK is destroyed: Target 3 monsters in any Graveyard(s); banish those targets.",
+        "race": "Pyro",
+        "atk": 2200,
+        "def": 2000,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58712976,
@@ -629,6 +1781,15 @@
       {
         "id": 18724123,
         "name": "Infernity Archer",
+        "desc": "If you have no cards in your hand, this card can attack your opponent directly.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 1000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 18724123,
@@ -641,6 +1802,15 @@
       {
         "id": 18426196,
         "name": "Noble Knight Joan",
+        "desc": "If this card attacks, it loses 300 ATK during the Damage Step only. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can send 1 card from your hand to the Graveyard then target 1 Level 4 or lower Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 18426196,
@@ -653,6 +1823,15 @@
       {
         "id": 58058134,
         "name": "Slacker Magician",
+        "desc": "2 Level 1 monsters\nOnce per turn, this card cannot be destroyed by battle. During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.",
+        "race": "Spellcaster",
+        "atk": 200,
+        "def": 2100,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58058134,
@@ -665,6 +1844,15 @@
       {
         "id": 6713443,
         "name": "Ultimate Fire Formation - Seito",
+        "desc": "Banish 7 \"Fire Formation\" Spell/Trap Cards from your Graveyard; Special Summon as many \"Fire Fist\" monsters as possible from your Graveyard, then you can Set \"Fire Formation\" Spell/Trap Cards directly from your Deck, except \"Ultimate Fire Formation - Seito\", up to the number of monsters Special Summoned by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6713443,
@@ -677,6 +1865,15 @@
       {
         "id": 45082499,
         "name": "ZW - Lightning Blade",
+        "desc": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1200 ATK. While this card is equipped to a monster, face-up \"ZW -\" cards you control cannot be destroyed by your opponent's card effects. If a monster equipped with this card would be destroyed by a card effect, destroy this card instead. You can only control 1 face-up \"ZW - Lightning Blade\".",
+        "race": "Beast",
+        "atk": 1200,
+        "def": 2000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 45082499,
@@ -689,6 +1886,15 @@
       {
         "id": 81471108,
         "name": "ZW - Tornado Bringer",
+        "desc": "You can target 1 \"Utopia\" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1300 ATK. While this card is equipped to a monster, your opponent cannot target that monster with card effects. If a monster equipped with this card would be destroyed by battle, destroy this card instead. You can only control 1 face-up \"ZW - Tornado Bringer\".",
+        "race": "Dragon",
+        "atk": 1300,
+        "def": 1800,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 81471108,
@@ -699,532 +1905,589 @@
         ]
       }
     ],
-    "common": [
+    "secret rare": [
       {
-        "id": 19596712,
-        "name": "Abyss-scale of Cetus",
+        "id": 59834564,
+        "name": "Bonfire Colossus",
+        "desc": "If you control a FIRE monster, you can Special Summon this card (from your hand). When this card is Special Summoned: Target 2 FIRE monsters you control; destroy those targets.",
+        "race": "Beast-Warrior",
+        "atk": 2600,
+        "def": 2200,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 19596712,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19596712.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19596712.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19596712.jpg"
+            "id": 59834564,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59834564.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59834564.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59834564.jpg"
           }
         ]
       },
       {
-        "id": 79206750,
-        "name": "Abyss-scorn",
+        "id": 95169481,
+        "name": "Diamond Dire Wolf",
+        "desc": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 Beast, Beast-Warrior, or Winged Beast-Type monster you control and 1 other card on the field; destroy them.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 79206750,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79206750.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79206750.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79206750.jpg"
+            "id": 95169481,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95169481.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95169481.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95169481.jpg"
           }
         ]
       },
       {
-        "id": 82263578,
-        "name": "After the Storm",
+        "id": 11501629,
+        "name": "Kickfire",
+        "desc": "Once per turn, when a face-up FIRE monster(s) you control is destroyed by a card effect, place 1 counter on this card for each destroyed FIRE monster. During either player's Standby Phase: You can send this card to the Graveyard; inflict 1000 damage to your opponent for each counter on this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 82263578,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82263578.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82263578.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82263578.jpg"
+            "id": 11501629,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11501629.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11501629.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11501629.jpg"
           }
         ]
       },
       {
-        "id": 18988391,
-        "name": "Amarylease",
+        "id": 37781520,
+        "name": "Mermail Abyssleed",
+        "desc": "You can discard 3 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can target 1 \"Abyss-\" Spell/Trap in your GY; add that target to your hand. You can Tribute 1 other Attack Position \"Mermail\" monster; send 1 random card from your opponent's hand to the GY. You can only use this effect of \"Mermail Abyssleed\" once per turn.",
+        "race": "Sea Serpent",
+        "atk": 2700,
+        "def": 1000,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 18988391,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18988391.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18988391.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18988391.jpg"
+            "id": 37781520,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37781520.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37781520.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37781520.jpg"
           }
         ]
       },
       {
-        "id": 82593786,
-        "name": "Bacon Saver",
+        "id": 85239662,
+        "name": "Mystical Fairy Elfuria",
+        "desc": "Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next turn, neither player can Xyz Summon using monsters with a different Level from the revealed monster as Xyz Material.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 900,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 82593786,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82593786.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82593786.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82593786.jpg"
+            "id": 85239662,
+            "image_url": "https://images.ygoprodeck.com/images/cards/85239662.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85239662.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85239662.jpg"
           }
         ]
       },
       {
-        "id": 17475251,
-        "name": "Brotherhood of the Fire Fist - Hawk",
+        "id": 59057152,
+        "name": "Noble Knight Medraut",
+        "desc": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell, this card becomes an Effect Monster with this effect.\n● This card becomes DARK and its Level is increased by 1. Once per turn, if you control no other monsters: You can Special Summon 1 \"Noble Knight\" monster from your Deck in Defense Position, except \"Noble Knight Medraut\", and if you do, destroy 1 Equip Spell you control.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 17475251,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17475251.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17475251.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17475251.jpg"
+            "id": 59057152,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59057152.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59057152.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59057152.jpg"
           }
         ]
       },
       {
-        "id": 44860890,
-        "name": "Brotherhood of the Fire Fist - Raven",
+        "id": 35842855,
+        "name": "Pyrorex the Elemental Lord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 FIRE monsters in your GY. When this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, and if you do, both players take damage equal to half the original ATK of the destroyed monster. You can only use this effect of \"Pyrorex the Elemental Lord\" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.",
+        "race": "Dinosaur",
+        "atk": 2800,
+        "def": 2200,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 44860890,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44860890.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44860890.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44860890.jpg"
+            "id": 35842855,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35842855.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35842855.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35842855.jpg"
           }
         ]
       },
       {
-        "id": 46696593,
-        "name": "Crimson Sunbird",
+        "id": 56981417,
+        "name": "Spellbook of the Master",
+        "desc": "If you control a Spellcaster-Type monster: You can reveal 1 other \"Spellbook\" card in your hand, then target 1 \"Spellbook\" Normal Spell Card in your Graveyard, except \"Spellbook of the Master\"; this card's effect becomes that target's effect. You can only activate 1 \"Spellbook of the Master\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
-            "id": 46696593,
-            "image_url": "https://images.ygoprodeck.com/images/cards/46696593.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46696593.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46696593.jpg"
+            "id": 56981417,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56981417.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56981417.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56981417.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 43748308,
+        "name": "Brotherhood of the Fire Fist - Dragon",
+        "desc": "Once per turn, if you activate a \"Fire Formation\" Spell/Trap Card (except during the Damage Step): You can Set 1 \"Fire Formation\" Trap directly from your Deck. Once per turn: You can send 2 face-up \"Fire Formation\" Spells/Traps you control to the GY, then target 1 \"Fire Fist\" monster in your GY, except \"Brotherhood of the Fire Fist - Dragon\"; Special Summon that target.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 400,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 43748308,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43748308.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43748308.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43748308.jpg"
           }
         ]
       },
       {
-        "id": 44046281,
-        "name": "Dimension Gate",
+        "id": 74168099,
+        "name": "Brotherhood of the Fire Fist - Horse Prince",
+        "desc": "1 FIRE Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of the turn.",
+        "race": "Beast-Warrior",
+        "atk": 2200,
+        "def": 2200,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 44046281,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44046281.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44046281.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44046281.jpg"
+            "id": 74168099,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74168099.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74168099.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74168099.jpg"
           }
         ]
       },
       {
-        "id": 19700943,
-        "name": "Dododo Bot",
+        "id": 37057743,
+        "name": "Brotherhood of the Fire Fist - Lion Emperor",
+        "desc": "2 Level 3 FIRE monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 FIRE monster in your Graveyard; add that target to your hand, but you cannot Normal or Special Summon that monster, or a monster with the same name, for the rest of this turn.",
+        "race": "Beast-Warrior",
+        "atk": 2200,
+        "def": 200,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 19700943,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19700943.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19700943.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19700943.jpg"
+            "id": 37057743,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37057743.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37057743.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37057743.jpg"
           }
         ]
       },
       {
-        "id": 17643265,
-        "name": "Double Shark",
+        "id": 75132317,
+        "name": "Brotherhood of the Fire Fist - Snake",
+        "desc": "Once per turn, if a \"Fire Formation\" Spell/Trap Card(s) is sent to your Graveyard (except during the Damage Step): You can Set 1 \"Fire Formation\" Trap Card directly from your Deck. Once per turn, if you control no other monsters: You can send 2 face-up \"Fire Formation\" Spell/Trap Cards you control to the Graveyard; draw 1 card.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 17643265,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17643265.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17643265.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17643265.jpg"
+            "id": 75132317,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75132317.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75132317.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75132317.jpg"
           }
         ]
       },
       {
-        "id": 70329348,
-        "name": "Fire Formation - Tenken",
+        "id": 2521011,
+        "name": "Brotherhood of the Fire Fist - Swallow",
+        "desc": "You can Special Summon this card (from your hand) by sending 3 face-up \"Fire Formation\" Spell/Trap Cards you control to the Graveyard. When this card is Normal or Special Summoned: You can Set 1 \"Fire Formation\" Trap Card directly from your Deck. You can only use this effect of \"Brotherhood of the Fire Fist - Swallow\" once per turn. Face-up Beast-Warrior-Type monsters you control cannot be targeted by your opponent's card effects.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 800,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 70329348,
-            "image_url": "https://images.ygoprodeck.com/images/cards/70329348.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70329348.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70329348.jpg"
+            "id": 2521011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2521011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2521011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2521011.jpg"
           }
         ]
       },
       {
-        "id": 57103969,
-        "name": "Fire Formation - Tenki",
+        "id": 63175639,
+        "name": "Fool of Prophecy",
+        "desc": "Once per turn: You can send 1 \"Spellbook\" Spell Card from your Deck to the Graveyard. During the End Phase of the turn this card activated this effect: You can Tribute this card; Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck. You must have 5 or more \"Spellbook\" Spell Cards with different names in your Graveyard to activate and to resolve this effect.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 57103969,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57103969.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57103969.jpg"
+            "id": 63175639,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63175639.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63175639.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63175639.jpg"
           }
         ]
       },
       {
-        "id": 44920699,
-        "name": "Fire Formation - Tensen",
+        "id": 44250812,
+        "name": "Gagaga Clerk",
+        "desc": "If you control a \"Gagaga\" monster other than \"Gagaga Clerk\", you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 400,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 44920699,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44920699.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44920699.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44920699.jpg"
+            "id": 44250812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44250812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44250812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44250812.jpg"
           }
         ]
       },
       {
-        "id": 10719350,
-        "name": "Fire Formation - Tensu",
+        "id": 21831848,
+        "name": "Gagagadraw",
+        "desc": "Banish 3 \"Gagaga\" monsters from your Graveyard; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 10719350,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10719350.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10719350.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10719350.jpg"
+            "id": 21831848,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21831848.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21831848.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21831848.jpg"
           }
         ]
       },
       {
-        "id": 44682448,
-        "name": "Garbage Lord",
+        "id": 74298287,
+        "name": "Mermail Abyssdine",
+        "desc": "When this card is added from your Deck or Graveyard to your hand by a card effect: You can Special Summon this card from your hand. You must control a \"Mermail\" monster to activate and to resolve this effect. When this card is Special Summoned by the effect of a \"Mermail\" monster: You can target 1 Level 3 or lower \"Mermail\" monster in your Graveyard; Special Summon that target. You can only use 1 \"Mermail Abyssdine\" effect per turn, and only once that turn.",
+        "race": "Aqua",
+        "atk": 1000,
+        "def": 200,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 44682448,
-            "image_url": "https://images.ygoprodeck.com/images/cards/44682448.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44682448.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44682448.jpg"
+            "id": 74298287,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74298287.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74298287.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74298287.jpg"
           }
         ]
       },
       {
-        "id": 18698739,
-        "name": "Garbage Ogre",
+        "id": 59170782,
+        "name": "Mermail Abysstrite",
+        "desc": "3 Level 3 monsters\nDuring either player's turn, when your opponent targets exactly 1 face-up \"Mermail\" monster you control for an attack, or with a Spell/Trap effect that could have targeted this card (except during the Damage Step): You can detach 1 Xyz Material from this card; that attack/effect now targets this card. When this card is destroyed and sent to the Graveyard: You can target 1 \"Mermail\" monster in your Graveyard, except \"Mermail Abysstrite\"; Special Summon that target.",
+        "race": "Sea Serpent",
+        "atk": 1600,
+        "def": 2800,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 18698739,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18698739.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18698739.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18698739.jpg"
+            "id": 59170782,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59170782.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59170782.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59170782.jpg"
           }
         ]
       },
       {
-        "id": 56105047,
-        "name": "Gogogo Ghost",
+        "id": 23562407,
+        "name": "Noble Arms - Caliburn",
+        "desc": "You can only control 1 \"Noble Arms - Caliburn\". Equip only to a Warrior-Type monster. It gains 500 ATK. Once per turn: You can gain 500 LP. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Caliburn\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 56105047,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56105047.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56105047.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56105047.jpg"
+            "id": 23562407,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23562407.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23562407.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23562407.jpg"
           }
         ]
       },
       {
-        "id": 38525760,
-        "name": "Hazy Flame Cerbereus",
+        "id": 71071546,
+        "name": "Orbital 7",
+        "desc": "When this card is flipped face-up: Place 1 You Got It Boss! Counter on it. You can remove all You Got It Boss! Counters on this card; its ATK becomes 2000. After you change this card's ATK with this effect, it cannot attack your opponent directly for the rest of this turn, and is sent to the Graveyard during the End Phase. You can Tribute this card to target 1 \"Photon\" or \"Galaxy\" monster in your Graveyard; add that target to your hand.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 38525760,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38525760.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38525760.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38525760.jpg"
+            "id": 71071546,
+            "image_url": "https://images.ygoprodeck.com/images/cards/71071546.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71071546.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71071546.jpg"
           }
         ]
       },
       {
-        "id": 74010769,
-        "name": "Hazy Flame Griffin",
+        "id": 9560338,
+        "name": "Reaper of Prophecy",
+        "desc": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.\n● 3 or more: This card gains 600 ATK.\n● 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.\n● 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1600,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 74010769,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74010769.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74010769.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74010769.jpg"
+            "id": 9560338,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9560338.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9560338.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9560338.jpg"
           }
         ]
       },
       {
-        "id": 1409474,
-        "name": "Hazy Flame Sphynx",
+        "id": 99348756,
+        "name": "Valkyrian Knight",
+        "desc": "Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.",
+        "race": "Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
-            "id": 1409474,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1409474.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1409474.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1409474.jpg"
+            "id": 99348756,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99348756.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99348756.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99348756.jpg"
+          }
+        ]
+      }
+    ],
+    "short print": [
+      {
+        "id": 31863912,
+        "name": "Dice-nied",
+        "desc": "Each time your opponent Special Summons a monster(s): Roll a six-sided die, and return all of those Summoned monster(s) to the hand with a current Level that's the same as the result.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
+        "card_images": [
+          {
+            "id": 31863912,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31863912.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31863912.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31863912.jpg"
           }
         ]
       },
       {
-        "id": 43708041,
-        "name": "Hazy Glory",
+        "id": 18658572,
+        "name": "Goblin Circus",
+        "desc": "Once per turn, during your End Phase: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 43708041,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43708041.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43708041.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43708041.jpg"
+            "id": 18658572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18658572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18658572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18658572.jpg"
           }
         ]
       },
       {
-        "id": 83108603,
-        "name": "Hazy Pillar",
+        "id": 61019812,
+        "name": "Red Duston",
+        "desc": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller takes 500 damage. You can only control 1 face-up \"Red Duston\".",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 1000,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 83108603,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83108603.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83108603.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83108603.jpg"
+            "id": 61019812,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61019812.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61019812.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61019812.jpg"
           }
         ]
       },
       {
-        "id": 56921677,
-        "name": "Heraldic Beast Basilisk",
+        "id": 24610207,
+        "name": "Star Drawing",
+        "desc": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\r\n● If it is Xyz Summoned: Draw 1 card.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Short Print",
+        "rarityCanonical": "short print",
         "card_images": [
           {
-            "id": 56921677,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56921677.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56921677.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56921677.jpg"
+            "id": 24610207,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24610207.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24610207.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24610207.jpg"
           }
         ]
-      },
+      }
+    ],
+    "ghost rare": [
       {
-        "id": 82315772,
-        "name": "Heraldic Beast Eale",
+        "id": 97403510,
+        "name": "Number 92: Heart-eartH Dragon",
+        "desc": "3 Level 9 monsters\nThis card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ghost Rare",
+        "rarityCanonical": "ghost rare",
         "card_images": [
           {
-            "id": 82315772,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82315772.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82315772.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82315772.jpg"
-          }
-        ]
-      },
-      {
-        "id": 45705025,
-        "name": "Heraldic Beast Unicorn",
-        "card_images": [
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
+          },
           {
-            "id": 45705025,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45705025.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45705025.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45705025.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17536995,
-        "name": "Heraldry Change",
-        "card_images": [
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
+          },
           {
-            "id": 17536995,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17536995.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17536995.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17536995.jpg"
-          }
-        ]
-      },
-      {
-        "id": 10365322,
-        "name": "Ignition Beast Volcannon",
-        "card_images": [
-          {
-            "id": 10365322,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10365322.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10365322.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10365322.jpg"
-          }
-        ]
-      },
-      {
-        "id": 62953041,
-        "name": "Inari Fire",
-        "card_images": [
-          {
-            "id": 62953041,
-            "image_url": "https://images.ygoprodeck.com/images/cards/62953041.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62953041.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62953041.jpg"
-          }
-        ]
-      },
-      {
-        "id": 5479217,
-        "name": "Jurrac Impact",
-        "card_images": [
-          {
-            "id": 5479217,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5479217.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5479217.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5479217.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98225108,
-        "name": "Leotaur",
-        "card_images": [
-          {
-            "id": 98225108,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98225108.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98225108.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98225108.jpg"
-          }
-        ]
-      },
-      {
-        "id": 19870120,
-        "name": "March of the Monarchs",
-        "card_images": [
-          {
-            "id": 19870120,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19870120.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19870120.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19870120.jpg"
-          }
-        ]
-      },
-      {
-        "id": 282886,
-        "name": "Mermail Abyssnose",
-        "card_images": [
-          {
-            "id": 282886,
-            "image_url": "https://images.ygoprodeck.com/images/cards/282886.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/282886.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/282886.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61231400,
-        "name": "Pyrotech Mech - Shiryu",
-        "card_images": [
-          {
-            "id": 61231400,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61231400.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61231400.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61231400.jpg"
-          }
-        ]
-      },
-      {
-        "id": 70655556,
-        "name": "Spear Shark",
-        "card_images": [
-          {
-            "id": 70655556,
-            "image_url": "https://images.ygoprodeck.com/images/cards/70655556.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70655556.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70655556.jpg"
-          }
-        ]
-      },
-      {
-        "id": 84117021,
-        "name": "Spell Wall",
-        "card_images": [
-          {
-            "id": 84117021,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84117021.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84117021.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84117021.jpg"
-          }
-        ]
-      },
-      {
-        "id": 6691855,
-        "name": "Spikeshield with Chain",
-        "card_images": [
-          {
-            "id": 6691855,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6691855.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6691855.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6691855.jpg"
-          }
-        ]
-      },
-      {
-        "id": 82386016,
-        "name": "The Big Cattle Drive",
-        "card_images": [
-          {
-            "id": 82386016,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82386016.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82386016.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82386016.jpg"
-          }
-        ]
-      },
-      {
-        "id": 71541986,
-        "name": "Xyz Dimension Splash",
-        "card_images": [
-          {
-            "id": 71541986,
-            "image_url": "https://images.ygoprodeck.com/images/cards/71541986.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71541986.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71541986.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57836546,
-        "name": "Xyz Double Back",
-        "card_images": [
-          {
-            "id": 57836546,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57836546.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57836546.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57836546.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43138260,
-        "name": "Xyz Remora",
-        "card_images": [
-          {
-            "id": 43138260,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43138260.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43138260.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43138260.jpg"
-          }
-        ]
-      },
-      {
-        "id": 32086564,
-        "name": "Xyz Tribalrivals",
-        "card_images": [
-          {
-            "id": 32086564,
-            "image_url": "https://images.ygoprodeck.com/images/cards/32086564.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32086564.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32086564.jpg"
-          }
-        ]
-      },
-      {
-        "id": 85446833,
-        "name": "Zerozerock",
-        "card_images": [
-          {
-            "id": 85446833,
-            "image_url": "https://images.ygoprodeck.com/images/cards/85446833.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85446833.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85446833.jpg"
-          }
-        ]
-      },
-      {
-        "id": 18865703,
-        "name": "ZW - Ultimate Shield",
-        "card_images": [
-          {
-            "id": 18865703,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18865703.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18865703.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18865703.jpg"
+            "id": 97403510,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97403510.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97403510.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97403510.jpg"
           }
         ]
       }

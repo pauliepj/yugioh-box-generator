@@ -1,27 +1,19 @@
 {
   "setName": "Starter Deck 2006",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 59793705,
-        "name": "Elemental HERO Bladedge",
-        "card_images": [
-          {
-            "id": 59793705,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59793705.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59793705.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 65169794,
         "name": "Black Pendant",
+        "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 65169794,
@@ -34,6 +26,15 @@
       {
         "id": 87910978,
         "name": "Brain Control",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87910978,
@@ -46,6 +47,15 @@
       {
         "id": 44209392,
         "name": "Castle Walls",
+        "desc": "Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44209392,
@@ -58,6 +68,15 @@
       {
         "id": 51394546,
         "name": "Cemetary Bomb",
+        "desc": "Inflict 100 damage to your opponent for each card in their Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51394546,
@@ -70,6 +89,15 @@
       {
         "id": 94192409,
         "name": "Compulsory Evacuation Device",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94192409,
@@ -82,6 +110,15 @@
       {
         "id": 11321183,
         "name": "Dark Blade",
+        "desc": "They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11321183,
@@ -94,6 +131,15 @@
       {
         "id": 90928333,
         "name": "Dark Factory of Mass Production",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90928333,
@@ -106,6 +152,15 @@
       {
         "id": 60082869,
         "name": "Dust Tornado",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60082869,
@@ -118,6 +173,15 @@
       {
         "id": 21844576,
         "name": "Elemental HERO Avian",
+        "desc": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21844576,
@@ -136,6 +200,15 @@
       {
         "id": 58932616,
         "name": "Elemental HERO Burstinatrix",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58932616,
@@ -154,6 +227,15 @@
       {
         "id": 84327329,
         "name": "Elemental HERO Clayman",
+        "desc": "An Elemental HERO with a clay body built-to-last. He'll preserve his Elemental HERO colleagues at any cost.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84327329,
@@ -166,6 +248,15 @@
       {
         "id": 20721928,
         "name": "Elemental HERO Sparkman",
+        "desc": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20721928,
@@ -184,6 +275,15 @@
       {
         "id": 66788016,
         "name": "Fissure",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66788016,
@@ -196,6 +296,15 @@
       {
         "id": 56594520,
         "name": "Gaia Power",
+        "desc": "All EARTH monsters gain 500 ATK and lose 400 DEF.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56594520,
@@ -208,6 +317,15 @@
       {
         "id": 5818798,
         "name": "Gazelle the King of Mythical Beasts",
+        "desc": "This monster moves so fast that it looks like an illusion to mortal eyes.\n\n\n(This card is always treated as a \"Phantom Beast\" card.)",
+        "race": "Beast",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5818798,
@@ -220,6 +338,15 @@
       {
         "id": 19613556,
         "name": "Heavy Storm",
+        "desc": "Destroy all Spell and Trap Cards on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19613556,
@@ -232,6 +359,15 @@
       {
         "id": 83968380,
         "name": "Jar of Greed",
+        "desc": "Draw 1 card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83968380,
@@ -244,6 +380,15 @@
       {
         "id": 40640059,
         "name": "Kuriboh",
+        "desc": "During your opponent's turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40640059,
@@ -268,6 +413,15 @@
       {
         "id": 11091375,
         "name": "Luster Dragon",
+        "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11091375,
@@ -280,6 +434,15 @@
       {
         "id": 17658803,
         "name": "Luster Dragon #2",
+        "desc": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1400,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17658803,
@@ -292,6 +455,15 @@
       {
         "id": 62279055,
         "name": "Magic Cylinder",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62279055,
@@ -304,6 +476,15 @@
       {
         "id": 31560081,
         "name": "Magician of Faith",
+        "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+        "race": "Spellcaster",
+        "atk": 300,
+        "def": 400,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31560081,
@@ -316,6 +497,15 @@
       {
         "id": 15960641,
         "name": "Mirage Dragon",
+        "desc": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15960641,
@@ -328,6 +518,15 @@
       {
         "id": 74848038,
         "name": "Monster Reincarnation",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74848038,
@@ -340,6 +539,15 @@
       {
         "id": 19523799,
         "name": "Ookazi",
+        "desc": "Inflict 800 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19523799,
@@ -352,6 +560,15 @@
       {
         "id": 70828912,
         "name": "Premature Burial",
+        "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70828912,
@@ -364,6 +581,15 @@
       {
         "id": 51371017,
         "name": "Princess of Tsurugi",
+        "desc": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.",
+        "race": "Warrior",
+        "atk": 900,
+        "def": 700,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51371017,
@@ -376,6 +602,15 @@
       {
         "id": 31785398,
         "name": "Ready for Intercepting",
+        "desc": "Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31785398,
@@ -388,6 +623,15 @@
       {
         "id": 38199696,
         "name": "Red Medicine",
+        "desc": "Increase your Life Points by 500 points.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38199696,
@@ -400,6 +644,15 @@
       {
         "id": 17814387,
         "name": "Reinforcements",
+        "desc": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17814387,
@@ -412,6 +665,15 @@
       {
         "id": 56120475,
         "name": "Sakuretsu Armor",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56120475,
@@ -424,6 +686,15 @@
       {
         "id": 60694662,
         "name": "Skelengel",
+        "desc": "FLIP: Draw 1 card.",
+        "race": "Fairy",
+        "atk": 900,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60694662,
@@ -436,6 +707,15 @@
       {
         "id": 31553716,
         "name": "Spear Dragon",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31553716,
@@ -448,6 +728,15 @@
       {
         "id": 48659020,
         "name": "Spirit Caller",
+        "desc": "FLIP: You can Special Summon 1 Level 3 or lower Normal Monster from your Graveyard to your side of the field.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48659020,
@@ -460,6 +749,15 @@
       {
         "id": 38479725,
         "name": "The Trojan Horse",
+        "desc": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+        "race": "Beast",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38479725,
@@ -472,6 +770,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -484,6 +791,15 @@
       {
         "id": 79759861,
         "name": "Tribute to the Doomed",
+        "desc": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79759861,
@@ -496,6 +812,15 @@
       {
         "id": 75953262,
         "name": "Warrior Dai Grepher",
+        "desc": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75953262,
@@ -508,12 +833,44 @@
       {
         "id": 66073051,
         "name": "Warrior of Zera",
+        "desc": "A wandering warrior who seeks the sanctuary where he can gain the power of the Archlords. To escape the temptation of evil fiends, he fights solo day by day.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66073051,
             "image_url": "https://images.ygoprodeck.com/images/cards/66073051.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66073051.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66073051.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 59793705,
+        "name": "Elemental HERO Bladedge",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 59793705,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59793705.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59793705.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59793705.jpg"
           }
         ]
       }

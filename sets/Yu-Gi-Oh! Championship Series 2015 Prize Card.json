@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2015 Prize Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 30100551,
         "name": "Minerva, the Exalted Lightsworn",
+        "desc": "2 Level 4 monsters\r\nYou can detach 1 material from this card; send the top 3 cards of your Deck to the GY, then draw cards equal to the number of \"Lightsworn\" cards sent to the GY by this effect. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can send the top 3 cards of your Deck to the GY, then you can destroy cards on the field up to the number of \"Lightsworn\" cards sent to the GY by this effect. You can only use each effect of \"Minerva, the Exalted Lightsworn\" once per turn.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 30100551,
@@ -22,10 +30,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 30100551,
         "name": "Minerva, the Exalted Lightsworn",
+        "desc": "2 Level 4 monsters\r\nYou can detach 1 material from this card; send the top 3 cards of your Deck to the GY, then draw cards equal to the number of \"Lightsworn\" cards sent to the GY by this effect. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can send the top 3 cards of your Deck to the GY, then you can destroy cards on the field up to the number of \"Lightsworn\" cards sent to the GY by this effect. You can only use each effect of \"Minerva, the Exalted Lightsworn\" once per turn.",
+        "race": "Fairy",
+        "atk": 2000,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 30100551,
@@ -41,8 +58,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

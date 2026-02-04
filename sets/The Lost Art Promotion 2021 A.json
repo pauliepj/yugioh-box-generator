@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 A",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 56524813,
         "name": "Raging Eria",
+        "desc": "Once per turn, you can Tribute 1 WATER monster (except this card) to Special Summon 1 WATER monster from your hand. The monster Special Summoned by this effect is destroyed if \"Raging Eria\" is removed from your side of the field.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 1500,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 56524813,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

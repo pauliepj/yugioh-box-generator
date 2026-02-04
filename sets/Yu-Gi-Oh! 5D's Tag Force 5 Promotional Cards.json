@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 45037489,
         "name": "Chevalier de Fleur",
+        "desc": "\"Fleur Synchron\" + 1 or more non-Tuner monsters\nOnce during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.",
+        "race": "Warrior",
+        "atk": 2700,
+        "def": 2300,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 45037489,
@@ -24,6 +32,15 @@
       {
         "id": 19642774,
         "name": "Fleur Synchron",
+        "desc": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 200,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 19642774,
@@ -42,6 +59,15 @@
       {
         "id": 72022087,
         "name": "Liberty at Last!",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 72022087,
@@ -58,10 +84,19 @@
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 72022087,
         "name": "Liberty at Last!",
+        "desc": "When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 72022087,
@@ -77,8 +112,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

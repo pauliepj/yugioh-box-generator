@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2020 J",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 90238142,
         "name": "Harpie Channeler",
+        "desc": "You can discard 1 \"Harpie\" card; Special Summon 1 \"Harpie\" monster from your Deck in face-up Defense Position, except \"Harpie Channeler\". You can only use this effect of \"Harpie Channeler\" once per turn. While you control a Dragon-Type monster, this card's Level becomes 7. This card's name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 1300,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 90238142,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

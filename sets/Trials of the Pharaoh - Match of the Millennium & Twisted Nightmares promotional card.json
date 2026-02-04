@@ -1,11 +1,19 @@
 {
   "setName": "Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 77585513,
         "name": "Jinzo",
+        "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 77585513,
@@ -21,9 +29,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

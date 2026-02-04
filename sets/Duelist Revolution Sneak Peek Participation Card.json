@@ -1,11 +1,19 @@
 {
   "setName": "Duelist Revolution Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 45815891,
         "name": "Scrap Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 1800,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 45815891,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

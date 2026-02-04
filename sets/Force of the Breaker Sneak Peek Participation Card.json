@@ -1,12 +1,19 @@
 {
   "setName": "Force of the Breaker Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 76459806,
         "name": "Volcanic Rocket",
+        "desc": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+        "race": "Pyro",
+        "atk": 1900,
+        "def": 1400,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 76459806,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

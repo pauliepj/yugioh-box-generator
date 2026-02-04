@@ -1,12 +1,19 @@
 {
   "setName": "Light of Destruction Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 71799173,
         "name": "Guardian of Order",
+        "desc": "If you control 2 or more LIGHT monsters, you can Special Summon this card (from your hand). You can only control 1 \"Guardian of Order\".",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 1200,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 71799173,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

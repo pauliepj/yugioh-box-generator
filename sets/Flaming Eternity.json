@@ -1,85 +1,19 @@
 {
   "setName": "Flaming Eternity",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 87751584,
-        "name": "Gatling Dragon",
-        "card_images": [
-          {
-            "id": 87751584,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
-          },
-          {
-            "id": 87751584,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57046845,
-        "name": "Gearfried the Swordmaster",
-        "card_images": [
-          {
-            "id": 57046845,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
-          },
-          {
-            "id": 57046845,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61441708,
-        "name": "Sacred Phoenix of Nephthys",
-        "card_images": [
-          {
-            "id": 61441708,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
-          },
-          {
-            "id": 61441708,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
-          }
-        ]
-      },
-      {
-        "id": 74388798,
-        "name": "Silent Swordsman LV5",
-        "card_images": [
-          {
-            "id": 74388798,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
-          },
-          {
-            "id": 74388798,
-            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
+    "super rare": [
       {
         "id": 49140998,
         "name": "A Feather of the Phoenix",
+        "desc": "Discard 1 card, then target 1 card in your GY; return that target to the top of your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 49140998,
@@ -98,6 +32,15 @@
       {
         "id": 22996376,
         "name": "Behemoth the King of All Animals",
+        "desc": "This card can be Normal Summoned or Set with 1 Tribute. In that case, the original ATK of this card becomes 2000. When this card is Tribute Summoned, you can return from your Graveyard to the owner's hand a number of Beast-Type monsters equal to the number of Tributed monsters.",
+        "race": "Beast",
+        "atk": 2700,
+        "def": 1500,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 22996376,
@@ -116,6 +59,15 @@
       {
         "id": 21051146,
         "name": "Blast Magician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1700,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 21051146,
@@ -134,6 +86,15 @@
       {
         "id": 35027493,
         "name": "Deck Devastation Virus",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 35027493,
@@ -152,6 +113,15 @@
       {
         "id": 60229110,
         "name": "Granmarg the Rock Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+        "race": "Rock",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 60229110,
@@ -170,6 +140,15 @@
       {
         "id": 13756293,
         "name": "King Dragun",
+        "desc": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 13756293,
@@ -188,6 +167,15 @@
       {
         "id": 69162969,
         "name": "Lightning Vortex",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 69162969,
@@ -204,10 +192,46 @@
         ]
       }
     ],
-    "rare": [
+    "ultimate rare": [
+      {
+        "id": 49140998,
+        "name": "A Feather of the Phoenix",
+        "desc": "Discard 1 card, then target 1 card in your GY; return that target to the top of your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 49140998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49140998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49140998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49140998.jpg"
+          },
+          {
+            "id": 49140998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49140998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49140998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49140998.jpg"
+          }
+        ]
+      },
       {
         "id": 62633180,
         "name": "Assault on GHQ",
+        "desc": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 62633180,
@@ -220,12 +244,48 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/62633180.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62633180.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22996376,
+        "name": "Behemoth the King of All Animals",
+        "desc": "This card can be Normal Summoned or Set with 1 Tribute. In that case, the original ATK of this card becomes 2000. When this card is Tribute Summoned, you can return from your Graveyard to the owner's hand a number of Beast-Type monsters equal to the number of Tributed monsters.",
+        "race": "Beast",
+        "atk": 2700,
+        "def": 1500,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 22996376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22996376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22996376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22996376.jpg"
+          },
+          {
+            "id": 22996376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22996376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22996376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22996376.jpg"
           }
         ]
       },
       {
         "id": 59380081,
         "name": "Big-Tusked Mammoth",
+        "desc": "Monsters your opponent controls cannot attack the turn they are Summoned.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1000,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 59380081,
@@ -242,8 +302,44 @@
         ]
       },
       {
+        "id": 21051146,
+        "name": "Blast Magician",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. You can remove any number of Spell Counters from this card, then target 1 face-up monster on the field with ATK less than or equal to the number of counters you removed x 700; destroy that target.",
+        "race": "Spellcaster",
+        "atk": 1400,
+        "def": 1700,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 21051146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21051146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21051146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21051146.jpg"
+          },
+          {
+            "id": 21051146,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21051146.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21051146.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21051146.jpg"
+          }
+        ]
+      },
+      {
         "id": 40267580,
         "name": "Brain Jacker",
+        "desc": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+        "race": "Fiend",
+        "atk": 200,
+        "def": 900,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 40267580,
@@ -262,6 +358,15 @@
       {
         "id": 16956455,
         "name": "Chiron the Mage",
+        "desc": "Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 16956455,
@@ -280,6 +385,15 @@
       {
         "id": 37083210,
         "name": "Cross Counter",
+        "desc": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent's attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 37083210,
@@ -292,12 +406,48 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/37083210.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37083210.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37083210.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35027493,
+        "name": "Deck Devastation Virus",
+        "desc": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 35027493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35027493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35027493.jpg"
+          },
+          {
+            "id": 35027493,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35027493.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35027493.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35027493.jpg"
           }
         ]
       },
       {
         "id": 97806240,
         "name": "Forced Ceasefire",
+        "desc": "Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 97806240,
@@ -314,8 +464,152 @@
         ]
       },
       {
+        "id": 87751584,
+        "name": "Gatling Dragon",
+        "desc": "\"Barrel Dragon\" + \"Blowback Dragon\"\r\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 1200,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 87751584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
+          },
+          {
+            "id": 87751584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57046845,
+        "name": "Gearfried the Swordmaster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 57046845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
+          },
+          {
+            "id": 57046845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60229110,
+        "name": "Granmarg the Rock Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+        "race": "Rock",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 60229110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60229110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60229110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60229110.jpg"
+          },
+          {
+            "id": 60229110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60229110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60229110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60229110.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13756293,
+        "name": "King Dragun",
+        "desc": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 13756293,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13756293.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13756293.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13756293.jpg"
+          },
+          {
+            "id": 13756293,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13756293.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13756293.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13756293.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69162969,
+        "name": "Lightning Vortex",
+        "desc": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 69162969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69162969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69162969.jpg"
+          },
+          {
+            "id": 69162969,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69162969.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69162969.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69162969.jpg"
+          }
+        ]
+      },
+      {
         "id": 33767325,
         "name": "Meteor of Destruction",
+        "desc": "If your opponent's Life Points are higher than 3000: Inflict 1000 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 33767325,
@@ -334,6 +628,15 @@
       {
         "id": 967928,
         "name": "Penalty Game!",
+        "desc": "When your opponent has 4 cards in their hand: Activate 1 of these effects.\n● Your opponent cannot draw during their next Draw Phase.\n● Your opponent cannot activate Spell/Trap Cards this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 967928,
@@ -352,6 +655,15 @@
       {
         "id": 63356631,
         "name": "Phoenix Wing Wind Blast",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 63356631,
@@ -364,12 +676,48 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/63356631.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63356631.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61441708,
+        "name": "Sacred Phoenix of Nephthys",
+        "desc": "Once per turn, during your next Standby Phase after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
+        "race": "Winged Beast",
+        "atk": 2400,
+        "def": 1600,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 61441708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
+          },
+          {
+            "id": 61441708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
           }
         ]
       },
       {
         "id": 20939559,
         "name": "Shadowslayer",
+        "desc": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 20939559,
@@ -386,8 +734,44 @@
         ]
       },
       {
+        "id": 74388798,
+        "name": "Silent Swordsman LV5",
+        "desc": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 74388798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
+          },
+          {
+            "id": 74388798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
+          }
+        ]
+      },
+      {
         "id": 51481927,
         "name": "Spell Absorption",
+        "desc": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 51481927,
@@ -406,6 +790,15 @@
       {
         "id": 49328340,
         "name": "Spiral Spear Strike",
+        "desc": "If \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\", or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If \"Gaia the Dragon Champion\" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 49328340,
@@ -424,6 +817,15 @@
       {
         "id": 12923641,
         "name": "Swords of Concealing Light",
+        "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 12923641,
@@ -442,6 +844,15 @@
       {
         "id": 34830502,
         "name": "Ultimate Insect LV5",
+        "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+        "race": "Insect",
+        "atk": 2300,
+        "def": 900,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
         "card_images": [
           {
             "id": 34830502,
@@ -462,6 +873,15 @@
       {
         "id": 89718302,
         "name": "Abare Ushioni",
+        "desc": "Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.",
+        "race": "Beast-Warrior",
+        "atk": 1200,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89718302,
@@ -474,6 +894,15 @@
       {
         "id": 84430950,
         "name": "Armed Samurai - Ben Kei",
+        "desc": "For each Equip Card equipped to this card, it gains 1 additional attack during each Battle Phase.",
+        "race": "Warrior",
+        "atk": 500,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84430950,
@@ -486,6 +915,15 @@
       {
         "id": 35149085,
         "name": "Beast Soul Swap",
+        "desc": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35149085,
@@ -498,6 +936,15 @@
       {
         "id": 58268433,
         "name": "Blade Rabbit",
+        "desc": "When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.",
+        "race": "Beast",
+        "atk": 400,
+        "def": 300,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 58268433,
@@ -510,6 +957,15 @@
       {
         "id": 96501677,
         "name": "Catnipped Kitty",
+        "desc": "This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.",
+        "race": "Beast",
+        "atk": 0,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96501677,
@@ -522,6 +978,15 @@
       {
         "id": 1801154,
         "name": "Centrifugal Field",
+        "desc": "When a Fusion Monster(s) is destroyed by a card effect and sent to the Graveyard: Its owner targets 1 Fusion Material Monster in their Graveyard that is listed on that Fusion Monster; that player Special Summons that target.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1801154,
@@ -534,6 +999,15 @@
       {
         "id": 8508055,
         "name": "Chu-Ske the Mouse Fighter",
+        "desc": "A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.",
+        "race": "Beast",
+        "atk": 1200,
+        "def": 0,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8508055,
@@ -546,6 +1020,15 @@
       {
         "id": 8628798,
         "name": "D.D. Dynamite",
+        "desc": "Inflict 300 damage to your opponent for each of their removed from play cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8628798,
@@ -558,6 +1041,15 @@
       {
         "id": 62113340,
         "name": "Divine Dragon Ragnarok",
+        "desc": "A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.",
+        "race": "Dragon",
+        "atk": 1500,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62113340,
@@ -570,6 +1062,15 @@
       {
         "id": 23118924,
         "name": "Element Doom",
+        "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+        "race": "Fiend",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23118924,
@@ -582,6 +1083,15 @@
       {
         "id": 97623219,
         "name": "Element Valkyrie",
+        "desc": "(This card is not treated as a \"Valkyrie\" card.)\r\nThis monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\r\n● FIRE: This card gains 500 ATK.\r\n● WATER: Control of this card cannot switch.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97623219,
@@ -594,6 +1104,15 @@
       {
         "id": 61411502,
         "name": "Elemental Burst",
+        "desc": "Tribute 1 each of WIND, WATER, FIRE, and EARTH monsters to activate this card. Destroy all cards on your opponent's side of the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61411502,
@@ -606,6 +1125,15 @@
       {
         "id": 87473172,
         "name": "Firebird",
+        "desc": "Each time a Winged Beast-Type monster(s) on your side of the field is destroyed, this card gains 500 ATK.",
+        "race": "Winged Beast",
+        "atk": 1000,
+        "def": 800,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87473172,
@@ -618,6 +1146,15 @@
       {
         "id": 41089128,
         "name": "Flame Ruler",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a FIRE monster.",
+        "race": "Pyro",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41089128,
@@ -630,6 +1167,15 @@
       {
         "id": 48206762,
         "name": "Fulfillment of the Contract",
+        "desc": "Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48206762,
@@ -642,6 +1188,15 @@
       {
         "id": 52323207,
         "name": "Golem Sentry",
+        "desc": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; return that target to the hand.",
+        "race": "Rock",
+        "atk": 800,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52323207,
@@ -654,6 +1209,15 @@
       {
         "id": 9744376,
         "name": "Good Goblin Housekeeping",
+        "desc": "Draw cards equal to the number of \"Good Goblin Housekeeping\" cards in your Graveyard +1, then select 1 card from your hand and return it to the bottom of your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 9744376,
@@ -666,6 +1230,15 @@
       {
         "id": 98446407,
         "name": "Hand of Nephthys",
+        "desc": "You can Tribute this card and 1 other monster; Special Summon 1 \"Sacred Phoenix of Nephthys\" from your hand or Deck.",
+        "race": "Spellcaster",
+        "atk": 600,
+        "def": 600,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98446407,
@@ -678,6 +1251,15 @@
       {
         "id": 22873798,
         "name": "Hyena",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Hyenas\" from your Deck.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22873798,
@@ -690,6 +1272,15 @@
       {
         "id": 35052053,
         "name": "Insect Knight",
+        "desc": "Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.",
+        "race": "Insect",
+        "atk": 1900,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35052053,
@@ -702,6 +1293,15 @@
       {
         "id": 95789089,
         "name": "Kangaroo Champ",
+        "desc": "A monster that battles with this card is changed to Defense Position after damage calculation.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 700,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95789089,
@@ -714,6 +1314,15 @@
       {
         "id": 60102563,
         "name": "Maji-Gire Panda",
+        "desc": "Each time a Beast-Type monster(s) on the field is destroyed, this card gains 500 ATK.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 800,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60102563,
@@ -726,6 +1335,15 @@
       {
         "id": 94667532,
         "name": "Mecha-Dog Marron",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard, inflict 1000 damage to both players. When this card on the field is destroyed and sent to the Graveyard except by battle, inflict 1000 damage to your opponent.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94667532,
@@ -738,6 +1356,15 @@
       {
         "id": 76539047,
         "name": "Poison Fangs",
+        "desc": "Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 76539047,
@@ -750,6 +1377,15 @@
       {
         "id": 73578229,
         "name": "Pole Position",
+        "desc": "The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. When \"Pole Position\" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73578229,
@@ -762,6 +1398,15 @@
       {
         "id": 74694807,
         "name": "Re-Fusion",
+        "desc": "Activate this card by paying 800 LP, then target 1 Fusion Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74694807,
@@ -774,6 +1419,15 @@
       {
         "id": 75417459,
         "name": "Release Restraint",
+        "desc": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75417459,
@@ -786,6 +1440,15 @@
       {
         "id": 14878871,
         "name": "Rescue Cat",
+        "desc": "You can send this card to the GY; Special Summon 2 Level 3 or lower Beast monsters from your Deck, but their effects are negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.",
+        "race": "Beast",
+        "atk": 300,
+        "def": 100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14878871,
@@ -804,6 +1467,15 @@
       {
         "id": 36119641,
         "name": "Space Mambo",
+        "desc": "A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.",
+        "race": "Fish",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36119641,
@@ -816,6 +1488,15 @@
       {
         "id": 1689516,
         "name": "The Big March of Animals",
+        "desc": "Until the end of this turn, all face-up Beast-Type monsters on your side of the field gain 200 ATK for each Beast-Type monster on your side of the field.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1689516,
@@ -828,6 +1509,15 @@
       {
         "id": 52101615,
         "name": "The Dark - Hex-Sealed Fusion",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding DARK Fusion Monster from your Extra Deck.",
+        "race": "Rock",
+        "atk": 1000,
+        "def": 1600,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52101615,
@@ -840,6 +1530,15 @@
       {
         "id": 88696724,
         "name": "The Earth - Hex-Sealed Fusion",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding EARTH Fusion Monster from your Extra Deck.",
+        "race": "Rock",
+        "atk": 1000,
+        "def": 1600,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88696724,
@@ -852,6 +1551,15 @@
       {
         "id": 15717011,
         "name": "The Light - Hex-Sealed Fusion",
+        "desc": "You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding LIGHT Fusion Monster from your Extra Deck.",
+        "race": "Rock",
+        "atk": 1000,
+        "def": 1600,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15717011,
@@ -864,6 +1572,15 @@
       {
         "id": 36361633,
         "name": "Threatening Roar",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36361633,
@@ -876,12 +1593,511 @@
       {
         "id": 15090429,
         "name": "Whirlwind Prodigy",
+        "desc": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+        "race": "Fairy",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15090429,
             "image_url": "https://images.ygoprodeck.com/images/cards/15090429.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15090429.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15090429.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 62633180,
+        "name": "Assault on GHQ",
+        "desc": "Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 62633180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62633180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62633180.jpg"
+          },
+          {
+            "id": 62633180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62633180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62633180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62633180.jpg"
+          }
+        ]
+      },
+      {
+        "id": 59380081,
+        "name": "Big-Tusked Mammoth",
+        "desc": "Monsters your opponent controls cannot attack the turn they are Summoned.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1000,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 59380081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59380081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59380081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59380081.jpg"
+          },
+          {
+            "id": 59380081,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59380081.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59380081.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59380081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 40267580,
+        "name": "Brain Jacker",
+        "desc": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+        "race": "Fiend",
+        "atk": 200,
+        "def": 900,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 40267580,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40267580.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40267580.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40267580.jpg"
+          },
+          {
+            "id": 40267580,
+            "image_url": "https://images.ygoprodeck.com/images/cards/40267580.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40267580.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40267580.jpg"
+          }
+        ]
+      },
+      {
+        "id": 16956455,
+        "name": "Chiron the Mage",
+        "desc": "Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 16956455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16956455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16956455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16956455.jpg"
+          },
+          {
+            "id": 16956455,
+            "image_url": "https://images.ygoprodeck.com/images/cards/16956455.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16956455.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16956455.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37083210,
+        "name": "Cross Counter",
+        "desc": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent's attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 37083210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37083210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37083210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37083210.jpg"
+          },
+          {
+            "id": 37083210,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37083210.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37083210.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37083210.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97806240,
+        "name": "Forced Ceasefire",
+        "desc": "Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 97806240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97806240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97806240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97806240.jpg"
+          },
+          {
+            "id": 97806240,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97806240.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97806240.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97806240.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33767325,
+        "name": "Meteor of Destruction",
+        "desc": "If your opponent's Life Points are higher than 3000: Inflict 1000 damage to your opponent.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 33767325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33767325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33767325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33767325.jpg"
+          },
+          {
+            "id": 33767325,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33767325.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33767325.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33767325.jpg"
+          }
+        ]
+      },
+      {
+        "id": 967928,
+        "name": "Penalty Game!",
+        "desc": "When your opponent has 4 cards in their hand: Activate 1 of these effects.\n● Your opponent cannot draw during their next Draw Phase.\n● Your opponent cannot activate Spell/Trap Cards this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 967928,
+            "image_url": "https://images.ygoprodeck.com/images/cards/967928.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/967928.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/967928.jpg"
+          },
+          {
+            "id": 967928,
+            "image_url": "https://images.ygoprodeck.com/images/cards/967928.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/967928.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/967928.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63356631,
+        "name": "Phoenix Wing Wind Blast",
+        "desc": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 63356631,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63356631.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63356631.jpg"
+          },
+          {
+            "id": 63356631,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63356631.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63356631.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63356631.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20939559,
+        "name": "Shadowslayer",
+        "desc": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 20939559,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20939559.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20939559.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20939559.jpg"
+          },
+          {
+            "id": 20939559,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20939559.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20939559.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20939559.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51481927,
+        "name": "Spell Absorption",
+        "desc": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 51481927,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51481927.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51481927.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51481927.jpg"
+          },
+          {
+            "id": 51481927,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51481927.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51481927.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51481927.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49328340,
+        "name": "Spiral Spear Strike",
+        "desc": "If \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\", or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If \"Gaia the Dragon Champion\" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 49328340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49328340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49328340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49328340.jpg"
+          },
+          {
+            "id": 49328340,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49328340.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49328340.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49328340.jpg"
+          }
+        ]
+      },
+      {
+        "id": 12923641,
+        "name": "Swords of Concealing Light",
+        "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 12923641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12923641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12923641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12923641.jpg"
+          },
+          {
+            "id": 12923641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12923641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12923641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12923641.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34830502,
+        "name": "Ultimate Insect LV5",
+        "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+        "race": "Insect",
+        "atk": 2300,
+        "def": 900,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 34830502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34830502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34830502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34830502.jpg"
+          },
+          {
+            "id": 34830502,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34830502.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34830502.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34830502.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 87751584,
+        "name": "Gatling Dragon",
+        "desc": "\"Barrel Dragon\" + \"Blowback Dragon\"\r\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": 1200,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 87751584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
+          },
+          {
+            "id": 87751584,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87751584.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87751584.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87751584.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57046845,
+        "name": "Gearfried the Swordmaster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Release Restraint\". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 57046845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
+          },
+          {
+            "id": 57046845,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57046845.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57046845.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57046845.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61441708,
+        "name": "Sacred Phoenix of Nephthys",
+        "desc": "Once per turn, during your next Standby Phase after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.",
+        "race": "Winged Beast",
+        "atk": 2400,
+        "def": 1600,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 61441708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
+          },
+          {
+            "id": 61441708,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61441708.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61441708.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61441708.jpg"
+          }
+        ]
+      },
+      {
+        "id": 74388798,
+        "name": "Silent Swordsman LV5",
+        "desc": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 74388798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
+          },
+          {
+            "id": 74388798,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
           }
         ]
       }

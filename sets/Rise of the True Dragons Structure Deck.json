@@ -1,76 +1,19 @@
 {
   "setName": "Rise of the True Dragons Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 33282498,
-        "name": "Arkbrave Dragon",
-        "card_images": [
-          {
-            "id": 33282498,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33282498.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33282498.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33282498.jpg"
-          }
-        ]
-      },
-      {
-        "id": 60681103,
-        "name": "Divine Dragon Lord Felgrand",
-        "card_images": [
-          {
-            "id": 60681103,
-            "image_url": "https://images.ygoprodeck.com/images/cards/60681103.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60681103.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60681103.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 87835759,
-        "name": "Dragon Knight of Creation",
-        "card_images": [
-          {
-            "id": 87835759,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87835759.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87835759.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87835759.jpg"
-          }
-        ]
-      },
-      {
-        "id": 6853254,
-        "name": "Return of the Dragon Lords",
-        "card_images": [
-          {
-            "id": 6853254,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6853254.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6853254.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6853254.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69868555,
-        "name": "Ruins of the Divine Dragon Lords",
-        "card_images": [
-          {
-            "id": 69868555,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69868555.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69868555.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69868555.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 28596933,
         "name": "A Wingbeat of Giant Dragon",
+        "desc": "Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28596933,
@@ -83,6 +26,15 @@
       {
         "id": 29330706,
         "name": "Armed Protector Dragon",
+        "desc": "Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 29330706,
@@ -95,6 +47,15 @@
       {
         "id": 61901281,
         "name": "Black Dragon Collapserpent",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1700,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61901281,
@@ -107,6 +68,15 @@
       {
         "id": 78474168,
         "name": "Breakthrough Skill",
+        "desc": "Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78474168,
@@ -119,6 +89,15 @@
       {
         "id": 80163754,
         "name": "Burst Breath",
+        "desc": "Tribute 1 Dragon-Type monster; destroy all face-up monsters on the field whose DEF is less than or equal to the ATK the Tributed monster had on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80163754,
@@ -131,6 +110,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -143,6 +131,15 @@
       {
         "id": 85087012,
         "name": "Card Trooper",
+        "desc": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.",
+        "race": "Machine",
+        "atk": 400,
+        "def": 400,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85087012,
@@ -155,6 +152,15 @@
       {
         "id": 94886282,
         "name": "Charge of the Light Brigade",
+        "desc": "Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94886282,
@@ -167,6 +173,15 @@
       {
         "id": 39343610,
         "name": "Darkblaze Dragon",
+        "desc": "If this card is Special Summoned from the Graveyard: Its ATK and DEF become double its original ATK and DEF. If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK.",
+        "race": "Dragon",
+        "atk": 1200,
+        "def": 1000,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39343610,
@@ -179,6 +194,15 @@
       {
         "id": 57662975,
         "name": "Darkstorm Dragon",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can send 1 face-up Spell/Trap Card you control to the Graveyard; destroy all Spell and Trap Cards on the field.",
+        "race": "Dragon",
+        "atk": 2700,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57662975,
@@ -191,6 +215,15 @@
       {
         "id": 2732323,
         "name": "Decoy Dragon",
+        "desc": "If this card is targeted for an attack: Target 1 Level 7 or higher Dragon-Type monster in your Graveyard; Special Summon it, and if you do, change the attack target to it and perform damage calculation.",
+        "race": "Dragon",
+        "atk": 300,
+        "def": 200,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2732323,
@@ -203,6 +236,15 @@
       {
         "id": 62265044,
         "name": "Dragon Ravine",
+        "desc": "Once per turn: You can discard 1 card, then activate 1 of these effects;\r\n● Add 1 Level 4 or lower \"Dragunity\" monster from your Deck to your hand.\r\n● Send 1 Dragon monster from your Deck to the GY.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 62265044,
@@ -215,6 +257,15 @@
       {
         "id": 20638610,
         "name": "Dragon's Rebirth",
+        "desc": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20638610,
@@ -227,6 +278,15 @@
       {
         "id": 51858306,
         "name": "Eclipse Wyvern",
+        "desc": "If this card is sent to the Graveyard: Banish 1 Level 7 or higher LIGHT or DARK Dragon-Type monster from your Deck. If this card is banished from your Graveyard: You can add the monster banished by this card's effect to your hand.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51858306,
@@ -239,6 +299,15 @@
       {
         "id": 44178886,
         "name": "Ehren, Lightsworn Monk",
+        "desc": "If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44178886,
@@ -251,6 +320,15 @@
       {
         "id": 3536537,
         "name": "Evilswarm Zahak",
+        "desc": "If this face-up card you control is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Target 1 Special Summoned Level 5 or higher monster on the field; destroy that target.",
+        "race": "Dragon",
+        "atk": 1850,
+        "def": 850,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3536537,
@@ -263,6 +341,15 @@
       {
         "id": 3954901,
         "name": "Felgrand Dragon",
+        "desc": "Cannot be Special Summoned except from the Graveyard, and only if it was sent there from the field. If this card is Special Summoned: Target 1 monster in your Graveyard; this card gains ATK equal to that monster's Level x 200.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3954901,
@@ -275,6 +362,15 @@
       {
         "id": 81439174,
         "name": "Foolish Burial",
+        "desc": "Send 1 monster from your Deck to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81439174,
@@ -293,6 +389,15 @@
       {
         "id": 33460840,
         "name": "Guardian of Felgrand",
+        "desc": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon-Type monster from your hand or Graveyard to this card. This card gains ATK and DEF equal to half the ATK and DEF of the monster equipped to it by this effect. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; Special Summon it.",
+        "race": "Warrior",
+        "atk": 500,
+        "def": 500,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 33460840,
@@ -305,6 +410,15 @@
       {
         "id": 74519184,
         "name": "Hand Destruction",
+        "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74519184,
@@ -317,6 +431,15 @@
       {
         "id": 66337215,
         "name": "Herald of Creation",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66337215,
@@ -329,6 +452,15 @@
       {
         "id": 96235275,
         "name": "Jain, Lightsworn Paladin",
+        "desc": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the Graveyard.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96235275,
@@ -341,6 +473,15 @@
       {
         "id": 66752837,
         "name": "Keeper of the Shrine",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. While this card is in your hand or GY, if a face-up Dragon monster on the field, except \"Keeper of the Shrine\", is sent to the GY by a card effect or because it was destroyed by battle: You can Special Summon this card, then, if that monster sent to the GY is a Normal Monster, you can add 1 Dragon Normal Monster from your GY to your hand. You can only use this effect of \"Keeper of the Shrine\" once per turn.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66752837,
@@ -353,6 +494,15 @@
       {
         "id": 35629124,
         "name": "Kidmodo Dragon",
+        "desc": "If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of \"Kidmodo Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 100,
+        "def": 200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35629124,
@@ -365,6 +515,15 @@
       {
         "id": 84968490,
         "name": "Needlebug Nest",
+        "desc": "Send the top 5 cards of your Deck to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84968490,
@@ -377,6 +536,15 @@
       {
         "id": 39122311,
         "name": "Oasis of Dragon Souls",
+        "desc": "Activate this card by targeting 1 monster in your Graveyard; Special Summon it in Defense Position. It becomes Wyrm-Type. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39122311,
@@ -389,6 +557,15 @@
       {
         "id": 6075801,
         "name": "Paladin of Felgrand",
+        "desc": "If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. This card is unaffected by other monsters' effects, while equipped with an Equip Card. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6075801,
@@ -401,6 +578,15 @@
       {
         "id": 77558536,
         "name": "Raiden, Hand of the Lightsworn",
+        "desc": "During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any \"Lightsworn\" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of \"Raiden, Hand of the Lightsworn\" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 77558536,
@@ -413,6 +599,15 @@
       {
         "id": 88264978,
         "name": "Red-Eyes Darkness Metal Dragon",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon \"Red-Eyes Darkness Metal Dragon\" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except \"Red-Eyes Darkness Metal Dragon\". You can only use this effect of \"Red-Eyes Darkness Metal Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2400,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88264978,
@@ -431,6 +626,15 @@
       {
         "id": 67300516,
         "name": "Red-Eyes Wyvern",
+        "desc": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 67300516,
@@ -443,6 +647,15 @@
       {
         "id": 32807846,
         "name": "Reinforcement of the Army",
+        "desc": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32807846,
@@ -455,6 +668,15 @@
       {
         "id": 73628505,
         "name": "Terraforming",
+        "desc": "Add 1 Field Spell from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73628505,
@@ -467,6 +689,15 @@
       {
         "id": 95281259,
         "name": "The Warrior Returning Alive",
+        "desc": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 95281259,
@@ -479,6 +710,15 @@
       {
         "id": 38120068,
         "name": "Trade-In",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38120068,
@@ -491,6 +731,15 @@
       {
         "id": 99234526,
         "name": "White Dragon Wyverburster",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99234526,
@@ -503,12 +752,130 @@
       {
         "id": 79473793,
         "name": "White Night Dragon",
+        "desc": "During either player's turn, when a Spell/Trap Card that targets this card is activated: Negate the activation, and if you do, destroy it. When another face-up monster you control is targeted for an attack: You can send 1 Spell/Trap Card you control to the Graveyard; change the attack target to this card.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79473793,
             "image_url": "https://images.ygoprodeck.com/images/cards/79473793.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79473793.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79473793.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 33282498,
+        "name": "Arkbrave Dragon",
+        "desc": "If this card is Special Summoned from the Graveyard: You can banish as many face-up Spell/Trap Cards your opponent controls as possible, and if you do, this card gains 200 ATK and DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the Graveyard because it was sent there last turn: You can target 1 Level 7 or 8 Dragon-Type monster in your Graveyard, except \"Arkbrave Dragon\"; Special Summon it.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 33282498,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33282498.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33282498.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33282498.jpg"
+          }
+        ]
+      },
+      {
+        "id": 60681103,
+        "name": "Divine Dragon Lord Felgrand",
+        "desc": "If this card is Special Summoned from the Graveyard: You can target 1 monster your opponent controls or in their Graveyard; banish it, and if you do, this card gains ATK and DEF equal to the banished monster's original Level/Rank x 100. If this card destroys an opponent's monster by battle: You can target 1 Level 7 or 8 Dragon-Type monster in the Graveyard, except \"Divine Dragon Lord Felgrand\"; Special Summon it to your field.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2800,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 60681103,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60681103.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60681103.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60681103.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 87835759,
+        "name": "Dragon Knight of Creation",
+        "desc": "Increase this card's Level by 4 during your opponent's turn only. When this card destroys an opponent's monster by battle and sends it to the GY: You can send 1 Level 7 or 8 Dragon monster from your Deck to the GY. You can send 1 card from your hand to the GY, then target 1 Level 7 or 8 Dragon monster in your GY; send this card to the GY, and if you do, Special Summon that monster. You can only use this effect of \"Dragon Knight of Creation\" once per turn.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 87835759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87835759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87835759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87835759.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6853254,
+        "name": "Return of the Dragon Lords",
+        "desc": "Target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it. If a Dragon monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 6853254,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6853254.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6853254.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6853254.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69868555,
+        "name": "Ruins of the Divine Dragon Lords",
+        "desc": "If a monster(s) is Special Summoned, except from the GY while you control a Level 7 or 8 Dragon monster: Negate that face-up Special Summoned monster(s)'s effects until the end of this turn (even if this card leaves the field). Once per turn: You can send 1 other face-up card you control to the GY; Special Summon 1 \"Dragon Lord Token\" (Dragon/LIGHT/Level 1/ATK 0/DEF 0). If this card is in your GY: You can send 1 Level 7 or 8 Dragon monster from your hand or face-up field to the GY; add this card to your hand.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 69868555,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69868555.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69868555.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69868555.jpg"
           }
         ]
       }

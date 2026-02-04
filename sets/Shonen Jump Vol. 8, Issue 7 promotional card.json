@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 8, Issue 7 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 9666558,
         "name": "Golem Dragon",
+        "desc": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
+        "race": "Dragon",
+        "atk": 200,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 9666558,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

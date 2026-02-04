@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2021 K",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 58932615,
         "name": "Elemental HERO Burstinatrix",
+        "desc": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 58932615,
@@ -21,9 +29,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

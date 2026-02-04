@@ -1,14 +1,19 @@
 {
   "setName": "Summoned Skull Sample promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 70781052,
         "name": "Summoned Skull",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70781052,

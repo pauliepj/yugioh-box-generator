@@ -1,12 +1,19 @@
 {
   "setName": "Samurai Assault",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 61737116,
         "name": "Elder of the Six Samurai",
+        "desc": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 400,
+        "def": 0,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 61737116,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

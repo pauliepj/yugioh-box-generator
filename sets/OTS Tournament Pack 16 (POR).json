@@ -1,135 +1,19 @@
 {
   "setName": "OTS Tournament Pack 16 (POR)",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 69015963,
-        "name": "Cyber-Stein",
-        "card_images": [
-          {
-            "id": 69015963,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69015963.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69015963.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69015963.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22420202,
-        "name": "Drytron Delta Altais",
-        "card_images": [
-          {
-            "id": 22420202,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22420202.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22420202.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22420202.jpg"
-          }
-        ]
-      },
-      {
-        "id": 96026108,
-        "name": "Drytron Zeta Aldhibah",
-        "card_images": [
-          {
-            "id": 96026108,
-            "image_url": "https://images.ygoprodeck.com/images/cards/96026108.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96026108.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96026108.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52119435,
-        "name": "Geonator Transverser",
-        "card_images": [
-          {
-            "id": 52119435,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52119435.jpg"
-          }
-        ]
-      },
-      {
-        "id": 36021814,
-        "name": "King of the Skull Servants",
-        "card_images": [
-          {
-            "id": 36021814,
-            "image_url": "https://images.ygoprodeck.com/images/cards/36021814.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36021814.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36021814.jpg"
-          }
-        ]
-      },
-      {
-        "id": 80921533,
-        "name": "Mausoleum of the Emperor",
-        "card_images": [
-          {
-            "id": 80921533,
-            "image_url": "https://images.ygoprodeck.com/images/cards/80921533.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80921533.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80921533.jpg"
-          }
-        ]
-      },
-      {
-        "id": 67556500,
-        "name": "Phonon Pulse Dragon",
-        "card_images": [
-          {
-            "id": 67556500,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67556500.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67556500.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67556500.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14342283,
-        "name": "Token Stampede",
-        "card_images": [
-          {
-            "id": 14342283,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14342283.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14342283.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14816857,
-        "name": "Tri-Brigade Nervall",
-        "card_images": [
-          {
-            "id": 14816857,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14816857.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14816857.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14816857.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50275295,
-        "name": "Virtual World Gate - Qinglong",
-        "card_images": [
-          {
-            "id": 50275295,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50275295.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50275295.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50275295.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 17490535,
         "name": "Alien Brain",
+        "desc": "When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17490535,
@@ -142,6 +26,15 @@
       {
         "id": 44221928,
         "name": "Breath of Acclamation",
+        "desc": "This card can be used to Ritual Summon any WIND Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44221928,
@@ -154,6 +47,15 @@
       {
         "id": 84012625,
         "name": "Cosmic Flare",
+        "desc": "Target 1 \"Stardust\" Synchro Monster you control; this turn, if that Synchro Monster you control battles an opponent's monster, shuffle that opponent's monster into the Deck at the start of the Damage Step. If a \"Stardust\" Synchro Monster you control would Tribute itself to activate its effect, you can banish this card from your Graveyard instead.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84012625,
@@ -166,6 +68,15 @@
       {
         "id": 89112729,
         "name": "Cyber Saurus",
+        "desc": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
+        "race": "Machine",
+        "atk": 1800,
+        "def": 1400,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89112729,
@@ -178,6 +89,15 @@
       {
         "id": 78033100,
         "name": "Hieratic Dragon of Gebeb",
+        "desc": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 \"Hieratic\" Normal Monster from your hand, Deck or Graveyard.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78033100,
@@ -190,6 +110,15 @@
       {
         "id": 31516413,
         "name": "Hieratic Dragon of Nebthet",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Hieratic\" monster. Once per turn: You can Tribute 1 \"Hieratic\" monster, except this card, from your hand or your side of the field, to target 1 monster your opponent controls; destroy that target. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31516413,
@@ -202,6 +131,15 @@
       {
         "id": 41639001,
         "name": "Hieratic Dragon of Nuit",
+        "desc": "Once per turn, during either player's turn, when this face-up card on the field is targeted by a Spell Card, Trap Card, or card effect: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41639001,
@@ -214,6 +152,15 @@
       {
         "id": 3300267,
         "name": "Hieratic Dragon of Su",
+        "desc": "You can Special Summon this card (from your hand) by Tributing 1 \"Hieratic\" monster. Once per turn: You can Tribute 1 \"Hieratic\" monster, except this card, from your hand or your side of the field, to target 1 Spell/Trap Card your opponent controls; destroy that target. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1000,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3300267,
@@ -226,6 +173,15 @@
       {
         "id": 64514622,
         "name": "Hieratic Seal of the Dragon King",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card; Special Summon 1 \"Hieratic\" monster, except \"Hieratic Seal of the Dragon King\", from your hand, Deck or Graveyard, in face-up Defense Position.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64514622,
@@ -238,6 +194,15 @@
       {
         "id": 13140300,
         "name": "Hieratic Seal of the Sun Dragon Overlord",
+        "desc": "A mysterious engraved Hieratic relic. It was thought to be a simple stone, but it was actually infused with the power of a sun-wielding dragon. Aeons passed, and the power of the relic grew and grew until it finally shone like the sun itself.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13140300,
@@ -250,6 +215,15 @@
       {
         "id": 38492752,
         "name": "Laval Cannon",
+        "desc": "When this card is Normal or Flip Summoned: You can target 1 of your banished \"Laval\" monsters; Special Summon that target.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 900,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38492752,
@@ -262,6 +236,15 @@
       {
         "id": 8611007,
         "name": "Lavalval Dragun",
+        "desc": "1 Tuner + 1 or more non-Tuner FIRE monsters\nOnce per turn: You can add 1 \"Laval\" monster from your Deck to your hand, then send 1 \"Laval\" monster from your hand to the Graveyard.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8611007,
@@ -274,6 +257,15 @@
       {
         "id": 4611269,
         "name": "Lion Alligator",
+        "desc": "While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "race": "Reptile",
+        "atk": 1900,
+        "def": 200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4611269,
@@ -286,6 +278,15 @@
       {
         "id": 35514096,
         "name": "Lord British Space Fighter",
+        "desc": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects:\n● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 \"Multi Token\" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).",
+        "race": "Machine",
+        "atk": 1200,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35514096,
@@ -298,6 +299,15 @@
       {
         "id": 6343408,
         "name": "Miracle Dig",
+        "desc": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6343408,
@@ -310,6 +320,15 @@
       {
         "id": 52624755,
         "name": "Peten the Dark Clown",
+        "desc": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52624755,
@@ -322,6 +341,15 @@
       {
         "id": 19844995,
         "name": "Power Filter",
+        "desc": "Neither player can Special Summon monsters with 1000 or less ATK.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19844995,
@@ -334,6 +362,15 @@
       {
         "id": 60634565,
         "name": "Reptilianne Hydra",
+        "desc": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters\r\nWhen this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+        "race": "Reptile",
+        "atk": 2100,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60634565,
@@ -346,6 +383,15 @@
       {
         "id": 70791313,
         "name": "Royal Magical Library",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70791313,
@@ -358,6 +404,15 @@
       {
         "id": 51555725,
         "name": "Scrap Breaker",
+        "desc": "If your opponent controls a monster, you can Special Summon this card from your hand. When this card is Special Summoned this way, select 1 face-up \"Scrap\" monster you control, and destroy it.",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51555725,
@@ -370,6 +425,15 @@
       {
         "id": 32761286,
         "name": "Scrap Worm",
+        "desc": "This card can attack your opponent directly. If this card attacks, it is destroyed at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Worm\", and add it to your hand.",
+        "race": "Insect",
+        "atk": 500,
+        "def": 100,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 32761286,
@@ -382,6 +446,15 @@
       {
         "id": 27196937,
         "name": "Stardust Flash",
+        "desc": "Target 1 \"Stardust\" monster in your Graveyard; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27196937,
@@ -394,12 +467,316 @@
       {
         "id": 35129241,
         "name": "Stardust Wish",
+        "desc": "Once per turn, if a \"Stardust\" Synchro Monster you control is Tributed to activate its own effect (except during the Damage Step): You can target that monster; Special Summon it. Your opponent cannot activate cards or effects in response to this effect's activation. Monsters Special Summoned by this effect cannot be destroyed by battle while in Attack Position.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 35129241,
             "image_url": "https://images.ygoprodeck.com/images/cards/35129241.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35129241.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35129241.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 70095154,
+        "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 70095154,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70095154.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70095154.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70095154.jpg"
+          },
+          {
+            "id": 70095155,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70095155.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70095155.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70095155.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5043012,
+        "name": "Firewall Dragon",
+        "desc": "2+ monsters\r\nOnce while face-up on the field (Quick Effect): You can target monsters on the field and/or GY up to the number of monsters co-linked to this card; return them to the hand. If a monster this card points to is destroyed by battle or sent to the GY: You can Special Summon 1 Cyberse monster from your hand. You can only use each effect of \"Firewall Dragon\" once per turn.",
+        "race": "Cyberse",
+        "atk": 2500,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 5043012,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5043012.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5043012.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5043012.jpg"
+          },
+          {
+            "id": 5043011,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5043011.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5043011.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5043011.jpg"
+          },
+          {
+            "id": 5043010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5043010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5043010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5043010.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24299458,
+        "name": "Forbidden Droplet",
+        "desc": "Send any number of other cards from your hand and/or field to the GY; choose that many Effect Monsters your opponent controls, and until the end of this turn, their ATK is halved, also their effects are negated. In response to this card's activation, your opponent cannot activate cards, or the effects of cards, with the same original type (Monster/Spell/Trap) as the cards sent to the GY to activate this card. You can only activate 1 \"Forbidden Droplet\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 24299458,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24299458.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24299458.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24299458.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 69015963,
+        "name": "Cyber-Stein",
+        "desc": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+        "race": "Machine",
+        "atk": 700,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 69015963,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69015963.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69015963.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69015963.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22420202,
+        "name": "Drytron Delta Altais",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Drytron\" card. You can Tribute 1 other \"Drytron\" monster, or 1 Ritual Monster, from your hand or field; Special Summon this card from your hand or GY in Defense Position, then you can reveal 1 Ritual Monster or 1 Ritual Spell in your hand, and if you do, draw 1 card. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this effect. You can only use this effect of \"Drytron Delta Altais\" once per turn.",
+        "race": "Machine",
+        "atk": 2000,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22420202,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22420202.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22420202.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22420202.jpg"
+          }
+        ]
+      },
+      {
+        "id": 96026108,
+        "name": "Drytron Zeta Aldhibah",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a \"Drytron\" card. You can Tribute 1 other \"Drytron\" monster, or 1 Ritual Monster, from your hand or field; Special Summon this card from your hand or GY in Defense Position, then you can add 1 Ritual Spell from your Deck to your hand. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this effect. You can only use this effect of \"Drytron Zeta Aldhibah\" once per turn.",
+        "race": "Machine",
+        "atk": 2000,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 96026108,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96026108.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96026108.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96026108.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52119435,
+        "name": "Geonator Transverser",
+        "desc": "2 Effect Monsters\r\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
+        "race": "Rock",
+        "atk": 1200,
+        "def": null,
+        "level": null,
+        "attribute": "EARTH",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 52119435,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52119435.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52119435.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52119435.jpg"
+          }
+        ]
+      },
+      {
+        "id": 36021814,
+        "name": "King of the Skull Servants",
+        "desc": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your GY x 1000. When this card is destroyed by battle and sent to the GY: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your GY; Special Summon this card.",
+        "race": "Zombie",
+        "atk": -1,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 36021814,
+            "image_url": "https://images.ygoprodeck.com/images/cards/36021814.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/36021814.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/36021814.jpg"
+          }
+        ]
+      },
+      {
+        "id": 80921533,
+        "name": "Mausoleum of the Emperor",
+        "desc": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 80921533,
+            "image_url": "https://images.ygoprodeck.com/images/cards/80921533.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80921533.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80921533.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67556500,
+        "name": "Phonon Pulse Dragon",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can declare a Level from 1 to 3; this card becomes that Level, also you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material. You can only Special Summon \"Phonon Pulse Dragon(s)\" once per turn.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 67556500,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67556500.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67556500.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67556500.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14342283,
+        "name": "Token Stampede",
+        "desc": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14342283,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14342283.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14342283.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14342283.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14816857,
+        "name": "Tri-Brigade Nervall",
+        "desc": "You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. If this card is sent to the GY: You can add 1 \"Tri-Brigade\" monster from your Deck to your hand, except \"Tri-Brigade Nervall\". You can only use each effect of \"Tri-Brigade Nervall\" once per turn.",
+        "race": "Winged Beast",
+        "atk": 0,
+        "def": 2000,
+        "level": 1,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 14816857,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14816857.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14816857.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14816857.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50275295,
+        "name": "Virtual World Gate - Qinglong",
+        "desc": "You can banish 1 \"Virtual World\" card from your GY, then target 1 face-up monster on the field; negate its effects until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 \"Virtual World\" monster from your Deck to your hand, then send 1 card from your hand to the GY. You can only use each effect of \"Virtual World Gate - Qinglong\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 50275295,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50275295.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50275295.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50275295.jpg"
           }
         ]
       }

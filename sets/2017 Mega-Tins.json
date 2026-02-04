@@ -1,10 +1,19 @@
 {
   "setName": "2017 Mega-Tins",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 89631146,
         "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 89631146,
@@ -59,6 +68,15 @@
       {
         "id": 46986420,
         "name": "Dark Magician",
+        "desc": "''The ultimate wizard in terms of attack and defense.''",
+        "race": "Spellcaster",
+        "atk": 2500,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 46986420,
@@ -117,36 +135,19 @@
         ]
       }
     ],
-    "ultra": [
-      {
-        "id": 35261759,
-        "name": "Pot of Desires",
-        "card_images": [
-          {
-            "id": 35261759,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35261759.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35261759.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22862454,
-        "name": "Proxy Dragon",
-        "card_images": [
-          {
-            "id": 22862454,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22862454.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22862454.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22862454.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
+    "super rare": [
       {
         "id": 26920296,
         "name": "Dreamland",
+        "desc": "This card can activate these effects depending on the monster card types on the field.\n● Fusion: Once per turn, if a monster(s) is sent from your hand or field to the GY by a card effect (except during the Damage Step): You can draw 1 card.\n● Synchro: When a monster(s) is Normal or Special Summoned (except during the Damage Step): You can increase their Levels by 1.\n● Xyz: Once per turn, during your End Phase: Destroy the monster(s) on the field with the highest Level.\nYou can only activate 1 \"Dreamland\" per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 26920296,
@@ -159,6 +160,15 @@
       {
         "id": 80532587,
         "name": "Elder Entity N'tss",
+        "desc": "1 Synchro Monster + 1 Xyz Monster\nMust be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. (You do not use \"Polymerization\".) Once per turn: You can Special Summon 1 Level 4 monster from your hand. If this card is sent to the GY: You can target 1 card on the field; destroy it. You can only Special Summon \"Elder Entity N'tss(s)\" once per turn.",
+        "race": "Fairy",
+        "atk": 2500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 80532587,
@@ -171,6 +181,15 @@
       {
         "id": 23085002,
         "name": "Number 68: Sanaphond the Sky Prison",
+        "desc": "2 Level 8 monsters\nGains 100 ATK and DEF for each monster in the GYs. Once per turn: You can detach 1 material from this card; until the end of your opponent's next turn, this card cannot be destroyed by card effects, also neither player can Special Summon monsters from the GYs.",
+        "race": "Rock",
+        "atk": 2100,
+        "def": 2700,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 23085002,
@@ -183,6 +202,15 @@
       {
         "id": 59479050,
         "name": "Number 71: Rebarian Shark",
+        "desc": "2 Level 3 monsters\nOnce per turn, if this card has material: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 71: Rebarian Shark\"; Special Summon it, and if you do, attach 1 material from this card to it. If this card is sent to the GY: You can choose 1 \"Rank-Up-Magic\" Spell from your Deck and place it on top of your Deck.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 2000,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59479050,
@@ -193,7 +221,49 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "ultra rare": [
+      {
+        "id": 35261759,
+        "name": "Pot of Desires",
+        "desc": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 35261759,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35261759.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35261759.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35261759.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22862454,
+        "name": "Proxy Dragon",
+        "desc": "2 monsters\r\nIf a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.",
+        "race": "Cyberse",
+        "atk": 1400,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 22862454,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22862454.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22862454.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22862454.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

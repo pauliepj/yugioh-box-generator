@@ -1,10 +1,315 @@
 {
   "setName": "Premium Collection Tin",
   "rarities": {
-    "secret": [
+    "super rare": [
+      {
+        "id": 86915847,
+        "name": "Armored Bee",
+        "desc": "Once per turn: You can target 1 face-up monster your opponent controls; halve that target's ATK until the End Phase.",
+        "race": "Insect",
+        "atk": 1600,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 86915847,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86915847.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86915847.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86915847.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81933259,
+        "name": "Beastly Mirror Ritual",
+        "desc": "This card is used to Ritual Summon \"Fiend's Mirror\". You must also Tribute monsters from the field or your hand whose total Levels equal 6 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 81933259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81933259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81933259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81933259.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6602300,
+        "name": "Blaze Fenix, the Burning Bombardment Bird",
+        "desc": "1 Machine-Type monster + 1 Pyro-Type monster\nOnce per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot attack during the turn you activate this effect.",
+        "race": "Pyro",
+        "atk": 2800,
+        "def": 2300,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 6602300,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6602300.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6602300.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6602300.jpg"
+          }
+        ]
+      },
+      {
+        "id": 49674183,
+        "name": "Fallen Angel of Roses",
+        "desc": "You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
+        "race": "Plant",
+        "atk": 2400,
+        "def": 1300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 49674183,
+            "image_url": "https://images.ygoprodeck.com/images/cards/49674183.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49674183.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49674183.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31890399,
+        "name": "Fiend's Mirror",
+        "desc": "You can Ritual Summon this card with \"Beastly Mirror Ritual\".",
+        "race": "Fiend",
+        "atk": 2100,
+        "def": 1800,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 31890399,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31890399.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31890399.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31890399.jpg"
+          }
+        ]
+      },
+      {
+        "id": 27054370,
+        "name": "Firewing Pegasus",
+        "desc": "A heavenly stallion soaring through the skies on crimson wings.",
+        "race": "Beast",
+        "atk": 2250,
+        "def": 1800,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 27054370,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27054370.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27054370.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27054370.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75292259,
+        "name": "Great Poseidon Beetle",
+        "desc": "If this card targets an opponent's face-up Attack Position monster for an attack, and that monster is not destroyed by the battle, this card can attack the same monster again in a row. This effect can only be used twice per turn.",
+        "race": "Insect",
+        "atk": 2500,
+        "def": 2300,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 75292259,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75292259.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75292259.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75292259.jpg"
+          }
+        ]
+      },
+      {
+        "id": 56410040,
+        "name": "Junk Forward",
+        "desc": "If you control no monsters, you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 900,
+        "def": 1500,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 56410040,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56410040.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56410040.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56410040.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39284521,
+        "name": "Machina Cannon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 or more other Machine monsters from your hand to the GY. Gains 800 ATK for each monster sent to the GY for this Special Summon.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 2200,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 39284521,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39284521.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39284521.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39284521.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90660762,
+        "name": "Meteor Black Dragon",
+        "desc": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+        "race": "Dragon",
+        "atk": 3500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 90660762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90660762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90660762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90660762.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64271667,
+        "name": "Meteor Dragon",
+        "desc": "This dragon appeared from the sky and crashed to the earth.",
+        "race": "Dragon",
+        "atk": 1800,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 64271667,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64271667.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64271667.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64271667.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43813459,
+        "name": "Photon Current",
+        "desc": "When a face-up LIGHT Dragon-Type monster you control is targeted for an attack: The attack target gains ATK equal to the attacking monster's ATK, until the end of the Damage Step.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 43813459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43813459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43813459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43813459.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11287364,
+        "name": "Quick-Span Knight",
+        "desc": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 11287364,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11287364.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11287364.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11287364.jpg"
+          }
+        ]
+      },
+      {
+        "id": 45298492,
+        "name": "Scarred Warrior",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nYour opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1000,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 45298492,
+            "image_url": "https://images.ygoprodeck.com/images/cards/45298492.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45298492.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45298492.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
       {
         "id": 22061412,
         "name": "Elemental HERO The Shining",
+        "desc": "1 \"Elemental HERO\" monster + 1 LIGHT monster\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each of your banished \"Elemental HERO\" monsters. When this card is sent from the field to the Graveyard: You can target up to 2 of your banished \"Elemental HERO\" monsters; add those targets to your hand.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 22061412,
@@ -17,6 +322,15 @@
       {
         "id": 44035031,
         "name": "Gravity Warrior",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent's Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.",
+        "race": "Warrior",
+        "atk": 2100,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 44035031,
@@ -29,6 +343,15 @@
       {
         "id": 19353570,
         "name": "Kagemucha Knight",
+        "desc": "When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 0,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 19353570,
@@ -41,6 +364,15 @@
       {
         "id": 18631392,
         "name": "Ma'at",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 LIGHT Dragon-Type monster and 1 LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; excavate the top 3 cards of your Deck, add any of them that you named to your hand, also send the remaining cards to the Graveyard. This card's ATK and DEF each become equal to the number of cards added to your hand by this effect x 1000.",
+        "race": "Fairy",
+        "atk": -1,
+        "def": -1,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 18631392,
@@ -53,6 +385,15 @@
       {
         "id": 29095552,
         "name": "Masked HERO Acid",
+        "desc": "Must be Special Summoned with \"Mask Change\". When this card is Special Summoned: Destroy as many Spells and Traps your opponent controls as possible, and if you do, all monsters they control lose 300 ATK.",
+        "race": "Warrior",
+        "atk": 2600,
+        "def": 2100,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 29095552,
@@ -65,6 +406,15 @@
       {
         "id": 62624486,
         "name": "Masked HERO Dian",
+        "desc": "Must be Special Summoned with \"Mask Change\". When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 Level 4 or lower \"HERO\" monster from your Deck.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 3000,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 62624486,
@@ -77,6 +427,15 @@
       {
         "id": 32003339,
         "name": "Number 34: Terror-Byte",
+        "desc": "3 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower Attack Position monster your opponent controls; gain control of it until the End Phase.",
+        "race": "Machine",
+        "atk": 0,
+        "def": 2900,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 32003339,
@@ -95,6 +454,15 @@
       {
         "id": 17418744,
         "name": "Photon Sanctuary",
+        "desc": "Special Summon 2 \"Photon Tokens\" (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) in Defense Position. These Tokens cannot attack or be used as Synchro Material Monsters. You cannot Summon other monsters the turn you activate this card, except for LIGHT monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 17418744,
@@ -107,6 +475,15 @@
       {
         "id": 55758589,
         "name": "Photon Wyvern",
+        "desc": "When this card is Normal or Flip Summoned: Destroy all Set cards your opponent controls.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 55758589,
@@ -119,6 +496,15 @@
       {
         "id": 81146288,
         "name": "Rosaria, the Stately Fallen Angel",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (1 from your hand and 1 from your Graveyard). Once per turn: You can negate the effects of all other face-up cards currently on the field, until the end of this turn.",
+        "race": "Plant",
+        "atk": 2900,
+        "def": 2400,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 81146288,
@@ -131,6 +517,15 @@
       {
         "id": 81020646,
         "name": "Void Ogre Dragon",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card while you have no cards in your hand: You can negate the activation and destroy it.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 81020646,
@@ -140,179 +535,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [
-      {
-        "id": 86915847,
-        "name": "Armored Bee",
-        "card_images": [
-          {
-            "id": 86915847,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86915847.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86915847.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86915847.jpg"
-          }
-        ]
-      },
-      {
-        "id": 81933259,
-        "name": "Beastly Mirror Ritual",
-        "card_images": [
-          {
-            "id": 81933259,
-            "image_url": "https://images.ygoprodeck.com/images/cards/81933259.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81933259.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81933259.jpg"
-          }
-        ]
-      },
-      {
-        "id": 6602300,
-        "name": "Blaze Fenix, the Burning Bombardment Bird",
-        "card_images": [
-          {
-            "id": 6602300,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6602300.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6602300.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6602300.jpg"
-          }
-        ]
-      },
-      {
-        "id": 49674183,
-        "name": "Fallen Angel of Roses",
-        "card_images": [
-          {
-            "id": 49674183,
-            "image_url": "https://images.ygoprodeck.com/images/cards/49674183.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49674183.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49674183.jpg"
-          }
-        ]
-      },
-      {
-        "id": 31890399,
-        "name": "Fiend's Mirror",
-        "card_images": [
-          {
-            "id": 31890399,
-            "image_url": "https://images.ygoprodeck.com/images/cards/31890399.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31890399.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31890399.jpg"
-          }
-        ]
-      },
-      {
-        "id": 27054370,
-        "name": "Firewing Pegasus",
-        "card_images": [
-          {
-            "id": 27054370,
-            "image_url": "https://images.ygoprodeck.com/images/cards/27054370.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27054370.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27054370.jpg"
-          }
-        ]
-      },
-      {
-        "id": 75292259,
-        "name": "Great Poseidon Beetle",
-        "card_images": [
-          {
-            "id": 75292259,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75292259.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75292259.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75292259.jpg"
-          }
-        ]
-      },
-      {
-        "id": 56410040,
-        "name": "Junk Forward",
-        "card_images": [
-          {
-            "id": 56410040,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56410040.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56410040.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56410040.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39284521,
-        "name": "Machina Cannon",
-        "card_images": [
-          {
-            "id": 39284521,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39284521.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39284521.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39284521.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90660762,
-        "name": "Meteor Black Dragon",
-        "card_images": [
-          {
-            "id": 90660762,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90660762.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90660762.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90660762.jpg"
-          }
-        ]
-      },
-      {
-        "id": 64271667,
-        "name": "Meteor Dragon",
-        "card_images": [
-          {
-            "id": 64271667,
-            "image_url": "https://images.ygoprodeck.com/images/cards/64271667.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64271667.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64271667.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43813459,
-        "name": "Photon Current",
-        "card_images": [
-          {
-            "id": 43813459,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43813459.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43813459.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43813459.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11287364,
-        "name": "Quick-Span Knight",
-        "card_images": [
-          {
-            "id": 11287364,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11287364.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11287364.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11287364.jpg"
-          }
-        ]
-      },
-      {
-        "id": 45298492,
-        "name": "Scarred Warrior",
-        "card_images": [
-          {
-            "id": 45298492,
-            "image_url": "https://images.ygoprodeck.com/images/cards/45298492.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45298492.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45298492.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

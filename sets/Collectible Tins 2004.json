@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2004",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 39507162,
         "name": "Blade Knight",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 39507162,
@@ -17,6 +26,15 @@
       {
         "id": 10375182,
         "name": "Command Knight",
+        "desc": "All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1900,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 10375182,
@@ -29,6 +47,15 @@
       {
         "id": 91512835,
         "name": "Insect Queen",
+        "desc": "This card gains 200 ATK for each Insect monster on the field. Cannot declare an attack unless you Tribute 1 monster. Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.",
+        "race": "Insect",
+        "atk": 2200,
+        "def": 2400,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 91512835,
@@ -41,6 +68,15 @@
       {
         "id": 52077741,
         "name": "Obnoxious Celtic Guard",
+        "desc": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 52077741,
@@ -53,6 +89,15 @@
       {
         "id": 16589042,
         "name": "Swift Gaia the Fierce Knight",
+        "desc": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 2100,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 16589042,
@@ -65,6 +110,15 @@
       {
         "id": 75372290,
         "name": "Total Defense Shogun",
+        "desc": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.",
+        "race": "Warrior",
+        "atk": 1550,
+        "def": 2500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 75372290,
@@ -74,10 +128,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

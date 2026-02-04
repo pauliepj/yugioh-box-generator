@@ -1,12 +1,19 @@
 {
   "setName": "X-Saber Power-Up",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 78422252,
         "name": "XX-Saber Fulhelmknight",
+        "desc": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 78422252,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

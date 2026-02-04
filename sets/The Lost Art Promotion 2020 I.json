@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2020 I",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 75064463,
         "name": "Harpie Queen",
+        "desc": "This card's name becomes \"Harpie Lady\" while on the field or in the GY. You can discard this card to the GY; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand.",
+        "race": "Winged Beast",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 75064463,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

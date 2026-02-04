@@ -1,14 +1,19 @@
 {
   "setName": "Demo Deck 2015",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 5053103,
         "name": "Battle Ox",
+        "desc": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
+        "race": "Beast-Warrior",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5053103,
@@ -21,6 +26,15 @@
       {
         "id": 22346472,
         "name": "Blustering Winds",
+        "desc": "Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22346472,
@@ -33,6 +47,15 @@
       {
         "id": 20721928,
         "name": "Elemental HERO Sparkman",
+        "desc": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 20721928,
@@ -51,6 +74,15 @@
       {
         "id": 13039848,
         "name": "Giant Soldier of Stone",
+        "desc": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+        "race": "Rock",
+        "atk": 1300,
+        "def": 2000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13039848,
@@ -63,6 +95,15 @@
       {
         "id": 38445524,
         "name": "Gil Garth",
+        "desc": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 38445524,
@@ -75,6 +116,15 @@
       {
         "id": 18325492,
         "name": "Gyroid",
+        "desc": "Once per turn, this card cannot be destroyed by battle.",
+        "race": "Machine",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 18325492,
@@ -87,6 +137,15 @@
       {
         "id": 25005816,
         "name": "Inspiration",
+        "desc": "Target 1 face-up monster you control; it gains 700 ATK until the end of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25005816,
@@ -99,6 +158,15 @@
       {
         "id": 97590748,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97590748,
@@ -117,6 +185,15 @@
       {
         "id": 13723605,
         "name": "Man-Eating Treasure Chest",
+        "desc": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+        "race": "Fiend",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13723605,
@@ -129,6 +206,15 @@
       {
         "id": 4335645,
         "name": "Newdoria",
+        "desc": "If this card is destroyed by battle and sent to the GY: Target 1 monster on the field; destroy that target.",
+        "race": "Fiend",
+        "atk": 1200,
+        "def": 800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4335645,
@@ -141,6 +227,15 @@
       {
         "id": 2311603,
         "name": "Overdrive",
+        "desc": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 2311603,
@@ -153,6 +248,15 @@
       {
         "id": 44203504,
         "name": "Robotic Knight",
+        "desc": "The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.",
+        "race": "Machine",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44203504,
@@ -165,6 +269,15 @@
       {
         "id": 56120475,
         "name": "Sakuretsu Armor",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56120475,
@@ -177,6 +290,15 @@
       {
         "id": 30683373,
         "name": "Shield Crush",
+        "desc": "Target 1 Defense Position monster on the field; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 30683373,
@@ -189,6 +311,15 @@
       {
         "id": 84696266,
         "name": "Sonic Duck",
+        "desc": "A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.",
+        "race": "Winged Beast",
+        "atk": 1700,
+        "def": 700,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 84696266,
@@ -201,6 +332,15 @@
       {
         "id": 81510157,
         "name": "Soul Taker",
+        "desc": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81510157,
@@ -213,6 +353,15 @@
       {
         "id": 36119641,
         "name": "Space Mambo",
+        "desc": "A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.",
+        "race": "Fish",
+        "atk": 1700,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36119641,
@@ -225,6 +374,15 @@
       {
         "id": 70781052,
         "name": "Summoned Skull",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70781052,
@@ -255,6 +413,15 @@
       {
         "id": 36361633,
         "name": "Threatening Roar",
+        "desc": "Your opponent cannot declare an attack this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36361633,
@@ -267,6 +434,15 @@
       {
         "id": 75953262,
         "name": "Warrior Dai Grepher",
+        "desc": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75953262,

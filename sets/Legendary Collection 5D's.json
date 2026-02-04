@@ -1,11 +1,19 @@
 {
   "setName": "Legendary Collection 5D's",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 73580471,
         "name": "Black Rose Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1800,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 73580471,
@@ -18,6 +26,15 @@
       {
         "id": 91697229,
         "name": "Fenrir the Nordic Wolf",
+        "desc": "Cannot be Normal Summoned/Set. During your Main Phase 2, if an \"Aesir\" monster is on the field, you can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position. If an \"Aesir\" monster is not on the field, destroy this card. At the start of your Battle Phase: Change all Defense Position monsters you control to face-up Attack Position. Both players take any battle damage involving this card.",
+        "race": "Beast",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 91697229,
@@ -30,6 +47,15 @@
       {
         "id": 64203620,
         "name": "Jormungardr the Nordic Serpent",
+        "desc": "Cannot be Normal Summoned/Set. If an \"Aesir\" monster is on the field, you can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position. If an \"Aesir\" monster is not on the field, destroy this card. If this face-up Defense Position card you control is changed to face-up Attack Position: Take 3000 damage. This effect can only be used once while this card is face-up on the field.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 64203620,
@@ -42,6 +68,15 @@
       {
         "id": 35952884,
         "name": "Shooting Quasar Dragon",
+        "desc": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+        "race": "Dragon",
+        "atk": 4000,
+        "def": 4000,
+        "level": 12,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 35952884,
@@ -54,6 +89,15 @@
       {
         "id": 27196937,
         "name": "Stardust Flash",
+        "desc": "Target 1 \"Stardust\" monster in your Graveyard; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 27196937,
@@ -63,9 +107,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

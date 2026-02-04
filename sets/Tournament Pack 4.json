@@ -1,75 +1,19 @@
 {
   "setName": "Tournament Pack 4",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 51452091,
-        "name": "Royal Decree",
-        "card_images": [
-          {
-            "id": 51452091,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51452091.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51452091.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 1248895,
-        "name": "Chain Destruction",
-        "card_images": [
-          {
-            "id": 1248895,
-            "image_url": "https://images.ygoprodeck.com/images/cards/1248895.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1248895.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1248895.jpg"
-          }
-        ]
-      },
-      {
-        "id": 22046459,
-        "name": "Megamorph",
-        "card_images": [
-          {
-            "id": 22046459,
-            "image_url": "https://images.ygoprodeck.com/images/cards/22046459.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22046459.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22046459.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33508719,
-        "name": "Morphing Jar",
-        "card_images": [
-          {
-            "id": 33508719,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33508719.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33508719.jpg"
-          }
-        ]
-      },
-      {
-        "id": 66362965,
-        "name": "The Fiend Megacyber",
-        "card_images": [
-          {
-            "id": 66362965,
-            "image_url": "https://images.ygoprodeck.com/images/cards/66362965.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66362965.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66362965.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 16970158,
         "name": "Call of the Grave",
+        "desc": "When your opponent activates \"Monster Reborn\": Negate the effect of that \"Monster Reborn\".",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 16970158,
@@ -82,6 +26,15 @@
       {
         "id": 28563545,
         "name": "Dragon Seeker",
+        "desc": "When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 2100,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 28563545,
@@ -94,6 +47,15 @@
       {
         "id": 26725158,
         "name": "Exile of the Wicked",
+        "desc": "Destroy all Fiend monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 26725158,
@@ -106,6 +68,15 @@
       {
         "id": 58831685,
         "name": "Giant Red Seasnake",
+        "desc": "A sea-dwelling snake that attacks passing enemies with its sharp teeth.",
+        "race": "Aqua",
+        "atk": 1800,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 58831685,
@@ -116,10 +87,105 @@
         ]
       }
     ],
+    "super rare": [
+      {
+        "id": 1248895,
+        "name": "Chain Destruction",
+        "desc": "When a monster(s) with 2000 or less ATK is Summoned: Target 1 of them; destroy all cards with that name in its controller's hand and Main Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 1248895,
+            "image_url": "https://images.ygoprodeck.com/images/cards/1248895.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1248895.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1248895.jpg"
+          }
+        ]
+      },
+      {
+        "id": 22046459,
+        "name": "Megamorph",
+        "desc": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 22046459,
+            "image_url": "https://images.ygoprodeck.com/images/cards/22046459.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/22046459.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/22046459.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33508719,
+        "name": "Morphing Jar",
+        "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+        "race": "Rock",
+        "atk": 700,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 33508719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33508719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33508719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33508719.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66362965,
+        "name": "The Fiend Megacyber",
+        "desc": "If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).",
+        "race": "Warrior",
+        "atk": 2200,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 66362965,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66362965.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66362965.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66362965.jpg"
+          }
+        ]
+      }
+    ],
     "common": [
       {
         "id": 97017120,
         "name": "Giant Rat",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position.",
+        "race": "Beast",
+        "atk": 1400,
+        "def": 1450,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97017120,
@@ -132,6 +198,15 @@
       {
         "id": 85742772,
         "name": "Gravity Bind",
+        "desc": "Level 4 or higher monsters cannot attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85742772,
@@ -144,6 +219,15 @@
       {
         "id": 21015833,
         "name": "Hayabusa Knight",
+        "desc": "This card can make a second attack during each Battle Phase.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 700,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 21015833,
@@ -156,6 +240,15 @@
       {
         "id": 23289281,
         "name": "Karate Man",
+        "desc": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+        "race": "Warrior",
+        "atk": 1000,
+        "def": 1000,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23289281,
@@ -168,6 +261,15 @@
       {
         "id": 79870141,
         "name": "Mad Sword Beast",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
+        "race": "Dinosaur",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 79870141,
@@ -180,6 +282,15 @@
       {
         "id": 59344077,
         "name": "Magic Drain",
+        "desc": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59344077,
@@ -192,6 +303,15 @@
       {
         "id": 83011277,
         "name": "Mystic Tomato",
+        "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Plant",
+        "atk": 1400,
+        "def": 1100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83011277,
@@ -210,6 +330,15 @@
       {
         "id": 22567609,
         "name": "Nimble Momonga",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+        "race": "Beast",
+        "atk": 1000,
+        "def": 100,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 22567609,
@@ -222,6 +351,15 @@
       {
         "id": 17449108,
         "name": "Nobleman of Extermination",
+        "desc": "Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17449108,
@@ -234,6 +372,15 @@
       {
         "id": 70046172,
         "name": "Rush Recklessly",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70046172,
@@ -246,6 +393,15 @@
       {
         "id": 23401840,
         "name": "Senju of the Thousand Hands",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23401840,
@@ -258,6 +414,29 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/23401839.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23401839.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23401839.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 51452091,
+        "name": "Royal Decree",
+        "desc": "Negate all other Trap effects on the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 51452091,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51452091.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51452091.jpg"
           }
         ]
       }

@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Championship Series 2017 prize card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "super rare": [
       {
         "id": 95474755,
         "name": "Number 89: Diablosis the Mind Hacker",
+        "desc": "2 Level 7 monsters\r\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
+        "race": "Psychic",
+        "atk": 2800,
+        "def": 1200,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 95474755,
@@ -22,10 +30,19 @@
         ]
       }
     ],
-    "super": [
+    "ultra rare": [
       {
         "id": 95474755,
         "name": "Number 89: Diablosis the Mind Hacker",
+        "desc": "2 Level 7 monsters\r\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
+        "race": "Psychic",
+        "atk": 2800,
+        "def": 1200,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 95474755,
@@ -41,8 +58,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

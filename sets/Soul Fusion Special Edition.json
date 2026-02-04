@@ -1,12 +1,19 @@
 {
   "setName": "Soul Fusion Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 59934749,
         "name": "Isolde, Two Tales of the Noble Knights",
+        "desc": "2 Warrior monsters\r\nIf this card is Link Summoned: You can add 1 Warrior monster from your Deck to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with that name, nor activate their monster effects. You can send any number of Equip Spells with different names from your Deck to the GY; Special Summon 1 Warrior monster from your Deck, whose Level equals the number of cards sent to the GY. You can only use each effect of \"Isolde, Two Tales of the Noble Knights\" once per turn.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": null,
+        "level": 0,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59934749,
@@ -19,6 +26,15 @@
       {
         "id": 85840608,
         "name": "Neo Space Connector",
+        "desc": "When this card is Normal Summoned: You can Special Summon 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" from your hand or Deck in Defense Position. You can Tribute this card, then target 1 \"Neo-Spacian\" monster or 1 \"Elemental HERO Neos\" in your GY; Special Summon it in Defense Position. You can only use each effect of \"Neo Space Connector\" once per turn.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 85840608,
@@ -31,6 +47,15 @@
       {
         "id": 31440046,
         "name": "Prank-Kids Rocksies",
+        "desc": "If this card is sent to the GY as material for the Fusion or Link Summon of a \"Prank-Kids\" monster: You can banish 1 card from your hand, and if you do, draw 1 card, then, you can Special Summon 1 \"Prank-Kids\" monster from your hand or Deck in Defense Position, except \"Prank-Kids Rocksies\". You can only use this effect of \"Prank-Kids Rocksies\" once per turn.",
+        "race": "Rock",
+        "atk": 1500,
+        "def": 1500,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 31440046,
@@ -43,6 +68,15 @@
       {
         "id": 61665245,
         "name": "Summon Sorceress",
+        "desc": "2+ monsters with the same Type, except Tokens\r\nIf this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck in Defense Position, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of \"Summon Sorceress\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 2400,
+        "def": null,
+        "level": 0,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 61665245,
@@ -52,8 +86,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

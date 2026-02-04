@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion K",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 73599290,
         "name": "Soul Drain",
+        "desc": "Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 73599290,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

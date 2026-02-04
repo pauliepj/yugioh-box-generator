@@ -1,11 +1,19 @@
 {
   "setName": "Dark Neostorm Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 20665527,
         "name": "Amphibious Swarmship Amblowhale",
+        "desc": "2+ Effect Monsters\r\nGains 200 ATK for each Link Monster in the GYs. You can only use each of the following effects of \"Amphibious Swarmship Amblowhale\" once per turn.\r\n● If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.\r\n● If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.",
+        "race": "Machine",
+        "atk": 2600,
+        "def": null,
+        "level": null,
+        "attribute": "FIRE",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 20665527,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2025 D",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 50915474,
         "name": "Goddess of the Two Sides",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 monster from your Deck to your hand that has a coin tossing effect, except \"Goddess of the Two Sides\". During your Main Phase: You can toss a coin and call it. If you call it right, double the ATK of all monsters you currently control until the end of this turn. If you call it wrong, send as many monsters you control to the GY as possible (min. 1), and if you do, draw 1 card. You can only use each effect of \"Goddess of the Two Sides\" once per turn.",
+        "race": "Fairy",
+        "atk": 950,
+        "def": 700,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 50915474,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

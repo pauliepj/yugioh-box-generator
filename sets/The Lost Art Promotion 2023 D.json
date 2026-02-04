@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2023 D",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 23401840,
         "name": "Senju of the Thousand Hands",
+        "desc": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 23401840,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

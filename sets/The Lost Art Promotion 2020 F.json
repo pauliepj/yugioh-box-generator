@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2020 F",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 56910167,
         "name": "Superdreadnought Rail Cannon Gustav Max",
+        "desc": "2 Level 10 monsters\r\nOnce per turn: You can detach 1 material from this card; inflict 2000 damage to your opponent.",
+        "race": "Machine",
+        "atk": 3000,
+        "def": 3000,
+        "level": 10,
+        "attribute": "EARTH",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 56910167,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

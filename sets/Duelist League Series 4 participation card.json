@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 4 participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 46700124,
         "name": "Machine King",
+        "desc": "This card gains 100 ATK for each Machine-Type monster on the field.",
+        "race": "Machine",
+        "atk": 2200,
+        "def": 2000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 46700124,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

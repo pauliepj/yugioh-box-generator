@@ -1,11 +1,19 @@
 {
   "setName": "Exclusive Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 15013468,
         "name": "Andro Sphinx",
+        "desc": "You can pay 500 Life Points to Special Summon this card when \"Pyramid of Light\" is on the field. This card cannot attack during the turn that it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster.",
+        "race": "Beast",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 15013468,
@@ -18,6 +26,15 @@
       {
         "id": 51402177,
         "name": "Sphinx Teleia",
+        "desc": "You can pay 500 Life Points to Special Summon this card when \"Pyramid of Light\" is on the field. This card cannot attack during the turn that it is Normal Summoned or Special Summoned. This card cannot be Special Summoned from the Graveyard. If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the DEF of the destroyed monster.",
+        "race": "Beast",
+        "atk": 2500,
+        "def": 3000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 51402177,
@@ -30,6 +47,15 @@
       {
         "id": 87997872,
         "name": "Theinen the Great Sphinx",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by paying 500 Life Points when both \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field are destroyed at the same time; then you can Special Summon this monster from your hand or Deck. When this card is Special Summoned, by paying 500 Life Points, increase the ATK of this card by 3000 points until the end of the End Phase.",
+        "race": "Beast",
+        "atk": 3500,
+        "def": 3000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 87997872,
@@ -40,12 +66,19 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 89731911,
         "name": "Familiar Knight",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: Each player can Special Summon 1 Level 4 monster from their hand.",
+        "race": "Warrior",
+        "atk": 1200,
+        "def": 1400,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 89731911,
@@ -58,6 +91,15 @@
       {
         "id": 14391920,
         "name": "Inferno Tempest",
+        "desc": "When you take 3000 or more Battle Damage from 1 attack, you can activate this card. Remove all monsters in each player's Deck and Graveyard from play.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14391920,
@@ -70,6 +112,15 @@
       {
         "id": 52624755,
         "name": "Peten the Dark Clown",
+        "desc": "When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 \"Peten the Dark Clown\" from your hand or Deck.",
+        "race": "Spellcaster",
+        "atk": 500,
+        "def": 1200,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52624755,
@@ -82,6 +133,15 @@
       {
         "id": 25236056,
         "name": "Rare Metal Dragon",
+        "desc": "This card cannot be Normal Summoned or Set.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 25236056,
@@ -94,6 +154,15 @@
       {
         "id": 27174286,
         "name": "Return from the Different Dimension",
+        "desc": "Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 27174286,

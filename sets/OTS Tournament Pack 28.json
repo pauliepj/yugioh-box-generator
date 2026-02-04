@@ -1,135 +1,19 @@
 {
   "setName": "OTS Tournament Pack 28",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
-      {
-        "id": 55326323,
-        "name": "Crystron Token",
-        "card_images": [
-          {
-            "id": 55326323,
-            "image_url": "https://images.ygoprodeck.com/images/cards/55326323.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55326323.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55326323.jpg"
-          }
-        ]
-      },
-      {
-        "id": 9763474,
-        "name": "Haggard Lizardose",
-        "card_images": [
-          {
-            "id": 9763474,
-            "image_url": "https://images.ygoprodeck.com/images/cards/9763474.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9763474.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9763474.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72578374,
-        "name": "Khaos Starsource Dragon",
-        "card_images": [
-          {
-            "id": 72578374,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72578374.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72578374.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72578374.jpg"
-          }
-        ]
-      },
-      {
-        "id": 58786132,
-        "name": "Lucius the Shadow Vassal",
-        "card_images": [
-          {
-            "id": 58786132,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58786132.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58786132.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58786132.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89812483,
-        "name": "Max Metalmorph",
-        "card_images": [
-          {
-            "id": 89812483,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89812483.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89812483.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89812483.jpg"
-          }
-        ]
-      },
-      {
-        "id": 66518509,
-        "name": "Mementotlan Fusion",
-        "card_images": [
-          {
-            "id": 66518509,
-            "image_url": "https://images.ygoprodeck.com/images/cards/66518509.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66518509.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66518509.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39163598,
-        "name": "Planet Pollutant Virus",
-        "card_images": [
-          {
-            "id": 39163598,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39163598.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39163598.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39163598.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98385955,
-        "name": "Silvy of the White Forest",
-        "card_images": [
-          {
-            "id": 98385955,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98385955.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98385955.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98385955.jpg"
-          }
-        ]
-      },
-      {
-        "id": 6355563,
-        "name": "Y-Yare Head",
-        "card_images": [
-          {
-            "id": 6355563,
-            "image_url": "https://images.ygoprodeck.com/images/cards/6355563.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6355563.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6355563.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33744268,
-        "name": "Z-Zillion Tank",
-        "card_images": [
-          {
-            "id": 33744268,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33744268.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33744268.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33744268.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
     "common": [
       {
         "id": 15808381,
         "name": "Achichi @Ignister",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 Level 4 or lower \"@Ignister\" monster from your Deck to your hand, except \"Achichi @Ignister\". At the start of the Damage Step, when your Cyberse monster battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of \"Achichi @Ignister\" once per turn.",
+        "race": "Cyberse",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15808381,
@@ -142,6 +26,15 @@
       {
         "id": 59048135,
         "name": "Augmented Heraldry",
+        "desc": "Psychic-Type Xyz Monsters on the field cannot be targeted by Spell/Trap effects. Once per turn: You can discard 1 \"Heraldic Beast\" monster; add 1 \"Heraldry\" Spell/Trap Card from your Deck to your hand, except \"Augmented Heraldry\". You cannot Normal or Special Summon monsters during the turn you activate this effect, except Psychic-Type Xyz Monsters and \"Heraldic Beast\" monsters (even if this card leaves the field).",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59048135,
@@ -154,6 +47,15 @@
       {
         "id": 87910978,
         "name": "Brain Control",
+        "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87910978,
@@ -166,6 +68,15 @@
       {
         "id": 87255382,
         "name": "Heraldic Beast Amphisbaena",
+        "desc": "You can discard 1 other \"Heraldic Beast\" monster; Special Summon this card from your hand. Once per turn: You can discard 1 \"Heraldic Beast\" monster; this card gains 800 ATK until the end of this turn.",
+        "race": "Dragon",
+        "atk": 1700,
+        "def": 1100,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87255382,
@@ -178,6 +89,15 @@
       {
         "id": 59054773,
         "name": "Ignister A.I.Land",
+        "desc": "If you control no monsters in your Main Monster Zone: You can Special Summon 1 Level 4 or lower \"@Ignister\" monster from your hand, but for the rest of this turn, you cannot Special Summon monsters with the same original Attribute by the effect of \"Ignister A.I.Land\", also you cannot Special Summon monsters, except Cyberse monsters (even if this card leaves the field). If this card is in your GY: You can banish 1 \"@Ignister\" monster from your GY; Set this card. You can only use this effect of \"Ignister A.I.Land\" once per turn.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 59054773,
@@ -190,6 +110,15 @@
       {
         "id": 47432275,
         "name": "Kuribon",
+        "desc": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand.",
+        "race": "Fairy",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 47432275,
@@ -202,6 +131,15 @@
       {
         "id": 87931906,
         "name": "Lunalight Fusion",
+        "desc": "Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use 1 \"Lunalight\" monster in your Deck or Extra Deck as Fusion Material. You can only activate 1 \"Lunalight Fusion\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87931906,
@@ -214,6 +152,15 @@
       {
         "id": 88753594,
         "name": "Lunalight Sabre Dancer",
+        "desc": "3 \"Lunalight\" monsters\r\nMust be Fusion Summoned. Gains 200 ATK for each Beast-Warrior monster that is banished or in the GYs. Your opponent cannot target this card with card effects. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Fusion Monster you control; it gains 3000 ATK until the end of this turn. You can only use this effect of \"Lunalight Sabre Dancer\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 3000,
+        "def": 2600,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 88753594,
@@ -226,6 +173,15 @@
       {
         "id": 50546208,
         "name": "Lunalight Yellow Marten",
+        "desc": "If this card is in your hand or GY: You can target 1 \"Lunalight\" card you control, except \"Lunalight Yellow Marten\"; return it to the hand, and if you do, Special Summon this card in Defense Position, but banish this card when it leaves the field. If this card is sent to the GY by a card effect: You can add 1 \"Lunalight\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Lunalight Yellow Marten\" once per turn.",
+        "race": "Beast-Warrior",
+        "atk": 800,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50546208,
@@ -238,6 +194,15 @@
       {
         "id": 23649496,
         "name": "Number 18: Heraldry Patriarch",
+        "desc": "2 Level 4 monsters\nOnce per Chain, during either player's turn, if 2 or more monsters with the same name are on the field: You can detach 1 Xyz Material from this card; choose 1 monster among those with the same name, and destroy all other monsters with that name. While this card remains face-up on the field, your opponent cannot Summon monsters with the same name as any of the monster(s) chosen for this card's effect. If this card is sent to the Graveyard: You can send 2 \"Heraldic Beast\" monsters from your Deck to the Graveyard.",
+        "race": "Psychic",
+        "atk": 2200,
+        "def": 2200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 23649496,
@@ -250,6 +215,15 @@
       {
         "id": 87313164,
         "name": "Oh F!sh!",
+        "desc": "When an Effect Monster's effect activates: Shuffle 1 of your banished Fish, Sea Serpent, or Aqua-Type monsters into the Main Deck; negate the activation and destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87313164,
@@ -262,6 +236,15 @@
       {
         "id": 16020923,
         "name": "Pikari @Ignister",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"A.I.\" Spell/Trap from your Deck to your hand. You can target 1 \"@Ignister\" monster you control; its Level becomes 4 until the end of this turn. You can only use each effect of \"Pikari @Ignister\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1200,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 16020923,
@@ -274,6 +257,15 @@
       {
         "id": 69230391,
         "name": "Thestalos the Mega Monarch",
+        "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n● Also, inflict 1000 damage to your opponent after that.",
+        "race": "Pyro",
+        "atk": 2800,
+        "def": 1000,
+        "level": 8,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 69230391,
@@ -286,12 +278,298 @@
       {
         "id": 87602890,
         "name": "Zaborg the Mega Monarch",
+        "desc": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the GY, but not more than the original Level/Rank of that destroyed monster. If this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.\r\n● You choose the cards your opponent sends to the GY.",
+        "race": "Thunder",
+        "atk": 2800,
+        "def": 1000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87602890,
             "image_url": "https://images.ygoprodeck.com/images/cards/87602890.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87602890.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87602890.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 46396218,
+        "name": "Azamina Ilia Silvia",
+        "desc": "1 Illusion monster + 1 LIGHT Spellcaster monster\r\nAny battle damage your \"Azamina\" monsters, except \"Azamina Ilia Silvia\", inflicts to your opponent is doubled. You can only use each of the following effects of \"Azamina Ilia Silvia\" once per turn. When your opponent activates a card or effect (Quick Effect): You can Tribute this card; negate that effect. If this card is destroyed by battle or card effect: You can add 1 \"Sinful Spoils\" Trap from your Deck to your hand.",
+        "race": "Illusion",
+        "atk": 1900,
+        "def": 1500,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 46396218,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46396218.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46396218.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46396218.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89631139,
+        "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 89631139,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89631139.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89631139.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32600024,
+        "name": "Chamber Dragonmaid",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"Dragonmaid\" Spell/Trap from your Deck to your hand. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 or higher \"Dragonmaid\" monster from your hand or GY. You can only use each effect of \"Chamber Dragonmaid\" once per turn.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 32600024,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32600024.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32600024.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32600024.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 55326323,
+        "name": "Crystron Token",
+        "desc": "This card can be used as a \"Crystron Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+        "race": "Machine",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Token",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 55326323,
+            "image_url": "https://images.ygoprodeck.com/images/cards/55326323.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55326323.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55326323.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9763474,
+        "name": "Haggard Lizardose",
+        "desc": "2 monsters with different names\r\nYou can banish 1 monster from your face-up field or GY with 2000 or less ATK, then target 1 face-up monster on the field; make its ATK become equal to the original ATK of the monster banished to activate this effect (until the end of this turn), then if you banished a monster that was originally Reptile, draw 1 card. You can only use this effect of \"Haggard Lizardose\" once per turn.",
+        "race": "Reptile",
+        "atk": 800,
+        "def": null,
+        "level": null,
+        "attribute": "WATER",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 9763474,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9763474.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9763474.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9763474.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72578374,
+        "name": "Khaos Starsource Dragon",
+        "desc": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\r\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 72578374,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72578374.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72578374.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72578374.jpg"
+          }
+        ]
+      },
+      {
+        "id": 58786132,
+        "name": "Lucius the Shadow Vassal",
+        "desc": "You can banish 1 Level 5 or higher monster from your Graveyard; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at all Set cards your opponent controls. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use each effect of \"Lucius the Shadow Vassal\" once per turn.",
+        "race": "Fiend",
+        "atk": 800,
+        "def": 1000,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 58786132,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58786132.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58786132.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58786132.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89812483,
+        "name": "Max Metalmorph",
+        "desc": "Tribute 1 face-up monster; Special Summon 1 monster that cannot be Normal Summoned/Set and mentions \"Max Metalmorph\" from your hand, Deck, or GY, then you can equip this card to it with the following effect.\r\n● The equipped monster gains 400 ATK/DEF, it cannot be destroyed by Spell or monster effects, also your opponent cannot target it with monster effects or Spell Cards or effects.\r\nYou can only activate 1 \"Max Metalmorph\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 89812483,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89812483.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89812483.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89812483.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66518509,
+        "name": "Mementotlan Fusion",
+        "desc": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a \"Memento\" monster. If a monster(s) in your possession was destroyed by card effect this turn, you can also shuffle \"Memento\" monsters from your GY into the Deck as material. During your Main Phase: You can banish this card from your GY; destroy 1 monster you control, and if you do, add 1 \"Memento\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mementotlan Fusion\" once per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 66518509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66518509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66518509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66518509.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39163598,
+        "name": "Planet Pollutant Virus",
+        "desc": "Tribute 1 \"Alien\" monster. Destroy all face-up monsters without A-Counters your opponent controls. Until the end of your opponent's 3rd turn after this card's activation, place 1 A-Counter on each monster they Summon.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 39163598,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39163598.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39163598.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39163598.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98385955,
+        "name": "Silvy of the White Forest",
+        "desc": "If this card is Normal or Special Summoned: You can add 1 \"White Forest\" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 \"White Forest\" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of \"Silvy of the White Forest\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 200,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 98385955,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98385955.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98385955.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98385955.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6355563,
+        "name": "Y-Yare Head",
+        "desc": "If this card is Special Summoned: You can equip 1 Level 4 LIGHT Machine monster from your hand or GY to this card as an Equip Spell, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 6355563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/6355563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6355563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6355563.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33744268,
+        "name": "Z-Zillion Tank",
+        "desc": "If this card is Special Summoned: You can equip 1 of your banished Level 4 LIGHT Machine monsters to this card as an Equip Spell, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Union Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 33744268,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33744268.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33744268.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33744268.jpg"
           }
         ]
       }

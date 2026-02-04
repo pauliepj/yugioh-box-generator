@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2006 Wave 2",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 25366484,
         "name": "Elemental HERO Shining Flare Wingman",
+        "desc": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2100,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 25366484,
@@ -17,6 +26,15 @@
       {
         "id": 32491822,
         "name": "Hamon, Lord of Striking Thunder",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.",
+        "race": "Thunder",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 32491822,
@@ -29,6 +47,15 @@
       {
         "id": 6007213,
         "name": "Uria, Lord of Searing Flames",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
+        "race": "Pyro",
+        "atk": 0,
+        "def": 0,
+        "level": 10,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 6007213,
@@ -38,10 +65,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

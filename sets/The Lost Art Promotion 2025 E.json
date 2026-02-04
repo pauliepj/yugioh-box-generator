@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2025 E",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 30118811,
         "name": "Backup @Ignister",
+        "desc": "If you control a Cyberse monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 DARK Cyberse monster from your Deck to your hand, except \"Backup @Ignister\", then discard 1 card. You can only use each effect of \"Backup @Ignister\" once per turn.",
+        "race": "Cyberse",
+        "atk": 1200,
+        "def": 800,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 30118811,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

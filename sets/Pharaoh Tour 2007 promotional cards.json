@@ -1,27 +1,19 @@
 {
   "setName": "Pharaoh Tour 2007 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 75500286,
-        "name": "Gold Sarcophagus",
-        "card_images": [
-          {
-            "id": 75500286,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75500286.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75500286.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 40044918,
         "name": "Elemental HERO Stratos",
+        "desc": "When this card is Normal or Special Summoned: You can activate 1 of these effects.\r\n● Destroy Spells/Traps on the field, up to the number of \"HERO\" monsters you control, except this card.\r\n● Add 1 \"HERO\" monster from your Deck to your hand.",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 300,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40044918,
@@ -34,6 +26,29 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/40044919.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40044919.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40044919.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 75500286,
+        "name": "Gold Sarcophagus",
+        "desc": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 75500286,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75500286.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75500286.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75500286.jpg"
           }
         ]
       }

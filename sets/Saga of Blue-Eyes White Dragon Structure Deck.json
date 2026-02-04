@@ -1,11 +1,789 @@
 {
   "setName": "Saga of Blue-Eyes White Dragon Structure Deck",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "common": [
+      {
+        "id": 28596933,
+        "name": "A Wingbeat of Giant Dragon",
+        "desc": "Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 28596933,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28596933.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28596933.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28596933.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43096270,
+        "name": "Alexandrite Dragon",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 43096270,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43096270.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43096270.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43096270.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17655904,
+        "name": "Burst Stream of Destruction",
+        "desc": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17655904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17655904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17655904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17655904.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97077563,
+        "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 97077563,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97077563.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97077563.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39701395,
+        "name": "Cards of Consonance",
+        "desc": "Discard 1 Dragon Tuner with 1000 or less ATK; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 39701395,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39701395.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39701395.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39701395.jpg"
+          }
+        ]
+      },
+      {
+        "id": 13513663,
+        "name": "Castle of Dragon Souls",
+        "desc": "Once per turn: You can banish 1 Dragon monster from your GY, then target 1 monster you control; it gains 700 ATK until the end of this turn (even if this card leaves the field). When this face-up card on the field is sent to the GY: You can target 1 of your banished Dragon monsters; Special Summon that target. You can only control 1 \"Castle of Dragon Souls\".",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 13513663,
+            "image_url": "https://images.ygoprodeck.com/images/cards/13513663.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13513663.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13513663.jpg"
+          }
+        ]
+      },
+      {
+        "id": 82382815,
+        "name": "Champion's Vigilance",
+        "desc": "If you control a Level 7 or higher Normal Monster, when a monster would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 82382815,
+            "image_url": "https://images.ygoprodeck.com/images/cards/82382815.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82382815.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82382815.jpg"
+          }
+        ]
+      },
+      {
+        "id": 94192409,
+        "name": "Compulsory Evacuation Device",
+        "desc": "Target 1 monster on the field; return that target to the hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 94192409,
+            "image_url": "https://images.ygoprodeck.com/images/cards/94192409.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94192409.jpg"
+          }
+        ]
+      },
+      {
+        "id": 28378427,
+        "name": "Damage Condenser",
+        "desc": "When you take battle damage: Discard 1 card; Special Summon 1 monster from your Deck with ATK less than or equal to the battle damage you took, in face-up Attack Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 28378427,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28378427.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28378427.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28378427.jpg"
+          }
+        ]
+      },
+      {
+        "id": 57662975,
+        "name": "Darkstorm Dragon",
+        "desc": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn: You can send 1 face-up Spell/Trap Card you control to the Graveyard; destroy all Spell and Trap Cards on the field.",
+        "race": "Dragon",
+        "atk": 2700,
+        "def": 2500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Gemini Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 57662975,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57662975.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57662975.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57662975.jpg"
+          }
+        ]
+      },
+      {
+        "id": 20277376,
+        "name": "Divine Dragon Apocralyph",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Dragon-Type monster in your Graveyard; add that target to your hand.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 1500,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 20277376,
+            "image_url": "https://images.ygoprodeck.com/images/cards/20277376.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20277376.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20277376.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72549351,
+        "name": "Dragonic Tactics",
+        "desc": "Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 72549351,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72549351.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72549351.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72549351.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98045062,
+        "name": "Enemy Controller",
+        "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 98045062,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98045062.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98045062.jpg"
+          }
+        ]
+      },
+      {
+        "id": 50078509,
+        "name": "Fiendish Chain",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 50078509,
+            "image_url": "https://images.ygoprodeck.com/images/cards/50078509.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50078509.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21615956,
+        "name": "Flamvell Guard",
+        "desc": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+        "race": "Dragon",
+        "atk": 100,
+        "def": 2000,
+        "level": 1,
+        "attribute": "FIRE",
+        "type": "Normal Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 21615956,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21615956.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21615956.jpg"
+          }
+        ]
+      },
+      {
+        "id": 66337215,
+        "name": "Herald of Creation",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 66337215,
+            "image_url": "https://images.ygoprodeck.com/images/cards/66337215.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66337215.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66337215.jpg"
+          }
+        ]
+      },
+      {
+        "id": 77901552,
+        "name": "Hieratic Dragon of Tefnuit",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK/DEF 0.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 1400,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 77901552,
+            "image_url": "https://images.ygoprodeck.com/images/cards/77901552.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77901552.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77901552.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37742478,
+        "name": "Honest",
+        "desc": "During your Main Phase: You can return this face-up card from the field to the hand. During the Damage Step, when a LIGHT monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "race": "Fairy",
+        "atk": 1100,
+        "def": 1900,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 37742478,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37742478.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37742478.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37742478.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34627841,
+        "name": "Kaibaman",
+        "desc": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+        "race": "Warrior",
+        "atk": 200,
+        "def": 700,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 34627841,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34627841.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34627841.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34627841.jpg"
+          }
+        ]
+      },
+      {
+        "id": 52824910,
+        "name": "Kaiser Glider",
+        "desc": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2200,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 52824910,
+            "image_url": "https://images.ygoprodeck.com/images/cards/52824910.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52824910.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52824910.jpg"
+          }
+        ]
+      },
+      {
+        "id": 17444133,
+        "name": "Kaiser Sea Horse",
+        "desc": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
+        "race": "Sea Serpent",
+        "atk": 1700,
+        "def": 1650,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 17444133,
+            "image_url": "https://images.ygoprodeck.com/images/cards/17444133.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17444133.jpg"
+          }
+        ]
+      },
+      {
+        "id": 37390589,
+        "name": "Kunai with Chain",
+        "desc": "Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 37390589,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37390589.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37390589.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37390589.jpg"
+          },
+          {
+            "id": 37390590,
+            "image_url": "https://images.ygoprodeck.com/images/cards/37390590.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37390590.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37390590.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11091375,
+        "name": "Luster Dragon",
+        "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 1600,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 11091375,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11091375.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11091375.jpg"
+          }
+        ]
+      },
+      {
+        "id": 15960641,
+        "name": "Mirage Dragon",
+        "desc": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 15960641,
+            "image_url": "https://images.ygoprodeck.com/images/cards/15960641.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15960641.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15960641.jpg"
+          }
+        ]
+      },
+      {
+        "id": 83764719,
+        "name": "Monster Reborn",
+        "desc": "Target 1 monster in either GY; Special Summon it.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 83764719,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83764719.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764719.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764719.jpg"
+          },
+          {
+            "id": 83764718,
+            "image_url": "https://images.ygoprodeck.com/images/cards/83764718.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764718.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764718.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2295440,
+        "name": "One for One",
+        "desc": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 2295440,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2295440.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2295440.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2295440.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95788410,
+        "name": "Rabidragon",
+        "desc": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
+        "race": "Dragon",
+        "atk": 2950,
+        "def": 2900,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 95788410,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95788410.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95788410.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95788410.jpg"
+          }
+        ]
+      },
+      {
+        "id": 14235211,
+        "name": "Rider of the Storm Winds",
+        "desc": "You can target 1 Dragon Normal Monster you control; equip this monster from your hand or field to that target. If a monster equipped with this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If a monster equipped with this card would be destroyed, destroy this card instead.",
+        "race": "Dragon",
+        "atk": 500,
+        "def": 200,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 14235211,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14235211.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14235211.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14235211.jpg"
+          }
+        ]
+      },
+      {
+        "id": 95956346,
+        "name": "Shining Angel",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 95956346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/95956346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95956346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95956346.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87025064,
+        "name": "Silver's Cry",
+        "desc": "Target 1 Dragon Normal Monster in your GY; Special Summon that target. You can only activate 1 \"Silver's Cry\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 87025064,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87025064.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87025064.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87025064.jpg"
+          }
+        ]
+      },
+      {
+        "id": 68005187,
+        "name": "Soul Exchange",
+        "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 68005187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/68005187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68005187.jpg"
+          }
+        ]
+      },
+      {
+        "id": 81385346,
+        "name": "Stamping Destruction",
+        "desc": "If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 81385346,
+            "image_url": "https://images.ygoprodeck.com/images/cards/81385346.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81385346.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81385346.jpg"
+          }
+        ]
+      },
+      {
+        "id": 72302403,
+        "name": "Swords of Revealing Light",
+        "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 72302403,
+            "image_url": "https://images.ygoprodeck.com/images/cards/72302403.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72302403.jpg"
+          }
+        ]
+      },
+      {
+        "id": 79814787,
+        "name": "The White Stone of Legend",
+        "desc": "If this card is sent to the GY: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+        "race": "Dragon",
+        "atk": 300,
+        "def": 250,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 79814787,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79814787.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79814787.jpg"
+          }
+        ]
+      },
+      {
+        "id": 38120068,
+        "name": "Trade-In",
+        "desc": "Discard 1 Level 8 monster; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 38120068,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38120068.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38120068.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18756904,
+        "name": "White Elephant's Gift",
+        "desc": "Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
+        "card_images": [
+          {
+            "id": 18756904,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18756904.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18756904.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18756904.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
       {
         "id": 40908371,
         "name": "Azure-Eyes Silver Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner Normal Monsters\r\nIf this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 3000,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 40908371,
@@ -18,6 +796,15 @@
       {
         "id": 89631139,
         "name": "Blue-Eyes White Dragon",
+        "desc": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89631139,
@@ -70,10 +857,19 @@
         ]
       }
     ],
-    "super": [
+    "super rare": [
       {
         "id": 41620959,
         "name": "Dragon Shrine",
+        "desc": "Send 1 Dragon monster from your Deck to the GY, then, if that monster in your GY is a Dragon Normal Monster, you can send 1 more Dragon monster from your Deck to the GY. You can only activate 1 \"Dragon Shrine\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 41620959,
@@ -86,459 +882,21 @@
       {
         "id": 88241506,
         "name": "Maiden with Eyes of Blue",
+        "desc": "When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 \"Blue-Eyes White Dragon\" from your hand, Deck, or GY. You can only use 1 \"Maiden with Eyes of Blue\" effect per turn, and only once that turn.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "LIGHT",
+        "type": "Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 88241506,
             "image_url": "https://images.ygoprodeck.com/images/cards/88241506.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88241506.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88241506.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [],
-    "common": [
-      {
-        "id": 28596933,
-        "name": "A Wingbeat of Giant Dragon",
-        "card_images": [
-          {
-            "id": 28596933,
-            "image_url": "https://images.ygoprodeck.com/images/cards/28596933.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28596933.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28596933.jpg"
-          }
-        ]
-      },
-      {
-        "id": 43096270,
-        "name": "Alexandrite Dragon",
-        "card_images": [
-          {
-            "id": 43096270,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43096270.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43096270.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43096270.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17655904,
-        "name": "Burst Stream of Destruction",
-        "card_images": [
-          {
-            "id": 17655904,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17655904.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17655904.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17655904.jpg"
-          }
-        ]
-      },
-      {
-        "id": 97077563,
-        "name": "Call of the Haunted",
-        "card_images": [
-          {
-            "id": 97077563,
-            "image_url": "https://images.ygoprodeck.com/images/cards/97077563.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97077563.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97077563.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39701395,
-        "name": "Cards of Consonance",
-        "card_images": [
-          {
-            "id": 39701395,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39701395.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39701395.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39701395.jpg"
-          }
-        ]
-      },
-      {
-        "id": 13513663,
-        "name": "Castle of Dragon Souls",
-        "card_images": [
-          {
-            "id": 13513663,
-            "image_url": "https://images.ygoprodeck.com/images/cards/13513663.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13513663.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13513663.jpg"
-          }
-        ]
-      },
-      {
-        "id": 82382815,
-        "name": "Champion's Vigilance",
-        "card_images": [
-          {
-            "id": 82382815,
-            "image_url": "https://images.ygoprodeck.com/images/cards/82382815.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/82382815.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/82382815.jpg"
-          }
-        ]
-      },
-      {
-        "id": 94192409,
-        "name": "Compulsory Evacuation Device",
-        "card_images": [
-          {
-            "id": 94192409,
-            "image_url": "https://images.ygoprodeck.com/images/cards/94192409.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94192409.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94192409.jpg"
-          }
-        ]
-      },
-      {
-        "id": 28378427,
-        "name": "Damage Condenser",
-        "card_images": [
-          {
-            "id": 28378427,
-            "image_url": "https://images.ygoprodeck.com/images/cards/28378427.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28378427.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28378427.jpg"
-          }
-        ]
-      },
-      {
-        "id": 57662975,
-        "name": "Darkstorm Dragon",
-        "card_images": [
-          {
-            "id": 57662975,
-            "image_url": "https://images.ygoprodeck.com/images/cards/57662975.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57662975.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57662975.jpg"
-          }
-        ]
-      },
-      {
-        "id": 20277376,
-        "name": "Divine Dragon Apocralyph",
-        "card_images": [
-          {
-            "id": 20277376,
-            "image_url": "https://images.ygoprodeck.com/images/cards/20277376.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/20277376.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/20277376.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72549351,
-        "name": "Dragonic Tactics",
-        "card_images": [
-          {
-            "id": 72549351,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72549351.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72549351.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72549351.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98045062,
-        "name": "Enemy Controller",
-        "card_images": [
-          {
-            "id": 98045062,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98045062.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98045062.jpg"
-          }
-        ]
-      },
-      {
-        "id": 50078509,
-        "name": "Fiendish Chain",
-        "card_images": [
-          {
-            "id": 50078509,
-            "image_url": "https://images.ygoprodeck.com/images/cards/50078509.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50078509.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50078509.jpg"
-          }
-        ]
-      },
-      {
-        "id": 21615956,
-        "name": "Flamvell Guard",
-        "card_images": [
-          {
-            "id": 21615956,
-            "image_url": "https://images.ygoprodeck.com/images/cards/21615956.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21615956.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21615956.jpg"
-          }
-        ]
-      },
-      {
-        "id": 66337215,
-        "name": "Herald of Creation",
-        "card_images": [
-          {
-            "id": 66337215,
-            "image_url": "https://images.ygoprodeck.com/images/cards/66337215.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66337215.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66337215.jpg"
-          }
-        ]
-      },
-      {
-        "id": 77901552,
-        "name": "Hieratic Dragon of Tefnuit",
-        "card_images": [
-          {
-            "id": 77901552,
-            "image_url": "https://images.ygoprodeck.com/images/cards/77901552.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77901552.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77901552.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37742478,
-        "name": "Honest",
-        "card_images": [
-          {
-            "id": 37742478,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37742478.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37742478.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37742478.jpg"
-          }
-        ]
-      },
-      {
-        "id": 34627841,
-        "name": "Kaibaman",
-        "card_images": [
-          {
-            "id": 34627841,
-            "image_url": "https://images.ygoprodeck.com/images/cards/34627841.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34627841.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34627841.jpg"
-          }
-        ]
-      },
-      {
-        "id": 52824910,
-        "name": "Kaiser Glider",
-        "card_images": [
-          {
-            "id": 52824910,
-            "image_url": "https://images.ygoprodeck.com/images/cards/52824910.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52824910.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52824910.jpg"
-          }
-        ]
-      },
-      {
-        "id": 17444133,
-        "name": "Kaiser Sea Horse",
-        "card_images": [
-          {
-            "id": 17444133,
-            "image_url": "https://images.ygoprodeck.com/images/cards/17444133.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17444133.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17444133.jpg"
-          }
-        ]
-      },
-      {
-        "id": 37390589,
-        "name": "Kunai with Chain",
-        "card_images": [
-          {
-            "id": 37390589,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37390589.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37390589.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37390589.jpg"
-          },
-          {
-            "id": 37390590,
-            "image_url": "https://images.ygoprodeck.com/images/cards/37390590.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37390590.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37390590.jpg"
-          }
-        ]
-      },
-      {
-        "id": 11091375,
-        "name": "Luster Dragon",
-        "card_images": [
-          {
-            "id": 11091375,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11091375.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11091375.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11091375.jpg"
-          }
-        ]
-      },
-      {
-        "id": 15960641,
-        "name": "Mirage Dragon",
-        "card_images": [
-          {
-            "id": 15960641,
-            "image_url": "https://images.ygoprodeck.com/images/cards/15960641.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15960641.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15960641.jpg"
-          }
-        ]
-      },
-      {
-        "id": 83764719,
-        "name": "Monster Reborn",
-        "card_images": [
-          {
-            "id": 83764719,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83764719.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764719.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764719.jpg"
-          },
-          {
-            "id": 83764718,
-            "image_url": "https://images.ygoprodeck.com/images/cards/83764718.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83764718.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83764718.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2295440,
-        "name": "One for One",
-        "card_images": [
-          {
-            "id": 2295440,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2295440.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2295440.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2295440.jpg"
-          }
-        ]
-      },
-      {
-        "id": 95788410,
-        "name": "Rabidragon",
-        "card_images": [
-          {
-            "id": 95788410,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95788410.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95788410.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95788410.jpg"
-          }
-        ]
-      },
-      {
-        "id": 14235211,
-        "name": "Rider of the Storm Winds",
-        "card_images": [
-          {
-            "id": 14235211,
-            "image_url": "https://images.ygoprodeck.com/images/cards/14235211.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14235211.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14235211.jpg"
-          }
-        ]
-      },
-      {
-        "id": 95956346,
-        "name": "Shining Angel",
-        "card_images": [
-          {
-            "id": 95956346,
-            "image_url": "https://images.ygoprodeck.com/images/cards/95956346.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95956346.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95956346.jpg"
-          }
-        ]
-      },
-      {
-        "id": 87025064,
-        "name": "Silver's Cry",
-        "card_images": [
-          {
-            "id": 87025064,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87025064.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87025064.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87025064.jpg"
-          }
-        ]
-      },
-      {
-        "id": 68005187,
-        "name": "Soul Exchange",
-        "card_images": [
-          {
-            "id": 68005187,
-            "image_url": "https://images.ygoprodeck.com/images/cards/68005187.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68005187.jpg"
-          }
-        ]
-      },
-      {
-        "id": 81385346,
-        "name": "Stamping Destruction",
-        "card_images": [
-          {
-            "id": 81385346,
-            "image_url": "https://images.ygoprodeck.com/images/cards/81385346.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81385346.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81385346.jpg"
-          }
-        ]
-      },
-      {
-        "id": 72302403,
-        "name": "Swords of Revealing Light",
-        "card_images": [
-          {
-            "id": 72302403,
-            "image_url": "https://images.ygoprodeck.com/images/cards/72302403.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72302403.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72302403.jpg"
-          }
-        ]
-      },
-      {
-        "id": 79814787,
-        "name": "The White Stone of Legend",
-        "card_images": [
-          {
-            "id": 79814787,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79814787.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79814787.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79814787.jpg"
-          }
-        ]
-      },
-      {
-        "id": 38120068,
-        "name": "Trade-In",
-        "card_images": [
-          {
-            "id": 38120068,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38120068.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38120068.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38120068.jpg"
-          }
-        ]
-      },
-      {
-        "id": 18756904,
-        "name": "White Elephant's Gift",
-        "card_images": [
-          {
-            "id": 18756904,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18756904.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18756904.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18756904.jpg"
           }
         ]
       }

@@ -1,27 +1,19 @@
 {
   "setName": "Saber Force Starter Deck",
   "rarities": {
-    "secret": [
-      {
-        "id": 19221310,
-        "name": "Odd-Eyes Saber Dragon",
-        "card_images": [
-          {
-            "id": 19221310,
-            "image_url": "https://images.ygoprodeck.com/images/cards/19221310.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19221310.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19221310.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 43096270,
         "name": "Alexandrite Dragon",
+        "desc": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 100,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 43096270,
@@ -34,6 +26,15 @@
       {
         "id": 65169794,
         "name": "Black Pendant",
+        "desc": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 65169794,
@@ -46,6 +47,15 @@
       {
         "id": 39507162,
         "name": "Blade Knight",
+        "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39507162,
@@ -58,6 +68,15 @@
       {
         "id": 97077563,
         "name": "Call of the Haunted",
+        "desc": "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97077563,
@@ -70,6 +89,15 @@
       {
         "id": 70095154,
         "name": "Cyber Dragon",
+        "desc": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+        "race": "Machine",
+        "atk": 2100,
+        "def": 1600,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70095154,
@@ -88,6 +116,15 @@
       {
         "id": 14506878,
         "name": "DUCKER Mobile Cannon",
+        "desc": "FLIP: Target 1 Level 4 monster in your Graveyard; add that target to your hand.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 500,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14506878,
@@ -100,6 +137,15 @@
       {
         "id": 60082869,
         "name": "Dust Tornado",
+        "desc": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60082869,
@@ -112,6 +158,15 @@
       {
         "id": 66337215,
         "name": "Herald of Creation",
+        "desc": "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66337215,
@@ -124,6 +179,15 @@
       {
         "id": 52824910,
         "name": "Kaiser Glider",
+        "desc": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2200,
+        "level": 6,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 52824910,
@@ -136,6 +200,15 @@
       {
         "id": 93013676,
         "name": "Maha Vailo",
+        "desc": "This card gains 500 ATK for each Equip Card equipped to this card.",
+        "race": "Spellcaster",
+        "atk": 1550,
+        "def": 1400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 93013676,
@@ -148,6 +221,15 @@
       {
         "id": 99597615,
         "name": "Malevolent Nuzzler",
+        "desc": "The equipped monster gains 700 ATK. When this card is sent from the field to the Graveyard: You can pay 500 LP; place this card on the top of your Deck.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99597615,
@@ -160,6 +242,15 @@
       {
         "id": 15960641,
         "name": "Mirage Dragon",
+        "desc": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+        "race": "Dragon",
+        "atk": 1600,
+        "def": 600,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15960641,
@@ -172,6 +263,15 @@
       {
         "id": 74848038,
         "name": "Monster Reincarnation",
+        "desc": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74848038,
@@ -184,6 +284,15 @@
       {
         "id": 15025844,
         "name": "Mystical Elf",
+        "desc": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15025844,
@@ -196,6 +305,15 @@
       {
         "id": 5318639,
         "name": "Mystical Space Typhoon",
+        "desc": "Target 1 Spell/Trap on the field; destroy that target.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5318639,
@@ -208,6 +326,15 @@
       {
         "id": 14315573,
         "name": "Negate Attack",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14315573,
@@ -220,6 +347,15 @@
       {
         "id": 44509898,
         "name": "Pinpoint Guard",
+        "desc": "When an opponent's monster declares an attack: Target 1 Level 4 or lower monster in your Graveyard; Special Summon it in Defense Position. It cannot be destroyed by battle or card effects this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 44509898,
@@ -232,6 +368,15 @@
       {
         "id": 8842266,
         "name": "Poison of the Old Man",
+        "desc": "Activate 1 of these effects;\n● Gain 1200 LP.\n● Inflict 800 damage to your opponent.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8842266,
@@ -244,6 +389,15 @@
       {
         "id": 70046172,
         "name": "Rush Recklessly",
+        "desc": "Target 1 face-up monster on the field; it gains 700 ATK until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70046172,
@@ -256,6 +410,15 @@
       {
         "id": 60694662,
         "name": "Skelengel",
+        "desc": "FLIP: Draw 1 card.",
+        "race": "Fairy",
+        "atk": 900,
+        "def": 400,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 60694662,
@@ -268,6 +431,15 @@
       {
         "id": 51196174,
         "name": "The Calculator",
+        "desc": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+        "race": "Thunder",
+        "atk": -1,
+        "def": 0,
+        "level": 2,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 51196174,
@@ -280,12 +452,151 @@
       {
         "id": 4206964,
         "name": "Trap Hole",
+        "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 4206964,
             "image_url": "https://images.ygoprodeck.com/images/cards/4206964.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4206964.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4206964.jpg"
+          }
+        ]
+      }
+    ],
+    "shatterfoil rare": [
+      {
+        "id": 53129443,
+        "name": "Dark Hole",
+        "desc": "Destroy all monsters on the field.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 53129443,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53129443.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53129443.jpg"
+          }
+        ]
+      },
+      {
+        "id": 62279055,
+        "name": "Magic Cylinder",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 62279055,
+            "image_url": "https://images.ygoprodeck.com/images/cards/62279055.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62279055.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62279055.jpg"
+          }
+        ]
+      },
+      {
+        "id": 44095762,
+        "name": "Mirror Force",
+        "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 44095762,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44095762.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44095762.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44095762.jpg"
+          }
+        ]
+      },
+      {
+        "id": 53025096,
+        "name": "Odd-Eyes Dragon",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 53025096,
+            "image_url": "https://images.ygoprodeck.com/images/cards/53025096.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53025096.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53025096.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97169186,
+        "name": "Smashing Ground",
+        "desc": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Shatterfoil Rare",
+        "rarityCanonical": "shatterfoil rare",
+        "card_images": [
+          {
+            "id": 97169186,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97169186.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97169186.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97169186.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
+      {
+        "id": 19221310,
+        "name": "Odd-Eyes Saber Dragon",
+        "desc": "If this card is in your hand: You can Tribute 1 LIGHT monster; send 1 \"Odd-Eyes Dragon\" from your hand, Deck, or your side of the field to the Graveyard, and if you do, Special Summon this card. When this card destroys a monster by battle and sends it to the Graveyard: You can destroy 1 monster your opponent controls.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 19221310,
+            "image_url": "https://images.ygoprodeck.com/images/cards/19221310.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19221310.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19221310.jpg"
           }
         ]
       }

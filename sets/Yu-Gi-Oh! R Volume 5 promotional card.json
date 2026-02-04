@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! R Volume 5 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 17573739,
         "name": "Alector, Sovereign of Birds",
+        "desc": "If your opponent controls 2 or more face-up monsters of the same Attribute, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up card on the field; that target's effects are negated during this turn. There can only be 1 face-up \"Alector, Sovereign of Birds\" on the field.",
+        "race": "Winged Beast",
+        "atk": 2400,
+        "def": 2000,
+        "level": 6,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 17573739,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

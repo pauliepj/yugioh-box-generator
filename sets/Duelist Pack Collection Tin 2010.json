@@ -1,62 +1,19 @@
 {
   "setName": "Duelist Pack Collection Tin 2010",
   "rarities": {
-    "secret": [
-      {
-        "id": 58120309,
-        "name": "Starlight Road",
-        "card_images": [
-          {
-            "id": 58120309,
-            "image_url": "https://images.ygoprodeck.com/images/cards/58120309.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58120309.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58120309.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [
-      {
-        "id": 56286179,
-        "name": "Drill Synchron",
-        "card_images": [
-          {
-            "id": 56286179,
-            "image_url": "https://images.ygoprodeck.com/images/cards/56286179.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56286179.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56286179.jpg"
-          }
-        ]
-      },
-      {
-        "id": 63977008,
-        "name": "Junk Synchron",
-        "card_images": [
-          {
-            "id": 63977008,
-            "image_url": "https://images.ygoprodeck.com/images/cards/63977008.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63977008.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63977008.jpg"
-          }
-        ]
-      },
-      {
-        "id": 98427577,
-        "name": "Scrap-Iron Scarecrow",
-        "card_images": [
-          {
-            "id": 98427577,
-            "image_url": "https://images.ygoprodeck.com/images/cards/98427577.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98427577.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98427577.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
+    "super rare": [
       {
         "id": 51630558,
         "name": "Advance Draw",
+        "desc": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 51630558,
@@ -69,6 +26,15 @@
       {
         "id": 57421866,
         "name": "Level Eater",
+        "desc": "If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.",
+        "race": "Insect",
+        "atk": 600,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 57421866,
@@ -81,6 +47,15 @@
       {
         "id": 2295440,
         "name": "One for One",
+        "desc": "Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 2295440,
@@ -93,6 +68,15 @@
       {
         "id": 23571046,
         "name": "Quillbolt Hedgehog",
+        "desc": "If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 800,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 23571046,
@@ -105,6 +89,15 @@
       {
         "id": 9365703,
         "name": "Speed Warrior",
+        "desc": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+        "race": "Warrior",
+        "atk": 900,
+        "def": 400,
+        "level": 2,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 9365703,
@@ -117,6 +110,15 @@
       {
         "id": 35537860,
         "name": "Synchro Blast Wave",
+        "desc": "If you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 35537860,
@@ -127,7 +129,93 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "ultra rare": [
+      {
+        "id": 56286179,
+        "name": "Drill Synchron",
+        "desc": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+        "race": "Machine",
+        "atk": 800,
+        "def": 300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 56286179,
+            "image_url": "https://images.ygoprodeck.com/images/cards/56286179.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56286179.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56286179.jpg"
+          }
+        ]
+      },
+      {
+        "id": 63977008,
+        "name": "Junk Synchron",
+        "desc": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+        "race": "Warrior",
+        "atk": 1300,
+        "def": 500,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Tuner Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 63977008,
+            "image_url": "https://images.ygoprodeck.com/images/cards/63977008.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63977008.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63977008.jpg"
+          }
+        ]
+      },
+      {
+        "id": 98427577,
+        "name": "Scrap-Iron Scarecrow",
+        "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 98427577,
+            "image_url": "https://images.ygoprodeck.com/images/cards/98427577.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98427577.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98427577.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
+      {
+        "id": 58120309,
+        "name": "Starlight Road",
+        "desc": "When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 \"Stardust Dragon\" from your Extra Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 58120309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/58120309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58120309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58120309.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

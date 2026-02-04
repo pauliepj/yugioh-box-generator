@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2024 C",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 56993276,
         "name": "Wattcancel",
+        "desc": "When your opponent would Normal or Special Summon a monster: Discard 1 \"Watt\" monster; negate the Summon and destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 56993276,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

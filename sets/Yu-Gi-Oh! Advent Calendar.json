@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Advent Calendar",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 69181753,
         "name": "Performapal Kuribohble",
+        "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card, and proceed to damage calculation. If you would take battle damage from that battle, you gain that much LP instead.",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 69181753,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

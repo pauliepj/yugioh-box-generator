@@ -1,11 +1,19 @@
 {
   "setName": "Pharaoh Tour 2006 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 55713623,
@@ -16,12 +24,19 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 90960358,
         "name": "Toon Dark Magician Girl",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Toon Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90960358,

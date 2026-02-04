@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 50755,
         "name": "Magician's Circle",
+        "desc": "When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 50755,
@@ -19,6 +26,15 @@
       {
         "id": 73665146,
         "name": "Silent Magician LV4",
+        "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+        "race": "Spellcaster",
+        "atk": 1000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 73665146,
@@ -31,6 +47,15 @@
       {
         "id": 72443568,
         "name": "Silent Magician LV8",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
+        "race": "Spellcaster",
+        "atk": 3500,
+        "def": 1000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 72443568,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

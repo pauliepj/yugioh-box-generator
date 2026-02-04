@@ -1,12 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! World Championship 2007 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 56570271,
         "name": "Destiny HERO - Disk Commander",
+        "desc": "Cannot be Special Summoned from the GY the turn this card was sent to the GY. If this card is Special Summoned from the GY: You can draw 2 cards. You can only use this effect of \"Destiny HERO - Disk Commander\" once per Duel.",
+        "race": "Warrior",
+        "atk": 300,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 56570271,
@@ -19,6 +26,15 @@
       {
         "id": 20586572,
         "name": "Exploder Dragon",
+        "desc": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+        "race": "Dragon",
+        "atk": 1000,
+        "def": 0,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 20586572,
@@ -31,6 +47,15 @@
       {
         "id": 93187568,
         "name": "Spell Striker",
+        "desc": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+        "race": "Warrior",
+        "atk": 600,
+        "def": 200,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 93187568,
@@ -40,8 +65,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

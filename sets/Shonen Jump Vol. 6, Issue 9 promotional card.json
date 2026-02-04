@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 6, Issue 9 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 38109772,
         "name": "Dragonic Knight",
+        "desc": "When the effect of an opponent's monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.",
+        "race": "Dragon",
+        "atk": 2800,
+        "def": 2300,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 38109772,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

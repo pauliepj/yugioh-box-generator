@@ -1,10 +1,42 @@
 {
   "setName": "Nike collaboration cards",
   "rarities": {
-    "secret": [
+    "reprint": [
+      {
+        "id": 74677422,
+        "name": "Red-Eyes Black Dragon",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Reprint",
+        "rarityCanonical": "reprint",
+        "card_images": [
+          {
+            "id": 74677422,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74677422.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74677422.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74677422.jpg"
+          }
+        ]
+      }
+    ],
+    "secret rare": [
       {
         "id": 37301660,
         "name": "WINDS OF VICTORY",
+        "desc": "The equipped monster gains 300 ATK, also it becomes WIND.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 37301660,
@@ -14,10 +46,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

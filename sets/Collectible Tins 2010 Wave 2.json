@@ -1,37 +1,19 @@
 {
   "setName": "Collectible Tins 2010 Wave 2",
   "rarities": {
-    "secret": [
-      {
-        "id": 97489701,
-        "name": "Red Nova Dragon",
-        "card_images": [
-          {
-            "id": 97489701,
-            "image_url": "https://images.ygoprodeck.com/images/cards/97489701.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97489701.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97489701.jpg"
-          }
-        ]
-      },
-      {
-        "id": 24696097,
-        "name": "Shooting Star Dragon",
-        "card_images": [
-          {
-            "id": 24696097,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24696097.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24696097.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24696097.jpg"
-          }
-        ]
-      }
-    ],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 66973070,
         "name": "Dreadscythe Harvester",
+        "desc": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
+        "race": "Insect",
+        "atk": 2300,
+        "def": 1600,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 66973070,
@@ -44,6 +26,15 @@
       {
         "id": 37195861,
         "name": "Elemental HERO Ocean",
+        "desc": "Once per turn, during your Standby Phase: You can target 1 \"HERO\" monster you control or in your Graveyard; return that target to the hand.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 37195861,
@@ -56,6 +47,15 @@
       {
         "id": 13893596,
         "name": "Exodius the Ultimate Forbidden Lord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different \"Forbidden One\" cards in your Graveyard that were sent there by this card's effect, you win the Duel.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 13893596,
@@ -68,6 +68,15 @@
       {
         "id": 64681432,
         "name": "Gandora the Dragon of Destruction",
+        "desc": "Cannot be Special Summoned. You can pay half your LP; destroy as many cards on the field as possible (other than this card), and if you do, banish them. This card gains 300 ATK for each card destroyed this way. Once per turn, during the End Phase, if this card was Normal or Flip Summoned this turn: Send it to the Graveyard.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 64681432,
@@ -80,6 +89,15 @@
       {
         "id": 80304126,
         "name": "Magician's Valkyria",
+        "desc": "Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.",
+        "race": "Spellcaster",
+        "atk": 1600,
+        "def": 1800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 80304126,
@@ -92,6 +110,15 @@
       {
         "id": 70902743,
         "name": "Red Dragon Archfiend",
+        "desc": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 70902743,
@@ -104,6 +131,15 @@
       {
         "id": 44508094,
         "name": "Stardust Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 44508094,
@@ -122,6 +158,15 @@
       {
         "id": 21208154,
         "name": "The Wicked Avatar",
+        "desc": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Your opponent cannot activate Spell or Trap Cards until the end of their 2nd turn after this card is Normal Summoned. The ATK and DEF of this card are each 100 points higher than the highest face-up monster's ATK on the field (except \"The Wicked Avatar\").",
+        "race": "Fiend",
+        "atk": -1,
+        "def": -1,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 21208154,
@@ -132,7 +177,49 @@
         ]
       }
     ],
-    "rare": [],
-    "common": []
+    "secret rare": [
+      {
+        "id": 97489701,
+        "name": "Red Nova Dragon",
+        "desc": "2 Tuners + \"Red Dragon Archfiend\"\nThis card gains 500 ATK for each Tuner monster in your Graveyard. Cannot be destroyed by an opponent's card effects. When an opponent's monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. During the next End Phase: Special Summon this card banished by this effect.",
+        "race": "Dragon",
+        "atk": 3500,
+        "def": 3000,
+        "level": 12,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 97489701,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97489701.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97489701.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97489701.jpg"
+          }
+        ]
+      },
+      {
+        "id": 24696097,
+        "name": "Shooting Star Dragon",
+        "desc": "1 Tuner Synchro Monster + \"Stardust Dragon\"\nOnce per turn: You can excavate the top 5 cards of your Deck, shuffle them back in, also this card's maximum number of attacks per Battle Phase this turn equals the number of Tuner monsters excavated. Once per turn, during either player's turn, when a card or effect is activated that would destroy a card(s) on the field: You can negate the effect, and if you do, destroy it. Once per turn, when an opponent's monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. During the next End Phase: Special Summon this card banished by this effect.",
+        "race": "Dragon",
+        "atk": 3300,
+        "def": 2500,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
+        "card_images": [
+          {
+            "id": 24696097,
+            "image_url": "https://images.ygoprodeck.com/images/cards/24696097.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24696097.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24696097.jpg"
+          }
+        ]
+      }
+    ]
   }
 }

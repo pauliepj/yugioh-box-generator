@@ -1,11 +1,19 @@
 {
   "setName": "Pharaoh Tour 2005 promotional cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 81059524,
         "name": "Des Volstgalph",
+        "desc": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 500 damage to your opponent. Each time a Normal or Quick-Play Spell Card resolves, this card gains 200 ATK until the end of this turn.",
+        "race": "Dragon",
+        "atk": 2200,
+        "def": 1700,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 81059524,
@@ -16,12 +24,19 @@
         ]
       }
     ],
-    "super": [],
-    "rare": [],
     "common": [
       {
         "id": 24311372,
         "name": "Zoa",
+        "desc": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+        "race": "Fiend",
+        "atk": 2600,
+        "def": 1900,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24311372,

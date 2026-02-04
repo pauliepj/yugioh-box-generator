@@ -1,131 +1,19 @@
 {
   "setName": "Tournament Pack 8",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 96008713,
-        "name": "Magical Arm Shield",
-        "card_images": [
-          {
-            "id": 96008713,
-            "image_url": "https://images.ygoprodeck.com/images/cards/96008713.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96008713.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96008713.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 12493482,
-        "name": "Dunames Dark Witch",
-        "card_images": [
-          {
-            "id": 12493482,
-            "image_url": "https://images.ygoprodeck.com/images/cards/12493482.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12493482.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12493482.jpg"
-          }
-        ]
-      },
-      {
-        "id": 90844184,
-        "name": "Garma Sword",
-        "card_images": [
-          {
-            "id": 90844184,
-            "image_url": "https://images.ygoprodeck.com/images/cards/90844184.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90844184.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90844184.jpg"
-          }
-        ]
-      },
-      {
-        "id": 18144506,
-        "name": "Harpie's Feather Duster",
-        "card_images": [
-          {
-            "id": 18144506,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18144506.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18144506.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18144506.jpg"
-          },
-          {
-            "id": 18144507,
-            "image_url": "https://images.ygoprodeck.com/images/cards/18144507.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18144507.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18144507.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78636495,
-        "name": "Slate Warrior",
-        "card_images": [
-          {
-            "id": 78636495,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78636495.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78636495.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78636495.jpg"
-          }
-        ]
-      }
-    ],
-    "rare": [
-      {
-        "id": 60229110,
-        "name": "Granmarg the Rock Monarch",
-        "card_images": [
-          {
-            "id": 60229110,
-            "image_url": "https://images.ygoprodeck.com/images/cards/60229110.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60229110.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60229110.jpg"
-          }
-        ]
-      },
-      {
-        "id": 4929256,
-        "name": "Mobius the Frost Monarch",
-        "card_images": [
-          {
-            "id": 4929256,
-            "image_url": "https://images.ygoprodeck.com/images/cards/4929256.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4929256.jpg"
-          }
-        ]
-      },
-      {
-        "id": 26205777,
-        "name": "Thestalos the Firestorm Monarch",
-        "card_images": [
-          {
-            "id": 26205777,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26205777.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26205777.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26205777.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51945556,
-        "name": "Zaborg the Thunder Monarch",
-        "card_images": [
-          {
-            "id": 51945556,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51945556.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51945556.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51945556.jpg"
-          }
-        ]
-      }
-    ],
     "common": [
       {
         "id": 94022093,
         "name": "Behegon",
+        "desc": "With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.",
+        "race": "Aqua",
+        "atk": 1350,
+        "def": 1000,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94022093,
@@ -138,6 +26,15 @@
       {
         "id": 39168895,
         "name": "Berserk Gorilla",
+        "desc": "If this card is in face-up Defense Position, destroy this card. This card must attack if able.",
+        "race": "Beast",
+        "atk": 2000,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 39168895,
@@ -150,6 +47,15 @@
       {
         "id": 34743446,
         "name": "Blocker",
+        "desc": "Constructed from several components, this monster can launch them in a pincer attack.",
+        "race": "Machine",
+        "atk": 850,
+        "def": 1800,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 34743446,
@@ -162,6 +68,15 @@
       {
         "id": 78577570,
         "name": "Garma Sword Oath",
+        "desc": "This card is used to Ritual Summon \"Garma Sword\". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 78577570,
@@ -174,6 +89,15 @@
       {
         "id": 19737320,
         "name": "Gatekeeper",
+        "desc": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+        "race": "Machine",
+        "atk": 1500,
+        "def": 1800,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 19737320,
@@ -186,6 +110,15 @@
       {
         "id": 61454890,
         "name": "Necrolancer the Time-lord",
+        "desc": "The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.",
+        "race": "Spellcaster",
+        "atk": 800,
+        "def": 900,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 61454890,
@@ -198,6 +131,15 @@
       {
         "id": 15507080,
         "name": "Sectarian of Secrets",
+        "desc": "This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.",
+        "race": "Spellcaster",
+        "atk": 700,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15507080,
@@ -210,6 +152,15 @@
       {
         "id": 732302,
         "name": "Temple of Skulls",
+        "desc": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+        "race": "Zombie",
+        "atk": 900,
+        "def": 1300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 732302,
@@ -222,6 +173,15 @@
       {
         "id": 80604091,
         "name": "Ultimate Offering",
+        "desc": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80604091,
@@ -240,6 +200,15 @@
       {
         "id": 94042337,
         "name": "Violent Rain",
+        "desc": "This monster can call forth sudden torrents of battering rain.",
+        "race": "Aqua",
+        "atk": 1550,
+        "def": 800,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 94042337,
@@ -252,12 +221,222 @@
       {
         "id": 17238333,
         "name": "Wretched Ghost of the Attic",
+        "desc": "A harmless monster found lurking in just about any attic.",
+        "race": "Fiend",
+        "atk": 550,
+        "def": 400,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 17238333,
             "image_url": "https://images.ygoprodeck.com/images/cards/17238333.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17238333.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17238333.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 12493482,
+        "name": "Dunames Dark Witch",
+        "desc": "Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.",
+        "race": "Fairy",
+        "atk": 1800,
+        "def": 1050,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Normal Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 12493482,
+            "image_url": "https://images.ygoprodeck.com/images/cards/12493482.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12493482.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12493482.jpg"
+          }
+        ]
+      },
+      {
+        "id": 90844184,
+        "name": "Garma Sword",
+        "desc": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Garma Sword Oath\".",
+        "race": "Warrior",
+        "atk": 2550,
+        "def": 2150,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Ritual Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 90844184,
+            "image_url": "https://images.ygoprodeck.com/images/cards/90844184.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90844184.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90844184.jpg"
+          }
+        ]
+      },
+      {
+        "id": 18144506,
+        "name": "Harpie's Feather Duster",
+        "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 18144506,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18144506.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18144506.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18144506.jpg"
+          },
+          {
+            "id": 18144507,
+            "image_url": "https://images.ygoprodeck.com/images/cards/18144507.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/18144507.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/18144507.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78636495,
+        "name": "Slate Warrior",
+        "desc": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+        "race": "Fiend",
+        "atk": 1900,
+        "def": 400,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 78636495,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78636495.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78636495.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78636495.jpg"
+          }
+        ]
+      }
+    ],
+    "rare": [
+      {
+        "id": 60229110,
+        "name": "Granmarg the Rock Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+        "race": "Rock",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 60229110,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60229110.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60229110.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60229110.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4929256,
+        "name": "Mobius the Frost Monarch",
+        "desc": "When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Aqua",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 4929256,
+            "image_url": "https://images.ygoprodeck.com/images/cards/4929256.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4929256.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4929256.jpg"
+          }
+        ]
+      },
+      {
+        "id": 26205777,
+        "name": "Thestalos the Firestorm Monarch",
+        "desc": "If this card is Tribute Summoned: Discard 1 random card from your opponent's hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.",
+        "race": "Pyro",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 26205777,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26205777.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26205777.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26205777.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51945556,
+        "name": "Zaborg the Thunder Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 monster on the field; destroy that target.",
+        "race": "Thunder",
+        "atk": 2400,
+        "def": 1000,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
+        "card_images": [
+          {
+            "id": 51945556,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51945556.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51945556.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51945556.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 96008713,
+        "name": "Magical Arm Shield",
+        "desc": "When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 96008713,
+            "image_url": "https://images.ygoprodeck.com/images/cards/96008713.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96008713.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96008713.jpg"
           }
         ]
       }

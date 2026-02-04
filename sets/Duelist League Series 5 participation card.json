@@ -1,12 +1,19 @@
 {
   "setName": "Duelist League Series 5 participation card",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 99518961,
         "name": "Restructer Revolution",
+        "desc": "Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 99518961,
@@ -16,8 +23,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

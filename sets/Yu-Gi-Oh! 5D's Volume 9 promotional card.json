@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 5D's Volume 9 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 89474727,
         "name": "Stardust Chronicle Spark Dragon",
+        "desc": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Once per turn (Quick Effect): You can banish 1 Synchro Monster from your GY; this card is unaffected by other cards' effects for the rest of this turn. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 of your banished Dragon Synchro Monsters; Special Summon it.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 89474727,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

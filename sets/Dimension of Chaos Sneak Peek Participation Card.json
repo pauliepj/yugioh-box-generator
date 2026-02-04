@@ -1,11 +1,19 @@
 {
   "setName": "Dimension of Chaos Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 93124273,
         "name": "Samurai Cavalry of Reptier",
+        "desc": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+        "race": "Dinosaur",
+        "atk": 1800,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 93124273,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

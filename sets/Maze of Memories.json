@@ -1,11 +1,19 @@
 {
   "setName": "Maze of Memories",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "collector's rare": [
       {
         "id": 30983281,
         "name": "Accel Synchro Stardust Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon 1 Level 2 or lower Tuner from your GY. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Stardust Dragon\" from your Extra Deck (this is treated as a Synchro Summon), then, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control as material. This turn, the monsters Synchro Summoned by this effect are unaffected by your opponent's activated effects. You can only use each effect of \"Accel Synchro Stardust Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 30983281,
@@ -24,6 +32,15 @@
       {
         "id": 84815190,
         "name": "Baronne de Fleur",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of \"Baronne de Fleur\" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2400,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 84815190,
@@ -42,6 +59,15 @@
       {
         "id": 70551291,
         "name": "Black Luster Soldier - Legendary Swordsman",
+        "desc": "You can Ritual Summon this card with \"Chaos Form\" or \"Super Soldier Ritual\". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 70551291,
@@ -60,6 +86,15 @@
       {
         "id": 5833312,
         "name": "Duel Academy",
+        "desc": "This card gains these effects based on the Types of monsters on the field.\r\n● Warrior, Beast, or Pyro: Once per turn, if you activate a Trap Card: You can target 1 card your opponent controls; destroy it.\r\n● Dinosaur, Sea Serpent, or Thunder: Once per turn, if you activate a Spell Card: You can inflict 1000 damage to your opponent.\r\n● Machine, Fairy, or Fiend: Once per turn, if you activate a monster effect: You can target 1 face-up monster you control; it gains 1000 ATK.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 5833312,
@@ -78,6 +113,15 @@
       {
         "id": 64211118,
         "name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
+        "desc": "3+ Cyberse monsters\r\nNegate any monster effects activated by your opponent during the Battle Phase. (Quick Effect): You can send 1 Cyberse monster from your Deck or Extra Deck to the GY, and if you do, this card gains the Attribute of that monster sent to the GY, also it gains 2500 ATK. You can only use this effect of \"Firewall Dragon Darkfluid - Neo Tempest Terahertz\" once per turn. This card can attack monsters a number of times each Battle Phase, up to the number of different Attributes it has.",
+        "race": "Cyberse",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 64211118,
@@ -90,12 +134,48 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/64211118.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64211118.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64211118.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25833572,
+        "name": "Gate Guardian",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+        "race": "Warrior",
+        "atk": 3750,
+        "def": 3400,
+        "level": 11,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
+        "card_images": [
+          {
+            "id": 25833572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25833572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25833572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25833572.jpg"
+          },
+          {
+            "id": 25833572,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25833572.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25833572.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25833572.jpg"
           }
         ]
       },
       {
         "id": 11321089,
         "name": "Guardian Chimera",
+        "desc": "3 monsters with different names\r\nMust first be Fusion Summoned using only Fusion Materials from your hand and field, with at least 1 monster from each. If this card is Fusion Summoned by a Spell Card or effect: You can draw cards equal to the number of cards used as material from the hand, and if you do, destroy cards your opponent controls equal to the number of cards used as material from the field. You can only use this effect of \"Guardian Chimera\" once per turn. While \"Polymerization\" is in your GY, your opponent cannot target this card with card effects.",
+        "race": "Beast",
+        "atk": 3300,
+        "def": 3300,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 11321089,
@@ -108,164 +188,21 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11321089.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11321089.jpg"
-          }
-        ]
-      },
-      {
-        "id": 69164989,
-        "name": "Rikka Glamour",
-        "card_images": [
-          {
-            "id": 69164989,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69164989.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69164989.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69164989.jpg"
-          }
-        ]
-      },
-      {
-        "id": 33779875,
-        "name": "Teardrop the Rikka Queen",
-        "card_images": [
-          {
-            "id": 33779875,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
-          },
-          {
-            "id": 33779875,
-            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
-          }
-        ]
-      },
-      {
-        "id": 32828466,
-        "name": "Wake Up Your Elemental HERO",
-        "card_images": [
-          {
-            "id": 32828466,
-            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
-          },
-          {
-            "id": 32828466,
-            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
-          }
-        ]
-      },
-      {
-        "id": 25716180,
-        "name": "Wind-Up Kitten",
-        "card_images": [
-          {
-            "id": 25716180,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
-          },
-          {
-            "id": 25716180,
-            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 10406322,
-        "name": "Alsei, the Sylvan High Protector",
-        "card_images": [
-          {
-            "id": 10406322,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10406322.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10406322.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10406322.jpg"
-          }
-        ]
-      },
-      {
-        "id": 78217065,
-        "name": "Evolution End Burst",
-        "card_images": [
-          {
-            "id": 78217065,
-            "image_url": "https://images.ygoprodeck.com/images/cards/78217065.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78217065.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78217065.jpg"
-          }
-        ]
-      },
-      {
-        "id": 34904525,
-        "name": "Gate Guardian of Thunder and Wind",
-        "card_images": [
-          {
-            "id": 34904525,
-            "image_url": "https://images.ygoprodeck.com/images/cards/34904525.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34904525.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34904525.jpg"
-          }
-        ]
-      },
-      {
-        "id": 97783338,
-        "name": "Gate Guardian of Water and Thunder",
-        "card_images": [
-          {
-            "id": 97783338,
-            "image_url": "https://images.ygoprodeck.com/images/cards/97783338.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97783338.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97783338.jpg"
-          }
-        ]
-      },
-      {
-        "id": 61398234,
-        "name": "Gate Guardian of Wind and Water",
-        "card_images": [
-          {
-            "id": 61398234,
-            "image_url": "https://images.ygoprodeck.com/images/cards/61398234.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61398234.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61398234.jpg"
-          }
-        ]
-      },
-      {
-        "id": 8505920,
-        "name": "Gate Guardians Combined",
-        "card_images": [
-          {
-            "id": 8505920,
-            "image_url": "https://images.ygoprodeck.com/images/cards/8505920.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8505920.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8505920.jpg"
-          }
-        ]
-      },
-      {
-        "id": 35026117,
-        "name": "Labyrinth Heavy Tank",
-        "card_images": [
-          {
-            "id": 35026117,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35026117.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35026117.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35026117.jpg"
           }
         ]
       },
       {
         "id": 21887175,
         "name": "Mekk-Knight Crusadia Avramax",
+        "desc": "2+ monsters Special Summoned from the Extra Deck\r\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
+        "race": "Cyberse",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 21887175,
@@ -284,6 +221,15 @@
       {
         "id": 93777634,
         "name": "Number 39: Utopia Rising",
+        "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 39: Utopia Rising\"; Special Summon it in Defense Position, then you can detach all materials from this card and attach them to that monster. If you Xyz Summon (except during the Damage Step): You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Number 39: Utopia Rising\" once per turn.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 93777634,
@@ -302,6 +248,15 @@
       {
         "id": 31006879,
         "name": "On Your Mark, Get Set, DUEL!",
+        "desc": "When this card is activated: If you control no other cards, you can add 1 \"Synchron\" monster from your Deck to your hand. Once per turn, during your Standby Phase: Place 1 Signal Counter on this card. You can remove 2 Signal Counters from your field and send this face-up card to the GY; draw 2 cards, then send 1 card from your hand to the GY. You can only activate 1 \"On Your Mark, Get Set, DUEL!\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 31006879,
@@ -318,20 +273,44 @@
         ]
       },
       {
-        "id": 67378935,
-        "name": "Overlay Network",
+        "id": 89132148,
+        "name": "Photon Orbital",
+        "desc": "During your Main Phase: You can target 1 \"Photon\" or \"Galaxy\" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 \"Photon\" or \"Galaxy\" monster from your Deck to your hand, except \"Photon Orbital\". You can only use this effect of \"Photon Orbital\" once per turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
-            "id": 67378935,
-            "image_url": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67378935.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67378935.jpg"
+            "id": 89132148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89132148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89132148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89132148.jpg"
+          },
+          {
+            "id": 89132148,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89132148.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89132148.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89132148.jpg"
           }
         ]
       },
       {
         "id": 46291010,
         "name": "Psi-Beast",
+        "desc": "When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card's Level becomes the Level of that monster.",
+        "race": "Psychic",
+        "atk": 700,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 46291010,
@@ -350,6 +329,15 @@
       {
         "id": 41420027,
         "name": "Solemn Judgment",
+        "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
         "card_images": [
           {
             "id": 41420027,
@@ -368,6 +356,694 @@
       {
         "id": 97997309,
         "name": "Spellbook of Fate",
+        "desc": "If you control a Spellcaster-Type monster: You can banish up to 3 \"Spellbook\" Spell Cards from your Graveyard; apply this effect, depending on the number of Spell Cards banished for this card's activation. You can only activate 1 \"Spellbook of Fate\" per turn.\n● 1: Return 1 Set Spell/Trap Card on the field to the hand.\n● 2: Change 1 monster on the field to face-down Defense Position or face-up Attack Position.\n● 3: Banish 1 card your opponent controls.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
+        "card_images": [
+          {
+            "id": 97997309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97997309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97997309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97997309.jpg"
+          },
+          {
+            "id": 97997309,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97997309.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97997309.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97997309.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33779875,
+        "name": "Teardrop the Rikka Queen",
+        "desc": "2 Level 8 monsters\r\nYou can detach 1 material from this card, then target 1 monster on the field; Tribute it. This is a Quick Effect if this card has a Plant monster as material. You can only use this effect of \"Teardrop the Rikka Queen\" once per turn. Each time a monster(s) is Tributed: This card gains 200 ATK for each, until the end of this turn.",
+        "race": "Plant",
+        "atk": 2800,
+        "def": 2800,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
+        "card_images": [
+          {
+            "id": 33779875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
+          },
+          {
+            "id": 33779875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32828466,
+        "name": "Wake Up Your Elemental HERO",
+        "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\r\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2100,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
+        "card_images": [
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          },
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25716180,
+        "name": "Wind-Up Kitten",
+        "desc": "You can target 1 monster your opponent controls; return that target to the hand. This effect can only be used once while this card is face-up on the field.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Collector's Rare",
+        "rarityCanonical": "collector's rare",
+        "card_images": [
+          {
+            "id": 25716180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
+          },
+          {
+            "id": 25716180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 30983281,
+        "name": "Accel Synchro Stardust Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can Special Summon 1 Level 2 or lower Tuner from your GY. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Stardust Dragon\" from your Extra Deck (this is treated as a Synchro Summon), then, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control as material. This turn, the monsters Synchro Summoned by this effect are unaffected by your opponent's activated effects. You can only use each effect of \"Accel Synchro Stardust Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2500,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 30983281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30983281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30983281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30983281.jpg"
+          },
+          {
+            "id": 30983281,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30983281.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30983281.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30983281.jpg"
+          }
+        ]
+      },
+      {
+        "id": 84815190,
+        "name": "Baronne de Fleur",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nOnce per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of \"Baronne de Fleur\" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2400,
+        "level": 10,
+        "attribute": "WIND",
+        "type": "Synchro Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 84815190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84815190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84815190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84815190.jpg"
+          },
+          {
+            "id": 84815190,
+            "image_url": "https://images.ygoprodeck.com/images/cards/84815190.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84815190.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84815190.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70551291,
+        "name": "Black Luster Soldier - Legendary Swordsman",
+        "desc": "You can Ritual Summon this card with \"Chaos Form\" or \"Super Soldier Ritual\". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.",
+        "race": "Warrior",
+        "atk": 3000,
+        "def": 2500,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 70551291,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70551291.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70551291.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70551291.jpg"
+          },
+          {
+            "id": 70551291,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70551291.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70551291.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70551291.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5833312,
+        "name": "Duel Academy",
+        "desc": "This card gains these effects based on the Types of monsters on the field.\r\n● Warrior, Beast, or Pyro: Once per turn, if you activate a Trap Card: You can target 1 card your opponent controls; destroy it.\r\n● Dinosaur, Sea Serpent, or Thunder: Once per turn, if you activate a Spell Card: You can inflict 1000 damage to your opponent.\r\n● Machine, Fairy, or Fiend: Once per turn, if you activate a monster effect: You can target 1 face-up monster you control; it gains 1000 ATK.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 5833312,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5833312.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5833312.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5833312.jpg"
+          },
+          {
+            "id": 5833312,
+            "image_url": "https://images.ygoprodeck.com/images/cards/5833312.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5833312.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5833312.jpg"
+          }
+        ]
+      },
+      {
+        "id": 64211118,
+        "name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
+        "desc": "3+ Cyberse monsters\r\nNegate any monster effects activated by your opponent during the Battle Phase. (Quick Effect): You can send 1 Cyberse monster from your Deck or Extra Deck to the GY, and if you do, this card gains the Attribute of that monster sent to the GY, also it gains 2500 ATK. You can only use this effect of \"Firewall Dragon Darkfluid - Neo Tempest Terahertz\" once per turn. This card can attack monsters a number of times each Battle Phase, up to the number of different Attributes it has.",
+        "race": "Cyberse",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "DARK",
+        "type": "Link Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 64211118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64211118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64211118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64211118.jpg"
+          },
+          {
+            "id": 64211118,
+            "image_url": "https://images.ygoprodeck.com/images/cards/64211118.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64211118.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64211118.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11321089,
+        "name": "Guardian Chimera",
+        "desc": "3 monsters with different names\r\nMust first be Fusion Summoned using only Fusion Materials from your hand and field, with at least 1 monster from each. If this card is Fusion Summoned by a Spell Card or effect: You can draw cards equal to the number of cards used as material from the hand, and if you do, destroy cards your opponent controls equal to the number of cards used as material from the field. You can only use this effect of \"Guardian Chimera\" once per turn. While \"Polymerization\" is in your GY, your opponent cannot target this card with card effects.",
+        "race": "Beast",
+        "atk": 3300,
+        "def": 3300,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 11321089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11321089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11321089.jpg"
+          },
+          {
+            "id": 11321089,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11321089.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11321089.jpg"
+          }
+        ]
+      },
+      {
+        "id": 69164989,
+        "name": "Rikka Glamour",
+        "desc": "When you activate this card, you can also Tribute 1 Plant monster; add 1 \"Rikka\" monster from your Deck to your hand, then, if you Tributed a monster when you activated this card, add 1 Plant monster, with the same original Level as that \"Rikka\" monster but a different name, from your Deck to your hand. You can only activate 1 \"Rikka Glamour\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 69164989,
+            "image_url": "https://images.ygoprodeck.com/images/cards/69164989.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69164989.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69164989.jpg"
+          }
+        ]
+      },
+      {
+        "id": 33779875,
+        "name": "Teardrop the Rikka Queen",
+        "desc": "2 Level 8 monsters\r\nYou can detach 1 material from this card, then target 1 monster on the field; Tribute it. This is a Quick Effect if this card has a Plant monster as material. You can only use this effect of \"Teardrop the Rikka Queen\" once per turn. Each time a monster(s) is Tributed: This card gains 200 ATK for each, until the end of this turn.",
+        "race": "Plant",
+        "atk": 2800,
+        "def": 2800,
+        "level": 8,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 33779875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
+          },
+          {
+            "id": 33779875,
+            "image_url": "https://images.ygoprodeck.com/images/cards/33779875.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33779875.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33779875.jpg"
+          }
+        ]
+      },
+      {
+        "id": 32828466,
+        "name": "Wake Up Your Elemental HERO",
+        "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\r\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+        "race": "Warrior",
+        "atk": 2500,
+        "def": 2100,
+        "level": 10,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          },
+          {
+            "id": 32828466,
+            "image_url": "https://images.ygoprodeck.com/images/cards/32828466.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32828466.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32828466.jpg"
+          }
+        ]
+      },
+      {
+        "id": 25716180,
+        "name": "Wind-Up Kitten",
+        "desc": "You can target 1 monster your opponent controls; return that target to the hand. This effect can only be used once while this card is face-up on the field.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 25716180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
+          },
+          {
+            "id": 25716180,
+            "image_url": "https://images.ygoprodeck.com/images/cards/25716180.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25716180.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25716180.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 10406322,
+        "name": "Alsei, the Sylvan High Protector",
+        "desc": "2 Level 8 monsters\nOnce per turn: You can declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the Graveyard. If a card is sent from your Deck to the Graveyard by a card effect (except during the Damage Step): You can detach 1 Xyz Material from this card, then target 1 card on the field; place that target on either the top or bottom of the Deck. You can only use this effect of \"Alsei, the Sylvan High Protector\" once per turn.",
+        "race": "Plant",
+        "atk": 2300,
+        "def": 3200,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 10406322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10406322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10406322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10406322.jpg"
+          }
+        ]
+      },
+      {
+        "id": 78217065,
+        "name": "Evolution End Burst",
+        "desc": "Add 1 \"Overload Fusion\" from your Deck to your hand. If you Fusion Summon a monster this turn with \"Overload Fusion\", using 6 or more monsters as material, that monster can attack a number of times each Battle Phase this turn, up to the number of monsters used as its Fusion Materials. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except with Spell effects. You can only activate 1 \"Evolution End Burst\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 78217065,
+            "image_url": "https://images.ygoprodeck.com/images/cards/78217065.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78217065.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78217065.jpg"
+          }
+        ]
+      },
+      {
+        "id": 34904525,
+        "name": "Gate Guardian of Thunder and Wind",
+        "desc": "\"Sanga of the Thunder\" + \"Kazejin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. During your Main Phase: You can add 1 Spell/Trap from your Deck to your hand that mentions \"Sanga of the Thunder\", \"Kazejin\", AND \"Suijin\". You can only use this effect of \"Gate Guardian of Thunder and Wind\" once per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Sanga of the Thunder\" or \"Kazejin\".",
+        "race": "Thunder",
+        "atk": 2500,
+        "def": 2200,
+        "level": 9,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 34904525,
+            "image_url": "https://images.ygoprodeck.com/images/cards/34904525.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34904525.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34904525.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97783338,
+        "name": "Gate Guardian of Water and Thunder",
+        "desc": "\"Suijin\" + \"Sanga of the Thunder\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per Chain (Quick Effect): You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. You can only use this effect of \"Gate Guardian of Water and Thunder\" twice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Suijin\" or \"Sanga of the Thunder\".",
+        "race": "Aqua",
+        "atk": 2550,
+        "def": 2300,
+        "level": 9,
+        "attribute": "WATER",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 97783338,
+            "image_url": "https://images.ygoprodeck.com/images/cards/97783338.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/97783338.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/97783338.jpg"
+          }
+        ]
+      },
+      {
+        "id": 61398234,
+        "name": "Gate Guardian of Wind and Water",
+        "desc": "\"Kazejin\" + \"Suijin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards you control. Once per Chain, when your opponent activates a Spell/Trap Card or effect on the field (Quick Effect): You can negate that effect. You can only use this effect of \"Gate Guardian of Wind and Water\" twice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished \"Kazejin\" or \"Suijin\".",
+        "race": "Spellcaster",
+        "atk": 2450,
+        "def": 2300,
+        "level": 9,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 61398234,
+            "image_url": "https://images.ygoprodeck.com/images/cards/61398234.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61398234.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61398234.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8505920,
+        "name": "Gate Guardians Combined",
+        "desc": "\"Sanga of the Thunder\" + \"Kazejin\" + \"Suijin\"\r\nMust be Special Summoned (from your Extra Deck) by banishing the above cards from your hand, field, and/or GY. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of \"Gate Guardians Combined\" thrice per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 Level 11 or lower \"Gate Guardian\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+        "race": "Warrior",
+        "atk": 3750,
+        "def": 3400,
+        "level": 12,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 8505920,
+            "image_url": "https://images.ygoprodeck.com/images/cards/8505920.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8505920.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8505920.jpg"
+          }
+        ]
+      },
+      {
+        "id": 35026117,
+        "name": "Labyrinth Heavy Tank",
+        "desc": "You can Normal Summon this card without Tributing. Cannot attack the turn it is Normal Summoned. During your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell, then, if you control a \"Labyrinth Wall\" card, you can destroy 1 monster your opponent controls. You can only use this effect of \"Labyrinth Heavy Tank\" once per turn.",
+        "race": "Machine",
+        "atk": 2400,
+        "def": 2400,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 35026117,
+            "image_url": "https://images.ygoprodeck.com/images/cards/35026117.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35026117.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35026117.jpg"
+          }
+        ]
+      },
+      {
+        "id": 21887175,
+        "name": "Mekk-Knight Crusadia Avramax",
+        "desc": "2+ monsters Special Summoned from the Extra Deck\r\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
+        "race": "Cyberse",
+        "atk": 3000,
+        "def": null,
+        "level": null,
+        "attribute": "LIGHT",
+        "type": "Link Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 21887175,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21887175.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21887175.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21887175.jpg"
+          },
+          {
+            "id": 21887175,
+            "image_url": "https://images.ygoprodeck.com/images/cards/21887175.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21887175.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21887175.jpg"
+          }
+        ]
+      },
+      {
+        "id": 93777634,
+        "name": "Number 39: Utopia Rising",
+        "desc": "2 Level 4 monsters\r\nIf this card is Special Summoned: You can target 1 \"Number\" Xyz Monster in your GY, except \"Number 39: Utopia Rising\"; Special Summon it in Defense Position, then you can detach all materials from this card and attach them to that monster. If you Xyz Summon (except during the Damage Step): You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of \"Number 39: Utopia Rising\" once per turn.",
+        "race": "Warrior",
+        "atk": 0,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 93777634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93777634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93777634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93777634.jpg"
+          },
+          {
+            "id": 93777634,
+            "image_url": "https://images.ygoprodeck.com/images/cards/93777634.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93777634.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93777634.jpg"
+          }
+        ]
+      },
+      {
+        "id": 31006879,
+        "name": "On Your Mark, Get Set, DUEL!",
+        "desc": "When this card is activated: If you control no other cards, you can add 1 \"Synchron\" monster from your Deck to your hand. Once per turn, during your Standby Phase: Place 1 Signal Counter on this card. You can remove 2 Signal Counters from your field and send this face-up card to the GY; draw 2 cards, then send 1 card from your hand to the GY. You can only activate 1 \"On Your Mark, Get Set, DUEL!\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 31006879,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31006879.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31006879.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31006879.jpg"
+          },
+          {
+            "id": 31006879,
+            "image_url": "https://images.ygoprodeck.com/images/cards/31006879.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31006879.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31006879.jpg"
+          }
+        ]
+      },
+      {
+        "id": 67378935,
+        "name": "Overlay Network",
+        "desc": "You can activate 1 of these effects.\r\n● Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level from your hand or GY in Defense Position, but its effects are negated. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Xyz Monsters.\r\n● Target 1 Xyz Monster you control; add 1 card attached to it to the hand.\r\nYou can only use this effect of \"Overlay Network\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 67378935,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67378935.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67378935.jpg"
+          }
+        ]
+      },
+      {
+        "id": 46291010,
+        "name": "Psi-Beast",
+        "desc": "When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card's Level becomes the Level of that monster.",
+        "race": "Psychic",
+        "atk": 700,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 46291010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46291010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46291010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46291010.jpg"
+          },
+          {
+            "id": 46291010,
+            "image_url": "https://images.ygoprodeck.com/images/cards/46291010.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46291010.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46291010.jpg"
+          }
+        ]
+      },
+      {
+        "id": 41420027,
+        "name": "Solemn Judgment",
+        "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 41420027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41420027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41420027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41420027.jpg"
+          },
+          {
+            "id": 41420027,
+            "image_url": "https://images.ygoprodeck.com/images/cards/41420027.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41420027.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41420027.jpg"
+          }
+        ]
+      },
+      {
+        "id": 97997309,
+        "name": "Spellbook of Fate",
+        "desc": "If you control a Spellcaster-Type monster: You can banish up to 3 \"Spellbook\" Spell Cards from your Graveyard; apply this effect, depending on the number of Spell Cards banished for this card's activation. You can only activate 1 \"Spellbook of Fate\" per turn.\n● 1: Return 1 Set Spell/Trap Card on the field to the hand.\n● 2: Change 1 monster on the field to face-down Defense Position or face-up Attack Position.\n● 3: Banish 1 card your opponent controls.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 97997309,
@@ -386,6 +1062,15 @@
       {
         "id": 88307361,
         "name": "Superancient Deepsea King Coelacanth",
+        "desc": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate the activation, and if you do, destroy that card.",
+        "race": "Fish",
+        "atk": 2800,
+        "def": 2200,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 88307361,
@@ -400,6 +1085,15 @@
       {
         "id": 25862681,
         "name": "Ancient Fairy Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nDuring your Main Phase: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. During your Main Phase: You can destroy as many cards in the Field Zones as possible (min. 1), and if you do, gain 1000 LP, then you can add 1 Field Spell with a different name than the destroyed card(s), from your Deck to your hand. You can only use each effect of \"Ancient Fairy Dragon\" once per turn.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 3000,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 25862681,
@@ -412,6 +1106,15 @@
       {
         "id": 91706817,
         "name": "Angel of Blue Tears",
+        "desc": "Target 1 face-up monster on the field; its controller's opponent takes damage equal to the number of cards in their hand x 200, then negate that target's effects until the end of this turn. If effect damage is inflicted (except during the Damage Step): You can banish this card from your GY; Set 1 Normal Trap directly from your hand or Deck. If Set from the hand, it can be activated this turn. You can only use 1 \"Angel of Blue Tears\" effect per turn, and only once that turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 91706817,
@@ -424,6 +1127,15 @@
       {
         "id": 30761649,
         "name": "Barian Untopia",
+        "desc": "(This card is always treated as a \"Barian's\" card.)\r\n\"Number\" monsters you control with a number between \"101\" and \"107\" in their name, as well as \"CXyz\" monsters and \"Number C\" monsters you control, cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. Once per turn, if you Special Summon an Xyz Monster with a \"Rank-Up-Magic\" Spell's effect: You can target that Xyz Monster and 1 monster your opponent controls; attach that opponent's monster to that Xyz Monster as material.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 30761649,
@@ -436,6 +1148,15 @@
       {
         "id": 65433790,
         "name": "Battle Royal Mode - Joining",
+        "desc": "Activate this card by targeting 1 Effect Monster on the field. The first two times that monster would be destroyed by battle each turn, it is not destroyed. When it is destroyed by battle, the player that destroyed it gains 2000 LP. If the turn player's opponent takes battle or effect damage: Activate this effect; that opponent can apply the following effect.\r\n● Special Summon 1 Level 4 or lower monster from your hand or Deck, but lose 2000 LP.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 65433790,
@@ -448,6 +1169,15 @@
       {
         "id": 11613567,
         "name": "Blackwing - Elphin the Raven",
+        "desc": "If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
+        "race": "Winged Beast",
+        "atk": 2200,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 11613567,
@@ -460,6 +1190,15 @@
       {
         "id": 85215458,
         "name": "Blackwing - Kalut the Moon Shadow",
+        "desc": "During either player's Damage Step, when a \"Blackwing\" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.",
+        "race": "Winged Beast",
+        "atk": 1400,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 85215458,
@@ -472,6 +1211,15 @@
       {
         "id": 14785765,
         "name": "Blackwing - Zephyros the Elite",
+        "desc": "If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of \"Blackwing - Zephyros the Elite\" once per Duel.",
+        "race": "Winged Beast",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 14785765,
@@ -484,6 +1232,15 @@
       {
         "id": 48976825,
         "name": "Burial from a Different Dimension",
+        "desc": "Target up to 3 banished monsters; return them to the GY.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 48976825,
@@ -496,6 +1253,15 @@
       {
         "id": 21082832,
         "name": "Chaos Form",
+        "desc": "This card can be used to Ritual Summon any \"Chaos\" or \"Black Luster Soldier\" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish \"Blue-Eyes White Dragon\" or \"Dark Magician\" from your GY, whose total Levels exactly equal the Level of the \"Chaos\" or \"Black Luster Soldier\" Ritual Monster you Ritual Summon.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 21082832,
@@ -508,6 +1274,15 @@
       {
         "id": 23265313,
         "name": "Cost Down",
+        "desc": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23265313,
@@ -520,6 +1295,15 @@
       {
         "id": 24449083,
         "name": "Court of Justice",
+        "desc": "Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one \"Court of Justice\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 24449083,
@@ -532,6 +1316,15 @@
       {
         "id": 28654932,
         "name": "Deep Dark Trap Hole",
+        "desc": "When a Level 5 or higher Effect Monster(s) is Special Summoned: Banish that Level 5 or higher Effect Monster(s).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 28654932,
@@ -544,6 +1337,15 @@
       {
         "id": 60176682,
         "name": "Double Attack! Wind and Thunder!!",
+        "desc": "If you control a \"Gate Guardian\" monster: Target 1 card on the field; destroy it. During your Main Phase: You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use this effect of \"Double Attack! Wind and Thunder!!\" once per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 60176682,
@@ -556,6 +1358,15 @@
       {
         "id": 27104921,
         "name": "Forge a New Future",
+        "desc": "Once per Chain, if a Link-4 monster is Link Summoned: You can place 1 counter on this card (max. 3), then you can apply the following effect based on the number of counters on it.\r\n● 1: Declare 1 card name, and if you do, the activated effects and effects on the field of cards with that original name, are negated this turn.\r\n● 2: Special Summon 1 Level 4 or lower monster from your GY.\r\n● 3: Send this card to the GY, and if you do, Special Summon 1 Link-4 monster from your Extra Deck.\r\nYou can only activate 1 \"Forge a New Future\" per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 27104921,
@@ -568,6 +1379,15 @@
       {
         "id": 25833572,
         "name": "Gate Guardian",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+        "race": "Warrior",
+        "atk": 3750,
+        "def": 3400,
+        "level": 11,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 25833572,
@@ -586,6 +1406,15 @@
       {
         "id": 30459350,
         "name": "Imperial Iron Wall",
+        "desc": "Neither player can banish cards.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 30459350,
@@ -598,6 +1427,15 @@
       {
         "id": 39049051,
         "name": "Kahyoreigetsu",
+        "desc": "Special Summon 1 Level 4 or lower Fairy, Spellcaster, Winged Beast, or Beast-Warrior monster from your hand, and if you do, equip it with this card, then you can return all Dragon monsters on the field to the hand. During the End Phase, if this card is in the GY because it was sent there from the Spell & Trap Zone this turn while face-up: You can add 1 \"Polymerization\" Spell, \"Fusion\" Spell, or \"Fusion Parasite\" from your Deck to your hand. You can only use each effect of \"Kahyoreigetsu\" once per turn.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 39049051,
@@ -610,6 +1448,15 @@
       {
         "id": 62340868,
         "name": "Kazejin",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "race": "Spellcaster",
+        "atk": 2400,
+        "def": 2200,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 62340868,
@@ -622,6 +1469,15 @@
       {
         "id": 67284908,
         "name": "Labyrinth Wall",
+        "desc": "These walls form a labyrinth with no exit for enemies.",
+        "race": "Rock",
+        "atk": 0,
+        "def": 3000,
+        "level": 5,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 67284908,
@@ -634,6 +1490,15 @@
       {
         "id": 34771947,
         "name": "Labyrinth Wall Shadow",
+        "desc": "Monsters cannot attack the turn they are Summoned, except monsters whose original Level is 5 or higher. Once per turn, during your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell. At the start of your opponent's Battle Phase: You can target 1 monster your opponent controls with less than 1600 ATK; destroy it.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 34771947,
@@ -646,6 +1511,15 @@
       {
         "id": 20537097,
         "name": "Mekk-Knight Blue Sky",
+        "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Blue Sky\" once per turn this way. If this card is Normal or Special Summoned from the hand: You can add \"Mekk-Knight\" monsters with different names, except \"Mekk-Knight Blue Sky\", from your Deck to your hand, equal to the number of your opponent's cards in this card's column. You can only use this effect of \"Mekk-Knight Blue Sky\" once per turn.",
+        "race": "Psychic",
+        "atk": 2000,
+        "def": 2500,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 20537097,
@@ -658,6 +1532,15 @@
       {
         "id": 56809158,
         "name": "Mekk-Knight Red Moon",
+        "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Red Moon\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 face-up monster in this card's column; destroy it.",
+        "race": "Psychic",
+        "atk": 2300,
+        "def": 2600,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 56809158,
@@ -670,6 +1553,15 @@
       {
         "id": 29415459,
         "name": "Mekk-Knight Yellow Star",
+        "desc": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Yellow Star\" once per turn this way. You can banish 1 \"Mekk-Knight\" monster from your GY, then target 1 Spell/Trap in this card's column; destroy it.",
+        "race": "Psychic",
+        "atk": 2200,
+        "def": 2800,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 29415459,
@@ -682,6 +1574,15 @@
       {
         "id": 71002019,
         "name": "Mudan the Rikka Fairy",
+        "desc": "You can Tribute 1 Plant monster; Special Summon this card from your hand. If this card is Normal Summoned, or Special Summoned by the effect of a Plant monster: You can add 1 \"Rikka\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Mudan the Rikka Fairy\" once per turn.",
+        "race": "Plant",
+        "atk": 1000,
+        "def": 2400,
+        "level": 6,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 71002019,
@@ -694,6 +1595,15 @@
       {
         "id": 88686573,
         "name": "Nimble Angler",
+        "desc": "If this card is sent from the hand or Deck to the Graveyard: You can Special Summon up to 2 Level 3 or lower \"Nimble\" monsters from your Deck, except \"Nimble Angler\".",
+        "race": "Fish",
+        "atk": 600,
+        "def": 100,
+        "level": 2,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 88686573,
@@ -706,6 +1616,15 @@
       {
         "id": 3659803,
         "name": "Overload Fusion",
+        "desc": "Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 3659803,
@@ -718,6 +1637,15 @@
       {
         "id": 92644052,
         "name": "Performapal Duelist Extraordinaire",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, at the start of the Damage Step, if a monster battles a monster: You can return this card to the hand, and if you do, banish 1 Spell from your Deck. For that battle, your monster cannot be destroyed, also the battle damage you take is halved.\n\n[ Monster Effect ] \nWhen this card inflicts battle damage to your opponent: You can add 1 \"Supreme King Dragon\" monster, \"Supreme King Gate\" monster, or \"Soul of the Supreme King\" from your Deck to your hand. Once per turn, during the Standby Phase: Activate this effect; each player can banish 1 Spell from their Deck. Once per turn, when a monster declares an attack: Activate this effect; the attacked player can apply the following effect.\r\n● Add 1 of your banished Spells to your hand, then discard it, and if you do, negate that attack.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 400,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Pendulum Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 92644052,
@@ -730,6 +1658,15 @@
       {
         "id": 89132148,
         "name": "Photon Orbital",
+        "desc": "During your Main Phase: You can target 1 \"Photon\" or \"Galaxy\" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 \"Photon\" or \"Galaxy\" monster from your Deck to your hand, except \"Photon Orbital\". You can only use this effect of \"Photon Orbital\" once per turn.",
+        "race": "Machine",
+        "atk": 500,
+        "def": 2000,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 89132148,
@@ -748,6 +1685,15 @@
       {
         "id": 33055499,
         "name": "Prey of the Jirai Gumo",
+        "desc": "Special Summon this card as a Normal Monster (Insect/EARTH/Level 5/ATK 2100/DEF 100) to your Main Monster Zone in its same column (this card is also still a Trap), then you can destroy 1 monster your opponent controls in this card's column. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Prey of the Jirai Gumo\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 33055499,
@@ -760,6 +1706,15 @@
       {
         "id": 6556909,
         "name": "Red-Eyes Soul",
+        "desc": "This card's name becomes \"Red-Eyes Black Dragon\" while on the field or in the GY. If your opponent Special Summons a monster(s) (except during the Damage Step): You can send this card from your hand or field to the GY; Special Summon 1 \"Red-Eyes\" monster from your hand or Deck, except \"Red-Eyes Soul\". You can only use this effect of \"Red-Eyes Soul\" once per turn. (Quick Effect): You can target 1 \"Red-Eyes Black Dragon\" you control; inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Red-Eyes Soul\" once per Duel.",
+        "race": "Dragon",
+        "atk": 900,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6556909,
@@ -772,6 +1727,15 @@
       {
         "id": 71734607,
         "name": "Rikka Petal",
+        "desc": "During your Main Phase: You can take 1 \"Rikka\" monster from your Deck, except \"Rikka Petal\", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent's End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of \"Rikka Petal\" once per turn.",
+        "race": "Plant",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 71734607,
@@ -784,6 +1748,15 @@
       {
         "id": 96661780,
         "name": "Riryoku Guardian",
+        "desc": "If your LP are lower than your opponent's: Target 1 monster you control with \"Gate Guardian\" in its original name; halve your opponent's LP, then that monster gains ATK equal to your opponent's LP. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Riryoku Guardian\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 96661780,
@@ -796,6 +1769,15 @@
       {
         "id": 51452091,
         "name": "Royal Decree",
+        "desc": "Negate all other Trap effects on the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 51452091,
@@ -808,6 +1790,15 @@
       {
         "id": 66156348,
         "name": "Saga of the Dragon Emperor",
+        "desc": "Target 1 Dragon monster you control; its ATK becomes doubled (until the end of this turn), then, if your opponent currently controls a Dragon monster, the activation of the targeted monster's effects cannot be negated for the rest of this turn. During your Main Phase: You can banish this card from your GY; Special Summon 1 of your Dragon Xyz Monsters that is banished or in your GY, in Defense Position. You can only use 1 \"Saga of the Dragon Emperor\" effect per turn, and only once that turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 66156348,
@@ -820,6 +1811,15 @@
       {
         "id": 25955164,
         "name": "Sanga of the Thunder",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "race": "Thunder",
+        "atk": 2600,
+        "def": 2200,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 25955164,
@@ -832,6 +1832,15 @@
       {
         "id": 62411811,
         "name": "Shadow Ghoul of the Labyrinth",
+        "desc": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+        "race": "Zombie",
+        "atk": 1600,
+        "def": 1300,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 62411811,
@@ -844,6 +1853,15 @@
       {
         "id": 92428405,
         "name": "Soul of the Supreme King",
+        "desc": "Pay half your LP; Special Summon 1 \"Supreme King Z-ARC\" from your Extra Deck, ignoring its Summoning conditions, but negate its effects. It is returned to the Extra Deck during the End Phase of the next turn. When your opponent activates a Spell Card or effect: You can banish this card from your GY and 1 \"Supreme King Z-ARC\" from your face-up Monster Zone; Special Summon up to 1 each \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", and \"Fusion Dragon\" monsters from your hand, Deck, Extra Deck, and/or GY.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 92428405,
@@ -856,6 +1874,15 @@
       {
         "id": 98434877,
         "name": "Suijin",
+        "desc": "During damage calculation in your opponent's turn, if this card is being attacked: You can target the attacking monster; make that target's ATK 0 during damage calculation only (this is a Quick Effect). This effect can only be used once while this card is face-up on the field.",
+        "race": "Aqua",
+        "atk": 2500,
+        "def": 2400,
+        "level": 7,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 98434877,
@@ -868,6 +1895,15 @@
       {
         "id": 14094090,
         "name": "Super Soldier Ritual",
+        "desc": "This card can be used to Ritual Summon any \"Black Luster Soldier\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal 8. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card, 1 LIGHT monster, and 1 DARK monster from your Graveyard; Special Summon 1 \"Black Luster Soldier\" Ritual Monster from your hand, ignoring its Summoning conditions. You can only use this effect of \"Super Soldier Ritual\" once per turn.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 14094090,
@@ -880,6 +1916,15 @@
       {
         "id": 4599182,
         "name": "This Creepy Little Punk",
+        "desc": "(This card is always treated as an \"Infernity\" card.)\r\nSpecial Summon 1 of your \"Infernity\" monsters that is banished, or in your hand or GY. If a face-up \"Infernity\" monster(s) you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can Set this card. You can only use each effect of \"This Creepy Little Punk\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 4599182,
@@ -892,6 +1937,15 @@
       {
         "id": 68490573,
         "name": "Time to Stand Up",
+        "desc": "If a Dragon Synchro Monster is on the field: Special Summon up to 2 monsters, that are \"Resonator\" monsters and/or Level 1 Dragon monsters, from your Deck. When a monster effect is activated, while you control a Level 10 or higher DARK Dragon Synchro Monster: You can banish this card from your GY; negate that effect, and if you do, 1 Synchro Monster you control gains 2000 ATK until the end of the next turn. You can only use each effect of \"Time to Stand Up\" once per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 68490573,
@@ -904,6 +1958,15 @@
       {
         "id": 99590524,
         "name": "Treacherous Trap Hole",
+        "desc": "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 99590524,
@@ -913,7 +1976,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

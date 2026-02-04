@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! 5D's Volume 3 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 17502671,
         "name": "Infernity General",
+        "desc": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 1500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 17502671,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,135 +1,19 @@
 {
   "setName": "Millennium Pack",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 59750328,
-        "name": "Card of Demise",
-        "card_images": [
-          {
-            "id": 59750328,
-            "image_url": "https://images.ygoprodeck.com/images/cards/59750328.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59750328.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59750328.jpg"
-          }
-        ]
-      },
-      {
-        "id": 7241272,
-        "name": "Curse of Dragonfire",
-        "card_images": [
-          {
-            "id": 7241272,
-            "image_url": "https://images.ygoprodeck.com/images/cards/7241272.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7241272.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7241272.jpg"
-          }
-        ]
-      },
-      {
-        "id": 87567063,
-        "name": "Rebellion",
-        "card_images": [
-          {
-            "id": 87567063,
-            "image_url": "https://images.ygoprodeck.com/images/cards/87567063.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87567063.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87567063.jpg"
-          }
-        ]
-      },
-      {
-        "id": 10000090,
-        "name": "The Winged Dragon of Ra - Immortal Phoenix",
-        "card_images": [
-          {
-            "id": 10000090,
-            "image_url": "https://images.ygoprodeck.com/images/cards/10000090.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000090.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000090.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 43730887,
-        "name": "Holding Arms",
-        "card_images": [
-          {
-            "id": 43730887,
-            "image_url": "https://images.ygoprodeck.com/images/cards/43730887.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43730887.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43730887.jpg"
-          }
-        ]
-      },
-      {
-        "id": 70124586,
-        "name": "Holding Legs",
-        "card_images": [
-          {
-            "id": 70124586,
-            "image_url": "https://images.ygoprodeck.com/images/cards/70124586.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70124586.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70124586.jpg"
-          }
-        ]
-      },
-      {
-        "id": 86541496,
-        "name": "Left Arm Offering",
-        "card_images": [
-          {
-            "id": 86541496,
-            "image_url": "https://images.ygoprodeck.com/images/cards/86541496.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86541496.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86541496.jpg"
-          }
-        ]
-      },
-      {
-        "id": 2519690,
-        "name": "Sky Galloping Gaia the Dragon Champion",
-        "card_images": [
-          {
-            "id": 2519690,
-            "image_url": "https://images.ygoprodeck.com/images/cards/2519690.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2519690.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2519690.jpg"
-          }
-        ]
-      },
-      {
-        "id": 39913299,
-        "name": "The True Name",
-        "card_images": [
-          {
-            "id": 39913299,
-            "image_url": "https://images.ygoprodeck.com/images/cards/39913299.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39913299.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39913299.jpg"
-          }
-        ]
-      },
-      {
-        "id": 75902998,
-        "name": "Trap Hole of Spikes",
-        "card_images": [
-          {
-            "id": 75902998,
-            "image_url": "https://images.ygoprodeck.com/images/cards/75902998.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75902998.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75902998.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 41356845,
         "name": "Acid Trap Hole",
+        "desc": "Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 41356845,
@@ -148,6 +32,15 @@
       {
         "id": 91152256,
         "name": "Celtic Guardian",
+        "desc": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+        "race": "Warrior",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 91152256,
@@ -172,6 +65,15 @@
       {
         "id": 45231178,
         "name": "Flame Swordsman",
+        "desc": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+        "race": "Warrior",
+        "atk": 1800,
+        "def": 1600,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 45231178,
@@ -190,6 +92,15 @@
       {
         "id": 6368038,
         "name": "Gaia The Fierce Knight",
+        "desc": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+        "race": "Warrior",
+        "atk": 2300,
+        "def": 2100,
+        "level": 7,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 6368038,
@@ -208,6 +119,15 @@
       {
         "id": 37390589,
         "name": "Kunai with Chain",
+        "desc": "Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 37390589,
@@ -226,6 +146,15 @@
       {
         "id": 42035045,
         "name": "Panther Warrior",
+        "desc": "This card cannot declare an attack unless you Tribute 1 monster.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 42035045,
@@ -244,6 +173,15 @@
       {
         "id": 2295831,
         "name": "Symbol of Friendship",
+        "desc": "To activate this card, you must draw it for your normal draw in your Draw Phase while your opponent controls 3 or more monsters and you control no cards, reveal it, and keep it revealed until the Main Phase 1. During your Main Phase 1 that same turn: You can activate this card from your hand; reveal 1 card from your Deck, and add it to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 2295831,
@@ -256,6 +194,15 @@
       {
         "id": 41462083,
         "name": "Thousand Dragon",
+        "desc": "\"Time Wizard\" + \"Baby Dragon\"",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 41462083,
@@ -274,6 +221,15 @@
       {
         "id": 77754944,
         "name": "Widespread Ruin",
+        "desc": "When an opponent's monster declares an attack: Destroy the Attack Position monster your opponent controls with the highest ATK (your choice, if tied).",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 77754944,
@@ -292,6 +248,15 @@
       {
         "id": 91998121,
         "name": "XYZ-Dragon Cannon",
+        "desc": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\r\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2600,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Fusion Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 91998121,
@@ -318,6 +283,15 @@
       {
         "id": 41426869,
         "name": "Black Illusion Ritual",
+        "desc": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 41426869,
@@ -330,6 +304,15 @@
       {
         "id": 11901678,
         "name": "Black Skull Dragon",
+        "desc": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\r\n\r\n\r\n\r\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Dragon",
+        "atk": 3200,
+        "def": 2500,
+        "level": 9,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 11901678,
@@ -342,6 +325,15 @@
       {
         "id": 96420087,
         "name": "Contract with the Dark Master",
+        "desc": "This card is used to Ritual Summon \"Dark Master - Zorc\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "race": "Ritual",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 96420087,
@@ -354,6 +346,15 @@
       {
         "id": 57728570,
         "name": "Crush Card Virus",
+        "desc": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 57728570,
@@ -372,6 +373,15 @@
       {
         "id": 97642679,
         "name": "Dark Master - Zorc",
+        "desc": "You can Ritual Summon this card with \"Contract with the Dark Master\". Once per turn: You can roll a six-sided die, then destroy all monsters your opponent controls if you roll 1 or 2, destroy 1 monster your opponent controls if you roll 3, 4 or 5, or destroy all monsters you control if you roll 6.",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 1500,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97642679,
@@ -384,6 +394,15 @@
       {
         "id": 98502115,
         "name": "Dark Paladin",
+        "desc": "\"Dark Magician\" + \"Buster Blader\"\r\nMust be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY.",
+        "race": "Spellcaster",
+        "atk": 2900,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98502115,
@@ -408,6 +427,15 @@
       {
         "id": 13893596,
         "name": "Exodius the Ultimate Forbidden Lord",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different \"Forbidden One\" cards in your Graveyard that were sent there by this card's effect, you win the Duel.",
+        "race": "Spellcaster",
+        "atk": -1,
+        "def": 0,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 13893596,
@@ -420,6 +448,15 @@
       {
         "id": 99267151,
         "name": "Five-Headed Dragon",
+        "desc": "5 Dragon monsters\r\nMust be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+        "race": "Dragon",
+        "atk": 5000,
+        "def": 5000,
+        "level": 12,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99267151,
@@ -438,6 +475,15 @@
       {
         "id": 64681432,
         "name": "Gandora the Dragon of Destruction",
+        "desc": "Cannot be Special Summoned. You can pay half your LP; destroy as many cards on the field as possible (other than this card), and if you do, banish them. This card gains 300 ATK for each card destroyed this way. Once per turn, during the End Phase, if this card was Normal or Flip Summoned this turn: Send it to the Graveyard.",
+        "race": "Dragon",
+        "atk": 0,
+        "def": 0,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64681432,
@@ -450,6 +496,15 @@
       {
         "id": 36354008,
         "name": "Gilford the Lightning",
+        "desc": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 36354008,
@@ -468,6 +523,15 @@
       {
         "id": 40640059,
         "name": "Kuriboh",
+        "desc": "During your opponent's turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).",
+        "race": "Fiend",
+        "atk": 300,
+        "def": 200,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40640059,
@@ -492,6 +556,15 @@
       {
         "id": 97590747,
         "name": "La Jinn the Mystical Genie of the Lamp",
+        "desc": "A genie of the lamp that is at the beck and call of its master.",
+        "race": "Fiend",
+        "atk": 1800,
+        "def": 1000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 97590747,
@@ -510,6 +583,15 @@
       {
         "id": 87322378,
         "name": "Launcher Spider",
+        "desc": "A mechanical spider with rocket launchers capable of random fire.",
+        "race": "Machine",
+        "atk": 2200,
+        "def": 2500,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 87322378,
@@ -528,6 +610,15 @@
       {
         "id": 68540059,
         "name": "Metalmorph",
+        "desc": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 68540059,
@@ -546,6 +637,15 @@
       {
         "id": 54704216,
         "name": "Nightmare Wheel",
+        "desc": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 54704216,
@@ -558,6 +658,15 @@
       {
         "id": 24433920,
         "name": "Pendulum Machine",
+        "desc": "A horrible torture machine with a large pendulum blade.",
+        "race": "Machine",
+        "atk": 1750,
+        "def": 2000,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 24433920,
@@ -576,6 +685,15 @@
       {
         "id": 74677427,
         "name": "Red-Eyes Black Dragon",
+        "desc": "''A ferocious dragon with a deadly attack.''",
+        "race": "Dragon",
+        "atk": 2400,
+        "def": 2000,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74677427,
@@ -618,6 +736,15 @@
       {
         "id": 64335804,
         "name": "Red-Eyes Black Metal Dragon",
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+        "race": "Machine",
+        "atk": 2800,
+        "def": 2400,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64335804,
@@ -636,6 +763,15 @@
       {
         "id": 64631466,
         "name": "Relinquished",
+        "desc": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 0,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Ritual Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 64631466,
@@ -648,6 +784,15 @@
       {
         "id": 83555667,
         "name": "Ring of Destruction",
+        "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 83555667,
@@ -666,6 +811,15 @@
       {
         "id": 73915051,
         "name": "Scapegoat",
+        "desc": "Special Summon 4 \"Sheep Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 73915051,
@@ -678,6 +832,15 @@
       {
         "id": 55713623,
         "name": "Shrink",
+        "desc": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 55713623,
@@ -690,6 +853,15 @@
       {
         "id": 49328340,
         "name": "Spiral Spear Strike",
+        "desc": "If \"Gaia The Fierce Knight\", \"Swift Gaia the Fierce Knight\", or \"Gaia the Dragon Champion\" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If \"Gaia the Dragon Champion\" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49328340,
@@ -702,6 +874,15 @@
       {
         "id": 70781055,
         "name": "Summoned Skull",
+        "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+        "race": "Fiend",
+        "atk": 2500,
+        "def": 1200,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70781055,
@@ -732,6 +913,15 @@
       {
         "id": 49791928,
         "name": "Tiger Axe",
+        "desc": "A fast and powerful axe-wielding beast-warrior.",
+        "race": "Beast-Warrior",
+        "atk": 1300,
+        "def": 1100,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49791928,
@@ -750,6 +940,15 @@
       {
         "id": 15259703,
         "name": "Toon World",
+        "desc": "Activate this card by paying 1000 LP.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 15259703,
@@ -768,6 +967,15 @@
       {
         "id": 56043446,
         "name": "Viser Des",
+        "desc": "If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.",
+        "race": "Fiend",
+        "atk": 500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 56043446,
@@ -786,6 +994,15 @@
       {
         "id": 14898067,
         "name": "Vorse Raider",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 14898067,
@@ -798,6 +1015,220 @@
             "image_url": "https://images.ygoprodeck.com/images/cards/14898066.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14898066.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14898066.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 59750328,
+        "name": "Card of Demise",
+        "desc": "Draw until you have 3 cards in your hand, also for the rest of this turn after this card resolves, your opponent takes no damage. During the End Phase of this turn, send your entire hand to the GY. You can only activate 1 \"Card of Demise\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 59750328,
+            "image_url": "https://images.ygoprodeck.com/images/cards/59750328.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59750328.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59750328.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7241272,
+        "name": "Curse of Dragonfire",
+        "desc": "If this card is Normal or Special Summoned: You can target 1 Field Spell on the field; destroy it. Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1500,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 7241272,
+            "image_url": "https://images.ygoprodeck.com/images/cards/7241272.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7241272.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7241272.jpg"
+          }
+        ]
+      },
+      {
+        "id": 87567063,
+        "name": "Rebellion",
+        "desc": "During either player's Battle Phase: Target 1 monster your opponent controls; take control of it until the end of the Battle Phase, also other monsters you control cannot attack for the rest of this turn. You can only activate 1 \"Rebellion\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 87567063,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87567063.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87567063.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87567063.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10000090,
+        "name": "The Winged Dragon of Ra - Immortal Phoenix",
+        "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If \"The Winged Dragon of Ra\" is sent from the field to your GY while this card is in your GY: Special Summon this card. Cards and effects cannot be activated in response to this effect's activation. This card is unaffected by other cards' effects. You can pay 1000 LP; send 1 monster on the field to the GY. Once per turn, during the End Phase: Send this card to the GY, and if you do, Special Summon 1 \"The Winged Dragon of Ra - Sphere Mode\" from your hand, Deck, or GY, ignoring its Summoning conditions.",
+        "race": "Divine-Beast",
+        "atk": 4000,
+        "def": 4000,
+        "level": 10,
+        "attribute": "DIVINE",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 10000090,
+            "image_url": "https://images.ygoprodeck.com/images/cards/10000090.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10000090.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10000090.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 43730887,
+        "name": "Holding Arms",
+        "desc": "If this card is Normal or Special Summoned: Target 1 face-up monster your opponent controls; while this card is face-up on the field, that face-up monster cannot attack, also its effects are negated. While that face-up monster is on the field, this card cannot be destroyed by battle or card effects.",
+        "race": "Fiend",
+        "atk": 500,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 43730887,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43730887.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43730887.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43730887.jpg"
+          }
+        ]
+      },
+      {
+        "id": 70124586,
+        "name": "Holding Legs",
+        "desc": "If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent's next turn.",
+        "race": "Fiend",
+        "atk": 800,
+        "def": 600,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 70124586,
+            "image_url": "https://images.ygoprodeck.com/images/cards/70124586.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70124586.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70124586.jpg"
+          }
+        ]
+      },
+      {
+        "id": 86541496,
+        "name": "Left Arm Offering",
+        "desc": "If you have 2 or more other cards in your hand: Banish your entire hand; add 1 Spell from your Deck to your hand. You cannot Set Spells/Traps during the turn you activate this card.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 86541496,
+            "image_url": "https://images.ygoprodeck.com/images/cards/86541496.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86541496.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86541496.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2519690,
+        "name": "Sky Galloping Gaia the Dragon Champion",
+        "desc": "1 \"Gaia The Fierce Knight\" monster + 1 Dragon-Type monster\nThis card's name becomes \"Gaia the Dragon Champion\" while it is on the field. If this card is Special Summoned: You can add 1 \"Spiral Spear Strike\" from your Deck or Graveyard to your hand. When this card declares an attack on an opponent's monster: You can change the battle position of that opponent's monster.",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 2100,
+        "level": 7,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 2519690,
+            "image_url": "https://images.ygoprodeck.com/images/cards/2519690.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2519690.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2519690.jpg"
+          }
+        ]
+      },
+      {
+        "id": 39913299,
+        "name": "The True Name",
+        "desc": "Declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand, then you can add to your hand, or Special Summon, 1 DIVINE monster from your Deck. Otherwise, send it to the Graveyard. You can only activate 1 \"The True Name\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 39913299,
+            "image_url": "https://images.ygoprodeck.com/images/cards/39913299.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39913299.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39913299.jpg"
+          }
+        ]
+      },
+      {
+        "id": 75902998,
+        "name": "Trap Hole of Spikes",
+        "desc": "When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 75902998,
+            "image_url": "https://images.ygoprodeck.com/images/cards/75902998.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75902998.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75902998.jpg"
           }
         ]
       }

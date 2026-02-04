@@ -1,11 +1,19 @@
 {
   "setName": "The Dark Illusion Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 43930492,
         "name": "Magical Something",
+        "desc": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card's Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+        "race": "Spellcaster",
+        "atk": 1800,
+        "def": 1300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 43930492,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,75 +1,19 @@
 {
   "setName": "Tournament Pack 6",
   "rarities": {
-    "secret": [],
-    "ultra": [
-      {
-        "id": 79875176,
-        "name": "Toon Cannon Soldier",
-        "card_images": [
-          {
-            "id": 79875176,
-            "image_url": "https://images.ygoprodeck.com/images/cards/79875176.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79875176.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79875176.jpg"
-          }
-        ]
-      }
-    ],
-    "super": [
-      {
-        "id": 26902560,
-        "name": "Fusion Sage",
-        "card_images": [
-          {
-            "id": 26902560,
-            "image_url": "https://images.ygoprodeck.com/images/cards/26902560.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26902560.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26902560.jpg"
-          }
-        ]
-      },
-      {
-        "id": 99518961,
-        "name": "Restructer Revolution",
-        "card_images": [
-          {
-            "id": 99518961,
-            "image_url": "https://images.ygoprodeck.com/images/cards/99518961.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99518961.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99518961.jpg"
-          }
-        ]
-      },
-      {
-        "id": 51452091,
-        "name": "Royal Decree",
-        "card_images": [
-          {
-            "id": 51452091,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51452091.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51452091.jpg"
-          }
-        ]
-      },
-      {
-        "id": 89997728,
-        "name": "Toon Table of Contents",
-        "card_images": [
-          {
-            "id": 89997728,
-            "image_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
-          }
-        ]
-      }
-    ],
     "rare": [
       {
         "id": 18036057,
         "name": "Airknight Parshath",
+        "desc": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card.",
+        "race": "Fairy",
+        "atk": 1900,
+        "def": 1400,
+        "level": 5,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 18036057,
@@ -82,6 +26,15 @@
       {
         "id": 31553716,
         "name": "Spear Dragon",
+        "desc": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+        "race": "Dragon",
+        "atk": 1900,
+        "def": 0,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 31553716,
@@ -94,6 +47,15 @@
       {
         "id": 40473581,
         "name": "Susa Soldier",
+        "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. The Battle Damage this card inflicts to your opponent's Life Points is halved.",
+        "race": "Thunder",
+        "atk": 2000,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Spirit Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 40473581,
@@ -106,6 +68,15 @@
       {
         "id": 76862289,
         "name": "Yamata Dragon",
+        "desc": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand.",
+        "race": "Dragon",
+        "atk": 2600,
+        "def": 3100,
+        "level": 7,
+        "attribute": "FIRE",
+        "type": "Spirit Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 76862289,
@@ -120,6 +91,15 @@
       {
         "id": 75889523,
         "name": "Archfiend Marmot of Nefariousness",
+        "desc": "An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.",
+        "race": "Beast",
+        "atk": 400,
+        "def": 600,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 75889523,
@@ -132,6 +112,15 @@
       {
         "id": 6297941,
         "name": "Burglar",
+        "desc": "A sly rat. He will come at you with his huge left claw.",
+        "race": "Beast",
+        "atk": 850,
+        "def": 800,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 6297941,
@@ -144,6 +133,15 @@
       {
         "id": 92667214,
         "name": "Clown Zombie",
+        "desc": "A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.",
+        "race": "Zombie",
+        "atk": 1350,
+        "def": 0,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 92667214,
@@ -156,6 +154,15 @@
       {
         "id": 80071763,
         "name": "Dark Balter the Terrible",
+        "desc": "\"Possessed Dark Soul\" + \"Frontier Wiseman\"\nA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated.",
+        "race": "Fiend",
+        "atk": 2000,
+        "def": 1200,
+        "level": 5,
+        "attribute": "DARK",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 80071763,
@@ -168,6 +175,15 @@
       {
         "id": 53046408,
         "name": "Emergency Provisions",
+        "desc": "Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53046408,
@@ -180,6 +196,15 @@
       {
         "id": 66235877,
         "name": "Fiend Skull Dragon",
+        "desc": "\"Cave Dragon\" + \"Lesser Fiend\"\r\n(This card is always treated as an \"Archfiend\" card.)\r\nA Fusion Summon of this card can only be done with the above Fusion Material Monsters. Negate the effects of Flip Effect Monsters. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap Card.",
+        "race": "Dragon",
+        "atk": 2000,
+        "def": 1200,
+        "level": 5,
+        "attribute": "WIND",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 66235877,
@@ -192,6 +217,15 @@
       {
         "id": 28566710,
         "name": "Last Turn",
+        "desc": "This card can only be activated during your opponent's turn when your Life Points are 1000 or less. Select 1 monster on your side of the field and send all other cards on the field and in their respective owners' hands to their respective Graveyards. After that, your opponent selects and Special Summons 1 monster from their Deck in face-up Attack Position and attacks your selected monster. (Any Battle Damage from this battle is treated as 0.) The player whose monster remains alone on the field at the End Phase of this turn wins the Duel. Any other case results in a DRAW.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 28566710,
@@ -204,6 +238,15 @@
       {
         "id": 1761063,
         "name": "Nekogal #1",
+        "desc": "A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.",
+        "race": "Beast",
+        "atk": 1100,
+        "def": 900,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 1761063,
@@ -216,6 +259,15 @@
       {
         "id": 49868263,
         "name": "Ryu Senshi",
+        "desc": "\"Warrior Dai Grepher\" + \"Spirit Ryu\"\r\nA Fusion Summon of this card can only be done with the above Fusion Materials. When a Normal Trap Card is activated (Quick Effect): You can pay 1000 LP; negate that effect. This card must be face-up on the field to activate and to resolve this effect. Negate the effects of any Spell Card that targets this card and destroy it.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 1200,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Fusion Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 49868263,
@@ -228,6 +280,15 @@
       {
         "id": 40200834,
         "name": "Sleeping Lion",
+        "desc": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
+        "race": "Beast",
+        "atk": 700,
+        "def": 1700,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 40200834,
@@ -240,12 +301,130 @@
       {
         "id": 70797118,
         "name": "Thunder Nyan Nyan",
+        "desc": "If there is a non-LIGHT monster on your side of the field, destroy this face-up card.",
+        "race": "Thunder",
+        "atk": 1900,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 70797118,
             "image_url": "https://images.ygoprodeck.com/images/cards/70797118.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70797118.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70797118.jpg"
+          }
+        ]
+      }
+    ],
+    "super rare": [
+      {
+        "id": 26902560,
+        "name": "Fusion Sage",
+        "desc": "Add 1 \"Polymerization\" from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 26902560,
+            "image_url": "https://images.ygoprodeck.com/images/cards/26902560.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26902560.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26902560.jpg"
+          }
+        ]
+      },
+      {
+        "id": 99518961,
+        "name": "Restructer Revolution",
+        "desc": "Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 99518961,
+            "image_url": "https://images.ygoprodeck.com/images/cards/99518961.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/99518961.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/99518961.jpg"
+          }
+        ]
+      },
+      {
+        "id": 51452091,
+        "name": "Royal Decree",
+        "desc": "Negate all other Trap effects on the field.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 51452091,
+            "image_url": "https://images.ygoprodeck.com/images/cards/51452091.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51452091.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51452091.jpg"
+          }
+        ]
+      },
+      {
+        "id": 89997728,
+        "name": "Toon Table of Contents",
+        "desc": "Add 1 \"Toon\" card from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
+        "card_images": [
+          {
+            "id": 89997728,
+            "image_url": "https://images.ygoprodeck.com/images/cards/89997728.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89997728.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89997728.jpg"
+          }
+        ]
+      }
+    ],
+    "ultra rare": [
+      {
+        "id": 79875176,
+        "name": "Toon Cannon Soldier",
+        "desc": "This card cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon Monsters, this card can attack your opponent directly. You can Tribute 1 monster; inflict 500 damage to your opponent.",
+        "race": "Machine",
+        "atk": 1400,
+        "def": 1300,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Toon Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
+        "card_images": [
+          {
+            "id": 79875176,
+            "image_url": "https://images.ygoprodeck.com/images/cards/79875176.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79875176.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79875176.jpg"
           }
         ]
       }

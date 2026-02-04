@@ -1,11 +1,19 @@
 {
   "setName": "The Lost Art Promotion 2025 A",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 39751094,
         "name": "Otohime",
+        "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 face-up monster your opponent controls; change that target's battle position.",
+        "race": "Spellcaster",
+        "atk": 0,
+        "def": 100,
+        "level": 3,
+        "attribute": "LIGHT",
+        "type": "Spirit Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 39751094,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

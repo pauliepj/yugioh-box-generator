@@ -1,11 +1,19 @@
 {
   "setName": "Dawn of Majesty Premiere! promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 2656842,
         "name": "Beetrooper Scout Buggy",
+        "desc": "You cannot Special Summon monsters, except Insect monsters. If this card is Normal or Special Summoned: You can Special Summon 1 \"Beetrooper Scout Buggy\" from your hand, Deck, or GY. You can only use this effect of \"Beetrooper Scout Buggy\" once per turn.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 300,
+        "level": 3,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 2656842,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

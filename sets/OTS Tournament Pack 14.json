@@ -1,12 +1,19 @@
 {
   "setName": "OTS Tournament Pack 14",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 43262273,
         "name": "Appointer of the Red Lotus",
+        "desc": "Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until your opponent's next End Phase.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 43262273,
@@ -19,6 +26,15 @@
       {
         "id": 17502671,
         "name": "Infernity General",
+        "desc": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 1500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 17502671,
@@ -31,6 +47,15 @@
       {
         "id": 52404456,
         "name": "Madolche Messengelato",
+        "desc": "When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. When this card is Special Summoned: You can add 1 \"Madolche\" Spell/Trap Card from your Deck to your hand. You must control a face-up Beast-Type \"Madolche\" monster to activate and to resolve this effect.",
+        "race": "Warrior",
+        "atk": 1600,
+        "def": 1000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 52404456,
@@ -43,6 +68,15 @@
       {
         "id": 71278040,
         "name": "Parallel eXceed",
+        "desc": "If this card is Special Summoned by the effect of \"Parallel eXceed\", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of \"Parallel eXceed\" once per turn.\r\n● If you Link Summon: You can Special Summon this card from your hand to your zone that Link Monster points to.\r\n● If this card is Normal or Special Summoned: You can Special Summon 1 \"Parallel eXceed\" from your Deck.",
+        "race": "Cyberse",
+        "atk": 2000,
+        "def": 2000,
+        "level": 8,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 71278040,
@@ -55,6 +89,15 @@
       {
         "id": 73347079,
         "name": "Raidraptor - Force Strix",
+        "desc": "2 Level 4 monsters\r\nThis card gains 500 ATK and DEF for each Winged Beast monster you control (other than this card). Once per turn: You can detach 1 material from this card; add 1 Level 4 DARK Winged Beast monster from your Deck to your hand.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 2000,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "XYZ Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 73347079,
@@ -67,6 +110,15 @@
       {
         "id": 63789924,
         "name": "Smoke Grenade of the Thief",
+        "desc": "When this card is destroyed by a card effect while equipped to a monster: Look at your opponent's hand and discard 1 card from their hand.",
+        "race": "Equip",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 63789924,
@@ -79,6 +131,15 @@
       {
         "id": 59975920,
         "name": "Super Quantum Red Layer",
+        "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn.\n● When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand.\n● If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
+        "race": "Warrior",
+        "atk": 2000,
+        "def": 800,
+        "level": 5,
+        "attribute": "FIRE",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 59975920,
@@ -91,6 +152,15 @@
       {
         "id": 43658697,
         "name": "U.A. Signing Deal",
+        "desc": "Special Summon 1 \"U.A.\" monster from your Deck, but its effects are negated, also it cannot be used as Synchro or Xyz Material for a Summon. Then you lose LP equal to the Level of the monster you Special Summoned by this effect x 300. You can only activate 1 \"U.A. Signing Deal\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 43658697,
@@ -103,6 +173,15 @@
       {
         "id": 25704359,
         "name": "Unpossessed",
+        "desc": "\"Charmer\" monsters you control cannot be destroyed by battle. If a \"Familiar-Possessed\" monster you control attacks an opponent's monster, it gains 800 ATK during damage calculation only. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 Spellcaster-Type monster with 1500 DEF from your Deck, whose Attribute is different from at least 1 of those destroyed monsters' original Attributes on the field, in Attack Position or face-down Defense Position. You can only use this effect of \"Unpossessed\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 25704359,
@@ -113,11 +192,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 74311226,
         "name": "Atlantean Dragoons",
+        "desc": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
+        "race": "Sea Serpent",
+        "atk": 1800,
+        "def": 0,
+        "level": 4,
+        "attribute": "WATER",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 74311226,
@@ -130,6 +217,15 @@
       {
         "id": 50619462,
         "name": "Cattle Call",
+        "desc": "Send 1 face-up monster you control to the Graveyard, whose original Type is Beast, Beast-Warrior, or Winged Beast; Special Summon 1 monster from your Extra Deck with the same original Type, but it cannot attack, its effects are negated, also it is destroyed during the End Phase. You can only activate 1 \"Cattle Call\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 50619462,
@@ -142,6 +238,15 @@
       {
         "id": 48934760,
         "name": "Demise of the Land",
+        "desc": "Activate only when your opponent Special Summons a monster. Select 1 Field Spell Card from your Deck and activate it.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 48934760,
@@ -154,6 +259,15 @@
       {
         "id": 85431040,
         "name": "Evil Thorn",
+        "desc": "You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 \"Evil Thorn\" from your Deck in Attack Position, but their effects cannot be activated.",
+        "race": "Plant",
+        "atk": 100,
+        "def": 300,
+        "level": 1,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 85431040,
@@ -166,6 +280,15 @@
       {
         "id": 53567095,
         "name": "Icarus Attack",
+        "desc": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 53567095,
@@ -178,6 +301,15 @@
       {
         "id": 8559793,
         "name": "Raidraptor - Nest",
+        "desc": "If you control 2 or more \"Raidraptor\" monsters: You can add 1 \"Raidraptor\" monster from your Deck or Graveyard to your hand. You can only use this effect of \"Raidraptor - Nest\" once per turn.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 8559793,
@@ -190,6 +322,15 @@
       {
         "id": 31314549,
         "name": "Raidraptor - Singing Lanius",
+        "desc": "If you control a face-up Xyz Monster, you can Special Summon this card (from your hand). You can only Special Summon \"Raidraptor - Singing Lanius\" once per turn this way.",
+        "race": "Winged Beast",
+        "atk": 100,
+        "def": 100,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 31314549,
@@ -202,6 +343,15 @@
       {
         "id": 7672244,
         "name": "Shien's Spy",
+        "desc": "Select 1 face-up monster you control to activate this card. Give control of the selected monster to your opponent until the End Phase of this turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 7672244,
@@ -214,6 +364,15 @@
       {
         "id": 90432163,
         "name": "The Phantom Knights of Ancient Cloak",
+        "desc": "If this card is in Attack Position: You can target 1 DARK monster on the field; change this card to Defense Position, and if you do, that monster gains 800 ATK/DEF until the end of your opponent's turn. You can banish this card from your GY; add 1 \"The Phantom Knights\" card from your Deck to your hand, except \"The Phantom Knights of Ancient Cloak\". You can only use each effect of \"The Phantom Knights of Ancient Cloak\" once per turn.",
+        "race": "Warrior",
+        "atk": 800,
+        "def": 1000,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 90432163,
@@ -226,6 +385,15 @@
       {
         "id": 98827725,
         "name": "The Phantom Knights of Shade Brigandine",
+        "desc": "Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If you have no Traps in your GY, you can activate this card the turn it was Set. You can only activate 1 \"The Phantom Knights of Shade Brigandine\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 98827725,
@@ -238,6 +406,15 @@
       {
         "id": 3298689,
         "name": "The Phantom Knights' Rank-Up-Magic Launch",
+        "desc": "During the Main Phase: Target 1 DARK Xyz Monster you control with no material; Special Summon from your Extra Deck, 1 DARK Xyz Monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material, and if you do, attach this card to it as additional material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) During your Main Phase: You can banish this card from your GY, then target 1 DARK Xyz Monster you control; attach 1 \"The Phantom Knights\" monster from your hand to that monster as material.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 3298689,
@@ -250,6 +427,15 @@
       {
         "id": 81020646,
         "name": "Void Ogre Dragon",
+        "desc": "1 DARK Tuner + 1 or more non-Tuner monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card while you have no cards in your hand: You can negate the activation and destroy it.",
+        "race": "Dragon",
+        "atk": 3000,
+        "def": 3000,
+        "level": 8,
+        "attribute": "DARK",
+        "type": "Synchro Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 81020646,
@@ -262,12 +448,86 @@
       {
         "id": 5763020,
         "name": "Weeping Idol",
+        "desc": "You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.",
+        "race": "Rock",
+        "atk": 0,
+        "def": 500,
+        "level": 2,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 5763020,
             "image_url": "https://images.ygoprodeck.com/images/cards/5763020.jpg",
             "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5763020.jpg",
             "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5763020.jpg"
+          }
+        ]
+      }
+    ],
+    "ultimate rare": [
+      {
+        "id": 27204311,
+        "name": "Nibiru, the Primal Being",
+        "desc": "During the Main Phase, if your opponent Normal or Special Summoned 5 or more monsters this turn (Quick Effect): You can Tribute as many face-up monsters on the field as possible, and if you do, Special Summon this card from your hand, then Special Summon 1 \"Primal Being Token\" (Rock/LIGHT/Level 11/ATK ?/DEF ?) to your opponent's field. (This Token's ATK/DEF become the combined original ATK/DEF of the Tributed monsters.) You can only use this effect of \"Nibiru, the Primal Being\" once per turn.",
+        "race": "Rock",
+        "atk": 3000,
+        "def": 600,
+        "level": 11,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 27204311,
+            "image_url": "https://images.ygoprodeck.com/images/cards/27204311.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27204311.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27204311.jpg"
+          }
+        ]
+      },
+      {
+        "id": 48130397,
+        "name": "Super Polymerization",
+        "desc": "Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as Fusion Material. Neither player can activate cards or effects in response to this card's activation.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 48130397,
+            "image_url": "https://images.ygoprodeck.com/images/cards/48130397.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48130397.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48130397.jpg"
+          }
+        ]
+      },
+      {
+        "id": 43175858,
+        "name": "Toon Kingdom",
+        "desc": "When this card is activated: Banish 3 cards from the top of your Deck, face-down. This card's name becomes \"Toon World\" while in the Field Zone. Your opponent cannot target Toon monsters you control with card effects. If a Toon monster(s) you control would be destroyed by battle or card effect, you can banish 1 card from the top of your Deck, face-down, for each of those monster(s) instead.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultimate Rare",
+        "rarityCanonical": "ultimate rare",
+        "card_images": [
+          {
+            "id": 43175858,
+            "image_url": "https://images.ygoprodeck.com/images/cards/43175858.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43175858.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43175858.jpg"
           }
         ]
       }

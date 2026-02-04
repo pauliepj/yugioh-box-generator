@@ -1,12 +1,19 @@
 {
   "setName": "Hobby League 1 participation cards A",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 61831093,
         "name": "Greenkappa",
+        "desc": "FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.",
+        "race": "Warrior",
+        "atk": 650,
+        "def": 900,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 61831093,
@@ -17,11 +24,19 @@
         ]
       }
     ],
-    "rare": [],
     "common": [
       {
         "id": 99510761,
         "name": "Lord of the Lamp",
+        "desc": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+        "race": "Fiend",
+        "atk": 1400,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Common",
+        "rarityCanonical": "common",
         "card_images": [
           {
             "id": 99510761,

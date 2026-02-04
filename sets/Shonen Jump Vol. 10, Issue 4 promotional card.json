@@ -1,11 +1,19 @@
 {
   "setName": "Shonen Jump Vol. 10, Issue 4 promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 81330115,
         "name": "Number 30: Acid Golem of Destruction",
+        "desc": "2 Level 3 monsters\nDuring your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.",
+        "race": "Rock",
+        "atk": 3000,
+        "def": 3000,
+        "level": 3,
+        "attribute": "WATER",
+        "type": "XYZ Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 81330115,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

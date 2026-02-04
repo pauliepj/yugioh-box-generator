@@ -1,13 +1,19 @@
 {
   "setName": "Duelist League 13 participation cards",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [],
     "rare": [
       {
         "id": 10667321,
         "name": "Ancient Rules",
+        "desc": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 10667321,
@@ -20,6 +26,15 @@
       {
         "id": 9076207,
         "name": "Armed Ninja",
+        "desc": "FLIP: Target 1 Spell Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Spell Card. Otherwise, return it to its original position.)",
+        "race": "Warrior",
+        "atk": 300,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 9076207,
@@ -32,6 +47,15 @@
       {
         "id": 36042004,
         "name": "Babycerasaurus",
+        "desc": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower Dinosaur-Type monster from your Deck.",
+        "race": "Dinosaur",
+        "atk": 500,
+        "def": 500,
+        "level": 2,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 36042004,
@@ -44,6 +68,15 @@
       {
         "id": 79409334,
         "name": "Black Stego",
+        "desc": "If this Attack Position card is targeted for an attack: Change this card to Defense Position.",
+        "race": "Dinosaur",
+        "atk": 1200,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 79409334,
@@ -56,6 +89,15 @@
       {
         "id": 14618326,
         "name": "Crimson Ninja",
+        "desc": "FLIP: Target 1 Trap Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Trap Card. Otherwise, return it to its original position.)",
+        "race": "Warrior",
+        "atk": 300,
+        "def": 300,
+        "level": 1,
+        "attribute": "EARTH",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 14618326,
@@ -68,6 +110,15 @@
       {
         "id": 90928333,
         "name": "Dark Factory of Mass Production",
+        "desc": "Target 2 Normal Monsters in your GY; add them to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 90928333,
@@ -80,6 +131,15 @@
       {
         "id": 84834865,
         "name": "Flying Kamakiri #1",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Insect",
+        "atk": 1400,
+        "def": 900,
+        "level": 4,
+        "attribute": "WIND",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 84834865,
@@ -92,6 +152,15 @@
       {
         "id": 47325505,
         "name": "Fossil Dig",
+        "desc": "Add 1 Level 6 or lower Dinosaur monster from your Deck to your hand.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 47325505,
@@ -104,6 +173,15 @@
       {
         "id": 44330098,
         "name": "Gorz the Emissary of Darkness",
+        "desc": "When you take damage from a card in your opponent's possession: You can Special Summon this card from your hand. You must control no cards to activate and to resolve this effect. If Summoned this way, activate the appropriate effect, based on the type of damage:\r\n● Battle damage: Special Summon 1 \"Emissary of Darkness Token\" (Fairy-Type/LIGHT/Level 7/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.\r\n● Effect damage: Inflict damage to your opponent equal to the amount of damage you took.",
+        "race": "Fiend",
+        "atk": 2700,
+        "def": 2500,
+        "level": 7,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 44330098,
@@ -116,6 +194,15 @@
       {
         "id": 60229110,
         "name": "Granmarg the Rock Monarch",
+        "desc": "If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.",
+        "race": "Rock",
+        "atk": 2400,
+        "def": 1000,
+        "level": 6,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 60229110,
@@ -128,6 +215,15 @@
       {
         "id": 93107608,
         "name": "Howling Insect",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Insect-Type monster with 1500 or less ATK from your Deck.",
+        "race": "Insect",
+        "atk": 1200,
+        "def": 1300,
+        "level": 3,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 93107608,
@@ -140,6 +236,15 @@
       {
         "id": 23615409,
         "name": "Insect Barrier",
+        "desc": "Insect-Type monsters your opponent controls cannot declare an attack.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 23615409,
@@ -152,6 +257,15 @@
       {
         "id": 59344077,
         "name": "Magic Drain",
+        "desc": "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.",
+        "race": "Counter",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 59344077,
@@ -164,6 +278,15 @@
       {
         "id": 26185991,
         "name": "Pinch Hopper",
+        "desc": "When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.",
+        "race": "Insect",
+        "atk": 1000,
+        "def": 1200,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 26185991,
@@ -176,6 +299,15 @@
       {
         "id": 95956346,
         "name": "Shining Angel",
+        "desc": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
+        "race": "Fairy",
+        "atk": 1400,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 95956346,
@@ -188,6 +320,15 @@
       {
         "id": 41006930,
         "name": "Strike Ninja",
+        "desc": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
+        "race": "Warrior",
+        "atk": 1700,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 41006930,
@@ -200,6 +341,15 @@
       {
         "id": 80604091,
         "name": "Ultimate Offering",
+        "desc": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
+        "race": "Continuous",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Trap Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 80604091,
@@ -218,6 +368,15 @@
       {
         "id": 15894048,
         "name": "Ultimate Tyranno",
+        "desc": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
+        "race": "Dinosaur",
+        "atk": 3000,
+        "def": 2200,
+        "level": 8,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 15894048,
@@ -230,6 +389,15 @@
       {
         "id": 1571945,
         "name": "White Ninja",
+        "desc": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 800,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Flip Effect Monster",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 1571945,
@@ -242,6 +410,15 @@
       {
         "id": 4064256,
         "name": "Zombie World",
+        "desc": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+        "race": "Field",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Rare",
+        "rarityCanonical": "rare",
         "card_images": [
           {
             "id": 4064256,
@@ -251,7 +428,6 @@
           }
         ]
       }
-    ],
-    "common": []
+    ]
   }
 }

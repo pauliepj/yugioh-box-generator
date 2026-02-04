@@ -1,12 +1,19 @@
 {
   "setName": "Dark Neostorm Special Edition",
   "rarities": {
-    "secret": [],
-    "ultra": [],
-    "super": [
+    "super rare": [
       {
         "id": 46924949,
         "name": "Beatraptor",
+        "desc": "Negate the effects of monsters in the Extra Monster Zones while this card is in the Main Monster Zone. When this card is destroyed by battle: You can Special Summon 1 \"Beatraptor\" from your Deck. You can only use this effect of \"Beatraptor\" once per turn.",
+        "race": "Dinosaur",
+        "atk": 1400,
+        "def": 2000,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 46924949,
@@ -19,6 +26,15 @@
       {
         "id": 92345028,
         "name": "Fury of Fire",
+        "desc": "(This card is always treated as a \"Salamangreat\" card.)\r\nSpecial Summon up to 2 \"Salamangreat\" monsters with different names from your hand and/or GY in Defense Position, but their effects are negated, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once. You can only activate 1 \"Fury of Fire\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 92345028,
@@ -31,6 +47,15 @@
       {
         "id": 11827244,
         "name": "Magicalized Fusion",
+        "desc": "Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY. You can only activate 1 \"Magicalized Fusion\" per turn.",
+        "race": "Normal",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 11827244,
@@ -43,6 +68,15 @@
       {
         "id": 68431965,
         "name": "Shooting Riser Dragon",
+        "desc": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can send 1 monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's, but for the rest of this turn, you cannot activate the effects of monsters with the same name the sent monster had in the GY. You can only use this effect of \"Shooting Riser Dragon\" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+        "race": "Dragon",
+        "atk": 2100,
+        "def": 1700,
+        "level": 7,
+        "attribute": "LIGHT",
+        "type": "Synchro Tuner Monster",
+        "rarityActual": "Super Rare",
+        "rarityCanonical": "super rare",
         "card_images": [
           {
             "id": 68431965,
@@ -52,8 +86,6 @@
           }
         ]
       }
-    ],
-    "rare": [],
-    "common": []
+    ]
   }
 }

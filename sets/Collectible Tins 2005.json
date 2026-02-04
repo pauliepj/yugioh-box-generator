@@ -1,10 +1,19 @@
 {
   "setName": "Collectible Tins 2005",
   "rarities": {
-    "secret": [
+    "secret rare": [
       {
         "id": 38033121,
         "name": "Dark Magician Girl",
+        "desc": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
+        "race": "Spellcaster",
+        "atk": 2000,
+        "def": 1700,
+        "level": 6,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 38033121,
@@ -47,6 +56,15 @@
       {
         "id": 63749102,
         "name": "Exarion Universe",
+        "desc": "During your Battle Step, if this card attacks a Defense Position monster: You can make this card lose exactly 400 ATK, and if it does, it will inflict piercing battle damage. These effects last until the end of this turn.",
+        "race": "Beast-Warrior",
+        "atk": 1800,
+        "def": 1900,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 63749102,
@@ -59,6 +77,15 @@
       {
         "id": 36354007,
         "name": "Gilford the Lightning",
+        "desc": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+        "race": "Warrior",
+        "atk": 2800,
+        "def": 1400,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 36354007,
@@ -77,6 +104,15 @@
       {
         "id": 42035044,
         "name": "Panther Warrior",
+        "desc": "This card cannot declare an attack unless you Tribute 1 monster.",
+        "race": "Beast-Warrior",
+        "atk": 2000,
+        "def": 1600,
+        "level": 4,
+        "attribute": "EARTH",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 42035044,
@@ -95,6 +131,15 @@
       {
         "id": 30860696,
         "name": "Rocket Warrior",
+        "desc": "During your Battle Phase, this card cannot be destroyed by battle and you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the end of this turn.",
+        "race": "Warrior",
+        "atk": 1500,
+        "def": 1300,
+        "level": 4,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 30860696,
@@ -107,6 +152,15 @@
       {
         "id": 14898066,
         "name": "Vorse Raider",
+        "desc": "This wicked Beast-Warrior does every horrid thing imaginable, and loves it! His axe bears the marks of his countless victims.",
+        "race": "Beast-Warrior",
+        "atk": 1900,
+        "def": 1200,
+        "level": 4,
+        "attribute": "DARK",
+        "type": "Normal Monster",
+        "rarityActual": "Secret Rare",
+        "rarityCanonical": "secret rare",
         "card_images": [
           {
             "id": 14898066,
@@ -122,10 +176,6 @@
           }
         ]
       }
-    ],
-    "ultra": [],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

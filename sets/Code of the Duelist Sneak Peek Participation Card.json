@@ -1,11 +1,19 @@
 {
   "setName": "Code of the Duelist Sneak Peek Participation Card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 67267333,
         "name": "Vendread Houndhorde",
+        "desc": "If this card is in your GY: You can discard 1 \"Vendread\" card; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Houndhorde\" once per turn.\r\n● Once per turn (Quick Effect): You can target 1 Spell/Trap your opponent controls; banish it.",
+        "race": "Zombie",
+        "atk": 0,
+        "def": 2100,
+        "level": 3,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 67267333,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

@@ -1,11 +1,19 @@
 {
   "setName": "Yu-Gi-Oh! World Championship 2005 prize cards",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 501000002,
         "name": "King of Destruction - Xexex",
+        "desc": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Fiend-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+        "race": "Fiend",
+        "atk": 3000,
+        "def": 2500,
+        "level": 10,
+        "attribute": "DARK",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 501000002,
@@ -18,6 +26,15 @@
       {
         "id": 501000003,
         "name": "Queen of Fate - Eternia",
+        "desc": "This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Fairy-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.",
+        "race": "Fairy",
+        "atk": 2400,
+        "def": 2000,
+        "level": 8,
+        "attribute": "LIGHT",
+        "type": "Effect Monster",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 501000003,
@@ -27,9 +44,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }

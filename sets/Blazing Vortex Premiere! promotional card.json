@@ -1,11 +1,19 @@
 {
   "setName": "Blazing Vortex Premiere! promotional card",
   "rarities": {
-    "secret": [],
-    "ultra": [
+    "ultra rare": [
       {
         "id": 34611551,
         "name": "Armed Dragon Flash",
+        "desc": "Special Summon 1 Level 3 \"Armed Dragon\" monster from your Deck in Defense Position. You can only activate 1 \"Armed Dragon Flash\" per turn.",
+        "race": "Quick-Play",
+        "atk": null,
+        "def": null,
+        "level": null,
+        "attribute": "",
+        "type": "Spell Card",
+        "rarityActual": "Ultra Rare",
+        "rarityCanonical": "ultra rare",
         "card_images": [
           {
             "id": 34611551,
@@ -15,9 +23,6 @@
           }
         ]
       }
-    ],
-    "super": [],
-    "rare": [],
-    "common": []
+    ]
   }
 }
