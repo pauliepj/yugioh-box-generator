@@ -5,7 +5,7 @@ const path = require("path");
 let isCardListVisible = false;
 let selectedSet = null;
 
-// Load sets from JSON (works both in dev and packaged app)
+// Load sets from JSON
 let sets = [];
 try {
   const setsPath = path.join(__dirname, "allSets.json");
@@ -18,10 +18,12 @@ try {
 const container = document.getElementById("sets-container");
 const generateBtn = document.getElementById("generate");
 const changeBtn = document.getElementById("change-set");
+const showFullSetBtn = document.getElementById("show-fullset");
 const status = document.getElementById("status");
 const selectedDisplay = document.getElementById("selected-set");
 const toggleBtn = document.getElementById("toggle-sort");
 const fullSetContainer = document.getElementById("full-set-container");
+const hoverPreview = document.getElementById("hover-preview");
 
 // Sort
 let sortOrder = "asc"; // asc = oldest → newest
@@ -49,59 +51,45 @@ function populateSetButtons() {
   sets.forEach((set) => {
     const btn = document.createElement("button");
     btn.className = "set-button";
-
-    const span = document.createElement("span");
-    span.innerText = set.set_name;
-    btn.appendChild(span);
+    btn.innerText = set.set_name;
 
     btn.onclick = () => {
       selectedSet = set.set_name;
       generateBtn.disabled = false;
 
-      // Clear previous display
-      selectedDisplay.innerHTML = "";
+      // Show main app layout, hide set list
+      document.getElementById("app").style.display = "grid";
+      container.style.display = "none";
 
-      // Selected Label
+      // Clear and render selected set info in left panel
+      selectedDisplay.innerHTML = "";
       const textSpan = document.createElement("span");
       textSpan.innerText = `Selected Set: ${selectedSet}`;
       selectedDisplay.appendChild(textSpan);
 
-      // Set Image
       if (set.set_image) {
         const img = document.createElement("img");
         img.src = set.set_image;
         img.alt = set.set_name;
-        img.style.width = "200px";
-        img.style.height = "200px";
-        img.style.objectFit = "cover";
-        img.style.marginTop = "5px";
         selectedDisplay.appendChild(img);
       }
 
-      // Buttons container
-      const selectedButtonsContainer = document.createElement("div");
-      selectedButtonsContainer.style.display = "flex";
-      selectedButtonsContainer.style.marginTop = "5px";
-      selectedButtonsContainer.style.gap = "10px";
+      // Buttons side by side
+      const buttonRow = document.createElement("div");
+      buttonRow.className = "button-row";
 
-      // Change Set button
       changeBtn.style.display = "inline-block";
-      selectedButtonsContainer.appendChild(changeBtn);
-
-      // Show Full Set button
       showFullSetBtn.style.display = "inline-block";
-      selectedButtonsContainer.appendChild(showFullSetBtn);
 
-      selectedDisplay.appendChild(selectedButtonsContainer);
+      buttonRow.appendChild(changeBtn);
+      buttonRow.appendChild(showFullSetBtn);
 
-      // Hide set list and sort button
-      container.style.display = "none";
-      toggleBtn.style.display = "none";
+      selectedDisplay.appendChild(buttonRow);
 
-      // Remove highlighting on all buttons except this one
-      document
-        .querySelectorAll(".set-button")
-        .forEach((b) => (b.style.background = ""));
+      // Remove highlighting from all buttons except this one
+      document.querySelectorAll(".set-button").forEach((b) => {
+        b.style.background = "";
+      });
       btn.style.background = "#aaf";
     };
 
@@ -125,7 +113,7 @@ changeBtn.onclick = () => {
   toggleBtn.style.display = "inline-block";
 };
 
-// Generate Box button/operations
+// Generate Box
 generateBtn.onclick = async () => {
   if (!selectedSet) return;
 
@@ -146,12 +134,7 @@ generateBtn.onclick = async () => {
   }
 };
 
-// Show/Hide Cardlist
-const showFullSetBtn = document.createElement("button");
-showFullSetBtn.innerText = "Show Card List";
-showFullSetBtn.style.display = "none";
-selectedDisplay.appendChild(showFullSetBtn);
-
+// Show/Hide Card List
 showFullSetBtn.onclick = async () => {
   if (!selectedSet) return;
 
@@ -166,17 +149,16 @@ showFullSetBtn.onclick = async () => {
   // TOGGLE ON
   const setPath = path.join(__dirname, "sets", `${selectedSet}.json`);
   let setData;
-
   try {
     setData = JSON.parse(fs.readFileSync(setPath, "utf8"));
   } catch (err) {
-    console.error("Failed to load set JSON:", err);
+    console.error(err);
     return;
   }
 
   fullSetContainer.innerHTML = "";
 
-  // Define rarity hierarchy (rarest first)
+  // Rarity hierarchy
   const rarityOrder = [
     "starlight rare",
     "ghost rare",
@@ -210,16 +192,16 @@ showFullSetBtn.onclick = async () => {
     cards.forEach((card) => {
       allCards.push({
         name: card.name,
-        rarity: card.rarityActual || rarity, // use actual rarity if present
+        rarity: card.rarityActual || rarity,
       });
     });
   });
 
-  // Sort by rarity using the index in rarityOrder
+  // Sort by rarity
   allCards.sort((a, b) => {
     const aIndex = rarityOrder.indexOf(a.rarity.toLowerCase());
     const bIndex = rarityOrder.indexOf(b.rarity.toLowerCase());
-    return aIndex - bIndex; // smaller index = rarer
+    return aIndex - bIndex;
   });
 
   // Render
@@ -245,6 +227,73 @@ showFullSetBtn.onclick = async () => {
   showFullSetBtn.innerText = "Hide Card List";
   isCardListVisible = true;
 };
+
+// Hover Preview (500 ms delay)
+let hoverTimer = null;
+
+fullSetContainer.addEventListener("mouseover", (e) => {
+  const row = e.target.closest(".card-item");
+  if (!row) return;
+
+  clearTimeout(hoverTimer);
+
+  hoverTimer = setTimeout(() => {
+    const cardName = row.querySelector(".card-name").innerText;
+
+    const setPath = path.join(__dirname, "sets", `${selectedSet}.json`);
+    let setData;
+    try {
+      setData = JSON.parse(fs.readFileSync(setPath, "utf8"));
+    } catch (err) {
+      console.error(err);
+      return;
+    }
+
+    let cardDetails = null;
+    Object.values(setData.rarities).forEach((cards) => {
+      cards.forEach((card) => {
+        if (card.name === cardName) cardDetails = card;
+      });
+    });
+
+    if (!cardDetails) return;
+
+    // Start building hover HTML
+    let hoverHTML = `
+      ${cardDetails.card_images?.[0]?.image_url ? `<img src="${cardDetails.card_images[0].image_url}" style="width:100%; margin-bottom:5px;"/>` : ""}
+      <strong>${cardDetails.name}</strong><br>
+      Type: ${cardDetails.type || "-"}<br>
+    `;
+
+    // Monster card vs Spell/Trap card
+    if (cardDetails.type === "Spell Card" || cardDetails.type === "Trap Card") {
+      hoverHTML += `Spell/Trap type: ${cardDetails.race}<br>`;
+    } else {
+      hoverHTML += `
+        Level: ${cardDetails.level || "-"}<br>
+        Attribute: ${cardDetails.attribute || "-"}<br>
+        Race: ${cardDetails.race || "-"}<br>
+        ATK/DEF: ${cardDetails.atk ?? "-"} / ${cardDetails.def ?? "-"}<br>
+      `;
+    }
+
+    hoverHTML += `<hr>${cardDetails.desc || ""}`;
+
+    hoverPreview.innerHTML = hoverHTML;
+    hoverPreview.style.display = "block";
+  }, 500); // 500 ms delay
+});
+
+// Hide hover preview on mouse out
+fullSetContainer.addEventListener("mouseout", () => {
+  clearTimeout(hoverTimer);
+  hoverPreview.style.display = "none";
+});
+
+fullSetContainer.addEventListener("mouseleave", () => {
+  clearTimeout(hoverTimer);
+  hoverPreview.style.display = "none";
+});
 
 // Initial
 sortSets();
