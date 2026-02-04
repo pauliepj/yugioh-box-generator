@@ -57,6 +57,9 @@ function populateSetButtons() {
       selectedSet = set.set_name;
       generateBtn.disabled = false;
 
+      // Hide sort button
+      toggleBtn.style.display = "none";
+
       // Show main app layout, hide set list
       document.getElementById("app").style.display = "grid";
       container.style.display = "none";
