@@ -4,8 +4,9 @@ const path = require("path");
 
 let isCardListVisible = false;
 let selectedSet = null;
+let allCardsIndex = [];
 
-// Load sets from JSON
+// ---------------- LOAD DATA ----------------
 let sets = [];
 try {
   const setsPath = path.join(__dirname, "allSets.json");
@@ -14,7 +15,16 @@ try {
   console.error("Failed to load allSets.json:", err);
 }
 
-// Elements
+try {
+  const cardIndexPath = path.join(__dirname, "cardIndex.json");
+  allCardsIndex = JSON.parse(fs.readFileSync(cardIndexPath, "utf8"));
+  // Normalize names for search
+  allCardsIndex.forEach((c) => (c.nameLower = c.name.toLowerCase()));
+} catch (err) {
+  console.error("Failed to load cardIndex.json:", err);
+}
+
+// ---------------- ELEMENTS ----------------
 const container = document.getElementById("sets-container");
 const generateBtn = document.getElementById("generate");
 const changeBtn = document.getElementById("change-set");
@@ -23,10 +33,13 @@ const status = document.getElementById("status");
 const selectedDisplay = document.getElementById("selected-set");
 const toggleBtn = document.getElementById("toggle-sort");
 const fullSetContainer = document.getElementById("full-set-container");
+const searchHoverPreview = document.getElementById("search-hover-preview");
 const hoverPreview = document.getElementById("hover-preview");
+const searchInput = document.getElementById("card-search");
+const searchResults = document.getElementById("search-results");
 
-// Sort
-let sortOrder = "asc"; // asc = oldest → newest
+// ---------------- SORT ----------------
+let sortOrder = "asc";
 function sortSets() {
   sets.sort((a, b) => {
     if (!a.tcg_date) return 1;
@@ -44,7 +57,7 @@ toggleBtn.onclick = () => {
   populateSetButtons();
 };
 
-// Populate Sets
+// ---------------- POPULATE SETS ----------------
 function populateSetButtons() {
   container.innerHTML = "";
 
@@ -57,14 +70,10 @@ function populateSetButtons() {
       selectedSet = set.set_name;
       generateBtn.disabled = false;
 
-      // Hide sort button
       toggleBtn.style.display = "none";
-
-      // Show main app layout, hide set list
       document.getElementById("app").style.display = "grid";
       container.style.display = "none";
 
-      // Clear and render selected set info in left panel
       selectedDisplay.innerHTML = "";
       const textSpan = document.createElement("span");
       textSpan.innerText = `Selected Set: ${selectedSet}`;
@@ -77,30 +86,30 @@ function populateSetButtons() {
         selectedDisplay.appendChild(img);
       }
 
-      // Buttons side by side
       const buttonRow = document.createElement("div");
       buttonRow.className = "button-row";
-
       changeBtn.style.display = "inline-block";
       showFullSetBtn.style.display = "inline-block";
-
       buttonRow.appendChild(changeBtn);
       buttonRow.appendChild(showFullSetBtn);
-
       selectedDisplay.appendChild(buttonRow);
 
-      // Remove highlighting from all buttons except this one
-      document.querySelectorAll(".set-button").forEach((b) => {
-        b.style.background = "";
-      });
+      document
+        .querySelectorAll(".set-button")
+        .forEach((b) => (b.style.background = ""));
       btn.style.background = "#aaf";
     };
 
     container.appendChild(btn);
   });
+
+  if (!selectedSet) {
+    container.style.display = "block";
+    toggleBtn.style.display = "inline-block";
+  }
 }
 
-// Change Set
+// ---------------- CHANGE SET ----------------
 changeBtn.onclick = () => {
   selectedSet = null;
   generateBtn.disabled = true;
@@ -116,32 +125,92 @@ changeBtn.onclick = () => {
   toggleBtn.style.display = "inline-block";
 };
 
-// Generate Box
+// ---------------- GENERATE BOX ----------------
 generateBtn.onclick = async () => {
   if (!selectedSet) return;
-
   status.innerText = `Generating box for ${selectedSet}...`;
 
   const result = await ipcRenderer.invoke("generate-box", selectedSet);
-
   if (result.success) {
     status.innerHTML = `Box generated for ${result.boxName}. 
       <br>Saved to: ${result.filePath} 
       <button id="open-folder-btn">Open Folder</button>`;
-
-    document.getElementById("open-folder-btn").onclick = () => {
+    document.getElementById("open-folder-btn").onclick = () =>
       ipcRenderer.invoke("open-folder", path.dirname(result.filePath));
-    };
   } else {
     status.innerText = `Error: ${result.error}`;
   }
 };
 
-// Show/Hide Card List
-showFullSetBtn.onclick = async () => {
-  if (!selectedSet) return;
+// ---------------- HOVER PREVIEW ----------------
+let hoverTimer = null;
 
-  // TOGGLE OFF
+function showSearchHoverPreview(card) {
+  clearTimeout(hoverTimer);
+  hoverTimer = setTimeout(() => {
+    let hoverHTML = `
+      ${card.card_images?.[0]?.image_url ? `<img src="${card.card_images[0].image_url}" style="width:100%; margin-bottom:5px;">` : ""}
+      <strong>${card.name}</strong><br>
+      Sets:<br>${card.sets.map((s) => `- ${s}`).join("<br>")}`;
+    searchHoverPreview.innerHTML = hoverHTML;
+    searchHoverPreview.style.display = "block";
+  }, 300); // shorter delay
+}
+
+function showHoverPreview(card) {
+  clearTimeout(hoverTimer);
+  hoverTimer = setTimeout(() => {
+    let hoverHTML = `
+      ${card.card_images?.[0]?.image_url ? `<img src="${card.card_images[0].image_url}" style="width:100%; margin-bottom:5px;">` : ""}
+      <strong>${card.name}</strong><br>
+      Type: ${card.type || "-"}<br>
+    `;
+    if (card.type === "Spell Card" || card.type === "Trap Card") {
+      hoverHTML += `Spell/Trap type: ${card.race || "-"}<br>`;
+    } else {
+      hoverHTML += `
+        Level: ${card.level || "-"}<br>
+        Attribute: ${card.attribute || "-"}<br>
+        Race: ${card.race || "-"}<br>
+        ATK/DEF: ${card.atk ?? "-"} / ${card.def ?? "-"}<br>
+      `;
+    }
+    hoverHTML += `<hr>${card.desc || ""}`;
+    hoverPreview.innerHTML = hoverHTML;
+    hoverPreview.style.display = "block";
+  }, 300); // shorter delay
+}
+
+function hideHoverPreview() {
+  clearTimeout(hoverTimer);
+  hoverPreview.style.display = "none";
+  searchHoverPreview.style.display = "none";
+}
+
+// ---------------- SEARCH ----------------
+searchInput.addEventListener("input", () => {
+  const query = searchInput.value.toLowerCase().trim();
+  searchResults.innerHTML = "";
+  if (query.length < 2) return;
+
+  const matches = allCardsIndex.filter((card) =>
+    card.nameLower.startsWith(query),
+  );
+
+  matches.forEach((card) => {
+    const row = document.createElement("div");
+    row.className = "search-item";
+    row.innerText = `${card.name}`;
+    searchResults.appendChild(row);
+
+    row.addEventListener("mouseenter", () => showSearchHoverPreview(card));
+    row.addEventListener("mouseleave", hideHoverPreview);
+  });
+});
+
+// ---------------- SHOW/HIDE FULL SET ----------------
+showFullSetBtn.onclick = () => {
+  if (!selectedSet) return;
   if (isCardListVisible) {
     fullSetContainer.style.display = "none";
     showFullSetBtn.innerText = "Show Card List";
@@ -149,7 +218,6 @@ showFullSetBtn.onclick = async () => {
     return;
   }
 
-  // TOGGLE ON
   const setPath = path.join(__dirname, "sets", `${selectedSet}.json`);
   let setData;
   try {
@@ -161,7 +229,6 @@ showFullSetBtn.onclick = async () => {
 
   fullSetContainer.innerHTML = "";
 
-  // Rarity hierarchy
   const rarityOrder = [
     "starlight rare",
     "ghost rare",
@@ -189,41 +256,39 @@ showFullSetBtn.onclick = async () => {
     "common",
   ];
 
-  // Flatten all cards
   const allCards = [];
   Object.entries(setData.rarities).forEach(([rarity, cards]) => {
     cards.forEach((card) => {
-      allCards.push({
-        name: card.name,
-        rarity: card.rarityActual || rarity,
-      });
+      allCards.push({ name: card.name, rarity: card.rarityActual || rarity });
     });
   });
 
-  // Sort by rarity
-  allCards.sort((a, b) => {
-    const aIndex = rarityOrder.indexOf(a.rarity.toLowerCase());
-    const bIndex = rarityOrder.indexOf(b.rarity.toLowerCase());
-    return aIndex - bIndex;
-  });
+  allCards.sort(
+    (a, b) =>
+      rarityOrder.indexOf(a.rarity.toLowerCase()) -
+      rarityOrder.indexOf(b.rarity.toLowerCase()),
+  );
 
-  // Render
   allCards.forEach((card) => {
     const row = document.createElement("div");
     row.className = "card-item";
-
     const nameSpan = document.createElement("span");
     nameSpan.className = "card-name";
     nameSpan.innerText = card.name;
-
     const raritySpan = document.createElement("span");
     raritySpan.className = "card-rarity";
     raritySpan.innerText = card.rarity;
-
     row.appendChild(nameSpan);
     row.appendChild(raritySpan);
 
     fullSetContainer.appendChild(row);
+
+    // Attach hover using preloaded cardIndex
+    const details = allCardsIndex.find((c) => c.name === card.name);
+    if (details) {
+      row.addEventListener("mouseenter", () => showHoverPreview(details));
+      row.addEventListener("mouseleave", hideHoverPreview);
+    }
   });
 
   fullSetContainer.style.display = "block";
@@ -231,73 +296,6 @@ showFullSetBtn.onclick = async () => {
   isCardListVisible = true;
 };
 
-// Hover Preview (500 ms delay)
-let hoverTimer = null;
-
-fullSetContainer.addEventListener("mouseover", (e) => {
-  const row = e.target.closest(".card-item");
-  if (!row) return;
-
-  clearTimeout(hoverTimer);
-
-  hoverTimer = setTimeout(() => {
-    const cardName = row.querySelector(".card-name").innerText;
-
-    const setPath = path.join(__dirname, "sets", `${selectedSet}.json`);
-    let setData;
-    try {
-      setData = JSON.parse(fs.readFileSync(setPath, "utf8"));
-    } catch (err) {
-      console.error(err);
-      return;
-    }
-
-    let cardDetails = null;
-    Object.values(setData.rarities).forEach((cards) => {
-      cards.forEach((card) => {
-        if (card.name === cardName) cardDetails = card;
-      });
-    });
-
-    if (!cardDetails) return;
-
-    // Start building hover HTML
-    let hoverHTML = `
-      ${cardDetails.card_images?.[0]?.image_url ? `<img src="${cardDetails.card_images[0].image_url}" style="width:100%; margin-bottom:5px;"/>` : ""}
-      <strong>${cardDetails.name}</strong><br>
-      Type: ${cardDetails.type || "-"}<br>
-    `;
-
-    // Monster card vs Spell/Trap card
-    if (cardDetails.type === "Spell Card" || cardDetails.type === "Trap Card") {
-      hoverHTML += `Spell/Trap type: ${cardDetails.race}<br>`;
-    } else {
-      hoverHTML += `
-        Level: ${cardDetails.level || "-"}<br>
-        Attribute: ${cardDetails.attribute || "-"}<br>
-        Race: ${cardDetails.race || "-"}<br>
-        ATK/DEF: ${cardDetails.atk ?? "-"} / ${cardDetails.def ?? "-"}<br>
-      `;
-    }
-
-    hoverHTML += `<hr>${cardDetails.desc || ""}`;
-
-    hoverPreview.innerHTML = hoverHTML;
-    hoverPreview.style.display = "block";
-  }, 500); // 500 ms delay
-});
-
-// Hide hover preview on mouse out
-fullSetContainer.addEventListener("mouseout", () => {
-  clearTimeout(hoverTimer);
-  hoverPreview.style.display = "none";
-});
-
-fullSetContainer.addEventListener("mouseleave", () => {
-  clearTimeout(hoverTimer);
-  hoverPreview.style.display = "none";
-});
-
-// Initial
+// ---------------- INITIALIZE ----------------
 sortSets();
 populateSetButtons();
