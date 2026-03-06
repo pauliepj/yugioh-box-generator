@@ -142,21 +142,22 @@ generateBtn.onclick = async () => {
   }
 };
 
-// ---------------- HOVER PREVIEW ----------------
+// ---------------- HOVER PREVIEWS ----------------
 let hoverTimer = null;
 
+// SEARCH HOVER
 function showSearchHoverPreview(card) {
   clearTimeout(hoverTimer);
   hoverTimer = setTimeout(() => {
     let hoverHTML = `
       ${card.card_images?.[0]?.image_url ? `<img src="${card.card_images[0].image_url}" style="width:100%; margin-bottom:5px;">` : ""}
-      <strong>${card.name}</strong><br>
-      Sets:<br>${card.sets.map((s) => `- ${s}`).join("<br>")}`;
+      Included in:<br>${card.sets.map((s) => `- ${s}`).join("<br>")}`;
     searchHoverPreview.innerHTML = hoverHTML;
     searchHoverPreview.style.display = "block";
   }, 300); // shorter delay
 }
 
+//CARD LIST HOVER
 function showHoverPreview(card) {
   clearTimeout(hoverTimer);
   hoverTimer = setTimeout(() => {
